@@ -66,6 +66,19 @@ nav:
       - Nombres & Calculs: 6eme/maths/nombres.md
       - Espace & Géométrie: 6eme/maths/geometrie.md
       - Grandeurs & Mesures: 6eme/maths/mesures.md
+      - 🎓 Formation complète:
+        - Index: 6eme/maths/formation/index.md
+        - Module 0 - Test initial: 6eme/maths/formation/module-00-depart.md
+        - Module 1 - Entiers: 6eme/maths/formation/module-01-entiers.md
+        - Module 2 - Opérations: 6eme/maths/formation/module-02-operations.md
+        - Module 3 - Décimaux: 6eme/maths/formation/module-03-decimaux.md
+        - Module 4 - Fractions: 6eme/maths/formation/module-04-fractions.md
+        - Module 5 - Proportionnalité: 6eme/maths/formation/module-05-proportionnalite.md
+        - Module 6 - Géométrie: 6eme/maths/formation/module-06-geometrie.md
+        - Module 7 - Périmètres & Aires: 6eme/maths/formation/module-07-perimetres-aires.md
+        - Module 8 - Symétrie: 6eme/maths/formation/module-08-symetrie.md
+        - Module 9 - Grandeurs: 6eme/maths/formation/module-09-grandeurs.md
+        - Module 10 - Problèmes: 6eme/maths/formation/module-10-problemes.md
     - 📚 Français:
       - Grammaire: 6eme/francais/grammaire.md
       - Orthographe: 6eme/francais/orthographe.md
