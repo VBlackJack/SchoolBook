@@ -411,6 +411,60 @@
         └── Projets
     ```
 
+!!! example "🎮 Comment les pros organisent leurs fichiers gaming ?"
+    Imagine que tu fais des vidéos YouTube de tes parties de jeux :
+
+    ```
+    📁 Gaming
+    ├── 📁 Captures (tes screenshots)
+    │   ├── 📁 Minecraft
+    │   │   ├── 🖼️ ma-base-2024-01.png
+    │   │   └── 🖼️ dragon-battu.png
+    │   └── 📁 Fortnite
+    │       └── 🖼️ victoire-royale.png
+    │
+    ├── 📁 Videos (tes enregistrements)
+    │   ├── 📁 Brut (vidéos non montées)
+    │   │   └── 🎬 partie-2024-01-15.mp4
+    │   └── 📁 Montées (vidéos finies)
+    │       └── 🎬 tuto-minecraft-ep1.mp4
+    │
+    └── 📁 Sauvegardes
+        ├── 📁 Minecraft-worlds
+        └── 📁 Fortnite-replays
+    ```
+
+    **Pourquoi c'est important ?**
+
+    - Tu retrouves tes fichiers en 2 secondes
+    - Tu ne mélanges pas les vidéos brutes et montées
+    - Tes sauvegardes de jeux sont au même endroit !
+
+!!! example "😅 Situation : retrouver son exposé la veille du rendu"
+    **Mauvaise organisation :**
+    ```
+    📁 Téléchargements
+    ├── expose.docx
+    ├── expose(1).docx
+    ├── expose-final.docx
+    ├── expose-final-vraiment-final.docx  ← Lequel est le bon ?!
+    └── nouveau-dossier
+        └── truc.docx
+    ```
+
+    Tu passes 10 minutes à chercher le bon fichier... et tu te trompes ! 😱
+
+    **Bonne organisation :**
+    ```
+    📁 Documents
+    └── 📁 Collège
+        └── 📁 Français
+            └── 📁 Exposés
+                └── 2024-01-Moliere-expose.docx  ← 1 seul fichier, bien nommé !
+    ```
+
+    Tu retrouves ton exposé en 5 secondes !
+
 ### La recherche de fichiers
 
 !!! tip "Retrouver un fichier perdu"

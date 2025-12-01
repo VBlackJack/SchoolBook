@@ -191,6 +191,34 @@ graph TD
     - **Watercooling** : Refroidissement par eau (plus efficace)
     - **Pâte thermique** : Aide à transférer la chaleur
 
+!!! example "🎮 Pourquoi ton PC ou ta PS5 fait du bruit quand tu joues ?"
+    Tu as peut-être remarqué que quand tu joues à un jeu vidéo gourmand (comme Fortnite ou GTA), ton ordinateur ou ta console fait plus de bruit...
+
+    **C'est normal !** Voici ce qui se passe :
+
+    1. Le jeu demande beaucoup de calculs → le processeur travaille à fond
+    2. Le processeur qui travaille → il chauffe (comme toi quand tu cours !)
+    3. Le processeur chauffe → les ventilateurs tournent plus vite pour le refroidir
+    4. Les ventilateurs tournent vite → ça fait du bruit !
+
+    **C'est pour ça que :**
+
+    - Ta PS5 souffle fort pendant les jeux
+    - Ton PC portable chauffe sur tes genoux
+    - Les streamers ont des PC avec plein de ventilateurs LED !
+
+!!! example "💡 L'alimentation, c'est comme une multiprise intelligente !"
+    Chez toi, la prise murale fournit du 220V. Mais ton téléphone, lui, a besoin de seulement 5V pour charger.
+
+    **C'est pareil pour l'ordinateur :**
+
+    - La prise murale : **220V** (trop puissant !)
+    - Le processeur a besoin de : **12V**
+    - La RAM a besoin de : **3.3V**
+    - Les ventilateurs : **5V ou 12V**
+
+    L'alimentation transforme le courant pour que chaque composant reçoive exactement ce qu'il lui faut. Sans elle, tout grillerait comme un toast resté trop longtemps dans le grille-pain ! 🍞💥
+
 ---
 
 ## Exercices guidés - Leçon 3
@@ -252,6 +280,21 @@ graph TD
     | **Microphone** | Capter le son |
     | **Webcam** | Capter la vidéo |
     | **Manette de jeu** | Jouer aux jeux vidéo |
+
+!!! example "🎮 Quand tu joues à Fortnite avec une manette..."
+    Imagine : tu appuies sur le bouton pour sauter dans Fortnite.
+
+    **Voici le voyage de ton appui de bouton :**
+
+    1. **Ton doigt** appuie sur le bouton de saut 🕹️
+    2. **La manette** détecte l'appui et envoie un signal électrique
+    3. **Le câble USB** (ou le Bluetooth) transporte ce signal vers le PC/console
+    4. **Le processeur** reçoit le signal et calcule : "OK, le joueur veut sauter"
+    5. **Le jeu** fait sauter ton personnage
+    6. **L'écran** affiche le saut (sortie !)
+    7. **Les haut-parleurs** jouent le son du saut (sortie aussi !)
+
+    Tout ça en moins de **0,01 seconde** ! C'est pour ça que tu as l'impression que c'est instantané.
 
 ### Périphériques de sortie
 

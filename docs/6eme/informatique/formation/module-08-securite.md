@@ -245,6 +245,26 @@
     - Remplacer a par @, e par 3, etc.
     - Garder la ponctuation
 
+!!! example "🎮 Crée un mot de passe style gamer !"
+    **Méthode fun :** utilise une phrase liée à ton jeu préféré !
+
+    **Exemple avec Minecraft :**
+    > "Je construis ma base en diamant depuis 2022"
+
+    1. Premières lettres : JcmbeDd2022
+    2. Ajoute des symboles : Jcmb3Dd2022!
+    3. Majuscules stratégiques : JcmB3Dd2022!@
+
+    **Résultat : `JcmB3Dd2022!@`** (14 caractères, ultra-sécurisé !)
+
+    **Autres exemples :**
+    - "J'ai battu le dragon 5 fois" → `J@bLd5f!`
+    - "Mon skin préféré coûte 800 vbucks" → `Msp€800vb!`
+
+    **Temps pour un hacker :**
+    - `minecraft` → 0,001 seconde 😱
+    - `JcmB3Dd2022!@` → 3 millions d'années 😎
+
 ### Un mot de passe différent par compte
 
 !!! danger "Règle essentielle"
@@ -371,6 +391,42 @@
     3. **Signaler** sur la plateforme concernée
     4. **Garder** des preuves (captures d'écran)
     5. Si grave : **déposer plainte**
+
+!!! example "🎮 Histoire vraie : le compte Fortnite piraté"
+    **Ce qui est arrivé à Lucas (12 ans) :**
+
+    1. Lucas utilise le mot de passe `lucas2011` sur tous ses comptes
+    2. Un site de "V-Bucks gratuits" lui demande son login Epic Games
+    3. Il entre ses identifiants (ERREUR !)
+    4. Le lendemain : son compte Fortnite est volé !
+    5. Le pirate a changé le mot de passe et l'email
+    6. Tous ses skins (50€ de valeur) sont perdus...
+
+    **Ce qu'il aurait dû faire :**
+
+    - ❌ Ne JAMAIS entrer son mot de passe sur un site "V-Bucks gratuits" (ça n'existe pas !)
+    - ❌ Ne pas utiliser le même mot de passe partout
+    - ✅ Activer l'authentification à 2 facteurs (2FA) sur Epic Games
+    - ✅ Utiliser un mot de passe unique et complexe
+
+    **La bonne nouvelle :** Epic Games a un support pour récupérer les comptes volés. Mais c'est long et compliqué !
+
+!!! example "📱 Arnaque aux faux concours Instagram"
+    Tu vois ce message sur Instagram :
+
+    > "🎉 FÉLICITATIONS ! Vous avez gagné un iPhone 15 ! 🎉
+    > Cliquez ici pour réclamer votre prix : bit.ly/iphone-gratuit-2024"
+
+    **C'est une ARNAQUE à 100% !**
+
+    **Comment ça marche :**
+    1. Tu cliques sur le lien
+    2. On te demande ton email, téléphone, adresse...
+    3. On te demande "1€ pour les frais de livraison"
+    4. Tu donnes ta carte bancaire...
+    5. Tu ne reçois jamais l'iPhone, et on te prélève de l'argent !
+
+    **Règle d'or :** Si c'est trop beau pour être vrai, c'est une arnaque !
 
 ---
 

@@ -59,6 +59,24 @@
 
     Un processeur à **3.5 GHz** effectue **3,5 milliards d'opérations par seconde** !
 
+!!! example "🎮 3,5 milliards par seconde, ça veut dire quoi concrètement ?"
+    Imagine que tu joues à FIFA et que tu fais une passe :
+
+    En **1 seule seconde**, ton processeur fait :
+
+    - Calcule où est le ballon → **10 millions d'opérations**
+    - Calcule où sont les 22 joueurs → **50 millions d'opérations**
+    - Calcule la trajectoire de la passe → **100 millions d'opérations**
+    - Vérifie s'il y a hors-jeu → **20 millions d'opérations**
+    - Gère les animations des joueurs → **200 millions d'opérations**
+    - Affiche tout ça 60 fois par seconde → **500 millions d'opérations**
+    - Joue les sons (foule, commentaires) → **50 millions d'opérations**
+    - Et plein d'autres trucs...
+
+    **TOTAL : plusieurs milliards de calculs... juste pour UNE passe !**
+
+    Et tout ça pendant que tu ne remarques rien, c'est instantané !
+
 ### Les cœurs du processeur
 
 !!! info "C'est quoi un cœur ?"
@@ -230,6 +248,45 @@
     | Gaming | 16-32 Go |
     | Professionnel (vidéo, 3D) | 32-64 Go |
 
+!!! example "📱 Pourquoi ton téléphone rame quand tu ouvres trop d'applis ?"
+    Tu as déjà remarqué que ton téléphone devient lent quand tu as plein d'applications ouvertes ?
+
+    **Voici ce qui se passe dans la RAM :**
+
+    ```
+    📱 Ton téléphone a 4 Go de RAM (ton "bureau de travail")
+
+    Tu ouvres YouTube      → 500 Mo occupés   [████░░░░░░░░░░░░]
+    + Tu ouvres Instagram  → 800 Mo de plus   [███████░░░░░░░░░]
+    + Tu ouvres Snapchat   → 600 Mo de plus   [██████████░░░░░░]
+    + Tu ouvres un jeu     → 1,5 Go de plus   [█████████████████] PLEIN !
+
+    Quand la RAM est pleine :
+    - Le téléphone doit "vider" une appli pour faire de la place
+    - Ça prend du temps → ton téléphone RAME
+    - Tu retournes sur Instagram → il doit tout recharger !
+    ```
+
+    **C'est pour ça que les téléphones avec plus de RAM (8 Go) sont plus fluides !**
+
+!!! example "🎮 Pourquoi les jeux modernes demandent 16 Go de RAM ?"
+    Un jeu comme GTA V ou Fortnite charge énormément de choses dans la RAM :
+
+    | Élément | Taille en RAM |
+    |---------|---------------|
+    | La carte du monde | ~2 Go |
+    | Les textures (images des bâtiments, sol...) | ~3 Go |
+    | Les personnages et véhicules | ~1 Go |
+    | Les sons et musiques | ~500 Mo |
+    | Le moteur du jeu | ~1 Go |
+    | Windows qui tourne en fond | ~4 Go |
+
+    **TOTAL : ~12 Go minimum !**
+
+    Avec 8 Go de RAM, le jeu doit constamment charger/décharger des éléments → ça rame et ça "freeze" !
+
+    Avec 16 Go, tout tient sur le "bureau" → c'est fluide ! 🚀
+
 ### Caractéristiques de la RAM
 
 !!! info "Ce qu'il faut regarder"
@@ -317,6 +374,30 @@
     - SSD lent + processeur rapide = temps de chargement
 
     C'est pour ça qu'il faut des composants **équilibrés** !
+
+!!! example "🚰 Le goulot d'étranglement, c'est comme une bouteille d'eau !"
+    Imagine que tu veux vider une bouteille d'eau le plus vite possible :
+
+    ```
+    La bouteille (1,5L)    Le goulot (petit trou)    L'eau qui sort
+         ┌───┐                    │                      💧
+         │   │                    ▼                      💧
+         │💧💧│               ┌───────┐                  💧
+         │💧💧│   ──────▶     │   ○   │   ──────▶       💧
+         │💧💧│               └───────┘                  💧
+         └───┘                                          💧
+
+    Même si la bouteille est ÉNORME, l'eau sort lentement
+    à cause du petit goulot !
+    ```
+
+    **Dans ton PC, c'est pareil :**
+
+    - Tu as un super processeur (la grosse bouteille)
+    - Mais seulement 4 Go de RAM (le petit goulot)
+    - → Tout est ralenti par la RAM !
+
+    C'est pour ça que les pros disent : "Il faut des composants équilibrés !"
 
 ### Surveiller l'utilisation
 

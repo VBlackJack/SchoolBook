@@ -144,6 +144,28 @@
     | **Plateformes de jeux** | Steam, Epic Games, Xbox Game Pass |
     | **Jeux populaires** | Minecraft, Fortnite, Roblox |
 
+!!! example "🎮 Les logiciels qu'utilisent les YouTubers gaming"
+    Tu te demandes comment les YouTubers font leurs vidéos de jeux ? Voici leurs outils :
+
+    **Pour enregistrer l'écran :**
+    - **OBS Studio** (gratuit !) - Le plus utilisé par les pros
+    - **Nvidia ShadowPlay** - Si tu as une carte graphique Nvidia
+
+    **Pour monter les vidéos :**
+    - **DaVinci Resolve** (gratuit !) - Niveau professionnel
+    - **CapCut** (gratuit) - Simple et efficace
+    - **Premiere Pro** (payant) - Le standard de l'industrie
+
+    **Pour le son :**
+    - **Audacity** (gratuit) - Enregistrer et éditer ta voix
+
+    **Pour les miniatures :**
+    - **GIMP** (gratuit) - Alternative gratuite à Photoshop
+    - **Canva** (gratuit) - Très facile à utiliser
+
+    **Le kit du débutant YouTuber (100% gratuit) :**
+    OBS + DaVinci Resolve + Audacity + GIMP = Tu peux faire des vidéos comme les pros !
+
 ---
 
 ## Exercices guidés - Leçon 2

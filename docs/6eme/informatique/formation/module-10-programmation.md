@@ -489,6 +489,46 @@
     | **Codecademy** | Cours interactifs |
     | **Replit** | Coder en ligne (Python) |
 
+!!! example "🎮 Des jeux pour apprendre à coder !"
+    Tu peux apprendre à programmer en jouant ! Voici des jeux géniaux :
+
+    **Sur navigateur (gratuits) :**
+    - **Scratch** : Crée tes propres jeux avec des blocs !
+    - **Code.org** : Apprends avec Minecraft, Star Wars, La Reine des Neiges
+    - **CodeCombat** : Un RPG où tu codes pour combattre
+
+    **Sur PC/Console :**
+    - **Minecraft Education** : Apprends à coder avec des commandes Minecraft
+    - **Human Resource Machine** : Puzzles de programmation fun
+    - **Roblox Studio** : Crée tes propres jeux Roblox en codant !
+
+    **Exemple concret avec Scratch :**
+    En 30 minutes, tu peux créer :
+    - Un jeu où un chat attrape des souris
+    - Un quiz sur les animaux
+    - Une animation avec des personnages qui parlent
+    - Un petit Piano jouable au clavier !
+
+    **Des enfants de ton âge ont créé des jeux joués par des millions de personnes sur Scratch !**
+
+!!! example "🚀 À 12 ans, tu peux déjà créer des choses incroyables !"
+    **Histoires vraies de jeunes programmeurs :**
+
+    - **À 10 ans** : Des enfants créent des jeux sur Scratch avec des milliers de vues
+    - **À 12 ans** : Certains commencent Python et créent des petits programmes utiles
+    - **À 14 ans** : Des ados créent leurs premiers mods pour Minecraft
+    - **À 16 ans** : Des jeunes créent des apps téléchargées des milliers de fois
+
+    **Ce que TU peux faire en commençant maintenant :**
+
+    1. **Semaine 1-2** : Apprends Scratch, crée ton premier jeu
+    2. **Mois 1** : Crée un jeu complet (plateforme, quiz, etc.)
+    3. **Mois 3** : Commence Python avec des exercices simples
+    4. **Mois 6** : Crée un petit programme utile (calculatrice, to-do list)
+    5. **Année 1** : Tu peux créer des mods Minecraft ou des bots Discord !
+
+    **Le plus dur, c'est de commencer. Après, tu ne pourras plus t'arrêter !** 💪
+
 ---
 
 ## Entraînement

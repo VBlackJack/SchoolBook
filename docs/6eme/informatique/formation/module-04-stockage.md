@@ -101,6 +101,27 @@
     - **2 To** : Bonne capacité
     - **4 To et +** : Stockage massif
 
+!!! example "🎮 Pourquoi les jeux mettent longtemps à charger sur PS4 ?"
+    Tu as déjà remarqué que sur une PS4 classique, les jeux mettent parfois 1-2 minutes à charger ?
+
+    **Voici pourquoi :**
+
+    La PS4 classique a un **disque dur HDD**. Quand tu lances GTA V :
+
+    1. Le jeu doit charger la carte de Los Santos (~5 Go de données)
+    2. Le HDD lit les données à ~100 Mo/seconde
+    3. 5 000 Mo ÷ 100 Mo/s = **50 secondes** minimum !
+    4. Plus les textures, les sons, les personnages...
+    5. → **1 à 2 minutes de chargement** 😴
+
+    **Sur PS5 avec SSD NVMe :**
+
+    1. Le SSD lit à ~5 000 Mo/seconde (50x plus rapide !)
+    2. 5 000 Mo ÷ 5 000 Mo/s = **1 seconde** !
+    3. → **Les jeux chargent presque instantanément** 🚀
+
+    C'est pour ça que la PS5 et les PC gaming modernes utilisent des SSD !
+
 ---
 
 ## Exercices guidés - Leçon 2
@@ -239,6 +260,22 @@
     - iCloud (Apple)
     - Dropbox
 
+!!! example "☁️ Le Cloud, c'est comme un casier au collège... mais sur Internet !"
+    Imagine que tu as un casier au collège où tu ranges tes affaires :
+
+    **TON CASIER AU COLLÈGE :**
+    - Tu peux y accéder depuis n'importe quelle salle du collège
+    - Tes affaires sont en sécurité même si tu perds ton sac
+    - Tu peux y mettre des choses et les reprendre plus tard
+
+    **LE CLOUD, C'EST PAREIL :**
+    - Tu peux accéder à tes fichiers depuis n'importe quel appareil (PC, téléphone, tablette)
+    - Tes fichiers sont en sécurité même si ton ordinateur tombe en panne
+    - Tu téléverses des fichiers et tu les récupères quand tu veux
+
+    **Exemple concret :**
+    Tu fais un exposé chez toi sur Google Drive. Le lendemain au collège, tu ouvres Google Drive sur l'ordinateur de la salle informatique → ton exposé est là ! Pas besoin de clé USB !
+
 !!! info "Avantages et inconvénients du Cloud"
     | Avantages | Inconvénients |
     |-----------|---------------|
@@ -359,6 +396,23 @@
     1. Sur ton **ordinateur** (copie 1)
     2. Sur un **disque dur externe** (copie 2)
     3. Sur **Google Photos** (copie 3, hors site)
+
+!!! example "😱 Histoire vraie : quand on ne fait pas de sauvegarde..."
+    **Situation catastrophe (qui arrive vraiment !) :**
+
+    Tom a passé 2 mois à construire un monde Minecraft incroyable. Il a construit un château, une ville, des fermes automatiques...
+
+    Un jour, son disque dur tombe en panne 💥
+
+    **Résultat :** Tout est perdu. 2 mois de travail = disparus pour toujours.
+
+    **Comment Tom aurait pu éviter ça :**
+
+    - Copier sa sauvegarde sur une clé USB de temps en temps
+    - Utiliser un cloud (OneDrive synchronise automatiquement les sauvegardes Minecraft !)
+    - Faire un backup sur un disque dur externe
+
+    **Morale :** Ce serait vraiment dommage de perdre tes parties sauvegardées, tes photos, tes devoirs importants... Pense à faire des copies !
 
 ### Les risques de perte
 

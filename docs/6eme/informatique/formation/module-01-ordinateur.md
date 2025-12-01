@@ -64,6 +64,31 @@ graph LR
     3. **Sortie** : Les lettres s'affichent à l'écran
     4. **Stockage** : Tu enregistres ton fichier
 
+!!! example "🎮 Imagine que tu joues à Minecraft..."
+    **Situation** : Tu construis une maison en bois dans Minecraft.
+
+    1. **ENTRÉE** : Tu appuies sur la touche pour placer un bloc
+       - *Ta main appuie sur le clavier* → le signal part vers l'ordinateur
+
+    2. **TRAITEMENT** : L'ordinateur calcule
+       - "Où est le joueur ? Quel bloc a-t-il ? Où veut-il le poser ?"
+       - Il vérifie les règles du jeu (peut-on poser ici ?)
+       - Il calcule comment afficher le nouveau bloc en 3D
+
+    3. **SORTIE** : Le bloc apparaît à l'écran !
+       - Tu vois le bloc de bois se placer
+       - Tu entends le son "toc" dans les haut-parleurs
+
+    4. **STOCKAGE** : Quand tu sauvegardes ta partie
+       - Ta construction est enregistrée sur le disque dur
+       - Tu pourras la retrouver demain !
+
+!!! example "📱 Quand tu envoies un message à un ami..."
+    1. **ENTRÉE** : Tu tapes ton message sur le clavier du téléphone
+    2. **TRAITEMENT** : Le téléphone transforme tes lettres en données, corrige l'orthographe, ajoute les emojis
+    3. **SORTIE** : Le message s'affiche dans la conversation et part sur Internet
+    4. **STOCKAGE** : Le message est sauvegardé dans l'historique de la conversation
+
 ### Ce qui fait un ordinateur
 
 !!! info "Les 4 caractéristiques essentielles"
@@ -217,6 +242,27 @@ graph LR
     - La **voiture** de tes parents
     - Les **feux de circulation**
     - Les **distributeurs automatiques**
+
+!!! example "🚗 La voiture de tes parents est un ordinateur sur roues !"
+    Quand tes parents conduisent :
+
+    - **Entrée** : Le volant, les pédales, les capteurs de vitesse
+    - **Traitement** : L'ordinateur de bord calcule la vitesse, la consommation, détecte les obstacles
+    - **Sortie** : Le tableau de bord affiche les infos, le GPS parle, les freins s'activent
+    - **Stockage** : La voiture mémorise les trajets, les réglages du siège, ta playlist préférée !
+
+    Une voiture moderne a **plus de 100 mini-ordinateurs** à l'intérieur !
+
+!!! example "🎮 Ta Nintendo Switch..."
+    C'est exactement comme un PC portable mais pour les jeux :
+
+    - **Processeur** : Un cerveau qui calcule le jeu (comme ton PC)
+    - **RAM** : 4 Go de mémoire pour faire tourner les jeux
+    - **Stockage** : 32 Go + ta carte SD pour sauvegarder
+    - **Écran** : La sortie pour voir le jeu
+    - **Manettes** : L'entrée pour jouer
+
+    Quand tu joues à Mario Kart, ta Switch fait des **millions de calculs par seconde** pour afficher les personnages, la route, calculer les collisions...
 
 ### Les smartphones : des ordinateurs de poche
 

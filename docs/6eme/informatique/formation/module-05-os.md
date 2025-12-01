@@ -294,6 +294,35 @@ graph TD
     | **Windows + E** | Ouvrir l'explorateur de fichiers |
     | **Windows + L** | Verrouiller l'ordinateur |
 
+!!! example "🎮 Les raccourcis dans la vraie vie (et les jeux !)"
+    Tu utilises déjà des raccourcis sans le savoir ! Dans les jeux :
+
+    **Dans Minecraft :**
+    - **E** = Inventaire (au lieu de cliquer sur un bouton)
+    - **W/A/S/D** = Se déplacer (au lieu d'utiliser les flèches)
+    - **Shift** = S'accroupir
+    - **Espace** = Sauter
+
+    **C'est pareil sur Windows !** Les raccourcis font gagner un temps fou :
+
+    **Situation :** Tu fais un exposé et tu veux copier une phrase d'Internet.
+
+    ❌ **Sans raccourci (lent) :**
+    1. Sélectionner le texte
+    2. Clic droit → Copier
+    3. Aller dans Word
+    4. Clic droit → Coller
+    → **8 secondes**
+
+    ✅ **Avec raccourcis (rapide) :**
+    1. Sélectionner le texte
+    2. Ctrl + C
+    3. Alt + Tab (changer de fenêtre)
+    4. Ctrl + V
+    → **2 secondes !**
+
+    **Apprends les raccourcis = deviens un pro ! 🚀**
+
 ### Le multitâche
 
 !!! info "Plusieurs programmes en même temps"
@@ -374,6 +403,24 @@ graph TD
     - **Redémarre** quand c'est demandé
     - **Sauvegarde** avant une mise à jour majeure
     - **Ne repousse pas** trop longtemps les mises à jour de sécurité
+
+!!! example "🎮 Pourquoi les jeux aussi ont des mises à jour ?"
+    Tu as déjà vu "Mise à jour disponible" sur Fortnite, Minecraft ou FIFA ?
+
+    **C'est exactement comme Windows !** Les développeurs corrigent :
+
+    - 🐛 **Les bugs** : "Mon personnage traverse les murs" → corrigé !
+    - ⚔️ **L'équilibrage** : "Cette arme est trop forte" → ajustée !
+    - 🛡️ **Les failles** : "Des tricheurs exploitent une faille" → corrigé !
+    - 🎁 **Du contenu** : Nouvelles cartes, skins, événements...
+
+    **Exemple concret - Fortnite :**
+    - Fortnite fait une mise à jour **tous les 15 jours** environ
+    - Chaque mise à jour = nouveaux skins, armes, corrections de bugs
+    - Si tu ne mets pas à jour = tu ne peux plus jouer en ligne !
+
+    **C'est pareil pour Windows :**
+    Sans les mises à jour de sécurité, des pirates pourraient accéder à ton PC !
 
 ---
 
