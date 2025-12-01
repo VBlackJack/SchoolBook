@@ -102,6 +102,26 @@
     **Internet** = le réseau physique
     **Web** = les sites web qu'on consulte via Internet
 
+!!! example "Analogie : La route et les voitures 🛣️"
+    ```
+    INTERNET = LES ROUTES                    WEB = LES VOITURES
+    ═══════════════════                      ═══════════════════
+
+    ┌─────────────────────────────────────────────────────────┐
+    │                                                         │
+    │     🏠 ─────────🛣️─────────── 🏢                       │
+    │      │                        │                         │
+    │      │    Les CÂBLES et       │   Les SITES WEB        │
+    │      │    SERVEURS qui        │   qui circulent        │
+    │      │    permettent la       │   sur ces câbles       │
+    │      │    connexion           │                         │
+    │      │         🚗 🚙 🚕       │                         │
+    │                                                         │
+    │   Internet existe sans le Web (emails, jeux...)        │
+    │   Le Web a BESOIN d'Internet pour fonctionner          │
+    └─────────────────────────────────────────────────────────┘
+    ```
+
 ### Les services d'Internet
 
 !!! info "Ce qu'on peut faire sur Internet"
@@ -161,11 +181,29 @@
     Le **nom de domaine** est l'adresse "humaine" d'un site.
     Le **DNS** (Domain Name System) traduit le nom en adresse IP.
 
-!!! example "Comment ça marche"
+!!! example "Comment ça marche : Le DNS, l'annuaire d'Internet 📖"
     1. Tu tapes **google.com** dans ton navigateur
     2. Le DNS cherche l'IP correspondante : **142.250.185.78**
     3. Ton navigateur se connecte à cette IP
     4. Google s'affiche !
+
+    ```
+    TOI                     DNS                      SERVEUR
+    👤                      📖                       🖥️
+
+    "Je veux google.com"
+         ──────────────▶
+                        "google.com = 142.250.185.78"
+         ◀──────────────
+
+    "Connexion à 142.250.185.78"
+         ─────────────────────────────────────────▶
+                                        "Voici la page !"
+         ◀─────────────────────────────────────────
+
+    C'est comme demander à un annuaire le numéro de téléphone
+    de quelqu'un en donnant juste son nom !
+    ```
 
 ### Structure d'un nom de domaine
 

@@ -47,6 +47,32 @@ graph TD
     | **Alimentation** | Fournit l'électricité | Le cœur |
     | **Boîtier** | Protège les composants | Le squelette |
 
+!!! tip "L'ordinateur, c'est comme un corps humain ! 🧑"
+    ```
+    ┌─────────────────────────────────────────────────────────────────┐
+    │                    L'ORDINATEUR = UN CORPS                      │
+    │                                                                 │
+    │      🧠 CERVEAU = Processeur (CPU)                              │
+    │         Réfléchit, calcule, décide                              │
+    │                                                                 │
+    │      🦴 COLONNE VERTÉBRALE = Carte mère                         │
+    │         Relie tous les organes entre eux                        │
+    │                                                                 │
+    │      ❤️ CŒUR = Alimentation                                     │
+    │         Envoie l'énergie partout                                │
+    │                                                                 │
+    │      📝 BUREAU DE TRAVAIL = RAM                                 │
+    │         Ce sur quoi tu travailles maintenant                    │
+    │                                                                 │
+    │      🗄️ ARMOIRE/PLACARD = Disque dur                            │
+    │         Où tu ranges tes affaires pour plus tard                │
+    │                                                                 │
+    │      🎨 ARTISTE/DESSINATEUR = Carte graphique                   │
+    │         Crée les images que tu vois                             │
+    │                                                                 │
+    └─────────────────────────────────────────────────────────────────┘
+    ```
+
 ---
 
 ## Exercices guidés - Leçon 1
@@ -80,6 +106,33 @@ graph TD
     - Distribue l'électricité
 
     C'est la "colonne vertébrale" de l'ordinateur !
+
+!!! example "Schéma simplifié d'une carte mère 🔌"
+    ```
+    ┌──────────────────────────────────────────────────────────────────┐
+    │  CARTE MÈRE                                                      │
+    │  ┌─────────┐                                    ┌──────────────┐ │
+    │  │  SOCKET │ ← Le processeur                   │   PORTS      │ │
+    │  │   CPU   │   se met ici                      │   USB        │ │
+    │  │  🧠     │                                   │   HDMI       │ │
+    │  └─────────┘                                   │   Ethernet   │ │
+    │                                                └──────────────┘ │
+    │  ┌─────┐ ┌─────┐ ┌─────┐ ┌─────┐                               │
+    │  │ RAM │ │ RAM │ │ RAM │ │ RAM │  ← Barrettes de mémoire       │
+    │  └─────┘ └─────┘ └─────┘ └─────┘    (jusqu'à 4 slots)          │
+    │                                                                  │
+    │  ┌────────────────────────────────┐                             │
+    │  │      SLOT PCIe (carte graphique)│ ← La carte graphique      │
+    │  │      🎨                         │   se branche ici           │
+    │  └────────────────────────────────┘                             │
+    │                                                                  │
+    │    ⚡ SATA ⚡ SATA ⚡ SATA  ← Connecteurs pour disques durs/SSD  │
+    │                                                                  │
+    │  ┌──────────────┐                                               │
+    │  │   CHIPSET    │ ← Le "chef d'orchestre" des communications    │
+    │  └──────────────┘                                               │
+    └──────────────────────────────────────────────────────────────────┘
+    ```
 
 ### Les éléments de la carte mère
 
@@ -171,6 +224,23 @@ graph TD
     - **Périphériques de sortie** : reçoivent des données DEPUIS l'ordinateur
     - **Périphériques d'entrée/sortie** : font les deux
 
+!!! example "Visualise les flux de données ! 🔄"
+    ```
+    ENTRÉE (vers l'ordi)           SORTIE (depuis l'ordi)
+    ─────────────────────          ─────────────────────
+          ⌨️ Clavier ──────┐    ┌────── 🖥️ Écran
+          🖱️ Souris ───────┤    │
+          🎤 Micro ────────┼──▶ 💻 ──▶├────── 🔊 Haut-parleurs
+          📷 Webcam ───────┤    │      │
+          🎮 Manette ──────┘    └────── 🖨️ Imprimante
+
+
+    ENTRÉE/SORTIE (les deux sens)
+    ─────────────────────────────
+          💾 Clé USB ◀──────▶ 💻
+          🖥️ Écran tactile ◀──▶ 💻
+    ```
+
 ### Périphériques d'entrée
 
 !!! tip "Exemples"
@@ -215,6 +285,25 @@ graph TD
     | **DisplayPort** | Vidéo haute qualité | Pour les gamers |
     | **Jack 3.5mm** | Audio (casque, micro) | La prise ronde |
     | **Ethernet (RJ45)** | Internet par câble | Le câble réseau |
+
+!!! example "Reconnais les ports ! 🔌"
+    ```
+    À L'ARRIÈRE DE L'ORDINATEUR (ou sur le côté du portable)
+    ═══════════════════════════════════════════════════════
+
+    ┌─────┐  USB-A (classique)     ┌───┐  USB-C (réversible)
+    │     │  Le rectangle qu'on    │   │  Petit, ovale, moderne
+    └─────┘  met toujours à        └───┘  (comme sur les téléphones)
+             l'envers du 1er coup 😅
+
+    ┌─────────┐  HDMI               ┌─────────┐  DisplayPort
+    │  ╲   ╱  │  Trapèze pour       │ ╲     ╱ │  Comme HDMI mais
+    └─────────┘  la vidéo HD        └─────────┘  avec un coin coupé
+
+    ⚪  Jack 3.5mm                  ┌───────┐  Ethernet (RJ45)
+       Rond, pour le casque         │ ║║║║║ │  Gros, pour Internet
+       ou le micro                  └───────┘  par câble
+    ```
 
 ---
 

@@ -33,6 +33,29 @@ graph LR
     B <--> D[STOCKAGE<br>disque dur]
 ```
 
+!!! tip "Imagine une usine ! 🏭"
+    ```
+    ┌─────────────────────────────────────────────────────────────┐
+    │                         USINE                               │
+    │  ┌──────────┐      ┌──────────┐      ┌──────────┐          │
+    │  │ LIVRAISON│ ──▶  │  ATELIER │ ──▶  │ EXPÉDITION│         │
+    │  │ (Entrée) │      │(Travail) │      │ (Sortie)  │         │
+    │  │ 📦       │      │ 🔧       │      │ 🚚        │         │
+    │  └──────────┘      └────┬─────┘      └──────────┘          │
+    │                         │                                   │
+    │                    ┌────▼─────┐                             │
+    │                    │ ENTREPÔT │                             │
+    │                    │(Stockage)│                             │
+    │                    │ 🏪       │                             │
+    │                    └──────────┘                             │
+    └─────────────────────────────────────────────────────────────┘
+    ```
+
+    - **Livraison** = ce qu'on apporte (clavier, souris) → **ENTRÉE**
+    - **Atelier** = où on fabrique/transforme (processeur) → **TRAITEMENT**
+    - **Expédition** = ce qui sort (écran, imprimante) → **SORTIE**
+    - **Entrepôt** = où on garde les choses (disque dur) → **STOCKAGE**
+
 !!! example "Exemple concret"
     Quand tu écris un texte :
 
@@ -104,13 +127,27 @@ graph LR
 
 ### L'ENIAC : le premier ordinateur
 
-!!! example "L'ENIAC (1945)"
+!!! example "L'ENIAC (1945) 🖥️"
     - **Poids** : 30 tonnes
     - **Taille** : 167 m² (comme un appartement !)
     - **Consommation** : 150 000 watts
     - **Puissance** : Moins qu'une calculatrice actuelle !
 
     Aujourd'hui, ton smartphone est **des millions de fois** plus puissant !
+
+!!! tip "Compare la taille ! 📏"
+    ```
+    ENIAC (1945)                          Smartphone (aujourd'hui)
+    ┌────────────────────────────┐        ┌─────┐
+    │                            │        │     │
+    │   167 m² = un appartement  │        │ 📱  │  ← Des millions de fois
+    │   30 tonnes                │   VS   │     │    plus puissant !
+    │   🏠🏠🏠🏠🏠🏠🏠🏠🏠🏠    │        │     │
+    │                            │        └─────┘
+    └────────────────────────────┘         ~150g
+    ```
+
+    C'est comme comparer un **dinosaure** à une **fourmi super-intelligente** ! 🦕 → 🐜
 
 ### La révolution du PC
 
@@ -222,13 +259,29 @@ graph LR
 
 ### Le binaire : 0 et 1
 
-!!! tip "Le secret de l'ordinateur"
+!!! tip "Le secret de l'ordinateur 💡"
     L'ordinateur ne comprend que **deux choses** :
 
-    - **0** = éteint (pas de courant)
-    - **1** = allumé (courant électrique)
+    - **0** = éteint (pas de courant) 💡❌
+    - **1** = allumé (courant électrique) 💡✅
 
     C'est le **langage binaire** !
+
+!!! example "Imagine des interrupteurs ! 🔘"
+    ```
+    L'ordinateur, c'est comme des MILLIARDS d'interrupteurs :
+
+    OFF  ON   OFF  ON   ON   OFF  OFF  ON
+    ┌─┐  ┌─┐  ┌─┐  ┌─┐  ┌─┐  ┌─┐  ┌─┐  ┌─┐
+    │○│  │●│  │○│  │●│  │●│  │○│  │○│  │●│
+    └─┘  └─┘  └─┘  └─┘  └─┘  └─┘  └─┘  └─┘
+     0    1    0    1    1    0    0    1   = la lettre "Y" !
+
+    ○ = éteint (0)
+    ● = allumé (1)
+    ```
+
+    8 interrupteurs = **1 octet** = **1 caractère** (lettre, chiffre...)
 
 ### Comment ça marche ?
 
@@ -268,6 +321,17 @@ graph LR
     | 1 méga-octet (Mo) | 1 000 Ko |
     | 1 giga-octet (Go) | 1 000 Mo |
     | 1 téra-octet (To) | 1 000 Go |
+
+!!! example "Visualise les tailles ! 📦"
+    ```
+    1 Ko (Kilo-octet)     1 Mo (Méga-octet)      1 Go (Giga-octet)      1 To (Téra-octet)
+    = 1 000 octets        = 1 000 Ko             = 1 000 Mo             = 1 000 Go
+
+        📄                    📚                     📚📚📚                 🏛️
+     1 page de             1 livre                1 bibliothèque         Toutes les
+      texte                                        entière !             bibliothèques
+                                                                         de ta ville !
+    ```
 
 ### Exemples concrets de tailles
 

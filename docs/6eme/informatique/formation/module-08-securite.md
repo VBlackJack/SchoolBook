@@ -81,6 +81,30 @@
 
     Exemple : un faux email de ta banque qui te demande ton mot de passe.
 
+!!! example "Le phishing, c'est comme la pêche ! 🎣"
+    ```
+    LE PIRATE (pêcheur)           TOI (le poisson)
+    ═══════════════════           ════════════════
+
+         👤 Pirate
+          │
+          │  "Email urgent de ta banque !"
+          │  🎣─────────────────────────────┐
+          │                                 │
+          │      APPÂT = Faux email         │
+          │      qui a l'air vrai           ▼
+          │
+          │                              🐟 Toi
+          │                              "Oh non, ma banque !"
+          │                              *clique sur le lien*
+          │
+          │◀────────────────────────────────┘
+          │  Le pirate récupère
+          │  ton mot de passe ! 😈
+
+    NE MORDS PAS À L'HAMEÇON ! 🚫🎣
+    ```
+
 ### Comment reconnaître le phishing ?
 
 !!! warning "Les indices"
@@ -161,6 +185,24 @@
 !!! danger "Première ligne de défense"
     Le mot de passe protège tes comptes contre les intrusions.
     Un mauvais mot de passe = porte ouverte aux pirates !
+
+!!! example "Le mot de passe, c'est la clé de ta maison ! 🔑"
+    ```
+    MOT DE PASSE FAIBLE              MOT DE PASSE FORT
+    ("123456")                       ("K9$mP2@xQ#nL4!")
+
+    ┌───────────────┐                ┌───────────────┐
+    │   🏠          │                │   🏠          │
+    │   ┌─────┐     │                │   ┌─────┐     │
+    │   │ 🚪  │     │                │   │ 🚪  │     │
+    │   │     │     │                │   │ 🔒🔒 │     │
+    │   └─────┘     │                │   │ 🔒🔒 │     │
+    │    Pas de     │                │   └─────┘     │
+    │    serrure !  │                │   Coffre-fort!│
+    └───────────────┘                └───────────────┘
+         😈 "Trop facile !"              😈 "Impossible !"
+         Pirate : 2 secondes             Pirate : 1000 ans
+    ```
 
 ### Les erreurs à éviter
 

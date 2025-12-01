@@ -68,13 +68,23 @@
     - **4 cœurs** = 4 tâches en parallèle
     - **8 cœurs** = 8 tâches en parallèle
 
-!!! example "Analogie"
+!!! example "Analogie : La cuisine ! 👨‍🍳"
     Imagine une cuisine :
 
     - **1 cœur** = 1 cuisinier
     - **8 cœurs** = 8 cuisiniers travaillant ensemble
 
     Plus il y a de cuisiniers, plus on peut préparer de plats en même temps !
+
+    ```
+    1 CŒUR (1 cuisinier)              8 CŒURS (8 cuisiniers)
+    ┌─────────────────────┐           ┌─────────────────────┐
+    │  👨‍🍳                  │           │ 👨‍🍳👨‍🍳👨‍🍳👨‍🍳           │
+    │  🍳                  │           │ 👨‍🍳👨‍🍳👨‍🍳👨‍🍳           │
+    │                     │           │ 🍳🍳🍳🍳🍳🍳🍳🍳      │
+    │  1 plat à la fois   │           │ 8 plats en même temps│
+    └─────────────────────┘           └─────────────────────┘
+    ```
 
 ### Les grandes marques
 
@@ -129,6 +139,29 @@
     | **SSD** | ⚡⚡ | To | Oui | €€€ |
     | **HDD** | ⚡ | To | Oui | € |
 
+!!! example "La pyramide des mémoires 🏔️"
+    ```
+    Plus RAPIDE mais PETIT                    Plus LENT mais GRAND
+           ▲                                         ▼
+           │    ┌─────┐                              │
+           │    │Cache│ ← Hyper rapide (dans le CPU) │
+           │    │ 🏃💨 │   Quelques Mo                │
+           │    └──┬──┘                              │
+           │  ┌────┴────┐                            │
+           │  │   RAM   │ ← Rapide                   │
+           │  │   🚗    │   8-32 Go                  │
+           │  └────┬────┘                            │
+           │ ┌─────┴─────┐                           │
+           │ │    SSD    │ ← Assez rapide            │
+           │ │    🚲     │   256 Go - 2 To           │
+           │ └─────┬─────┘                           │
+           │┌──────┴──────┐                          │
+           ││    HDD     │ ← Lent mais énorme        │
+           ││    🐢      │   1-4 To                  │
+           │└────────────┘                           │
+           ▼                                         ▲
+    ```
+
 ### Mémoire volatile vs non-volatile
 
 !!! warning "Important !"
@@ -161,13 +194,31 @@
     2. Le **processeur** travaille avec les données en RAM
     3. C'est beaucoup plus rapide que d'aller chercher sur le disque !
 
-!!! example "Analogie"
+!!! example "Analogie : Ton bureau de travail ! 📚"
     Imagine que tu fais tes devoirs :
 
     - **Disque dur** = ton armoire de rangement (grande, mais loin)
     - **RAM** = ton bureau (plus petit, mais tout est à portée de main)
 
     Tu sors tes cahiers de l'armoire et tu les poses sur le bureau pour travailler !
+
+    ```
+    ┌─────────────────────────────────────────────────────────────────┐
+    │  TA CHAMBRE                                                     │
+    │                                                                 │
+    │   🗄️ ARMOIRE (Disque dur)         📝 BUREAU (RAM)               │
+    │   ┌─────────────┐                 ┌─────────────────┐           │
+    │   │ 📚📚📚📚📚 │                 │  📖 📓 ✏️       │           │
+    │   │ 📚📚📚📚📚 │  ──Sortir──▶   │  Tes devoirs    │           │
+    │   │ 📚📚📚📚📚 │   un livre     │  en cours !     │           │
+    │   │ BEAUCOUP   │                 │  (Plus rapide)  │           │
+    │   │ de livres  │  ◀──Ranger──   │                 │           │
+    │   └─────────────┘                 └─────────────────┘           │
+    │                                                                 │
+    │   💡 Quand tu éteins la lumière, le bureau est "vidé"          │
+    │      (tu ranges tout), mais l'armoire garde tes affaires !     │
+    └─────────────────────────────────────────────────────────────────┘
+    ```
 
 ### Combien de RAM faut-il ?
 
