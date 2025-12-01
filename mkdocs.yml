@@ -108,6 +108,20 @@ nav:
     - 🇬🇧 Anglais:
       - Vocabulaire: 6eme/anglais/vocabulaire.md
       - Grammaire: 6eme/anglais/grammaire.md
+    - 💻 Informatique:
+      - 🎓 Formation complète:
+        - Index: 6eme/informatique/formation/index.md
+        - Module 0 - Test initial: 6eme/informatique/formation/module-00-depart.md
+        - Module 1 - C'est quoi un ordinateur: 6eme/informatique/formation/module-01-ordinateur.md
+        - Module 2 - Hardware: 6eme/informatique/formation/module-02-hardware.md
+        - Module 3 - CPU & Mémoire: 6eme/informatique/formation/module-03-cpu-memoire.md
+        - Module 4 - Stockage: 6eme/informatique/formation/module-04-stockage.md
+        - Module 5 - Système d'exploitation: 6eme/informatique/formation/module-05-os.md
+        - Module 6 - Fichiers & Dossiers: 6eme/informatique/formation/module-06-fichiers.md
+        - Module 7 - Internet & Réseaux: 6eme/informatique/formation/module-07-internet.md
+        - Module 8 - Sécurité: 6eme/informatique/formation/module-08-securite.md
+        - Module 9 - Logiciels: 6eme/informatique/formation/module-09-logiciels.md
+        - Module 10 - Programmation: 6eme/informatique/formation/module-10-programmation.md
   - 🧠 Méthodologie:
     - Organiser son travail: methodologie/organisation.md
     - Apprendre une leçon: methodologie/memorisation.md
