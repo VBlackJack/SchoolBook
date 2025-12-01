@@ -84,6 +84,19 @@ nav:
       - Orthographe: 6eme/francais/orthographe.md
       - Conjugaison: 6eme/francais/conjugaison.md
       - Lecture & Culture: 6eme/francais/litterature.md
+      - 🎓 Formation complète:
+        - Index: 6eme/francais/formation/index.md
+        - Module 0 - Test initial: 6eme/francais/formation/module-00-depart.md
+        - Module 1 - Classes de mots: 6eme/francais/formation/module-01-classes-mots.md
+        - Module 2 - Fonctions: 6eme/francais/formation/module-02-fonctions.md
+        - Module 3 - Conjugaison 1: 6eme/francais/formation/module-03-conjugaison-1.md
+        - Module 4 - Conjugaison 2: 6eme/francais/formation/module-04-conjugaison-2.md
+        - Module 5 - Orthographe gram.: 6eme/francais/formation/module-05-orthographe-gram.md
+        - Module 6 - Orthographe lex.: 6eme/francais/formation/module-06-orthographe-lex.md
+        - Module 7 - Vocabulaire: 6eme/francais/formation/module-07-vocabulaire.md
+        - Module 8 - La phrase: 6eme/francais/formation/module-08-phrase.md
+        - Module 9 - Lecture: 6eme/francais/formation/module-09-lecture.md
+        - Module 10 - Rédaction: 6eme/francais/formation/module-10-redaction.md
     - 🌍 Histoire-Géo:
       - Histoire: 6eme/histoire-geo/histoire.md
       - Géographie: 6eme/histoire-geo/geographie.md
