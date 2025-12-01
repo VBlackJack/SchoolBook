@@ -1,0 +1,91 @@
+site_name: SchoolBook
+site_description: Le compagnon numérique du Collégien - Maths, Français, Histoire-Géo & Sciences
+site_author: SchoolBook Team
+repo_name: SchoolBook
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: fr
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Passer en mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Passer en mode clair
+  font:
+    text: Nunito
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.path
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  icon:
+    logo: material/school
+
+plugins:
+  - search:
+      lang: fr
+  - tags
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+
+nav:
+  - 🏠 Accueil: index.md
+  - 🟢 6ème (Cycle 3):
+    - Vue d'ensemble: 6eme/index.md
+    - 📐 Mathématiques:
+      - Nombres & Calculs: 6eme/maths/nombres.md
+      - Espace & Géométrie: 6eme/maths/geometrie.md
+      - Grandeurs & Mesures: 6eme/maths/mesures.md
+    - 📚 Français:
+      - Grammaire: 6eme/francais/grammaire.md
+      - Orthographe: 6eme/francais/orthographe.md
+      - Conjugaison: 6eme/francais/conjugaison.md
+      - Lecture & Culture: 6eme/francais/litterature.md
+    - 🌍 Histoire-Géo:
+      - Histoire: 6eme/histoire-geo/histoire.md
+      - Géographie: 6eme/histoire-geo/geographie.md
+      - EMC: 6eme/histoire-geo/emc.md
+    - 🔬 Sciences & Techno:
+      - Matière & Mouvement: 6eme/sciences/matiere.md
+      - Le Vivant: 6eme/sciences/vivant.md
+      - Planète Terre: 6eme/sciences/planete.md
+    - 🇬🇧 Anglais:
+      - Vocabulaire: 6eme/anglais/vocabulaire.md
+      - Grammaire: 6eme/anglais/grammaire.md
+  - 🧠 Méthodologie:
+    - Organiser son travail: methodologie/organisation.md
+    - Apprendre une leçon: methodologie/memorisation.md
+    - Faire son cartable: methodologie/cartable.md
+  - 🌟 Bonus:
+    - Culture G: bonus/culture.md
+    - Énigmes: bonus/enigmes.md
