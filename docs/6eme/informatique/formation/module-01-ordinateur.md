@@ -34,7 +34,7 @@ graph LR
 ```
 
 !!! tip "Imagine une usine ! 🏭"
-    ![L'ordinateur comme une usine](../../../assets/images/informatique/usine-ordinateur.svg)
+    ![L'ordinateur comme une usine](../../../../assets/images/informatique/usine-ordinateur.svg){ loading=lazy }
 
     - **Livraison** = ce qu'on apporte (clavier, souris) → **ENTRÉE**
     - **Atelier** = où on fabrique/transforme (processeur) → **TRAITEMENT**
@@ -299,7 +299,7 @@ graph LR
     C'est le **langage binaire** !
 
 !!! example "Imagine des interrupteurs ! 🔘"
-    ![Le binaire : des milliards d'interrupteurs](../../../assets/images/informatique/binaire-interrupteurs.svg)
+    ![Le binaire : des milliards d'interrupteurs](../../../../assets/images/informatique/binaire-interrupteurs.svg){ loading=lazy }
 
     L'ordinateur, c'est comme des MILLIARDS d'interrupteurs ON/OFF !
 
@@ -345,7 +345,7 @@ graph LR
     | 1 téra-octet (To) | 1 000 Go |
 
 !!! example "Visualise les tailles ! 📦"
-    ![Les tailles de données](../../../assets/images/informatique/tailles-donnees.svg)
+    ![Les tailles de données](../../../../assets/images/informatique/tailles-donnees.svg){ loading=lazy }
 
 ### Exemples concrets de tailles
 

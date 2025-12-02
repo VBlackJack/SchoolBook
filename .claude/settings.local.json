@@ -8,7 +8,21 @@
       "Bash(git commit -m \"$(cat <<''EOF''\nfeat(formation): Add complete training programs for Histoire-Géo, Sciences, and Anglais\n\nAdd 3 new complete training programs for 6ème students:\n\n- Histoire-Géographie-EMC (12 modules): Prehistory, Neolithic, Ancient civilizations,\n  Greece, Rome, Urban geography, Population, Citizenship\n- Sciences & Technologie (12 modules): Matter, States of matter, Mixtures, Movement,\n  Living organisms, Cells, Nutrition, Solar system, Natural phenomena, Environment\n- Anglais (12 modules): Introducing yourself, Numbers/Time, Family, Present simple,\n  Present continuous, House/City, Food, Hobbies/Sports, Past simple, English-speaking culture\n\nEach formation includes:\n- Initial placement test (Module 0)\n- 10 progressive thematic modules\n- Interactive exercises and assessments\n- ASCII art illustrations and diagrams\n- Revision sheets\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
       "Bash(git push:*)",
       "Bash(git commit:*)",
-      "WebFetch(domain:vblackjack.github.io)"
+      "WebFetch(domain:vblackjack.github.io)",
+      "Bash(git fetch:*)",
+      "Bash(git merge:*)",
+      "Bash(git branch:*)",
+      "Bash(while read file)",
+      "Bash(do grep -n \"^\\`\\`\\`$\" \"$file\")",
+      "Bash(echo:*)",
+      "Bash(done)",
+      "Bash(grep:*)",
+      "Bash(mkdocs serve:*)",
+      "Bash(pip install:*)",
+      "Bash(git pull:*)",
+      "Bash(git stash:*)",
+      "Bash(dir:*)",
+      "Bash(findstr:*)"
     ],
     "deny": [],
     "ask": []
