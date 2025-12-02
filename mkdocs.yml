@@ -101,13 +101,52 @@ nav:
       - Histoire: 6eme/histoire-geo/histoire.md
       - Géographie: 6eme/histoire-geo/geographie.md
       - EMC: 6eme/histoire-geo/emc.md
+      - 🎓 Formation complète:
+        - Index: 6eme/histoire-geo/formation/index.md
+        - Module 0 - Test initial: 6eme/histoire-geo/formation/module-00-depart.md
+        - Module 1 - Débuts humanité: 6eme/histoire-geo/formation/module-01-humanite.md
+        - Module 2 - Néolithique: 6eme/histoire-geo/formation/module-02-neolithique.md
+        - Module 3 - Premiers États: 6eme/histoire-geo/formation/module-03-premiers-etats.md
+        - Module 4 - Grèce antique: 6eme/histoire-geo/formation/module-04-grece.md
+        - Module 5 - Rome: 6eme/histoire-geo/formation/module-05-rome.md
+        - Module 6 - Métropoles: 6eme/histoire-geo/formation/module-06-metropole.md
+        - Module 7 - Faible densité: 6eme/histoire-geo/formation/module-07-faible-densite.md
+        - Module 8 - Littoraux: 6eme/histoire-geo/formation/module-08-littoraux.md
+        - Module 9 - Monde habité: 6eme/histoire-geo/formation/module-09-monde-habite.md
+        - Module 10 - EMC: 6eme/histoire-geo/formation/module-10-emc.md
     - 🔬 Sciences & Techno:
       - Matière & Mouvement: 6eme/sciences/matiere.md
       - Le Vivant: 6eme/sciences/vivant.md
       - Planète Terre: 6eme/sciences/planete.md
+      - 🎓 Formation complète:
+        - Index: 6eme/sciences/formation/index.md
+        - Module 0 - Test initial: 6eme/sciences/formation/module-00-depart.md
+        - Module 1 - La matière: 6eme/sciences/formation/module-01-matiere.md
+        - Module 2 - États de la matière: 6eme/sciences/formation/module-02-etats.md
+        - Module 3 - Mélanges: 6eme/sciences/formation/module-03-melanges.md
+        - Module 4 - Mouvement: 6eme/sciences/formation/module-04-mouvement.md
+        - Module 5 - Êtres vivants: 6eme/sciences/formation/module-05-vivant.md
+        - Module 6 - La cellule: 6eme/sciences/formation/module-06-cellule.md
+        - Module 7 - Nutrition: 6eme/sciences/formation/module-07-nutrition.md
+        - Module 8 - Système solaire: 6eme/sciences/formation/module-08-systeme-solaire.md
+        - Module 9 - Phénomènes naturels: 6eme/sciences/formation/module-09-phenomenes.md
+        - Module 10 - Environnement: 6eme/sciences/formation/module-10-environnement.md
     - 🇬🇧 Anglais:
       - Vocabulaire: 6eme/anglais/vocabulaire.md
       - Grammaire: 6eme/anglais/grammaire.md
+      - 🎓 Formation complète:
+        - Index: 6eme/anglais/formation/index.md
+        - Module 0 - Test initial: 6eme/anglais/formation/module-00-depart.md
+        - Module 1 - Se présenter: 6eme/anglais/formation/module-01-presentation.md
+        - Module 2 - Nombres et heure: 6eme/anglais/formation/module-02-nombres-heure.md
+        - Module 3 - Famille et amis: 6eme/anglais/formation/module-03-famille.md
+        - Module 4 - Présent simple: 6eme/anglais/formation/module-04-present-simple.md
+        - Module 5 - BE + ING: 6eme/anglais/formation/module-05-be-ing.md
+        - Module 6 - Maison et ville: 6eme/anglais/formation/module-06-maison-ville.md
+        - Module 7 - Nourriture: 6eme/anglais/formation/module-07-nourriture.md
+        - Module 8 - Loisirs et sport: 6eme/anglais/formation/module-08-loisirs-sport.md
+        - Module 9 - Le prétérit: 6eme/anglais/formation/module-09-preterit.md
+        - Module 10 - Culture anglophone: 6eme/anglais/formation/module-10-culture.md
     - 💻 Informatique:
       - 🎓 Formation complète:
         - Index: 6eme/informatique/formation/index.md
