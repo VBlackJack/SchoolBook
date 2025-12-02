@@ -84,17 +84,15 @@
     Un singe doit traverser un pont avec des bananes. Il peut porter maximum 30 bananes. Le pont fait 10 mètres. À chaque mètre parcouru, il mange une banane. Au départ, il a 90 bananes. Combien peut-il en apporter de l'autre côté au maximum ?
 
     ??? success "Réponse"
-        **10 bananes**
+        **25 bananes**
 
-        Il doit faire plusieurs voyages :
+        Il doit faire plusieurs voyages avec des dépôts intermédiaires :
 
-        1. Déposer à 5m : 30 → arrive avec 25 → repart → 90-30=60 restent
-        2. Reprendre 30 → à 5m il en a 25 + 25 = 50 → repart → 60-30=30 restent
-        3. Reprendre 30 → à 5m = 25+50 = 75 → mais il ne peut porter que 30
+        1. Premier voyage : part avec 30, dépose à 5m (25 restent), revient (mange 5) → 60 bananes au départ
+        2. Deuxième voyage : part avec 30, dépose à 5m (25 + 25 = 50 à 5m), revient → 30 bananes au départ
+        3. Troisième voyage : part avec 30, arrive à 5m avec 25 → total 75 à 5m, mais ne peut porter que 30
 
-        Avec 30 bananes à 5m du bout → il parcourt 5m → mange 5 → **25 bananes** de l'autre côté
-
-        (Calcul optimisé possible : 10 bananes)
+        Depuis 5m avec 30 bananes → parcourt 5m → mange 5 → **25 bananes** de l'autre côté !
 
 ---
 
