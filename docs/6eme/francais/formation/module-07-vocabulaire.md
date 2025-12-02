@@ -57,6 +57,46 @@
 
     **Le bon niveau au bon moment = la clé !**
 
+??? warning "⚠️ Pièges à éviter : vocabulaire"
+    **Piège 1 : Confondre préfixe et suffixe**
+
+    - **Préfixe** = AVANT le radical → **im**possible, **re**faire
+    - **Suffixe** = APRÈS le radical → chant**eur**, lent**ement**
+
+    ---
+
+    **Piège 2 : Croire que les synonymes sont interchangeables**
+
+    Les synonymes ont des nuances différentes !
+
+    - "maison" (neutre) ≠ "demeure" (élégant) ≠ "baraque" (familier)
+    - "manger" (neutre) ≠ "dévorer" (avec avidité) ≠ "bouffer" (familier)
+
+    **Choisis le synonyme adapté au contexte !**
+
+    ---
+
+    **Piège 3 : Confondre sens propre et sens figuré**
+
+    - "Il dévore un livre" → sens **figuré** (il lit vite)
+    - "Le lion dévore sa proie" → sens **propre** (il mange)
+
+    **Si la phrase n'a pas de sens logique, c'est du figuré !**
+
+    ---
+
+    **Piège 4 : Utiliser le langage familier à l'écrit**
+
+    | Familier ❌ | Courant ✅ |
+    |-------------|-----------|
+    | bagnole | voiture |
+    | bouffer | manger |
+    | kiffer | aimer |
+    | ouf | incroyable |
+    | grave bien | très bien |
+
+    **Garde le familier pour tes messages entre amis !**
+
 !!! example "Le sens figuré, tu l'utilises tout le temps !"
 
     - « Je **suis mort** de rire ! » (tu n'es pas vraiment mort)
@@ -100,6 +140,33 @@
     - Comprendre des mots nouveaux
     - Trouver l'orthographe (lettres muettes)
     - Enrichir son vocabulaire
+
+??? abstract "🔄 Autre façon de comprendre : les familles de mots"
+    **Les familles de mots, c'est comme une vraie famille !**
+
+    Le **radical**, c'est le "nom de famille" que tous les mots partagent :
+
+    ```
+    Famille "TERRE" :
+       │
+       ├── terre (le parent)
+       ├── terrain (le jardin de la maison)
+       ├── terrasse (le balcon)
+       ├── terrestre (qui vit sur terre)
+       ├── enterrer (mettre sous terre)
+       └── atterrir (se poser sur terre)
+    ```
+
+    ---
+
+    **L'astuce des lettres muettes :**
+
+    Tu ne sais pas si "lait" s'écrit avec un T à la fin ?
+    Cherche un mot de la famille où on entend la lettre :
+
+    - lait → lai**t**ier, lai**t**age → on entend le T !
+    - grand → gran**d**e, gran**d**ir → on entend le D !
+    - petit → peti**t**e → on entend le T !
 
 ---
 
@@ -175,6 +242,44 @@
     - Suffixe en **-ment** → souvent un **adverbe**
     - Suffixe en **-able** / **-eux** → souvent un **adjectif**
 
+??? abstract "🔄 Autre façon de comprendre : préfixes et suffixes"
+    **Les préfixes et suffixes, c'est comme les MODS d'un jeu !**
+
+    Le radical = le personnage de base
+    Les préfixes/suffixes = les modifications qu'on lui ajoute
+
+    ```
+    Personnage de base : FAIRE
+
+    + préfixe RE- = REFAIRE (recommencer)
+    + préfixe DÉ- = DÉFAIRE (annuler)
+    + suffixe -ABLE = FAISABLE (possible à faire)
+    + RE- et -ABLE = REFAISABLE (possible à refaire)
+    ```
+
+    ---
+
+    **Les préfixes de négation ressemblent aux préfixes anglais !**
+
+    | Français | Anglais | Exemple |
+    |----------|---------|---------|
+    | **im-**possible | **im**possible | même mot ! |
+    | **in-**visible | **in**visible | même mot ! |
+    | **dés-**activer | **de**activate | très proche |
+    | **dé-**bloquer | **un**block | même sens |
+
+    ---
+
+    **L'astuce du suffixe qui change la nature :**
+
+    ```
+    Verbe CHANTER
+       │
+       ├── + -EUR  → chantEUR  (nom de personne)
+       ├── + -EUSE → chantEUSE (nom de personne féminin)
+       └── + -ABLE → chantABLE (adjectif)
+    ```
+
 ---
 
 ## Exercices guidés - Leçon 2
@@ -237,6 +342,41 @@
     - heureux → **mal**heureux
     - possible → **im**possible
     - faire → **dé**faire
+
+??? abstract "🔄 Autre façon de comprendre : synonymes et antonymes"
+    **Les synonymes, c'est comme les équivalents dans d'autres langues !**
+
+    Un même concept peut s'exprimer de plusieurs façons :
+    - "maison" = demeure = habitation = logement
+    - Comme : house = home = dwelling (en anglais)
+
+    **Chaque synonyme a une petite nuance :**
+    - **maison** → mot neutre, courant
+    - **demeure** → plus grand, plus élégant
+    - **habitation** → plus administratif
+    - **baraque** → familier, péjoratif
+
+    ---
+
+    **Les antonymes = les OPPOSÉS sur une échelle**
+
+    Imagine une règle graduée :
+
+    ```
+    FROID ←――――――――――――→ CHAUD
+    PETIT ←――――――――――――→ GRAND
+    TRISTE ←―――――――――――→ JOYEUX
+    ```
+
+    L'antonyme est toujours à l'autre bout de l'échelle !
+
+    ---
+
+    **Astuce pour former un antonyme :**
+    Ajoute un préfixe négatif :
+    - content → **mé**content
+    - patient → **im**patient
+    - heureux → **mal**heureux
 
 ---
 
@@ -303,6 +443,34 @@
     - **Avoir la tête dans les nuages** = être distrait
     - **Casser les pieds** = ennuyer
 
+??? abstract "🔄 Autre façon de comprendre : sens propre et figuré"
+    **Le sens propre = la VRAIE action**
+    **Le sens figuré = une IMAGE pour exprimer autre chose**
+
+    Imagine que les mots sont des photos :
+    - **Sens propre** = la photo montre vraiment ce que le mot dit
+    - **Sens figuré** = la photo est utilisée pour représenter autre chose
+
+    ---
+
+    **Exemples visuels :**
+
+    | Mot | Sens PROPRE (photo réelle) | Sens FIGURÉ (image) |
+    |-----|---------------------------|---------------------|
+    | **Dévorer** | Un lion qui mange sa proie | Lire un livre très vite |
+    | **Briller** | Une étoile qui émet de la lumière | Être excellent à l'école |
+    | **Tomber** | Chuter par terre | Tomber amoureux |
+    | **Couler** | Le bateau qui s'enfonce | L'entreprise qui fait faillite |
+
+    ---
+
+    **Les expressions = des sens figurés figés**
+
+    "Avoir le cafard" → tu n'as pas vraiment un insecte !
+    C'est une image ancienne qui est restée dans la langue.
+
+    **L'astuce :** Si la phrase n'a pas de sens logique, c'est du sens figuré !
+
 ---
 
 ## Exercices guidés - Leçon 4
@@ -351,6 +519,36 @@
     - **Familier** : entre amis, dans les dialogues de récits
     - **Courant** : à l'école, dans la vie quotidienne
     - **Soutenu** : dans les rédactions, les lettres officielles
+
+??? abstract "🔄 Autre façon de comprendre : les niveaux de langue"
+    **C'est comme les tenues vestimentaires !**
+
+    | Niveau de langue | Équivalent vestimentaire | Quand ? |
+    |-----------------|-------------------------|---------|
+    | **Familier** | Pyjama, jogging | Entre amis, à la maison |
+    | **Courant** | Jean et t-shirt | Quotidien, école |
+    | **Soutenu** | Costume/Robe élégante | Mariage, entretien d'embauche |
+
+    Tu ne vas pas en pyjama à un mariage !
+    Tu n'écris pas "c'est ouf" dans une lettre au directeur !
+
+    ---
+
+    **Le même message, 3 façons :**
+
+    ```
+    FAMILIER : "J'ai grave kiffé ce film, il était trop ouf !"
+    COURANT  : "J'ai beaucoup aimé ce film, il était très bien."
+    SOUTENU  : "J'ai particulièrement apprécié ce film, il était remarquable."
+    ```
+
+    ---
+
+    **Astuce pour choisir :**
+    - Tu parles à qui ?
+      - À un ami → familier OK
+      - À un adulte → courant minimum
+      - Par écrit officiel → soutenu préférable
 
 ---
 

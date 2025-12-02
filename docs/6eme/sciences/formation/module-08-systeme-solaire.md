@@ -53,6 +53,70 @@
 
     Décalage horaire = la Terre est ronde et tourne !
 
+??? warning "⚠️ Pièges à éviter : système solaire"
+
+    **Piège 1 : Confondre rotation et révolution**
+
+    | Rotation | Révolution |
+    |----------|-----------|
+    | Sur elle-même | Autour du Soleil |
+    | **24 heures** | **365 jours** |
+    | Crée le jour/nuit | Crée l'année |
+
+    **Astuce :** Rotation = tourner sur place (comme une toupie)
+
+    ---
+
+    **Piège 2 : Croire que les saisons viennent de la distance Terre-Soleil**
+
+    - ❌ "En été on est plus proche du Soleil"
+    - ✅ Les saisons viennent de l'**inclinaison de la Terre** (23,5°)
+
+    En fait, la Terre est même légèrement **plus proche** du Soleil en hiver (dans l'hémisphère Nord) !
+
+    ---
+
+    **Piège 3 : Ne pas retenir l'ordre des planètes**
+
+    **Du Soleil vers l'extérieur :**
+
+    **M**ercure - **V**énus - **T**erre - **M**ars - **J**upiter - **S**aturne - **U**ranus - **N**eptune
+
+    **Moyen mnémotechnique :**
+    "**M**on **V**ieux **T**u **M**'as **J**eté **S**ur **U**ne **N**avette"
+
+    ---
+
+    **Piège 4 : Confondre étoile et planète**
+
+    | Étoile | Planète |
+    |--------|---------|
+    | Produit sa propre lumière | Reflète la lumière d'une étoile |
+    | Très chaude (millions de °C) | Plus froide |
+    | Ex : **Soleil** | Ex : Terre, Mars |
+
+    Le Soleil est une **étoile**, pas une planète !
+
+    ---
+
+    **Piège 5 : Oublier Pluton n'est plus une planète**
+
+    - ❌ "Il y a 9 planètes"
+    - ✅ Il y a **8 planètes** (Pluton est une "planète naine" depuis 2006)
+
+    ---
+
+    **Piège 6 : Confondre les phases de la Lune**
+
+    | Phase | Ce qu'on voit |
+    |-------|---------------|
+    | **Nouvelle Lune** | Rien (face non éclairée vers nous) |
+    | **Premier quartier** | Moitié droite |
+    | **Pleine Lune** | Tout le disque |
+    | **Dernier quartier** | Moitié gauche |
+
+    **Astuce :** Si elle forme un "D" → elle **D**écroît / Si elle forme un "C" → elle **C**roît (elle ment !)
+
 !!! example "Les saisons expliquées"
 
     **La Terre est penchée de 23° sur son orbite**
@@ -82,6 +146,40 @@
 
 !!! success "À retenir"
     Le **système solaire** est composé du **Soleil** (étoile) et de **8 planètes** qui tournent autour, plus des astéroïdes, comètes et satellites.
+
+??? abstract "🔄 Autre façon de comprendre : jour/nuit et saisons"
+    **Le jour et la nuit = la Terre tourne sur elle-même**
+
+    Imagine une pomme avec un cure-dent dedans devant une lampe :
+    - Le côté face à la lampe = JOUR
+    - Le côté dans l'ombre = NUIT
+    - Tu tournes la pomme = le jour et la nuit se succèdent (24h)
+
+    ---
+
+    **Les saisons = la Terre tourne autour du Soleil ET elle est penchée**
+
+    La Terre est inclinée de 23° (comme si tu penchais la tête) :
+
+    - **Été en France** : notre côté penche vers le Soleil
+      - Journées longues, Soleil haut = il fait chaud
+    - **Hiver en France** : notre côté penche loin du Soleil
+      - Journées courtes, Soleil bas = il fait froid
+
+    **CE N'EST PAS la distance qui change !** (On est même légèrement plus proche du Soleil en hiver !)
+
+    ---
+
+    **Les phases de la Lune = la Lune tourne autour de la Terre**
+
+    La Lune ne produit pas de lumière, elle reflète celle du Soleil :
+    - **Nouvelle Lune** : la face éclairée est de l'autre côté → on ne voit rien
+    - **Pleine Lune** : on voit toute la face éclairée
+    - **Croissants** : on voit une partie de la face éclairée
+
+    **Astuce pour savoir si la Lune croît ou décroît :**
+    - Si elle forme un "D" → **D**écroît
+    - Si elle forme un "C" → **C**roît (elle ment, c'est l'inverse du C !)
 
 ```
     LES 8 PLANÈTES (dans l'ordre)

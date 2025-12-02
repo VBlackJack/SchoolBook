@@ -101,6 +101,65 @@
 | Addition | a + b | **Somme** |
 | Soustraction | a - b | **Différence** |
 
+??? warning "⚠️ Pièges à éviter : addition et soustraction"
+    **Piège 1 : Mal aligner les chiffres**
+
+    ```
+    ❌ FAUX              ✅ CORRECT
+        456                  456
+      + 23                 +  23
+      -----                -----
+        686                  479
+    ```
+
+    **Toujours aligner les unités sous les unités, les dizaines sous les dizaines !**
+
+    ---
+
+    **Piège 2 : Oublier les retenues**
+
+    ```
+        567
+      + 485
+      -----
+        ?
+
+    7 + 5 = 12 → écris 2, retiens 1
+    6 + 8 + 1 = 15 → écris 5, retiens 1
+    5 + 4 + 1 = 10 → écris 0, retiens 1
+    Résultat : 1 052 (pas 952 !)
+    ```
+
+    ---
+
+    **Piège 3 : Soustraction avec emprunt mal géré**
+
+    Pour calculer **503 - 267** :
+    - ❌ On ne peut PAS faire 3 - 7, donc on met 0
+    - ✅ On emprunte à la colonne de gauche
+
+    **Si tu ne peux pas soustraire, tu empruntes !**
+
+??? abstract "🔄 Autre façon de comprendre : la soustraction avec emprunt"
+    **Imagine que tu as des billets :**
+
+    Pour calculer **503 - 267**, tu as :
+    - 5 billets de 100 €
+    - 0 billet de 10 €
+    - 3 pièces de 1 €
+
+    Tu veux enlever 267 €, mais tu n'as que 3 pièces de 1 € (et il t'en faut 7).
+
+    **Solution : tu "casses" un billet !**
+    - Tu changes 1 billet de 100 € en 10 billets de 10 €
+    - Puis tu changes 1 billet de 10 € en 10 pièces de 1 €
+
+    Maintenant tu as : 4 × 100 + 9 × 10 + 13 × 1 = 503 €
+
+    Et tu peux faire : 13 - 7 = 6, puis 9 - 6 = 3, puis 4 - 2 = 2
+
+    **Résultat : 236 €**
+
 ---
 
 ## ✏️ Exercices guidés - Leçon 1
@@ -265,6 +324,40 @@
 |-----------|--------|----------|
 | Multiplication | a × b | **Produit** |
 
+??? warning "⚠️ Pièges à éviter : multiplication"
+    **Piège 1 : Oublier le décalage**
+
+    Pour 247 × 36, on fait 247 × 6, puis 247 × 30 (décalé !)
+
+    ```
+    ❌ FAUX              ✅ CORRECT
+        247                  247
+      ×  36                ×  36
+      -----                -----
+       1482                 1482  ← (247 × 6)
+       741                 7410  ← (247 × 30) DÉCALÉ !
+      -----                -----
+       2223                 8892
+    ```
+
+    ---
+
+    **Piège 2 : Confondre × et +**
+
+    - 5 × 0 = **0** (pas 5 !)
+    - 5 + 0 = **5**
+
+    **Tout nombre multiplié par 0 donne 0 !**
+
+    ---
+
+    **Piège 3 : Tables mal mémorisées**
+
+    Les plus souvent confondues :
+    - 6 × 7 = **42** (pas 48)
+    - 7 × 8 = **56** (pas 54)
+    - 8 × 9 = **72** (pas 81)
+
 ---
 
 ## ✏️ Exercices guidés - Leçon 3
@@ -350,6 +443,38 @@
 
     6 × 76 + 1 = 456 + 1 = 457 ✓
 
+??? warning "⚠️ Pièges à éviter : division"
+    **Piège 1 : Le reste plus grand que le diviseur**
+
+    - ❌ 47 = 5 × 8 + 7 → FAUX ! (7 ≥ 5)
+    - ✅ 47 = 5 × 9 + 2 → OK (2 < 5)
+
+    **Le reste doit TOUJOURS être plus petit que le diviseur !**
+
+    ---
+
+    **Piège 2 : Oublier d'abaisser le chiffre suivant**
+
+    ```
+    457 ÷ 6
+
+    En 4, combien de fois 6 ? → 0 (car 4 < 6)
+    En 45, combien de fois 6 ? → 7 (car 6 × 7 = 42)
+    45 - 42 = 3
+
+    ❌ On oublie d'abaisser le 7
+    ✅ On abaisse le 7 → on a 37
+    En 37, combien de fois 6 ? → 6 (car 6 × 6 = 36)
+    ```
+
+    ---
+
+    **Piège 3 : Ne pas vérifier**
+
+    **TOUJOURS vérifier** : Diviseur × Quotient + Reste = Dividende
+
+    Si la vérification ne marche pas, tu as fait une erreur !
+
 ---
 
 ## ✏️ Exercices guidés - Leçon 4
@@ -427,6 +552,36 @@
     - Parenthèses : (3 + 2) = 5
     - Multiplications : 5 × 5 = 25 et 4 × 2 = 8
     - Soustraction : 25 - 8 = **17**
+
+??? warning "⚠️ Pièges à éviter : ordre des opérations"
+    **Piège 1 : Calculer de gauche à droite sans respecter les priorités**
+
+    3 + 4 × 5 = ?
+
+    - ❌ 3 + 4 = 7, puis 7 × 5 = 35 → FAUX !
+    - ✅ 4 × 5 = 20 d'abord (priorité ×), puis 3 + 20 = **23**
+
+    ---
+
+    **Piège 2 : Oublier les parenthèses**
+
+    (3 + 4) × 5 ≠ 3 + 4 × 5
+
+    - (3 + 4) × 5 = 7 × 5 = **35**
+    - 3 + 4 × 5 = 3 + 20 = **23**
+
+    **Les parenthèses changent tout !**
+
+    ---
+
+    **Piège 3 : Confondre × et ÷ avec + et -**
+
+    Dans 24 - 6 ÷ 3 :
+
+    - ❌ 24 - 6 = 18, puis 18 ÷ 3 = 6 → FAUX !
+    - ✅ 6 ÷ 3 = 2 d'abord, puis 24 - 2 = **22**
+
+    **× et ÷ passent AVANT + et -**
 
 ---
 

@@ -42,6 +42,51 @@
     - DO = tu fais seul
     - GO = tu VAS quelque part pour le faire
 
+??? abstract "🔄 Autre façon de comprendre : PLAY / DO / GO"
+    **Comment choisir entre PLAY, DO et GO ?**
+
+    Imagine 3 situations différentes :
+
+    ```
+    🎮 PLAY = "JE JOUE" (match, compétition)
+    ──────────────────────────────────────
+    Tu as un adversaire ou une équipe
+    Il y a souvent une balle/ballon
+    → PLAY football, tennis, basketball
+
+    🏋️ DO = "JE FAIS" (activité individuelle)
+    ──────────────────────────────────────
+    Tu pratiques seul, sans adversaire direct
+    Arts martiaux, gymnastique
+    → DO judo, karate, gymnastics
+
+    🏃 GO = "JE VAIS + FAIRE" (déplacement)
+    ──────────────────────────────────────
+    Tu te déplaces pour faire l'activité
+    Le sport finit toujours en -ING
+    → GO swimming, running, cycling
+    ```
+
+    ---
+
+    **L'astuce mnémotechnique :**
+
+    | Question à te poser | Verbe | Exemple |
+    |---------------------|-------|---------|
+    | Y a-t-il une balle/un ballon ? | PLAY | play tennis |
+    | C'est un art martial ou gym ? | DO | do judo |
+    | Le mot finit par -ING ? | GO | go swimming |
+
+    ---
+
+    **Attention : quelques pièges !**
+
+    - **do athletics** (pas go, car c'est une discipline générale)
+    - **do yoga** (activité calme, individuelle)
+    - **go horse riding** (tu vas quelque part pour monter)
+
+    **En cas de doute avec -ING → c'est GO !**
+
 !!! warning "CAN = tu sais faire"
 
     **CAN exprime une capacité :**
@@ -54,6 +99,111 @@
     **Attention : pas de -S à la 3ème personne !**
     - ❌ She cans play
     - ✅ She can play
+
+??? warning "⚠️ Pièges à éviter : loisirs et sports"
+
+    **Piège 1 : Choisir entre PLAY, DO et GO**
+
+    | Verbe | Type de sport | Exemples |
+    |-------|---------------|----------|
+    | **PLAY** | Avec balle/équipe | play football, tennis |
+    | **DO** | Individuel/arts martiaux | do judo, gymnastics |
+    | **GO** | Sports en -ING | go swimming, running |
+
+    ❌ "I play swimming" → ✅ "I **go** swimming"
+    ❌ "I go tennis" → ✅ "I **play** tennis"
+
+    ---
+
+    **Piège 2 : CAN ne change jamais !**
+
+    | ❌ Erreur | ✅ Correct |
+    |----------|-----------|
+    | She can**s** swim | She **can** swim |
+    | I can **to** swim | I **can** swim |
+    | He can play**s** | He can **play** |
+
+    **CAN + base verbale (sans TO, sans S)**
+
+    ---
+
+    **Piège 3 : LIKE + V-ING**
+
+    Après like, love, hate, enjoy → verbe en **-ING** !
+
+    - ❌ "I like play video games"
+    - ✅ "I like **playing** video games"
+
+    ---
+
+    **Piège 4 : Football UK vs US**
+
+    | UK | USA |
+    |----|-----|
+    | **football** ⚽ = foot | **soccer** ⚽ = foot |
+    | - | **football** 🏈 = foot américain |
+
+    Dans les jeux américains, "football" = 🏈 !
+
+    ---
+
+    **Piège 5 : How often + fréquence**
+
+    | Anglais | Français |
+    |---------|----------|
+    | **once** a week | **une** fois par semaine |
+    | **twice** a week | **deux** fois par semaine |
+    | **three times** a week | trois fois par semaine |
+
+    ❌ "one time" → ✅ "**once**"
+    ❌ "two times" → ✅ "**twice**"
+
+??? abstract "🔄 Autre façon de comprendre : CAN"
+    **CAN = la compétence de ton personnage !**
+
+    Dans un jeu vidéo, ton personnage a des compétences qu'il peut ou ne peut pas faire. CAN, c'est pareil !
+
+    ```
+    ┌─────────────────────────────────┐
+    │  SKILLS (Compétences)           │
+    │                                 │
+    │  ✅ I CAN swim                  │
+    │  ✅ I CAN speak English         │
+    │  ❌ I CAN'T fly                 │
+    │  ❌ I CAN'T speak Chinese       │
+    └─────────────────────────────────┘
+    ```
+
+    ---
+
+    **La règle d'or : CAN ne change JAMAIS !**
+
+    | Sujet | Verbe | Pas de changement ! |
+    |-------|-------|---------------------|
+    | I | can | ✅ I can swim |
+    | She | can | ✅ She can swim |
+    | He | can | ✅ He can swim |
+    | They | can | ✅ They can swim |
+
+    **Pas de -S, pas de "to", rien ne change !**
+    - ❌ She **cans** swim
+    - ❌ I can **to** swim
+    - ✅ She **can** swim
+    - ✅ I **can** swim
+
+    ---
+
+    **Questions avec CAN = inverser !**
+
+    ```
+    Affirmation : You can swim.
+    Question :    Can you swim?
+                  ↑
+                  CAN passe devant !
+    ```
+
+    **Réponses courtes :**
+    - Yes, I can. / No, I can't.
 
 !!! example "Vocabulaire gaming comme hobby"
 

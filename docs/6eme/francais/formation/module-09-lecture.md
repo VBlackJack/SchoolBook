@@ -57,6 +57,43 @@
 
     **Ça t'aide à repérer les fake news !**
 
+??? warning "⚠️ Pièges à éviter : lecture et compréhension"
+    **Piège 1 : Confondre le type de texte**
+
+    | Type | Indice principal |
+    |------|------------------|
+    | Narratif | Passé simple, histoire |
+    | Descriptif | Imparfait, adjectifs |
+    | Explicatif | Présent, informations |
+    | Argumentatif | "Je pense", "il faut" |
+    | Injonctif | Impératif, étapes |
+
+    ---
+
+    **Piège 2 : Confondre explicite et implicite**
+
+    - **Explicite** = écrit clairement dans le texte
+    - **Implicite** = à déduire (pas dit directement)
+
+    "Marie prit son parapluie" → **implicite** : il pleut
+
+    ---
+
+    **Piège 3 : Répondre sans phrase complète**
+
+    ❌ "Dans la forêt" (trop court)
+    ✅ "L'histoire **se passe dans la forêt**."
+
+    **Reprends les mots de la question dans ta réponse !**
+
+    ---
+
+    **Piège 4 : Ne pas justifier avec une citation**
+
+    Quand on te demande de justifier, cite le texte :
+
+    ✅ "Le personnage est triste, comme le montre la phrase « ses yeux se remplirent de larmes » (ligne 5)."
+
 !!! example "Les indices dans les récits de jeux vidéo"
 
     Dans un jeu, tu utilises déjà les inférences sans le savoir :
@@ -145,6 +182,35 @@
     - Organisation en étapes (1, 2, 3...)
     - Instructions à suivre
 
+??? abstract "🔄 Autre façon de comprendre : les types de textes"
+    **Chaque type de texte a un OBJECTIF différent !**
+
+    | Type | L'auteur veut... | Question à se poser |
+    |------|-----------------|---------------------|
+    | **Narratif** | Te raconter une histoire | "Que s'est-il passé ?" |
+    | **Descriptif** | Te faire visualiser | "À quoi ça ressemble ?" |
+    | **Explicatif** | T'expliquer | "Comment ça marche ?" |
+    | **Argumentatif** | Te convaincre | "Pourquoi c'est bien/mal ?" |
+    | **Injonctif** | Te faire faire | "Que dois-je faire ?" |
+
+    ---
+
+    **Comment reconnaître chaque type ? Regarde les VERBES !**
+
+    - **Narratif** : passé simple / imparfait → "Il marchait... Soudain, il vit..."
+    - **Descriptif** : imparfait / présent + adjectifs → "La maison était grande..."
+    - **Explicatif** : présent de vérité générale → "L'eau bout à 100°C..."
+    - **Argumentatif** : présent + "je pense", "il faut" → "Je pense que..."
+    - **Injonctif** : impératif / infinitif → "Mélangez...", "Cuire pendant..."
+
+    ---
+
+    **L'astuce du "où tu le trouves" :**
+    - **Recette** → Injonctif
+    - **Roman** → Narratif (+ Descriptif)
+    - **Article scientifique** → Explicatif
+    - **Publicité** → Argumentatif
+
 ---
 
 ## Exercices guidés - Leçon 1
@@ -211,6 +277,39 @@
     Les **mots-clés** sont les mots les plus importants du texte.
     Ils sont souvent **répétés** ou mis en **valeur** (gras, italique).
 
+??? abstract "🔄 Autre façon de comprendre : repérer les informations"
+    **QQOQCP = les 6 questions d'un journaliste !**
+
+    Imagine que tu es un journaliste qui doit écrire un article :
+
+    ```
+    Q = QUI     ? → Les personnages, les acteurs
+    Q = QUOI    ? → L'événement, l'action
+    O = OÙ      ? → Le lieu
+    Q = QUAND   ? → Le moment
+    C = COMMENT ? → La manière, les moyens
+    P = POURQUOI? → La cause, le but
+    ```
+
+    ---
+
+    **Exemple avec un fait divers :**
+
+    "Hier, à Paris, les pompiers ont sauvé un chat coincé dans un arbre grâce à leur grande échelle."
+
+    - **QUI ?** Les pompiers, un chat
+    - **QUOI ?** Sauvetage d'un chat
+    - **OÙ ?** À Paris, dans un arbre
+    - **QUAND ?** Hier
+    - **COMMENT ?** Avec une grande échelle
+    - **POURQUOI ?** Le chat était coincé
+
+    ---
+
+    **L'astuce du THÈME vs IDÉE PRINCIPALE :**
+    - **Thème** = le sujet en 1-2 mots → "le sauvetage"
+    - **Idée principale** = ce qu'on dit sur le sujet → "Les pompiers ont sauvé un chat coincé"
+
 ---
 
 ## Exercices guidés - Leçon 2
@@ -264,6 +363,39 @@
     - **Indices sur les personnages** : comportements, paroles, émotions
     - **Champ lexical** : mots d'un même thème
 
+??? abstract "🔄 Autre façon de comprendre : l'implicite"
+    **L'implicite, c'est LIRE ENTRE LES LIGNES !**
+
+    Le texte ne dit pas tout. C'est comme dans un film : on ne t'explique pas tout, tu comprends avec des indices.
+
+    | Ce que tu vois/lis | Ce que tu comprends |
+    |--------------------|---------------------|
+    | "Elle prit son parapluie" | Il pleut (ou il va pleuvoir) |
+    | "Il souffla les bougies" | C'est son anniversaire |
+    | "Ses yeux se remplirent de larmes" | Elle est triste |
+    | "Il enfila son maillot" | Il va nager ou faire du sport |
+
+    ---
+
+    **L'inférence = texte + connaissances**
+
+    ```
+    Ce que dit le texte   +   Ce que tu sais   =   Ce que tu comprends
+    "Il souffla les       +   On souffle des   =   C'est son
+     bougies"                  bougies le jour      anniversaire !
+                               d'anniversaire
+    ```
+
+    ---
+
+    **Attention à l'ironie !**
+
+    Parfois, les gens disent le contraire de ce qu'ils pensent :
+    - "Super, encore un contrôle..." → En fait, ce n'est PAS super
+    - "Génial ton idée..." (avec un ton moqueur) → Ce n'est PAS génial
+
+    Regarde le **contexte** et le **ton** !
+
 ---
 
 ## Exercices guidés - Leçon 3
@@ -311,6 +443,36 @@
     - **Réponds par une phrase complète**
     - **Reprends les mots de la question**
     - **Justifie** avec une citation si demandé
+
+??? abstract "🔄 Autre façon de comprendre : répondre aux questions"
+    **La méthode PRL : Phrase - Reprends - Ligne**
+
+    1. **P**hrase complète → Pas juste un mot !
+    2. **R**eprends les mots de la question → Pour montrer que tu as compris
+    3. **L**igne / Citation → Si on te demande de justifier
+
+    ---
+
+    **Exemple concret :**
+
+    Question : "Où se passe l'histoire ?"
+
+    ❌ "Dans la forêt" → trop court, pas de phrase
+
+    ✅ "L'histoire **se passe dans la forêt**." → phrase complète + mots de la question
+
+    ✅✅ "L'histoire **se passe dans la forêt**, comme le montre la phrase « Les grands arbres l'entouraient » (ligne 3)." → parfait avec citation !
+
+    ---
+
+    **Les mots à reprendre selon la question :**
+
+    | Question | Début de réponse |
+    |----------|------------------|
+    | "Où se passe..." | "L'action se passe..." |
+    | "Qui est le personnage..." | "Le personnage principal est..." |
+    | "Pourquoi le héros..." | "Le héros ... parce que..." |
+    | "Que signifie..." | "Ce mot signifie..." |
 
 ### Comment citer un texte
 

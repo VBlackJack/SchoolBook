@@ -58,6 +58,66 @@
 
     Sur 1 mm, tu peux aligner ~10 cellules !
 
+??? warning "⚠️ Pièges à éviter : la cellule"
+
+    **Piège 1 : Confondre cellule animale et végétale**
+
+    | Cellule animale | Cellule végétale |
+    |-----------------|------------------|
+    | Membrane seulement | Membrane **+ paroi** |
+    | Pas de chloroplastes | **Chloroplastes** (verts) |
+    | Pas de grande vacuole | **Grande vacuole** |
+    | Forme ronde/variable | Forme rectangulaire |
+
+    **Astuce :** Les plantes ont une "armure" (paroi) et des "panneaux solaires" (chloroplastes) !
+
+    ---
+
+    **Piège 2 : Confondre les constituants de la cellule**
+
+    | Élément | Rôle | Erreur fréquente |
+    |---------|------|------------------|
+    | **Membrane** | Enveloppe, échanges | ≠ paroi |
+    | **Cytoplasme** | Liquide intérieur | ≠ noyau |
+    | **Noyau** | Contient l'ADN | ≠ cytoplasme |
+
+    **Le noyau est DANS le cytoplasme, pas à côté !**
+
+    ---
+
+    **Piège 3 : Confondre unicellulaire et pluricellulaire**
+
+    | Unicellulaire | Pluricellulaire |
+    |---------------|-----------------|
+    | **1 seule** cellule | **Plusieurs** cellules |
+    | Bactérie, amibe | Humain, plante |
+    | Simple mais vivant ! | Cellules spécialisées |
+
+    Une bactérie = 1 cellule qui fait TOUT !
+
+    ---
+
+    **Piège 4 : Penser que "petit = simple"**
+
+    - ❌ "Une cellule c'est juste un petit sac"
+    - ✅ Une cellule est une **mini-usine complexe** avec :
+      - Centre de commande (noyau)
+      - Production d'énergie (mitochondries)
+      - Fabrication de produits (ribosomes)
+      - Gestion des entrées/sorties (membrane)
+
+    ---
+
+    **Piège 5 : Confondre paroi et membrane**
+
+    | Membrane | Paroi |
+    |----------|-------|
+    | Toutes les cellules | Cellules végétales seulement |
+    | Souple | Rigide (cellulose) |
+    | Contrôle les échanges | Donne la forme et protège |
+
+    **Les cellules animales n'ont PAS de paroi !**
+
 !!! example "Cellule animale vs cellule végétale"
 
     **La grande différence :**
@@ -78,6 +138,39 @@
 
 !!! success "À retenir"
     La **cellule** est l'unité de base de tous les êtres vivants. C'est la plus petite structure capable de vivre de façon autonome.
+
+??? abstract "🔄 Autre façon de comprendre : la cellule"
+    **La cellule, c'est comme une mini-usine autonome !**
+
+    Chaque cellule est capable de :
+    - Se nourrir (entrée de matières premières)
+    - Produire de l'énergie (centrale électrique = mitochondrie)
+    - Fabriquer des produits (protéines)
+    - Se reproduire (division cellulaire)
+    - Éliminer les déchets
+
+    ---
+
+    **Les parties de la cellule = les départements de l'usine**
+
+    | Partie | Rôle | Dans une usine |
+    |--------|------|----------------|
+    | **Membrane** | Entrées/sorties | Murs + portes |
+    | **Cytoplasme** | Lieu de travail | Espace intérieur |
+    | **Noyau** | Centre de commande | Direction |
+    | **Mitochondries** | Produisent l'énergie | Centrale électrique |
+
+    ---
+
+    **Cellule animale vs végétale :**
+
+    | Animal | Végétal |
+    |--------|---------|
+    | Forme ronde | Forme rectangulaire |
+    | Pas de paroi rigide | Paroi cellulosique (rigide) |
+    | Pas de chloroplastes | Chloroplastes (photosynthèse) |
+
+    **Les plantes ont une "armure" (paroi) et des "panneaux solaires" (chloroplastes) !**
 
 ```
     LA CELLULE : UNITÉ DU VIVANT

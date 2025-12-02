@@ -69,6 +69,60 @@
     - 0°C = l'eau gèle (ou fond)
     - 100°C = l'eau bout (à pression normale)
 
+??? warning "⚠️ Pièges à éviter : les états de la matière"
+
+    **Piège 1 : Confondre fusion et dissolution**
+
+    | Fusion | Dissolution |
+    |--------|-------------|
+    | Solide → Liquide | Solide qui "disparaît" dans un liquide |
+    | Changement d'**état** | Changement de **mélange** |
+    | Ex : Glace qui fond | Ex : Sucre dans l'eau |
+    | La glace **devient** eau | Le sucre **reste** du sucre (dissous) |
+
+    **Test :** Si tu évapores l'eau sucrée, tu retrouves le sucre → c'était une dissolution !
+
+    ---
+
+    **Piège 2 : Confondre vapeur d'eau et buée/nuages**
+
+    - ❌ "La vapeur d'eau, c'est le nuage blanc au-dessus de la casserole"
+    - ✅ La **vraie vapeur** est **invisible** (c'est un gaz)
+
+    Ce qu'on voit (nuage blanc) = de minuscules **gouttelettes d'eau liquide** = condensation !
+
+    ---
+
+    **Piège 3 : Inverser les noms des changements d'état**
+
+    | Changement | Nom correct | Erreur fréquente |
+    |------------|-------------|------------------|
+    | Solide → Liquide | **Fusion** | ≠ Solidification |
+    | Liquide → Solide | **Solidification** | ≠ Fusion |
+    | Liquide → Gaz | **Vaporisation** | ≠ Condensation |
+    | Gaz → Liquide | **Condensation** | ≠ Vaporisation |
+
+    **Astuce :** Le nom indique le résultat → "solidification" = ça devient solide !
+
+    ---
+
+    **Piège 4 : Croire que la température change pendant un changement d'état**
+
+    - ❌ "Pendant que la glace fond, la température augmente"
+    - ✅ Pendant la fusion, la température reste à **0°C** (palier de température)
+
+    Toute l'énergie sert à **changer l'état**, pas à chauffer !
+
+    ---
+
+    **Piège 5 : Confondre évaporation et ébullition**
+
+    | Évaporation | Ébullition |
+    |-------------|-----------|
+    | À **toute température** | À **100°C** (pour l'eau) |
+    | Lente, en surface | Rapide, dans tout le liquide |
+    | Ex : Flaque qui sèche | Ex : Eau qui bout |
+
 !!! example "Le cycle de l'eau dans la nature"
 
     **Tu l'observes tout le temps :**
@@ -112,6 +166,42 @@ La matière peut exister sous trois formes différentes appelées **états**. L'
 
 !!! success "À retenir"
     À l'état **solide**, la matière a une **forme propre** et un **volume propre**. Elle ne coule pas et ne se déforme pas facilement.
+
+??? abstract "🔄 Autre façon de comprendre : les 3 états"
+    **Imagine les particules comme des élèves dans une classe !**
+
+    **SOLIDE = élèves assis à leur place**
+    - Chacun à sa place, bien rangés
+    - Ils peuvent bouger un peu (vibrer) mais restent assis
+    - La forme de la classe ne change pas
+
+    **LIQUIDE = élèves debout qui circulent**
+    - Ils peuvent se déplacer, mais restent dans la salle
+    - Ils se croisent, se poussent
+    - Prennent la forme de la pièce mais ne sortent pas
+
+    **GAZ = récréation, tout le monde court partout !**
+    - Les élèves courent dans tous les sens
+    - Ils occupent tout l'espace disponible
+    - Ils se cognent et rebondissent
+
+    ---
+
+    **Le tableau récapitulatif :**
+
+    | État | Forme | Volume | Les particules... |
+    |------|-------|--------|-------------------|
+    | SOLIDE | Fixe | Fixe | Vibrent sur place |
+    | LIQUIDE | Variable | Fixe | Glissent les unes sur les autres |
+    | GAZ | Variable | Variable | Bougent dans tous les sens |
+
+    ---
+
+    **L'astuce pour retenir :**
+
+    "Un solide est **solide** comme un roc"
+    "Un liquide est **liquide** comme l'eau"
+    "Un gaz **s'envole** comme l'air"
 
 ```
     L'ÉTAT SOLIDE

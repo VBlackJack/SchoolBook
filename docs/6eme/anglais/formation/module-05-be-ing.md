@@ -59,6 +59,45 @@
     - ❌ runing → ✅ running
     - ❌ dieing → ✅ dying
 
+??? warning "⚠️ Pièges à éviter : BE + ING"
+
+    **Piège 1 : Oublier le verbe BE**
+
+    - ❌ "I playing" (il manque BE !)
+    - ✅ "I **am** playing"
+
+    **La formule : Sujet + BE + Verbe-ING**
+
+    ---
+
+    **Piège 2 : L'orthographe du -ING**
+
+    | Règle | ❌ Erreur | ✅ Correct |
+    |-------|----------|-----------|
+    | Verbe en -E | makeing | mak**ing** |
+    | Consonne doublée | runing | ru**nn**ing |
+    | -IE devient -Y | dieing | d**y**ing |
+
+    ---
+
+    **Piège 3 : Confondre présent simple et BE + ING**
+
+    | Présent simple | BE + ING |
+    |----------------|----------|
+    | Habitude | Action EN COURS |
+    | "I play football" | "I'm playing football" |
+
+    Question "What are you doing?" → réponse en BE + ING !
+
+    ---
+
+    **Piège 4 : Les verbes d'état (pas de -ING !)**
+
+    - ❌ "I'm loving pizza"
+    - ✅ "I **love** pizza"
+
+    **love, like, know, want → jamais de -ING !**
+
 !!! example "Streaming et BE + ING"
 
     **Quand un YouTuber/streamer parle :**
@@ -78,6 +117,50 @@
 
 !!! success "À retenir"
     Le **présent BE + ING** (aussi appelé Present Continuous) sert à parler d'une action **en train de se passer** au moment où l'on parle.
+
+??? abstract "🔄 Autre façon de comprendre : présent simple VS BE + ING"
+    **La grande question : Présent Simple ou BE + ING ?**
+
+    | Situation | Temps | Exemple |
+    |-----------|-------|---------|
+    | **Habitude** (toujours) | Présent simple | "I **play** Fortnite" (en général) |
+    | **Maintenant** (en cours) | BE + ING | "I**'m playing** Fortnite" (là, tout de suite) |
+
+    ---
+
+    **L'image du "snapshot" vs "vidéo" :**
+
+    - **Présent simple** = photo (moment figé, vérité permanente)
+      - "The sky **is** blue" → toujours vrai
+    - **BE + ING** = vidéo en cours (action qui se déroule)
+      - "Look! It**'s raining**!" → ça se passe maintenant
+
+    ---
+
+    **La formule du BE + ING :**
+
+    ```
+    SUJET + BE (am/is/are) + VERBE-ING
+
+    I am playing
+    He/She/It is playing
+    We/You/They are playing
+    ```
+
+    ---
+
+    **Les pièges du -ING :**
+
+    | Cas | Règle | Exemple |
+    |-----|-------|---------|
+    | Verbe en -E | On enlève le E | make → mak**ing** |
+    | Consonne-Voyelle-Consonne | On double | run → ru**nn**ing |
+    | Verbe en -IE | IE → Y | die → d**y**ing |
+
+    **Erreurs fréquentes :**
+    - ❌ writeing → ✅ writing
+    - ❌ siting → ✅ sitting
+    - ❌ lieing → ✅ lying
 
 ```
     QUAND UTILISER BE + ING ?

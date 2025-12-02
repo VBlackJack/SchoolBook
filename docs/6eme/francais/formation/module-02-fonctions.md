@@ -69,6 +69,27 @@
     - **Nature** de « chat » : nom commun
     - **Fonction** de « chat » : sujet du verbe « mange »
 
+??? abstract "🔄 Autre façon de comprendre : Nature vs Fonction"
+    **Pense à toi-même :**
+
+    - Ta **NATURE** = ce que tu ES → un humain, un élève, un enfant (ça ne change pas)
+    - Ta **FONCTION** = ce que tu FAIS → joueur, chanteur, cuisinier (ça change selon ce que tu fais)
+
+    **Exemple concret :**
+    - Tu es un **humain** (nature) → ça ne change jamais
+    - Tu es **joueur** quand tu joues au foot (fonction)
+    - Tu es **cuisinier** quand tu fais des crêpes (fonction)
+    - Tu es **élève** quand tu es en cours (fonction)
+
+    ---
+
+    **Pour les mots, c'est pareil :**
+    - "chat" est un **nom** (nature) → ça ne change jamais
+    - "chat" peut être **sujet** dans "Le chat mange"
+    - "chat" peut être **COD** dans "Je vois un chat"
+
+    Le mot "chat" reste un nom, mais son rôle dans la phrase change !
+
 ### Les principales fonctions
 
 | Fonction | Question pour la trouver |
@@ -118,6 +139,28 @@ Le sujet peut être :
 
     - « Où vas-**tu** ? » (sujet = tu)
     - « Dans ce jardin poussent **des fleurs**. » (sujet = des fleurs)
+
+??? abstract "🔄 Autre façon de comprendre : le sujet"
+    **Le sujet, c'est la STAR de la phrase !**
+
+    Dans un film, la star est celle autour de qui tourne l'histoire. Dans une phrase, le sujet est celui autour de qui tourne l'action :
+
+    - "**Mario** sauve la princesse" → Mario est la star, c'est lui qui agit
+    - "**La princesse** est sauvée" → La princesse est la star de cette phrase
+
+    ---
+
+    **La méthode infaillible : "C'est... qui..."**
+
+    Encadre avec "C'est... qui..." ou "Ce sont... qui..." :
+    - "Le chat mange la souris"
+    - → "C'est **le chat** qui mange la souris" ✅ Sujet trouvé !
+
+    ---
+
+    **Attention au piège du début de phrase :**
+    Le sujet n'est pas toujours au début !
+    - "Dans la forêt vit **un loup**" → Qui vit ? **Un loup** = sujet
 
 ---
 
@@ -170,6 +213,31 @@ Le sujet peut être :
     Le COI peut être remplacé par les pronoms **lui, leur, en, y** :
 
     - Je parle à ma mère. → Je **lui** parle.
+
+??? abstract "🔄 Autre façon de comprendre : COD vs COI"
+    **COD = Contact DIRECT (sans préposition)**
+
+    Imagine que tu lances une balle :
+    - "Je lance **la balle**" → la balle reçoit directement l'action = COD
+    - Contact direct entre "lancer" et "la balle"
+
+    **COI = Contact INDIRECT (avec préposition)**
+
+    Maintenant, imagine que tu parles à quelqu'un :
+    - "Je parle **à** Marie" → il y a un petit mot entre les deux = COI
+    - Le "à" fait barrage = contact indirect
+
+    ---
+
+    **L'astuce du "quoi" et du "à qui" :**
+
+    | Question | Réponse = ... |
+    |----------|---------------|
+    | Je mange **quoi** ? → une pizza | COD |
+    | Je parle **à qui** ? → à Marie | COI |
+    | Je pense **à quoi** ? → à mes vacances | COI |
+
+    **S'il y a "à" ou "de" dans la question, c'est un COI !**
 
 ### Verbes transitifs et intransitifs
 
@@ -246,6 +314,31 @@ Le sujet peut être :
     - Marie **est** médecin. → Marie = médecin → **attribut**
     - Marie **voit** le médecin. → Marie ≠ le médecin → **COD**
 
+??? abstract "🔄 Autre façon de comprendre : l'attribut du sujet"
+    **L'attribut, c'est un MIROIR du sujet !**
+
+    Quand tu te regardes dans un miroir, tu vois TOI. L'attribut, c'est pareil : il reflète le sujet.
+
+    - "Marie **est** fatiguée" → fatiguée = Marie (c'est elle qui est fatiguée)
+    - Le miroir (verbe d'état) montre une caractéristique de Marie
+
+    ---
+
+    **Le test du signe "égal" (=) :**
+
+    - "Marie **est** médecin" → Marie **=** médecin ✅ ATTRIBUT
+    - "Marie **voit** le médecin" → Marie **=** le médecin ❌ → donc COD
+
+    ---
+
+    **Les verbes d'état = des verbes "miroirs" :**
+
+    Ce sont des verbes qui ne montrent pas d'action mais qui décrivent :
+    - ÊTRE → "Il **est** grand"
+    - SEMBLER → "Il **semble** fatigué"
+    - DEVENIR → "Il **devient** rouge"
+    - PARAÎTRE → "Il **paraît** inquiet"
+
 ---
 
 ## Exercices guidés - Leçon 4
@@ -298,6 +391,75 @@ Le sujet peut être :
 
 !!! warning "Le COD et le COI ne peuvent pas être supprimés !"
     - Je mange une pomme. → Je mange ~~une pomme~~. ❌ (phrase incomplète)
+
+??? warning "⚠️ Pièges à éviter : les fonctions"
+    **Piège 1 : Confondre COD et attribut du sujet**
+
+    | COD | Attribut |
+    |-----|----------|
+    | Après un verbe d'ACTION | Après un verbe d'ÉTAT |
+    | Sujet ≠ COD | Sujet = Attribut |
+    | "Marie mange **une pomme**" | "Marie **est** médecin" |
+    | Marie ≠ pomme | Marie = médecin |
+
+    ---
+
+    **Piège 2 : Confondre COI et CCL**
+
+    - "Je parle **à** Marie" → à qui ? = **COI** (complément du verbe)
+    - "Je vais **à** Paris" → où ? = **CCL** (peut être déplacé : "À Paris, je vais")
+
+    **Test : peut-on déplacer le groupe en début de phrase ?**
+    - "À Marie, je parle" → bizarre = COI
+    - "À Paris, je vais" → OK = CCL
+
+    ---
+
+    **Piège 3 : Le sujet n'est pas toujours au début**
+
+    - "Dans cette forêt **vivent** des loups" → Qui vit ? **des loups** = sujet
+    - "Où **vas**-tu ?" → Qui va ? **tu** = sujet
+
+    **Toujours poser la question "Qui est-ce qui + verbe ?"**
+
+    ---
+
+    **Piège 4 : Ne pas confondre CCT et sujet inversé**
+
+    - "Demain **arrive** mon cousin" → Qui arrive ? **mon cousin** = sujet
+    - "Demain" = CCT, pas sujet !
+
+??? abstract "🔄 Autre façon de comprendre : les compléments circonstanciels"
+    **Les CC, c'est le DÉCOR de la phrase !**
+
+    Imagine une scène de film :
+    - L'ACTION principale : "Mario sauve la princesse"
+    - Le DÉCOR : où ? quand ? comment ?
+
+    Tu peux changer le décor sans changer l'histoire :
+    - "Mario sauve la princesse **dans le château** / **hier soir** / **courageusement**"
+    - L'action reste la même, seul le contexte change !
+
+    ---
+
+    **Le test du "déplaçable + supprimable" :**
+
+    Un CC peut bouger dans la phrase ET être supprimé :
+
+    | Original | Déplacé | Supprimé |
+    |----------|---------|----------|
+    | Je mange **à midi** | **À midi**, je mange | Je mange ✅ |
+    | Je mange **une pizza** | ❌ ne se déplace pas bien | Je mange ❌ |
+
+    ---
+
+    **Les questions des CC :**
+    ```
+    OÙ ?     → CCL (lieu)
+    QUAND ?  → CCT (temps)
+    COMMENT ? → CCM (manière)
+    POURQUOI ? → CCC (cause)
+    ```
 
 ---
 

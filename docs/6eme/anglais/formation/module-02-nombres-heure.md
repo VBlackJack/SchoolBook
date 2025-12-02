@@ -59,6 +59,71 @@
 
     **Conseil : écoute bien l'accent dans les jeux !**
 
+??? warning "⚠️ Pièges à éviter : nombres et heure"
+
+    **Piège 1 : Confondre -TEEN et -TY**
+
+    | -TEEN (13-19) | -TY (20-90) |
+    |---------------|-------------|
+    | thir**TEEN** (13) | **THIR**ty (30) |
+    | four**TEEN** (14) | **FOR**ty (40) |
+    | fif**TEEN** (15) | **FIF**ty (50) |
+
+    **L'accent change de place !**
+    - 13 = accent sur **-TEEN**
+    - 30 = accent sur **THIR-**
+
+    ---
+
+    **Piège 2 : L'orthographe de FORTY**
+
+    - ❌ "fourty" (on garde le "u" de four)
+    - ✅ **forty** (pas de "u" !)
+
+    C'est la seule exception où on perd le "u" de four.
+
+    ---
+
+    **Piège 3 : Le tiret dans les nombres composés**
+
+    - ❌ "twenty one", "thirty two"
+    - ✅ "twenty**-**one" (21), "thirty**-**two" (32)
+
+    **Entre 21 et 99, on met un TIRET !**
+
+    ---
+
+    **Piège 4 : Confondre AM et PM**
+
+    | AM | PM |
+    |----|-----|
+    | **A**nte **M**eridiem | **P**ost **M**eridiem |
+    | AVANT midi | APRÈS midi |
+    | 0h → 11h59 | 12h → 23h59 |
+
+    - 9 **AM** = 9h du matin
+    - 9 **PM** = 21h (9h du soir)
+
+    ---
+
+    **Piège 5 : Les jours et mois en majuscule**
+
+    - ❌ "monday", "january"
+    - ✅ "**M**onday", "**J**anuary"
+
+    **En anglais, jours et mois prennent TOUJOURS une MAJUSCULE !**
+
+    ---
+
+    **Piège 6 : Le format de date UK vs US**
+
+    | UK (comme en France) | USA (attention !) |
+    |---------------------|-------------------|
+    | jour/mois/année | **mois/jour**/année |
+    | 5/6/2024 = 5 juin | 5/6/2024 = **6 mai** ! |
+
+    **Aux USA, 6/5 = June 5th, pas le 6 mai !**
+
 !!! example "Les dates importantes pour toi"
 
     **Comment dire ta date d'anniversaire :**
@@ -71,6 +136,44 @@
     - **June** = E3 (événement jeux vidéo)
     - **November** = Black Friday sales
     - **December** = Christmas sales
+
+??? abstract "🔄 Autre façon de comprendre : les nombres et l'heure"
+    **Les nombres en anglais = quelques règles simples !**
+
+    **De 13 à 19 : le suffixe -TEEN**
+    - 13 = thir**teen**, 14 = four**teen**, 15 = fif**teen**...
+    - **Attention :** l'accent est sur -TEEN (thirTEEN)
+
+    **Les dizaines : le suffixe -TY**
+    - 20 = twen**ty**, 30 = thir**ty**, 40 = for**ty**, 50 = fif**ty**...
+    - **Attention :** l'accent est au début (THIRty)
+
+    **Comment distinguer 13/30, 14/40, etc. ?**
+    - 13 = thirTEEN (accent sur teen)
+    - 30 = THIRty (accent sur thir)
+
+    ---
+
+    **L'heure en anglais : deux façons !**
+
+    **Façon simple (digitale) :**
+    - 3:45 = "three forty-five"
+    - 8:30 = "eight thirty"
+
+    **Façon traditionnelle :**
+    - 3:15 = "quarter past three" (quart après 3h)
+    - 3:30 = "half past three" (moitié après 3h)
+    - 3:45 = "quarter to four" (quart avant 4h)
+
+    ---
+
+    **AM vs PM = matin vs après-midi**
+
+    - AM = Ante Meridiem = avant midi (0h-12h)
+    - PM = Post Meridiem = après midi (12h-24h)
+
+    **9 AM = 9h du matin**
+    **9 PM = 21h (9h du soir)**
 
 ---
 

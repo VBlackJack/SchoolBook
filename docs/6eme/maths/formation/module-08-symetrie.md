@@ -101,6 +101,35 @@
     - Les lettres : F, G, J, L, N, P, Q, R, S, Z
     - Un escalier
 
+??? abstract "🔄 Autre façon de comprendre : la symétrie"
+    **Le test du miroir :**
+
+    Place un miroir vertical au milieu de ton dessin.
+    Si le reflet complète parfaitement l'image → c'est symétrique !
+
+    ---
+
+    **Le test du pliage :**
+
+    Imagine que tu plies ta feuille le long de l'axe.
+    Si les deux parties se superposent exactement → c'est symétrique !
+
+    ---
+
+    **Construire un symétrique :**
+
+    Pour chaque point A, son symétrique A' est :
+    - À la **même distance** de l'axe
+    - De l'**autre côté** de l'axe
+    - Sur une droite **perpendiculaire** à l'axe
+
+    ```
+    A •─────────┼─────────• A'
+           axe
+    ```
+
+    **A et A' sont comme dans un miroir !**
+
 ---
 
 ## Exercices guidés - Leçon 1
@@ -188,6 +217,42 @@
 !!! warning "Piège fréquent"
     Les **diagonales** du rectangle ne sont **PAS** des axes de symétrie !
     (sauf si c'est un carré)
+
+??? warning "⚠️ Pièges à éviter : symétrie"
+    **Piège 1 : Croire que la lettre S est symétrique**
+
+    - ❌ La lettre S a un axe de symétrie → FAUX !
+    - ✅ S n'a PAS d'axe de symétrie (elle a une symétrie centrale, mais pas axiale)
+
+    Lettres SANS axe : F, G, J, L, N, P, Q, R, S, Z
+
+    ---
+
+    **Piège 2 : Les diagonales du rectangle**
+
+    | Figure | Diagonales = axes ? |
+    |--------|:-------------------:|
+    | Carré | ✅ OUI |
+    | Rectangle | ❌ NON |
+    | Losange | ✅ OUI |
+
+    ---
+
+    **Piège 3 : Oublier que la distance est la même des deux côtés**
+
+    Pour construire le symétrique de A :
+    - Distance de A à l'axe = Distance de A' à l'axe
+    - A et A' sont sur une droite **perpendiculaire** à l'axe
+
+    ---
+
+    **Piège 4 : Compter les axes d'un polygone régulier**
+
+    Un polygone régulier à n côtés a **n axes** de symétrie :
+    - Triangle équilatéral : 3 axes
+    - Carré : 4 axes
+    - Pentagone régulier : 5 axes
+    - Hexagone régulier : 6 axes
 
 ### Le triangle équilatéral : 3 axes
 

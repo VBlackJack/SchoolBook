@@ -50,6 +50,67 @@
 
     **Test : si tu fais évaporer l'eau sucrée, tu retrouves le sucre !**
 
+??? warning "⚠️ Pièges à éviter : les mélanges"
+
+    **Piège 1 : Confondre homogène et hétérogène**
+
+    | Tu vois... | Type de mélange |
+    |------------|-----------------|
+    | Une seule chose (uniforme) | **Homogène** |
+    | Plusieurs choses distinctes | **Hétérogène** |
+
+    - ❌ "L'eau salée est hétérogène car il y a du sel"
+    - ✅ L'eau salée est **homogène** car on ne **voit pas** le sel dissous
+
+    **Astuce :** Si tu peux pointer du doigt un ingrédient → hétérogène !
+
+    ---
+
+    **Piège 2 : Croire que "dissous" = "disparu"**
+
+    - ❌ "Le sucre a disparu dans l'eau"
+    - ✅ Le sucre est **toujours là**, juste invisible (dissous en molécules)
+
+    **Preuve :** L'eau est sucrée au goût, et si tu l'évapores, tu retrouves le sucre !
+
+    ---
+
+    **Piège 3 : Confondre les techniques de séparation**
+
+    | Technique | Pour séparer... | Exemple |
+    |-----------|-----------------|---------|
+    | **Décantation** | Liquides de densités différentes | Eau + huile |
+    | **Filtration** | Solide + liquide | Eau + sable |
+    | **Évaporation** | Soluté dissous + solvant | Sel de l'eau de mer |
+
+    ❌ "On filtre l'eau salée pour récupérer le sel" → FAUX !
+    ✅ On **évapore** l'eau pour récupérer le sel
+
+    ---
+
+    **Piège 4 : Confondre soluté, solvant et solution**
+
+    | Terme | C'est quoi ? | Exemple |
+    |-------|-------------|---------|
+    | **Soluté** | Ce qui se dissout | Le sel |
+    | **Solvant** | Ce qui dissout | L'eau |
+    | **Solution** | Le mélange homogène obtenu | L'eau salée |
+
+    **Astuce :** Le solvant est toujours en plus grande quantité !
+
+    ---
+
+    **Piège 5 : Penser que tout se dissout dans l'eau**
+
+    L'eau ne dissout **pas tout** !
+
+    | Se dissout | Ne se dissout pas |
+    |------------|-------------------|
+    | Sel, sucre | Huile, sable |
+    | Vinaigre | Farine, graisse |
+
+    **"L'huile et l'eau ne se mélangent pas"** = ils sont **immiscibles**
+
 !!! example "La filtration : tu l'utilises déjà !"
 
     **Exemples de filtration au quotidien :**
@@ -80,6 +141,36 @@ Dans la vie quotidienne, nous utilisons souvent des mélanges : jus d'orange, vi
 !!! success "À retenir"
     - Un **corps pur** est constitué d'une seule substance (ex : eau distillée, or pur)
     - Un **mélange** est constitué de plusieurs substances (ex : air, eau de mer)
+
+??? abstract "🔄 Autre façon de comprendre : corps pur vs mélange"
+    **Corps pur = une seule équipe**
+    **Mélange = plusieurs équipes mélangées**
+
+    Imagine un match de foot :
+    - **Corps pur** = tous les joueurs portent le même maillot
+    - **Mélange homogène** = joueurs de 2 équipes mais maillots identiques (on ne voit pas la différence)
+    - **Mélange hétérogène** = joueurs de 2 équipes avec maillots différents (on voit qui est qui)
+
+    ---
+
+    **Homogène vs Hétérogène :**
+
+    | Type | Ce que tu VOIS | Exemple |
+    |------|---------------|---------|
+    | **Homogène** | UNE seule chose | Sirop + eau (tout a la même couleur) |
+    | **Hétérogène** | PLUSIEURS choses | Salade (tu vois la tomate, la salade...) |
+
+    **L'astuce :** Si tu peux montrer du doigt un ingrédient séparément → hétérogène !
+
+    ---
+
+    **Dissoudre ≠ Fondre (attention au piège !)**
+
+    | Dissoudre | Fondre |
+    |-----------|--------|
+    | Le sucre se dissout dans l'eau | Le beurre fond dans la poêle |
+    | Il disparaît mais il est encore là | Il change d'état (solide → liquide) |
+    | Si tu évapores l'eau, tu retrouves le sucre | Il reste du beurre, juste liquide |
 
 ```
     CORPS PUR vs MÉLANGE

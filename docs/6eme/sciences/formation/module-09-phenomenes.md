@@ -59,6 +59,73 @@
 
     **Chaque niveau = 32 fois plus d'énergie !**
 
+??? warning "⚠️ Pièges à éviter : phénomènes naturels"
+
+    **Piège 1 : Confondre foyer et épicentre**
+
+    | Foyer | Épicentre |
+    |-------|-----------|
+    | En **profondeur** | En **surface** |
+    | Là où la rupture se produit | Point juste au-dessus du foyer |
+    | Origine du séisme | Zone la plus touchée |
+
+    **L'épicentre est TOUJOURS à la surface, le foyer est en dessous !**
+
+    ---
+
+    **Piège 2 : Confondre magma et lave**
+
+    | Magma | Lave |
+    |-------|------|
+    | **Sous terre** | **À la surface** |
+    | Dans la chambre magmatique | Sortie du cratère |
+    | Même matière, position différente !||
+
+    **Dès que le magma sort → c'est de la lave !**
+
+    ---
+
+    **Piège 3 : Confondre éruption effusive et explosive**
+
+    | Effusive | Explosive |
+    |----------|-----------|
+    | Lave **fluide** qui coule | **Explosion** violente |
+    | Ex : Hawaï | Ex : Vésuve, Mont St Helens |
+    | Danger **modéré** | Danger **très élevé** |
+    | On peut fuir | Nuées ardentes à 600 km/h |
+
+    ---
+
+    **Piège 4 : Croire qu'on peut prédire les séismes**
+
+    - ❌ "Les scientifiques savent quand il y aura un séisme"
+    - ✅ On peut identifier les **zones à risque**, mais PAS **quand** le séisme aura lieu
+
+    C'est pour ça qu'on construit des bâtiments parasismiques !
+
+    ---
+
+    **Piège 5 : Confondre les couches de la Terre**
+
+    | Couche | Caractéristique |
+    |--------|-----------------|
+    | **Croûte** | Fine (5-70 km), solide |
+    | **Manteau** | Épais (2900 km), visqueux |
+    | **Noyau externe** | Fer liquide |
+    | **Noyau interne** | Fer solide, très chaud |
+
+    **De l'extérieur vers l'intérieur : Croûte → Manteau → Noyau**
+
+    ---
+
+    **Piège 6 : Confondre météo et climat**
+
+    | Météo | Climat |
+    |-------|--------|
+    | Court terme (jours) | Long terme (décennies) |
+    | "Il pleut aujourd'hui" | "Il pleut souvent ici" |
+    | Variable | Moyenne sur 30 ans |
+
 !!! example "La météo vs le climat"
 
     **Attention à ne pas confondre :**
@@ -82,6 +149,45 @@
     - **Croûte** : couche externe, solide et fine (5-70 km)
     - **Manteau** : roche chaude, partiellement fondue
     - **Noyau** : fer et nickel, très chaud (5000°C)
+
+??? abstract "🔄 Autre façon de comprendre : séismes et volcans"
+    **La Terre = un œuf fêlé qui flotte sur de la lave !**
+
+    - **Coquille** (croûte) = fine et cassée en morceaux (plaques tectoniques)
+    - **Blanc** (manteau) = roches chaudes qui bougent lentement
+    - **Jaune** (noyau) = ultra chaud, au centre
+
+    Les morceaux de coquille (plaques) bougent sur le "blanc" visqueux !
+
+    ---
+
+    **Séisme = les plaques se frottent ou se cognent**
+
+    ```
+    Plaque A ───►  ◄─── Plaque B
+           ↓ friction ↓
+          TREMBLEMENT !
+    ```
+
+    C'est comme quand tu frottes tes doigts et que ça "craque" d'un coup.
+
+    ---
+
+    **Volcan = la lave remonte à la surface**
+
+    Là où les plaques s'écartent ou se chevauchent, le magma peut remonter :
+    - **Éruption effusive** = lave qui coule (Hawaï, doucement)
+    - **Éruption explosive** = explosion violente (Vésuve, très dangereux)
+
+    ---
+
+    **Pourquoi la "Ceinture de Feu" ?**
+
+    Autour du Pacifique, plein de plaques se rencontrent :
+    - 75% des volcans du monde
+    - 90% des séismes
+
+    Japon, Indonésie, Chili = zones à risque !
 
 ```
     STRUCTURE DE LA TERRE

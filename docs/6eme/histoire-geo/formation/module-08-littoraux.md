@@ -59,6 +59,63 @@
     - Des îles du Pacifique risquent de disparaître
     - En France, certaines maisons sont détruites car trop proches de la falaise
 
+??? warning "⚠️ Pièges à éviter : les littoraux"
+
+    **Piège 1 : Confondre littoral et plage**
+
+    - ❌ "Le littoral = la plage"
+    - ✅ Le littoral comprend :
+      - L'**avant-pays** (la mer)
+      - Le **trait de côte** (la limite)
+      - L'**arrière-pays** (la terre : villes, campagne)
+
+    La plage n'est qu'une partie du littoral !
+
+    ---
+
+    **Piège 2 : Confondre les types de côtes**
+
+    | Type | Caractéristique | Erreur fréquente |
+    |------|----------------|------------------|
+    | **Côte rocheuse** | Falaises | ≠ côte sableuse |
+    | **Côte sableuse** | Plages, dunes | ≠ côte rocheuse |
+    | **Delta** | Embouchure de fleuve | ≠ estuaire |
+
+    ❌ "La Bretagne a des plages de sable" → elle a surtout des **côtes rocheuses**
+
+    ---
+
+    **Piège 3 : Ne pas savoir ce qu'est une ZIP**
+
+    **ZIP = Zone Industrialo-Portuaire**
+
+    - ❌ "ZIP = code postal" (ça, c'est aux USA !)
+    - ✅ ZIP = espace avec **industries** + **port** + **entrepôts**
+    - Exemples : Le Havre, Rotterdam, Shanghai
+
+    ---
+
+    **Piège 4 : Sous-estimer l'importance du commerce maritime**
+
+    **90% des marchandises mondiales passent par la mer !**
+
+    - ❌ "Le transport aérien domine le commerce"
+    - ✅ Les conteneurs par bateau = moins cher pour les grandes quantités
+
+    Les ports sont donc **stratégiques** pour l'économie mondiale.
+
+    ---
+
+    **Piège 5 : Confondre érosion et montée des eaux**
+
+    | Érosion | Montée des eaux |
+    |---------|-----------------|
+    | La mer **grignote** les côtes | Le niveau de la mer **augmente** |
+    | Recul des falaises/plages | Inondation des zones basses |
+    | Cause : vagues, courants | Cause : réchauffement climatique |
+
+    Les deux menacent les littoraux, mais ce sont des phénomènes différents !
+
 !!! example "Les métiers de la mer"
 
     **Tu connais sûrement :**
@@ -104,6 +161,35 @@ Les zones côtières concentrent une part importante de la population mondiale. 
 
 !!! success "À retenir"
     Un **littoral** est la zone de contact entre la terre et la mer. Il comprend l'**avant-pays** (mer) et l'**arrière-pays** (terre), ainsi que le **trait de côte** (limite terre/mer).
+
+??? abstract "🔄 Autre façon de comprendre : pourquoi les littoraux attirent ?"
+    **Le littoral = le meilleur emplacement possible !**
+
+    Historiquement, s'installer près de la mer c'était :
+    - **Nourriture** → pêche facile
+    - **Commerce** → bateaux pour transporter des marchandises
+    - **Défense** → voir l'ennemi arriver de loin
+    - **Climat** → souvent plus agréable
+
+    ---
+
+    **Aujourd'hui, ça attire toujours pour :**
+
+    | Raison | Exemple |
+    |--------|---------|
+    | **Tourisme** | Plages, hôtels, vacances |
+    | **Ports** | 90% du commerce mondial par bateau ! |
+    | **Industries** | Raffinage de pétrole près des ports |
+    | **Cadre de vie** | Retraités qui s'installent au soleil |
+
+    ---
+
+    **Le problème : trop de monde sur les côtes !**
+
+    - 60% de la population mondiale vit à moins de 60 km de la mer
+    - Les prix explosent (immobilier très cher)
+    - La nature est menacée (bétonisation)
+    - Le réchauffement climatique fait monter les eaux...
 
 ```
     VOCABULAIRE DU LITTORAL

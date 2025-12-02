@@ -52,6 +52,44 @@
     - ❌ « J'ai été au McDo » → ✅ « Je **suis allé** au McDo »
     - ✅ « J'**ai été** malade hier » (état)
 
+??? warning "⚠️ Pièges à éviter : la conjugaison (partie 2)"
+    **Piège 1 : Confondre ÊTRE et AVOIR au passé composé**
+
+    - ❌ "J'ai allé au cinéma" → ✅ "Je **suis** allé au cinéma"
+    - ❌ "Il est mangé une pomme" → ✅ "Il **a** mangé une pomme"
+
+    **Retiens la "maison d'être" : ALLER, VENIR, PARTIR, ARRIVER...**
+
+    ---
+
+    **Piège 2 : Oublier l'accord avec ÊTRE**
+
+    | Sujet | Accord |
+    |-------|--------|
+    | Marie | est arrivé**e** (féminin) |
+    | Les filles | sont arrivé**es** (fém. pluriel) |
+    | Paul et Marc | sont arrivé**s** (masc. pluriel) |
+
+    **Avec ÊTRE, le participe s'accorde comme un adjectif !**
+
+    ---
+
+    **Piège 3 : L'accord du participe avec AVOIR et "que"**
+
+    - "J'ai mangé **la pomme**" → COD après, pas d'accord
+    - "La pomme **que** j'ai mangé**e**" → COD avant (que = la pomme), accord !
+
+    **Quand tu vois "que" + avoir + participe → regarde ce que remplace "que" !**
+
+    ---
+
+    **Piège 4 : L'impératif du 1er groupe sans -S**
+
+    - ❌ "Manges ta soupe !" → ✅ "Mange ta soupe !"
+    - ❌ "Vas au tableau !" → ✅ "Va au tableau !"
+
+    **SAUF devant Y et EN : "Vas-y !", "Manges-en !"**
+
 ---
 
 ## Leçon 1 : Le passé composé
@@ -125,6 +163,36 @@
     - Nous **sommes** partis tôt.
     - Il **s'est** lavé (verbe pronominal → être)
 
+??? abstract "🔄 Autre façon de comprendre : être ou avoir ?"
+    **Pense à la MAISON D'ÊTRE !**
+
+    Imagine une maison. Les verbes avec ÊTRE sont ceux qui décrivent des **mouvements dans ou autour de cette maison** :
+
+    ```
+    🚪 ENTRER / SORTIR     (par la porte)
+    ⬆️ MONTER / DESCENDRE  (les escaliers)
+    🏠 ARRIVER / PARTIR    (vers/depuis la maison)
+    ⬇️ TOMBER / RESTER     (dans la maison)
+    👶 NAÎTRE / MOURIR     (cycle de vie)
+    🚶 ALLER / VENIR       (vers/depuis la maison)
+    ```
+
+    ---
+
+    **L'astuce du "déplacement du corps entier" :**
+
+    - Avec ÊTRE = ton corps **entier** se déplace ou change d'état
+      - "Je **suis** allé" → tout mon corps s'est déplacé
+    - Avec AVOIR = tu fais une action **sur** quelque chose
+      - "J'**ai** mangé" → mes mains et ma bouche agissent
+
+    ---
+
+    **Et les verbes pronominaux (se + verbe) ?**
+    Toujours avec ÊTRE !
+    - se laver → je me **suis** lavé
+    - se réveiller → je me **suis** réveillé
+
 ---
 
 ## Exercices guidés - Leçon 1
@@ -173,6 +241,35 @@
 
     - Si la réponse est APRÈS le verbe → pas d'accord
     - Si la réponse est AVANT le verbe → accord
+
+??? abstract "🔄 Autre façon de comprendre : l'accord du participe passé"
+    **Avec ÊTRE : le participe est comme un ADJECTIF !**
+
+    Pense à l'attribut du sujet :
+    - "Marie est **belle**" → accord avec Marie (féminin)
+    - "Marie est **partie**" → même chose ! Accord avec Marie
+
+    ```
+    Marie est partie.   (féminin singulier → e)
+    Les filles sont parties.  (féminin pluriel → es)
+    Les garçons sont partis.  (masculin pluriel → s)
+    ```
+
+    ---
+
+    **Avec AVOIR : regarde AVANT le verbe !**
+
+    Le participe passé est comme un détective qui regarde en arrière :
+    - "J'ai mangé **une pomme**." → pomme est APRÈS → rien à faire
+    - "La pomme **que** j'ai mangée." → pomme est AVANT → accord !
+
+    **L'astuce du "que" :**
+    Quand tu vois "que" + sujet + avoir + participe → accorde avec ce que remplace "que" !
+
+    ```
+    Les gâteaux que j'ai mangéS   (que = gâteaux, masculin pluriel)
+    La tarte que j'ai mangéE      (que = tarte, féminin singulier)
+    ```
 
 ---
 
@@ -298,6 +395,37 @@
 
     - Va ! → Vas-y ! Va**s**-en !
     - Mange ! → Mange**s**-en !
+
+??? abstract "🔄 Autre façon de comprendre : l'impératif"
+    **L'impératif, c'est le MODE DU COMMANDEMENT !**
+
+    Imagine que tu es le chef et que tu donnes des ordres :
+    - À une personne (tu) : "**Mange** ta soupe !"
+    - À ton groupe (nous) : "**Mangeons** ensemble !"
+    - À plusieurs personnes (vous) : "**Mangez** vite !"
+
+    ---
+
+    **Pourquoi pas de "s" au 1er groupe avec "tu" ?**
+
+    Compare :
+    - Indicatif : "Tu chante**s**" → tu décris
+    - Impératif : "Chante !" → tu ordonnes
+
+    À l'impératif, le "s" disparaît pour les verbes en -ER (1er groupe) car c'est un ordre direct, pas une description !
+
+    **SAUF** devant "y" et "en" (pour que ça sonne mieux) :
+    - "Va !" mais "Va**s**-y !"
+    - "Mange !" mais "Mange**s**-en !"
+
+    ---
+
+    **Les 3 verbes irréguliers à retenir :**
+    ```
+    ÊTRE  : Sois ! Soyons ! Soyez !
+    AVOIR : Aie ! Ayons ! Ayez !
+    SAVOIR : Sache ! Sachons ! Sachez !
+    ```
 
 ---
 

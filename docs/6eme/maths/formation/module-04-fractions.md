@@ -99,6 +99,80 @@
 
     **"Le numérateur, c'est le gourmand qui dit combien il en prend !"**
 
+??? warning "⚠️ Pièges à éviter : fractions"
+    **Piège 1 : Confondre numérateur et dénominateur**
+
+    Dans 3/4 :
+    - ❌ "3 est le dénominateur" → FAUX !
+    - ✅ **3** = numérateur (en haut), **4** = dénominateur (en bas)
+
+    **Moyen mnémo : le Dénominateur est en Dessous (D = D)**
+
+    ---
+
+    **Piège 2 : Croire que 3/4 < 3/7**
+
+    Même numérateur → compare les dénominateurs :
+    - Plus le dénominateur est grand, plus les parts sont **petites**
+    - 3/4 = 3 grosses parts, 3/7 = 3 petites parts
+    - Donc **3/4 > 3/7**
+
+    **Plus on partage, moins chacun a !**
+
+    ---
+
+    **Piège 3 : Additionner les dénominateurs**
+
+    - ❌ 1/4 + 1/4 = 2/8 → FAUX !
+    - ✅ 1/4 + 1/4 = **2/4** = 1/2
+
+    **On additionne les numérateurs, pas les dénominateurs !**
+
+    ---
+
+    **Piège 4 : Fraction décimale mal convertie**
+
+    - 3/10 = 0,3 ✓
+    - 3/100 = 0,03 (pas 0,3 !)
+    - 3/1000 = 0,003 (pas 0,3 ni 0,03 !)
+
+    **Compte les zéros du dénominateur = chiffres après la virgule**
+
+??? abstract "🔄 Autre façon de comprendre : les fractions"
+    **Imagine une barre de chocolat :**
+
+    ```
+    ┌──┬──┬──┬──┬──┬──┬──┬──┐
+    │  │  │  │  │  │  │  │  │  ← 8 carrés au total
+    └──┴──┴──┴──┴──┴──┴──┴──┘
+    ```
+
+    - **3/8** = tu manges 3 carrés sur 8
+    - **1/2** = tu manges la moitié = 4 carrés sur 8
+    - **8/8** = tu manges tout = 1 barre entière
+
+    ---
+
+    **Les fractions, c'est une division !**
+
+    - 3/4 = 3 ÷ 4 = 0,75
+    - 1/2 = 1 ÷ 2 = 0,5
+    - 1/4 = 1 ÷ 4 = 0,25
+
+    **Le numérateur se fait diviser par le dénominateur**
+
+    ---
+
+    **Retiens cette image :**
+
+    ```
+        3    ← Celui qu'on partage (le gâteau)
+       ───
+        4    ← Nombre de personnes qui partagent
+    ```
+
+    3/4 = 3 gâteaux partagés entre 4 personnes
+
 ### Fractions égales à 1
 
 !!! warning "Règle importante"

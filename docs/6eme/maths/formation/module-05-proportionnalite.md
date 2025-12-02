@@ -113,6 +113,84 @@
 
     Pas égaux → **NON, pas proportionnel** (on ne grandit pas proportionnellement !)
 
+??? warning "⚠️ Pièges à éviter : proportionnalité"
+    **Piège 1 : Croire que tout est proportionnel**
+
+    Situations NON proportionnelles :
+    - ❌ L'âge et la taille (tu ne doubles pas de taille en doublant d'âge)
+    - ❌ Le nombre de personnes et le temps pour finir un travail (parfois c'est l'inverse !)
+    - ❌ La vitesse et le temps de trajet (si tu vas 2× plus vite, tu mets 2× moins de temps)
+
+    ---
+
+    **Piège 2 : Mal faire le produit en croix**
+
+    ```
+    3 → 6
+    5 → ?
+
+    ❌ ? = (3 × 6) ÷ 5 = 3,6 → FAUX !
+    ✅ ? = (5 × 6) ÷ 3 = 10
+    ```
+
+    **Multiplie en diagonal, divise par celui qui reste !**
+
+    ---
+
+    **Piège 3 : Pourcentage mal calculé**
+
+    Pour 15% de 80 :
+    - ❌ 80 ÷ 15 = 5,33 → FAUX !
+    - ✅ (15 × 80) ÷ 100 = 1200 ÷ 100 = **12**
+
+    **Formule : p% de N = (p × N) ÷ 100**
+
+    ---
+
+    **Piège 4 : Échelle - sens de conversion**
+
+    Échelle 1/100 (1 cm sur le plan = 100 cm en vrai)
+
+    - Plan → Réalité : **multiplie** par 100
+    - Réalité → Plan : **divise** par 100
+
+    ❌ Ne pas faire l'inverse !
+
+??? abstract "🔄 Autre façon de comprendre : la proportionnalité"
+    **C'est comme une recette de cuisine !**
+
+    Recette pour 4 personnes :
+    - 200g de farine
+    - 2 œufs
+
+    Pour 8 personnes (le double), tu doubles TOUT :
+    - 400g de farine
+    - 4 œufs
+
+    **Quand tu multiplies par 2 d'un côté, tu multiplies par 2 de l'autre = PROPORTIONNEL !**
+
+    ---
+
+    **Le produit en croix : la technique magique**
+
+    Si tu as : 3 cahiers → 6 €, combien pour 5 cahiers ?
+
+    ```
+    3 ────→ 6
+    5 ────→ ?
+
+    Produit en croix : ? = (5 × 6) ÷ 3 = 30 ÷ 3 = 10 €
+    ```
+
+    **Astuce : croise et divise par celui qui reste !**
+
+    ---
+
+    **Ce qui n'est PAS proportionnel :**
+
+    - L'âge et la taille (tu ne doubles pas de taille en doublant d'âge !)
+    - Le nombre de pizzas et le temps de cuisson (2 pizzas ne cuisent pas en 2× plus de temps)
+
 ---
 
 ## Exercices guidés - Leçon 1

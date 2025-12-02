@@ -64,6 +64,63 @@
     | Corail | Animal marin ! (pas une plante) |
     | Bactérie | Naît, se nourrit, se reproduit |
 
+??? warning "⚠️ Pièges à éviter : les êtres vivants"
+
+    **Piège 1 : Confondre "bouge" et "vivant"**
+
+    - ❌ "La voiture bouge, donc elle est vivante"
+    - ✅ Bouger n'est **pas** un critère du vivant !
+
+    Un arbre ne bouge pas (ou très peu) mais il est vivant.
+    Une voiture bouge mais elle n'est pas vivante.
+
+    ---
+
+    **Piège 2 : Mal classer les champignons**
+
+    - ❌ "Les champignons sont des plantes"
+    - ✅ Les champignons sont un **règne à part** (ni plantes, ni animaux)
+
+    | Plantes | Champignons |
+    |---------|-------------|
+    | Photosynthèse | Pas de photosynthèse |
+    | Fabriquent leur nourriture | Se nourrissent de matière morte |
+    | Vertes (chlorophylle) | Pas de couleur verte |
+
+    ---
+
+    **Piège 3 : Penser que les coraux sont des plantes**
+
+    - ❌ "Le corail est une plante car il ne bouge pas"
+    - ✅ Le corail est un **animal** (cnidaire)
+
+    Le corail a des tentacules pour capturer sa nourriture !
+
+    ---
+
+    **Piège 4 : Confondre vertébrés et invertébrés**
+
+    | Vertébrés | Invertébrés |
+    |-----------|-------------|
+    | Colonne vertébrale | Pas de colonne vertébrale |
+    | ~70 000 espèces | ~1,3 million d'espèces |
+    | Mammifères, oiseaux, poissons... | Insectes, araignées, mollusques... |
+
+    **Les invertébrés sont beaucoup plus nombreux !**
+
+    ---
+
+    **Piège 5 : Confondre insectes et araignées**
+
+    | Insectes | Araignées |
+    |----------|-----------|
+    | **6 pattes** | **8 pattes** |
+    | 3 parties du corps | 2 parties du corps |
+    | Souvent des ailes | Jamais d'ailes |
+    | Ex : mouche, abeille | Ex : araignée, scorpion |
+
+    **L'araignée n'est PAS un insecte, c'est un arachnide !**
+
 !!! example "La biodiversité en chiffres"
 
     **Combien d'espèces sur Terre ?**
@@ -91,6 +148,40 @@
     - **Se reproduire**
     - **Réagir** à son environnement
     - **Mourir**
+
+??? abstract "🔄 Autre façon de comprendre : vivant ou pas ?"
+    **Le test des 6 critères !**
+
+    Pour savoir si quelque chose est vivant, vérifie s'il peut :
+
+    1. **N**aître
+    2. **S**e nourrir
+    3. **G**randir
+    4. **S**e reproduire
+    5. **R**éagir
+    6. **M**ourir
+
+    **Astuce mnémotechnique : "N'aie Surtout Grandi Sans Réfléchir Maintenant"**
+
+    ---
+
+    **Exemples :**
+
+    | Chose | N | S | G | S | R | M | Vivant ? |
+    |-------|---|---|---|---|---|---|----------|
+    | Chien | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | OUI |
+    | Robot | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | NON |
+    | Feu | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | NON |
+    | Arbre | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | OUI |
+
+    ---
+
+    **Les pièges classiques :**
+
+    - Le **feu** semble vivant (il "grandit", "meurt") mais ne se reproduit pas vraiment
+    - Les **virus** sont à la limite (ils ne se nourrissent pas seuls)
+    - Les **coraux** sont des animaux (pas des plantes !)
+    - Les **champignons** sont vivants (mais ni plantes, ni animaux)
 
 ```
     LE CYCLE DE VIE D'UN ÊTRE VIVANT

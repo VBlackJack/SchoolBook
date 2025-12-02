@@ -63,6 +63,53 @@
     - Embouteillages
     - Moins de nature
 
+??? warning "⚠️ Pièges à éviter : les métropoles"
+
+    **Piège 1 : Confondre métropole, agglomération et mégapole**
+
+    | Terme | Définition | Exemple |
+    |-------|-----------|---------|
+    | **Métropole** | Grande ville avec fonctions de commandement | Lyon, Bordeaux |
+    | **Agglomération** | Ville-centre + banlieues | Paris + petite couronne |
+    | **Mégapole** | Métropole de + de 10 millions d'habitants | Tokyo, New York |
+    | **Aire urbaine** | Ville + banlieues + communes périurbaines | Paris : 12 millions |
+
+    ❌ "Paris est une mégapole" → techniquement FAUX (Paris intra-muros = 2 millions)
+    ✅ L'**aire urbaine de Paris** (12 millions) est une mégapole
+
+    ---
+
+    **Piège 2 : Penser que bidonville = pays pauvre seulement**
+
+    - ❌ "Il n'y a pas de bidonvilles en France"
+    - ✅ Il existe des **campements** et habitats précaires même en France (mais à plus petite échelle)
+
+    Les bidonvilles sont **beaucoup plus nombreux et étendus** dans les pays en développement, mais l'habitat précaire existe partout.
+
+    ---
+
+    **Piège 3 : Confondre centre-ville et CBD**
+
+    | Centre-ville | CBD |
+    |--------------|-----|
+    | Centre historique | Quartier des **affaires** |
+    | Monuments, vieilles rues | Gratte-ciels, bureaux |
+    | Ex : Le Marais à Paris | Ex : La Défense à Paris |
+
+    ✅ Le CBD (Central Business District) peut être **en dehors** du centre historique !
+
+    ---
+
+    **Piège 4 : Croire que les métropoles n'ont que des inconvénients**
+
+    Les métropoles attirent les gens pour de bonnes raisons :
+    - ✅ Emplois nombreux et variés
+    - ✅ Culture, loisirs, services
+    - ✅ Transports en commun
+    - ✅ Universités, hôpitaux spécialisés
+
+    → Plus de la moitié de l'humanité vit en ville par choix ou nécessité !
+
 !!! example "Les mégapoles : les plus grandes villes du monde"
 
     | Ville | Population | Comparaison |
@@ -112,6 +159,35 @@ Plus de la moitié de l'humanité vit aujourd'hui en ville. Les plus grandes d'e
     - Concentre une **population importante** (plusieurs millions d'habitants)
     - Concentre des **fonctions de commandement** (politique, économique, culturel)
     - **Rayonne** sur une région, un pays ou le monde entier
+
+??? abstract "🔄 Autre façon de comprendre : qu'est-ce qu'une métropole ?"
+    **Une métropole, c'est comme le HUB d'un réseau !**
+
+    Dans un jeu en ligne, il y a des serveurs principaux qui connectent tout le monde. Une métropole, c'est pareil pour un pays ou le monde :
+
+    - **Aéroport international** = connexions avec le monde entier
+    - **Sièges d'entreprises** = là où se prennent les décisions
+    - **Universités** = là où se forme l'élite
+    - **Médias** = là où l'info est créée et diffusée
+
+    ---
+
+    **Ville vs Métropole :**
+
+    | Ville normale | Métropole |
+    |--------------|-----------|
+    | Quelques milliers d'habitants | Millions d'habitants |
+    | Services de base | Services très spécialisés |
+    | Importance locale | Importance nationale/mondiale |
+    | Ex : Chartres | Ex : Paris |
+
+    ---
+
+    **Le mot "métropole" vient du grec :**
+    - *mêtêr* = mère
+    - *polis* = ville
+
+    La métropole = la "ville-mère" qui domine les autres !
 
 ### 1.2 Les différentes échelles
 
@@ -197,6 +273,42 @@ Plus de la moitié de l'humanité vit aujourd'hui en ville. Les plus grandes d'e
 Les habitants se déplacent quotidiennement :
 - **Domicile → Travail** (migrations pendulaires)
 - **Domicile → Loisirs/commerces**
+
+??? abstract "🔄 Autre façon de comprendre : l'organisation d'une métropole"
+    **Une métropole, c'est comme des cercles concentriques !**
+
+    ```
+    Centre = cher, dense, bureaux, magasins
+         │
+         ▼
+    1er cercle = banlieue proche (immeubles, cités)
+         │
+         ▼
+    2ème cercle = banlieue lointaine (pavillons, voiture obligatoire)
+    ```
+
+    ---
+
+    **Pourquoi on habite loin du centre ?**
+
+    Le centre-ville :
+    - ✅ Tout est proche
+    - ❌ Très cher, petit, bruyant
+
+    La banlieue :
+    - ✅ Moins cher, plus d'espace
+    - ❌ Loin de tout, transport long
+
+    Résultat : les gens habitent loin et font des kilomètres chaque jour pour aller travailler = **migrations pendulaires** (comme un pendule qui va et vient).
+
+    ---
+
+    **Le problème des transports :**
+
+    - Voiture → embouteillages, pollution
+    - Transports en commun → bondés aux heures de pointe
+
+    C'est un des plus grands défis des métropoles !
 
 ```
     LES TRANSPORTS DANS UNE MÉTROPOLE

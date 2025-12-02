@@ -61,6 +61,45 @@
     - 1h30 ≠ 1,30 h → 1h30 = 1,5 h (car 30 min = 0,5 h)
     - 2h45 = 2h + 45min = 2h + 0,75h = 2,75 h
 
+??? warning "⚠️ Pièges à éviter : grandeurs et mesures"
+    **Piège 1 : Confondre les conversions selon le sens**
+
+    - Vers une unité **plus petite** → le nombre **augmente** (×)
+    - Vers une unité **plus grande** → le nombre **diminue** (÷)
+
+    3 km → m : on va vers plus petit, donc 3 × 1000 = **3000 m**
+    250 cm → m : on va vers plus grand, donc 250 ÷ 100 = **2,5 m**
+
+    ---
+
+    **Piège 2 : Les durées en base 60, pas 10 !**
+
+    - ❌ 1h30 = 1,30 h → FAUX !
+    - ✅ 1h30 = 1,5 h (car 30 min = 30/60 = 0,5 h)
+
+    Conversions en heures décimales :
+    - 15 min = 0,25 h
+    - 30 min = 0,5 h
+    - 45 min = 0,75 h
+
+    ---
+
+    **Piège 3 : Les conversions d'aires (²)**
+
+    Pour les aires, on déplace **2 colonnes** par unité (pas 1 !)
+
+    - 1 m² = 100 dm² (pas 10 !)
+    - 1 m² = 10 000 cm² (pas 100 !)
+
+    ---
+
+    **Piège 4 : Soustraire des durées sans convertir**
+
+    5h20 - 2h45 → on ne peut pas faire 20 - 45 !
+
+    Solution : 5h20 = 4h80 (on emprunte 1h = 60min)
+    4h80 - 2h45 = **2h35**
+
 ---
 
 ## Leçon 1 : Les longueurs
@@ -125,6 +164,46 @@
 !!! tip "Astuce"
     - Pour aller vers une unité **plus petite** → **multiplier** (le nombre augmente)
     - Pour aller vers une unité **plus grande** → **diviser** (le nombre diminue)
+
+??? abstract "🔄 Autre façon de comprendre : les conversions"
+    **Imagine un escalier :**
+
+    ```
+    km ← très grand
+     ↓
+    hm
+     ↓
+    dam
+     ↓
+    m  ← le milieu
+     ↓
+    dm
+     ↓
+    cm
+     ↓
+    mm ← très petit
+    ```
+
+    - **Descendre** l'escalier (vers les petites unités) = **×10** à chaque marche
+    - **Monter** l'escalier (vers les grandes unités) = **÷10** à chaque marche
+
+    ---
+
+    **Le truc du "déplacement de virgule" :**
+
+    - Vers les petites unités : la virgule se déplace vers la **droite**
+    - Vers les grandes unités : la virgule se déplace vers la **gauche**
+
+    3,5 km → m = on descend 3 marches = on déplace 3 fois vers la droite
+    3,5 → 35 → 350 → **3500** m
+
+    ---
+
+    **Astuce mémo pour les préfixes :**
+
+    - **k**ilo = **k**1000 (mille)
+    - **c**enti = **c**entième (0,01)
+    - **m**illi = **m**illième (0,001)
 
 ---
 

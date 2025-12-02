@@ -54,6 +54,105 @@
     **Exception : offre polie → SOME**
     - "Would you like **some** cake?" (Tu veux du gâteau ?)
 
+??? warning "⚠️ Pièges à éviter : nourriture"
+
+    **Piège 1 : SOME vs ANY**
+
+    | Type de phrase | Mot à utiliser |
+    |----------------|----------------|
+    | ✅ Affirmatif | **SOME** |
+    | ❌ Négatif | **ANY** |
+    | ❓ Question | **ANY** |
+    | 🎁 Offre polie | **SOME** |
+
+    ❌ "I don't have some money"
+    ✅ "I don't have **any** money"
+
+    ---
+
+    **Piège 2 : Confondre les repas**
+
+    | Anglais | Français | Heure |
+    |---------|----------|-------|
+    | **breakfast** | petit-déjeuner | 7h-9h |
+    | **lunch** | déjeuner | 12h-14h |
+    | **dinner/supper** | dîner | 18h-20h |
+
+    ❌ "I have lunch at 7 AM" (c'est breakfast !)
+
+    ---
+
+    **Piège 3 : Les faux-amis alimentaires**
+
+    | Anglais | ❌ Piège | ✅ Vrai sens |
+    |---------|---------|--------------|
+    | **chips** (UK) | chips | **frites** |
+    | **crisps** (UK) | - | chips (paquet) |
+    | **biscuit** | biscuit | biscuit sec |
+    | **bacon** | - | lard grillé |
+
+    ---
+
+    **Piège 4 : "I'd like" pour commander poliment**
+
+    - ❌ "I want a pizza" (trop direct)
+    - ✅ "I**'d like** a pizza, please" (poli)
+
+    **I'd like = I would like = Je voudrais**
+
+    ---
+
+    **Piège 5 : L'article A/AN avec les aliments**
+
+    - ❌ "I'd like a pizza and water"
+    - ✅ "I'd like a pizza and **some** water"
+
+    **Pour les liquides et quantités non précises = SOME**
+
+??? abstract "🔄 Autre façon de comprendre : SOME vs ANY"
+    **SOME = j'en ai / ANY = en ai-je ?**
+
+    Pense à ton inventaire dans un jeu vidéo :
+
+    ```
+    ✅ AFFIRMATIF → SOME (tu as des objets)
+    ────────────────────────────────────
+    "I have SOME potions" = J'ai des potions
+    "There is SOME food" = Il y a de la nourriture
+
+    ❌ NÉGATIF → ANY (tu n'as rien)
+    ────────────────────────────────────
+    "I don't have ANY potions" = Je n'ai pas de potions
+    "There isn't ANY food" = Il n'y a pas de nourriture
+
+    ❓ QUESTION → ANY (tu cherches)
+    ────────────────────────────────────
+    "Do you have ANY potions?" = As-tu des potions ?
+    "Is there ANY food?" = Y a-t-il de la nourriture ?
+    ```
+
+    ---
+
+    **L'exception : quand tu OFFRES quelque chose**
+
+    Si tu proposes quelque chose à quelqu'un (tu veux qu'il dise oui), utilise **SOME** même dans une question :
+
+    - "Would you like **some** cake?" (Tu veux du gâteau ?)
+    - "Can I have **some** water?" (Je peux avoir de l'eau ?)
+
+    **Pourquoi ?** Parce que tu t'attends à une réponse positive !
+
+    ---
+
+    **Le tableau ultra-simple :**
+
+    | Type de phrase | Mot | Exemple |
+    |----------------|-----|---------|
+    | ✅ Affirmatif | SOME | I have some money |
+    | ❌ Négatif | ANY | I don't have any money |
+    | ❓ Question normale | ANY | Do you have any money? |
+    | 🎁 Offre polie | SOME | Would you like some tea? |
+
 !!! example "La nourriture dans Minecraft et autres jeux"
 
     **Vocabulaire food des jeux :**

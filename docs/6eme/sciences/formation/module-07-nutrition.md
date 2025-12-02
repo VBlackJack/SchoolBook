@@ -54,6 +54,69 @@
 
     **Les animaux sont « paresseux » : ils mangent ce que les plantes fabriquent !**
 
+??? warning "⚠️ Pièges à éviter : nutrition"
+
+    **Piège 1 : Confondre photosynthèse et respiration**
+
+    | Photosynthèse | Respiration |
+    |---------------|-------------|
+    | Plantes seulement | Tous les êtres vivants |
+    | Consomme CO₂, produit O₂ | Consomme O₂, produit CO₂ |
+    | Fabrique du glucose | Utilise le glucose |
+    | Le jour (lumière) | Jour ET nuit |
+
+    **Les plantes RESPIRENT AUSSI !** (mais la photosynthèse domine le jour)
+
+    ---
+
+    **Piège 2 : Mal écrire l'équation de la photosynthèse**
+
+    ✅ **Eau + CO₂ + Lumière → Glucose + O₂**
+
+    Erreurs fréquentes :
+
+    - ❌ Oublier la lumière (c'est l'énergie !)
+    - ❌ Inverser CO₂ et O₂
+    - ❌ Oublier l'eau (vient des racines)
+
+    ---
+
+    **Piège 3 : Confondre autotrophe et hétérotrophe**
+
+    | Autotrophe | Hétérotrophe |
+    |------------|--------------|
+    | "Se nourrit soi-même" | "Se nourrit des autres" |
+    | **Fabrique** sa nourriture | **Mange** d'autres êtres |
+    | Plantes, algues | Animaux, champignons |
+
+    **Astuce :** Auto = soi-même / Hétéro = différent (des autres)
+
+    ---
+
+    **Piège 4 : Confondre les régimes alimentaires**
+
+    | Régime | Mange... | Exemples |
+    |--------|----------|----------|
+    | **Herbivore** | Des végétaux | Vache, lapin |
+    | **Carnivore** | Des animaux | Lion, requin |
+    | **Omnivore** | Des deux | Humain, ours |
+
+    ❌ "Le lion est omnivore car il est grand"
+    ✅ Le lion est **carnivore** (il ne mange que de la viande)
+
+    ---
+
+    **Piège 5 : Confondre organe respiratoire et milieu de vie**
+
+    | Organe | Milieu | Exemples |
+    |--------|--------|----------|
+    | **Poumons** | Air | Mammifères, oiseaux |
+    | **Branchies** | Eau | Poissons |
+    | **Trachées** | Air | Insectes |
+
+    ❌ "Les poissons ont des poumons"
+    ✅ Les poissons respirent avec des **branchies**
+
 !!! example "Ton alimentation"
 
     **Ce que tu manges vient des plantes (directement ou pas) :**
@@ -78,6 +141,41 @@
     Les végétaux fabriquent leur propre nourriture grâce à la **photosynthèse** :
     - Ils utilisent l'**eau**, le **CO₂** et la **lumière**
     - Ils produisent du **glucose** (sucre) et rejettent de l'**oxygène**
+
+??? abstract "🔄 Autre façon de comprendre : la photosynthèse"
+    **La photosynthèse = une recette de cuisine magique !**
+
+    **Ingrédients :**
+    - Eau (par les racines)
+    - CO₂ (par les feuilles)
+    - Lumière du soleil (énergie)
+
+    **Résultat :**
+    - Glucose (sucre = nourriture de la plante)
+    - Oxygène (rejeté dans l'air = ce qu'on respire !)
+
+    ---
+
+    **Pourquoi c'est génial ?**
+
+    Les plantes sont les seuls êtres vivants capables de :
+    - Fabriquer leur propre nourriture à partir de "rien" (eau + air + soleil)
+    - Produire l'oxygène qu'on respire
+
+    **Sans plantes = pas d'oxygène = pas de vie !**
+
+    ---
+
+    **Autotrophe vs Hétérotrophe :**
+
+    | Autotrophe | Hétérotrophe |
+    |------------|--------------|
+    | "Se nourrit soi-même" | "Se nourrit d'autres" |
+    | Fabrique sa nourriture | Mange d'autres êtres vivants |
+    | Plantes, algues | Animaux, champignons |
+    | Immobile | Doit se déplacer pour manger |
+
+    **Les animaux sont "paresseux" : ils mangent ce que les plantes fabriquent !**
 
 ```
     LA PHOTOSYNTHÈSE

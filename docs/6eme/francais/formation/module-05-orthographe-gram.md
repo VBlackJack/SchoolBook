@@ -53,6 +53,43 @@
     - Qui **est** arrivé ? → Les filles (féminin pluriel) → arrivé**es**
     - Qui **ont** vu ? → Elles (féminin pluriel) → mais "vu" ne s'accorde pas ici (COD après)
 
+??? warning "⚠️ Pièges à éviter : orthographe grammaticale"
+    **Piège 1 : Les 7 mots en -OU qui prennent X**
+
+    - ❌ "des bijous" → ✅ "des bijou**x**"
+    - Les 7 : bijou**x**, caillou**x**, chou**x**, genou**x**, hibou**x**, joujou**x**, pou**x**
+    - Tous les autres : clou**s**, trou**s**, sou**s**...
+
+    ---
+
+    **Piège 2 : Les homophones les plus confondus**
+
+    | Test | Résultat |
+    |------|----------|
+    | Remplace par "avait" | Si OK → **a** (pas à) |
+    | Remplace par "et puis" | Si OK → **et** (pas est) |
+    | Remplace par "quelqu'un" | Si OK → **on** (pas ont) |
+    | Remplace par "mon/ma" | Si OK → **son/sa** (pas sont) |
+    | Remplace par "ou bien" | Si OK → **ou** (pas où) |
+
+    ---
+
+    **Piège 3 : ces/ses/c'est/s'est**
+
+    - **ces** = démonstratif (ce livre → **ces** livres)
+    - **ses** = possessif (son livre → **ses** livres)
+    - **c'est** = cela est (**c'est** beau)
+    - **s'est** = verbe pronominal (il **s'est** lavé)
+
+    ---
+
+    **Piège 4 : Le sujet éloigné du verbe**
+
+    - "Le chien **de mes voisins** aboie" → Le chien (singulier) aboie, pas aboient !
+    - ❌ "Le chien de mes voisins aboient" → FAUX !
+
+    **Trouve le vrai sujet : "Qui aboie ?" → Le chien**
+
 ---
 
 ## Leçon 1 : L'accord dans le groupe nominal
@@ -81,6 +118,35 @@
 !!! warning "Exceptions à retenir"
     - **-ou** : clou**s**, sauf : bijou**x**, caillou**x**, chou**x**, genou**x**, hibou**x**, joujou**x**, pou**x**
     - **-al** : bal**s**, festival**s**, carnaval**s**, régal**s**
+
+??? abstract "🔄 Autre façon de comprendre : le pluriel des noms"
+    **Les 7 noms en -OU qui prennent X :**
+
+    Retiens cette phrase bizarre :
+    **"Viens mon CHOU, mon BIJOU, sur mes GENOUX avec tes JOUJOUX, et jette des CAILLOUX à ces HIBOUX pleins de POUX !"**
+
+    Ces 7 mots prennent un **X** au pluriel, tous les autres en -OU prennent un **S** :
+    - des clous, des trous, des sous...
+
+    ---
+
+    **Les noms en -AL → -AUX :**
+
+    Pense à "cheval → chevaux", c'est le modèle !
+
+    MAIS certains mots gardent -ALS :
+    - Les fêtes : bal**s**, festival**s**, carnaval**s**
+    - Les plaisirs : régal**s**
+
+    ---
+
+    **Astuce visuelle :**
+    ```
+    Singulier    Pluriel
+    -eau    →    -eaux  (bateau → bateaux)
+    -au     →    -aux   (tuyau → tuyaux)
+    -eu     →    -eux   (jeu → jeux)
+    ```
 
 ### L'accord de l'adjectif
 
@@ -153,6 +219,40 @@
     Encadre le sujet avec « C'est... qui » :
 
     « C'est **le chien de mes voisins** qui aboie. »
+
+??? abstract "🔄 Autre façon de comprendre : l'accord sujet-verbe"
+    **Le verbe est comme un CAMÉLÉON !**
+
+    Le caméléon change de couleur selon son environnement. Le verbe change de terminaison selon son sujet !
+
+    ```
+    Le chat dort.       (1 chat → -t)
+    Les chats dorment.  (plusieurs chats → -ent)
+    ```
+
+    ---
+
+    **Le piège du "faux ami" :**
+
+    Attention au mot juste avant le verbe, ce n'est pas toujours le sujet !
+
+    "Le chien **de mes voisins** aboie."
+    - Qui aboie ? → Le chien (singulier) → aboie
+    - "mes voisins" n'est PAS le sujet !
+
+    **Test :** Supprime le complément
+    - "Le chien ~~de mes voisins~~ aboie." ✅
+
+    ---
+
+    **Les sujets coordonnés :**
+    ```
+    ET = addition = pluriel
+    → Paul ET Marie mangent (Paul + Marie = ils)
+
+    OU = choix = singulier (en général)
+    → Paul OU Marie viendra (l'un ou l'autre, pas les deux)
+    ```
 
 ---
 
@@ -262,6 +362,35 @@
     - Je **leur** parle. (pronom, invariable)
     - **Leur** chien est gentil. (possessif, singulier)
     - **Leurs** chiens sont gentils. (possessif, pluriel)
+
+??? abstract "🔄 Autre façon de comprendre : les homophones"
+    **La méthode du REMPLACEMENT MAGIQUE !**
+
+    Pour chaque paire d'homophones, il existe un mot de remplacement qui fonctionne avec un seul des deux :
+
+    | Homophones | Test de remplacement |
+    |------------|---------------------|
+    | **a** / à | Remplace par "avait" → si ça marche, c'est **a** |
+    | **et** / est | Remplace par "et puis" → si ça marche, c'est **et** |
+    | **on** / ont | Remplace par "il" → si ça marche, c'est **on** |
+    | **son** / sont | Remplace par "mon" → si ça marche, c'est **son** |
+    | **ou** / où | Remplace par "ou bien" → si ça marche, c'est **ou** |
+
+    ---
+
+    **Exemples :**
+    - "Il (a/à) faim" → "Il *avait* faim" ✅ → c'est **a**
+    - "Je vais (a/à) Paris" → "Je vais *avait* Paris" ❌ → c'est **à**
+
+    ---
+
+    **Pour ces/ses/c'est/s'est :**
+    ```
+    CES  → devant un nom qu'on montre → "ce livre" au singulier
+    SES  → devant un nom qui appartient → "son livre" au singulier
+    C'EST → = "cela est" → phrase qui décrit
+    S'EST → verbe pronominal → "il s'était" au passé
+    ```
 
 ---
 

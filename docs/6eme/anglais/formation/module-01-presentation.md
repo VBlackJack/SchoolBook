@@ -55,6 +55,51 @@
     | **college** | collège | université |
     | **sensible** | sensible | raisonnable |
 
+??? warning "⚠️ Pièges à éviter : se présenter"
+
+    **Piège 1 : Oublier AM/IS/ARE selon le sujet**
+
+    | Sujet | Verbe BE |
+    |-------|----------|
+    | I | **am** |
+    | You / We / They | **are** |
+    | He / She / It | **is** |
+
+    ❌ "I are 12 years old" → FAUX !
+    ✅ "I **am** 12 years old"
+
+    ---
+
+    **Piège 2 : Dire "I have 12 years"**
+
+    En anglais, on utilise **BE** (être), pas HAVE (avoir) pour l'âge !
+
+    - ❌ "I **have** 12 years" (traduction mot à mot du français)
+    - ✅ "I **am** 12 years old"
+
+    **En anglais, tu "ES" ton âge, tu ne l'"AS" pas !**
+
+    ---
+
+    **Piège 3 : Confondre les contractions**
+
+    | Forme complète | Contraction |
+    |----------------|-------------|
+    | I am | I'm |
+    | You are | You're |
+    | He is | He's |
+
+    ❌ "Im" (sans apostrophe) ou "your" (possessif) ≠ "you're" (you are)
+
+    ---
+
+    **Piège 4 : Les majuscules des nationalités**
+
+    - ❌ "I am french"
+    - ✅ "I am **F**rench"
+
+    **En anglais, nationalités et langues = MAJUSCULE !**
+
 !!! example "Se présenter comme dans un jeu"
 
     **Créer son profil de joueur = se présenter !**
@@ -91,6 +136,25 @@
     Hello!             Hi!                 Hey!
     (formel)           (courant)           (familier)
 ```
+
+??? abstract "🔄 Autre façon de comprendre : les salutations"
+    **Les salutations, c'est comme les niveaux de familiarité dans un jeu !**
+
+    | Niveau | Anglais | Quand ? |
+    |--------|---------|---------|
+    | 👔 Formel | "Good morning/afternoon/evening" | Prof, adulte inconnu |
+    | 😊 Courant | "Hello!" | La plupart des situations |
+    | 🎮 Familier | "Hi!" "Hey!" | Amis, famille |
+
+    ---
+
+    **L'astuce du moment de la journée :**
+    - **Morning** = matin (avant midi)
+    - **Afternoon** = après-midi (12h-18h)
+    - **Evening** = soirée (après 18h)
+    - **Night** = nuit (quand on va dormir)
+
+    "Good night" = bonne nuit (pour aller dormir), pas "bonsoir" !
 
 ### 1.2 Dire au revoir
 

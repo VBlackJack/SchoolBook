@@ -137,6 +137,48 @@ Ou : "quarante-sept unités et trois cent cinquante-six millièmes"
 
     Mais 3,5 ≠ 3,05 !
 
+??? warning "⚠️ Pièges à éviter : nombres décimaux"
+    **Piège 1 : Comparer en regardant la "longueur"**
+
+    - ❌ 3,125 > 3,5 car "125" a plus de chiffres que "5" → FAUX !
+    - ✅ 3,5 = 3,500 et 3,500 > 3,125 → **3,5 > 3,125**
+
+    **Astuce : ajoute des zéros pour avoir le même nombre de décimales**
+
+    ---
+
+    **Piège 2 : Confondre 3,5 et 3,05**
+
+    - 3,5 = 3 + 5/10 = **3,50**
+    - 3,05 = 3 + 5/100 = **3,05**
+
+    3,5 > 3,05 (50 centièmes > 5 centièmes)
+
+    ---
+
+    **Piège 3 : Mal placer la virgule dans les additions**
+
+    ```
+    ❌ FAUX              ✅ CORRECT
+       12,7                12,70
+     +  3,85             +  3,85
+     ------              -------
+       16,55               16,55
+
+    Sans aligner, risque d'erreur !
+    ```
+
+    **TOUJOURS aligner les virgules !**
+
+    ---
+
+    **Piège 4 : × ou ÷ par 10, 100, 1000**
+
+    - × 10 → virgule vers la **DROITE** (le nombre devient plus grand)
+    - ÷ 10 → virgule vers la **GAUCHE** (le nombre devient plus petit)
+
+    3,45 × 10 = 34,5 (pas 0,345 !)
+
 ### Exemples
 
 !!! example "Compare 3,45 et 3,5"

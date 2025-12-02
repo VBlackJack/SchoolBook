@@ -59,6 +59,46 @@
 
     **À l'oral c'est toléré, mais à l'écrit le « ne » est OBLIGATOIRE !**
 
+??? warning "⚠️ Pièges à éviter : la phrase"
+    **Piège 1 : Confondre les 4 types de phrases**
+
+    | Type | Ponctuation | Exemple |
+    |------|-------------|---------|
+    | Déclarative | **.** | "Il fait beau." |
+    | Interrogative | **?** | "Il fait beau ?" |
+    | Exclamative | **!** | "Qu'il fait beau !" |
+    | Impérative | **.** ou **!** | "Viens ici !" |
+
+    **Attention : l'impérative n'a pas toujours "!" !**
+
+    ---
+
+    **Piège 2 : L'inversion sujet-verbe mal formée**
+
+    - ❌ "Va-tu au cinéma ?" → ✅ "**Vas**-tu au cinéma ?"
+    - ❌ "A il faim ?" → ✅ "**A-t-il** faim ?"
+
+    **On ajoute -t- entre deux voyelles pour la prononciation !**
+
+    ---
+
+    **Piège 3 : La virgule qui sépare sujet et verbe**
+
+    - ❌ "Marie, mange une pomme."
+    - ✅ "Marie mange une pomme."
+
+    **JAMAIS de virgule entre sujet et verbe !**
+
+    ---
+
+    **Piège 4 : Confondre phrase simple et complexe**
+
+    Compte les **verbes conjugués** :
+    - 1 verbe = phrase **simple**
+    - 2+ verbes = phrase **complexe**
+
+    "Le chat dort et le chien joue" = **complexe** (2 verbes)
+
 !!! example "La ponctuation dans les jeux et sur les réseaux"
 
     **Points d'exclamation = enthousiasme/émotion**
@@ -120,6 +160,28 @@
 
 !!! tip "Mots exclamatifs"
     Quel(le)(s), comme, que, qu'est-ce que...
+
+??? abstract "🔄 Autre façon de comprendre : les 4 types de phrases"
+    **Les 4 types = 4 intentions différentes**
+
+    Imagine que tu es dans un jeu :
+
+    | Type | Tu veux... | Exemple dans un jeu |
+    |------|-----------|---------------------|
+    | **Déclarative** | Informer | "L'ennemi est à 200m." |
+    | **Interrogative** | Demander | "Tu as des munitions ?" |
+    | **Exclamative** | Exprimer une émotion | "On a gagné !" |
+    | **Impérative** | Donner un ordre | "Couvre-moi !" |
+
+    ---
+
+    **L'astuce de la ponctuation :**
+    ```
+    Information → .  (point calme)
+    Question    → ?  (crochet pour accrocher une réponse)
+    Émotion     → !  (bâton dressé d'enthousiasme)
+    Ordre       → . ou !  (selon l'intensité)
+    ```
 
 ### La phrase impérative
 
@@ -185,6 +247,32 @@
     - ❌ J'ai pas compris.
     - ✅ Je **n'**ai **pas** compris.
 
+??? abstract "🔄 Autre façon de comprendre : la négation"
+    **La négation, c'est un SANDWICH !**
+
+    Le verbe est la viande, et la négation est le pain qui l'entoure :
+
+    ```
+    Pain supérieur : NE / N'
+         Viande    : VERBE
+    Pain inférieur : PAS / PLUS / JAMAIS / RIEN / PERSONNE
+    ```
+
+    **Exemples de sandwichs :**
+    - Je **ne** mange **pas** → sandwich classique
+    - Je **ne** mange **plus** → sandwich "arrêt"
+    - Je **ne** mange **jamais** → sandwich "zéro fois"
+    - Je **ne** mange **rien** → sandwich "zéro chose"
+
+    ---
+
+    **Pourquoi on oublie le "ne" à l'oral ?**
+
+    À l'oral, on parle vite et le "ne" est tout petit, alors on le zappe :
+    - "J'ai pas faim" (oral) → "Je **n'**ai **pas** faim" (écrit)
+
+    **Mais à l'écrit, le sandwich doit être COMPLET !**
+
 ### Place de la négation avec les temps composés
 
 !!! tip "Règle"
@@ -244,6 +332,35 @@
 !!! danger "Ne pas séparer sujet et verbe !"
     - ❌ Marie, mange une pomme.
     - ✅ Marie mange une pomme.
+
+??? abstract "🔄 Autre façon de comprendre : la ponctuation"
+    **La ponctuation, c'est comme la respiration !**
+
+    Quand tu parles, tu fais des pauses. À l'écrit, la ponctuation représente ces pauses :
+
+    | Signe | Durée de pause | Quand |
+    |-------|----------------|-------|
+    | **,** | Courte pause | Entre les éléments d'une liste, après un CC |
+    | **;** | Pause moyenne | Entre deux idées liées |
+    | **.** | Longue pause | Fin de phrase |
+    | **:** | "Attention, voici..." | Avant une explication ou une liste |
+
+    ---
+
+    **L'astuce "manger mamie" :**
+
+    Compare :
+    - "On mange mamie" → Tu manges ta grand-mère ! 😱
+    - "On mange, mamie" → Tu dis à mamie qu'on mange 😊
+
+    **La virgule sauve des vies !**
+
+    ---
+
+    **Quand mettre une virgule :**
+    1. **Énumération** : "J'aime le foot, le basket et le tennis."
+    2. **Après un CC en début** : "Hier, je suis allé au parc."
+    3. **Avant mais/car/donc** : "Je suis fatigué, mais je continue."
 
 ### Les deux-points
 
@@ -324,6 +441,38 @@
     1. **Juxtaposition** (virgule, point-virgule) : Le chat dort, le chien joue.
     2. **Coordination** (et, ou, mais, donc...) : Le chat dort et le chien joue.
     3. **Subordination** (que, qui, quand, si...) : Je pense que tu as raison.
+
+??? abstract "🔄 Autre façon de comprendre : phrase simple et complexe"
+    **Compte les verbes conjugués = compte les propositions !**
+
+    - 1 verbe conjugué = 1 proposition = phrase **simple**
+    - 2+ verbes conjugués = 2+ propositions = phrase **complexe**
+
+    ```
+    "Le chat dort."
+         ↓
+    1 verbe (dort) = phrase SIMPLE
+
+    "Le chat dort et le chien joue."
+         ↓              ↓
+    2 verbes (dort, joue) = phrase COMPLEXE
+    ```
+
+    ---
+
+    **Les 3 façons de relier = 3 types de "colle"**
+
+    | Type de colle | Comment ça colle | Exemple |
+    |---------------|------------------|---------|
+    | **Juxtaposition** | Juste posé à côté (virgule) | "Il pleut, je reste." |
+    | **Coordination** | Collé avec un mot-lien | "Il pleut **et** je reste." |
+    | **Subordination** | Une phrase dépend de l'autre | "Je reste **parce qu'**il pleut." |
+
+    ---
+
+    **Les mots qui relient :**
+    - **Coordination** : mais, ou, et, donc, or, ni, car (MAIS OÙ EST DONC ORNICAR ?)
+    - **Subordination** : que, qui, quand, si, parce que, lorsque, comme...
 
 ---
 

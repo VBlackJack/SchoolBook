@@ -54,6 +54,44 @@
 
     C'était comme des SMS gravés dans l'argile !
 
+??? warning "⚠️ Pièges à éviter : premiers États et écritures"
+    **Piège 1 : Confondre Mésopotamie et Égypte**
+
+    | Critère | Mésopotamie | Égypte |
+    |---------|-------------|--------|
+    | Localisation | Irak actuel | Égypte actuelle |
+    | Fleuve(s) | Tigre + Euphrate | Nil |
+    | Écriture | **Cunéiforme** | **Hiéroglyphes** |
+    | Support | Tablette d'**argile** | **Papyrus** ou pierre |
+    | Chef | Roi | **Pharaon** (roi-dieu) |
+
+    ---
+
+    **Piège 2 : L'invention de l'écriture**
+
+    - ❌ L'écriture a été inventée pour écrire des poèmes → FAUX !
+    - ✅ L'écriture a été inventée pour **compter** et **gérer** (raisons économiques)
+
+    Les premiers textes = des comptes de moutons et de blé !
+
+    ---
+
+    **Piège 3 : Confondre Préhistoire et Histoire**
+
+    - **Préhistoire** = AVANT l'écriture
+    - **Histoire** = APRÈS l'invention de l'écriture (-3300)
+
+    L'écriture marque le passage de l'un à l'autre !
+
+    ---
+
+    **Piège 4 : Le pharaon n'est pas un roi ordinaire**
+
+    - ❌ Le pharaon est juste un roi → FAUX !
+    - ✅ Le pharaon est un **roi-dieu**, fils du dieu Rê
+
+    Il a des pouvoirs politiques, religieux ET militaires !
+
 !!! example "Les premiers codes de lois = base de notre justice"
 
     **Le Code de Hammurabi (-1750) établissait déjà :**
@@ -139,6 +177,30 @@ Les fleuves permettent :
 - **Les crues** : déposer du limon fertile
 - **Le transport** : faciliter les échanges
 - **L'eau potable** : pour boire et les animaux
+
+??? abstract "🔄 Autre façon de comprendre : pourquoi les fleuves ?"
+    **Les fleuves = les premières "autoroutes" de l'humanité !**
+
+    Imagine un monde sans camions, sans trains, sans avions :
+    - Comment transporter des tonnes de blé ?
+    - Comment faire du commerce avec des villes lointaines ?
+
+    → La réponse : les bateaux sur les fleuves !
+
+    ---
+
+    **Le fleuve, c'est la vie :**
+
+    1. **Eau** = tu peux boire, tes animaux aussi
+    2. **Crues** = le fleuve déborde et dépose de la terre fertile (gratuit !)
+    3. **Transport** = plus facile que par la route
+    4. **Pêche** = nourriture supplémentaire
+
+    **C'est pour ça que toutes les grandes civilisations sont nées près de fleuves :**
+    - Égypte → Nil
+    - Mésopotamie → Tigre et Euphrate
+    - Inde → Indus
+    - Chine → Fleuve Jaune
 
 ```
     IMPORTANCE DU FLEUVE
@@ -245,6 +307,41 @@ Les fleuves permettent :
 | Nombre de signes | ~600 | ~700 |
 
 ### 2.4 L'importance de l'écriture
+
+??? abstract "🔄 Autre façon de comprendre : l'invention de l'écriture"
+    **L'écriture, c'est comme sauvegarder dans un jeu vidéo !**
+
+    Avant l'écriture :
+    - Les connaissances étaient dans la tête des gens
+    - Si quelqu'un mourait, ses connaissances disparaissaient
+    - Comme jouer sans jamais sauvegarder !
+
+    Après l'écriture :
+    - Tu peux "sauvegarder" les connaissances sur argile ou papyrus
+    - Les générations futures peuvent y accéder
+    - C'est comme une sauvegarde cloud éternelle !
+
+    ---
+
+    **Pourquoi les comptables ont inventé l'écriture ?**
+
+    Ce n'est pas pour écrire de la poésie ! C'était pour :
+    - "J'ai donné 50 moutons au roi" → NOTER
+    - "Ce paysan doit 20 sacs de blé" → NOTER
+    - "Le temple a reçu 100 jarres d'huile" → NOTER
+
+    L'écriture est née de la comptabilité, pas de la littérature !
+
+    ---
+
+    **Cunéiforme vs Hiéroglyphes :**
+
+    | Cunéiforme | Hiéroglyphes |
+    |------------|--------------|
+    | Mésopotamie (Irak) | Égypte |
+    | Sur argile (facile à trouver) | Sur papyrus (plante du Nil) |
+    | Forme de clous | Beaux dessins |
+    | Plus pratique | Plus décoratif |
 
 L'invention de l'écriture permet de :
 

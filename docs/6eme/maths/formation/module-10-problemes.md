@@ -52,6 +52,49 @@
     - ❌ Réponse piège : 15 - 7 = 8 billes (c'est ce qui reste à TOM !)
     - ✅ Bonne réponse : On ne sait pas ! On ne connaît pas ce que Léa avait avant !
 
+??? warning "⚠️ Pièges à éviter : résolution de problèmes"
+    **Piège 1 : Ne pas lire la question jusqu'au bout**
+
+    TOUJOURS relire la question APRÈS avoir fait les calculs !
+
+    "Combien **reste**-t-il ?" ≠ "Combien **dépense**-t-il ?"
+
+    ---
+
+    **Piège 2 : Se fier aux mots-clés sans réfléchir**
+
+    Le mot "reste" n'implique pas toujours une soustraction !
+
+    "J'ai 20€. J'achète 3 objets à 4€. Combien me reste-t-il ?"
+    - Étape 1 : 3 × 4 = 12€ (multiplication)
+    - Étape 2 : 20 - 12 = 8€ (soustraction)
+
+    ---
+
+    **Piège 3 : Oublier l'unité dans la réponse**
+
+    - ❌ "Il parcourt 45" → 45 quoi ? km ? m ? minutes ?
+    - ✅ "Il parcourt **45 km**"
+
+    **Sans unité, ta réponse est incomplète !**
+
+    ---
+
+    **Piège 4 : Ne pas vérifier si la réponse est logique**
+
+    Questions à se poser :
+    - Un enfant peut-il peser 500 kg ? → NON, erreur !
+    - Un jeu peut-il coûter 0,50€ si on a dit qu'il coûtait cher ? → NON !
+    - Peut-on avoir plus à la fin qu'au début si on a dépensé ? → NON !
+
+    ---
+
+    **Piège 5 : Arrondir au mauvais moment**
+
+    Pour les problèmes de "combien de boîtes faut-il" :
+    - Si 78,5 ÷ 10 = 7,85 → Il faut **8 boîtes** (arrondir au supérieur)
+    - On ne peut pas acheter 0,85 boîte !
+
 ---
 
 ## Leçon 1 : Comprendre un énoncé
@@ -88,6 +131,35 @@
     Reformule la question avec tes propres mots.
 
     *"Combien paie-t-elle ?"* → *"Je dois trouver le prix total."*
+
+??? abstract "🔄 Autre façon de comprendre : résoudre un problème"
+    **La méthode CRAC :**
+
+    - **C**omprendre : Lis plusieurs fois, surligne les données importantes
+    - **R**éfléchir : Quelle opération ? Addition ? Multiplication ?
+    - **A**gir : Fais le calcul proprement
+    - **C**onclure : Réponds avec une phrase complète et l'unité
+
+    ---
+
+    **Le schéma, ton meilleur ami !**
+
+    Quand tu ne comprends pas, **DESSINE** !
+
+    - Problème de distance → dessine une ligne avec des points
+    - Problème de partage → dessine des parts
+    - Problème d'achat → dessine les objets avec leur prix
+
+    ---
+
+    **Les questions à se poser :**
+
+    1. De quoi parle le problème ?
+    2. Qu'est-ce qu'on me demande de trouver ?
+    3. Qu'est-ce que je connais déjà ?
+    4. Est-ce que le résultat doit être plus grand ou plus petit ?
+
+    **La dernière question permet de vérifier si ta réponse est logique !**
 
 ---
 

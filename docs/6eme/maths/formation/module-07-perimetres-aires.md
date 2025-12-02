@@ -87,6 +87,65 @@
     | mm, cm, m, km | mm², cm², m², km² |
     | (longueur) | (longueur × longueur) |
 
+??? warning "⚠️ Pièges à éviter : périmètre et aire"
+    **Piège 1 : Confondre périmètre et aire**
+
+    - **Périmètre** = le TOUR (une longueur, en cm, m...)
+    - **Aire** = la SURFACE (en cm², m²...)
+
+    Un rectangle 5 cm × 3 cm :
+    - Périmètre = 2 × (5 + 3) = **16 cm** (pas cm² !)
+    - Aire = 5 × 3 = **15 cm²** (pas cm !)
+
+    ---
+
+    **Piège 2 : Oublier le "÷2" dans l'aire du triangle**
+
+    Aire du triangle = (base × hauteur) **÷ 2**
+
+    - ❌ A = 6 × 4 = 24 cm² → FAUX !
+    - ✅ A = (6 × 4) ÷ 2 = **12 cm²**
+
+    ---
+
+    **Piège 3 : Utiliser le diamètre au lieu du rayon**
+
+    Pour le disque : A = π × **r²** (rayon au carré, pas diamètre !)
+
+    Si on te donne le diamètre = 10 cm :
+    - ❌ A = π × 10² = 314 cm² → FAUX !
+    - ✅ Rayon = 10 ÷ 2 = 5 cm, puis A = π × 5² = **78,5 cm²**
+
+    ---
+
+    **Piège 4 : Mauvaise formule du périmètre du rectangle**
+
+    - ❌ P = L × l → c'est l'AIRE !
+    - ✅ P = 2 × (L + l) ou P = 2L + 2l
+
+??? abstract "🔄 Autre façon de comprendre : périmètre vs aire"
+    **Imagine une piscine :**
+
+    - **Périmètre** = la longueur de la **barrière** autour de la piscine (tu marches le long du bord)
+    - **Aire** = la quantité d'**eau** pour remplir la piscine (tu couvres la surface)
+
+    ---
+
+    **Autre image : un cadre photo**
+
+    - **Périmètre** = la longueur du **cadre** (le tour)
+    - **Aire** = la taille de la **photo** (ce qu'on voit à l'intérieur)
+
+    ---
+
+    **Pourquoi le ² pour l'aire ?**
+
+    Parce qu'on multiplie deux longueurs ensemble :
+    - 3 cm × 4 cm = 12 cm² (centimètres carrés)
+    - cm × cm = cm²
+
+    **C'est comme des petits carrés de 1 cm de côté qu'on compte !**
+
 ---
 
 ## Leçon 2 : Périmètre des polygones

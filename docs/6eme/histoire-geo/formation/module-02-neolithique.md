@@ -51,6 +51,46 @@
 
     **Conclusion : la sédentarisation a créé le confort moderne !**
 
+??? warning "⚠️ Pièges à éviter : la révolution néolithique"
+    **Piège 1 : Confondre les deux périodes**
+
+    | Critère | Paléolithique | Néolithique |
+    |---------|---------------|-------------|
+    | Signification | Pierre **ancienne** | Pierre **nouvelle** |
+    | Mode de vie | **Nomade** | **Sédentaire** |
+    | Nourriture | Chasse, cueillette | **Agriculture**, élevage |
+    | Outils | Pierre **taillée** | Pierre **polie** |
+
+    ---
+
+    **Piège 2 : Croire que le Néolithique = progrès partout**
+
+    Le Néolithique a aussi apporté des problèmes :
+    - **Maladies** (vie en groupe, contact animaux)
+    - **Famines** (dépendance aux récoltes)
+    - **Conflits** pour les terres
+
+    Ce n'est pas que du positif !
+
+    ---
+
+    **Piège 3 : Confondre domestiquer et apprivoiser**
+
+    - **Apprivoiser** = rendre un animal individuel moins sauvage
+    - **Domestiquer** = modifier une espèce sur plusieurs générations
+
+    Les chiens sont **domestiqués** (ils ont changé génétiquement), un renard apprivoisé reste un animal sauvage.
+
+    ---
+
+    **Piège 4 : Mal situer le Croissant fertile**
+
+    Le Croissant fertile = **Proche-Orient** (Irak, Syrie, Turquie actuels)
+    - ❌ Ce n'est pas en Afrique
+    - ❌ Ce n'est pas en Europe
+
+    C'est là que sont nés l'agriculture et l'écriture !
+
 !!! example "Les mégalithes, premières constructions monumentales"
 
     **Tu connais peut-être :**
@@ -101,6 +141,29 @@ Il y a environ **10 000 ans**, les humains ont connu un changement majeur : au l
     - Elle commence vers **-10 000** au Proche-Orient
 
 Le mot « néolithique » signifie « âge de la pierre nouvelle » (les outils sont désormais **polis**, plus seulement taillés).
+
+??? abstract "🔄 Autre façon de comprendre : la révolution néolithique"
+    **C'est comme passer du niveau "survie" au niveau "créatif" dans Minecraft !**
+
+    | Avant (Paléolithique) | Après (Néolithique) |
+    |----------------------|---------------------|
+    | Tu cherches de la nourriture | Tu produis ta nourriture |
+    | Tu te déplaces sans arrêt | Tu restes au même endroit |
+    | Petits groupes (20-50) | Villages (100+) |
+    | Outils basiques | Outils perfectionnés + nouvelles inventions |
+
+    ---
+
+    **Pourquoi "révolution" ?**
+
+    On n'appelle pas ça une "évolution" car le changement est ÉNORME :
+
+    - Avant : tu vis au jour le jour, tu suis le gibier
+    - Après : tu contrôles ton environnement, tu planifies
+
+    C'est le plus grand changement de l'histoire humaine après l'invention du feu !
+
+    **Fun fact :** Sans cette révolution, tu n'aurais pas de pizza, de pain, de kebab... car ces aliments viennent de plantes cultivées !
 
 ### 1.2 Pourquoi « révolution » ?
 
@@ -354,6 +417,40 @@ Les premiers agriculteurs ont inventé de nouveaux outils :
 | **Pierre polie** | Outils plus efficaces |
 | **Roue** (plus tard) | Transport |
 | **Métallurgie** (fin Néolithique) | Outils en cuivre |
+
+??? abstract "🔄 Autre façon de comprendre : nomade vs sédentaire"
+    **Nomade = comme un joueur qui n'a pas de maison**
+
+    - Tu portes tout ce que tu as sur toi
+    - Tu ne peux pas accumuler de choses lourdes
+    - Tu dois bouger pour trouver de la nourriture
+
+    **Sédentaire = comme un joueur qui a construit sa base**
+
+    - Tu as une maison, des coffres, des stocks
+    - Tu peux créer des objets lourds (poterie, métiers à tisser)
+    - Tu cultives autour de ta base
+
+    ---
+
+    **Le cercle vertueux de la sédentarisation :**
+
+    ```
+    Sédentarisation
+         │
+         ▼
+    Plus de temps libre (pas de déplacement)
+         │
+         ▼
+    Spécialisation des métiers
+    (certains font de la poterie, d'autres tissent...)
+         │
+         ▼
+    Inventions et perfectionnement
+         │
+         ▼
+    Meilleure qualité de vie
+    ```
 
 ```
     NOUVELLES TECHNIQUES

@@ -56,6 +56,45 @@
     | « a.m. / p.m. » | ante meridiem / post meridiem |
     | « VS » (versus) | « contre » |
 
+??? warning "⚠️ Pièges à éviter : Rome"
+    **Piège 1 : Confondre République et Empire**
+
+    | République | Empire |
+    |------------|--------|
+    | -509 à -27 | -27 à +476 |
+    | Pouvoir **partagé** (consuls, Sénat) | Pouvoir **d'un seul** (empereur) |
+    | Magistrats **élus** pour 1 an | Empereur **à vie** |
+    | Jules César = dictateur (pas empereur !) | Auguste = 1er empereur |
+
+    ---
+
+    **Piège 2 : Confondre mythe et histoire**
+
+    - La **louve** qui allaite Romulus et Rémus = **LÉGENDE**
+    - L'existence de Rome vers -753 = **HISTOIRE** (preuves archéologiques)
+
+    Les Romains aimaient se créer des origines héroïques !
+
+    ---
+
+    **Piège 3 : Les dates négatives**
+
+    - -753 → "moins 753" = 753 ans **avant** Jésus-Christ
+    - +476 → 476 ans **après** Jésus-Christ
+    - Entre -753 et +476 = environ **1200 ans** d'histoire romaine
+
+    ---
+
+    **Piège 4 : Confondre les termes politiques**
+
+    - **Consul** = chef élu de la République (2 par an)
+    - **Sénateur** = membre du Sénat (conseil des anciens)
+    - **Empereur** = chef suprême de l'Empire
+    - **Patricien** = noble de naissance
+    - **Plébéien** = citoyen du peuple
+
+    Ce ne sont PAS des synonymes !
+
 !!! example "Les gladiateurs = les stars de l'époque !"
 
     **Comparaison avec aujourd'hui :**
@@ -104,6 +143,33 @@ Rome est d'abord une petite ville du Latium (Italie). En quelques siècles, elle
 
 !!! success "À retenir"
     Selon la **légende**, Rome est fondée en **-753** par **Romulus** après qu'il ait tué son frère jumeau **Rémus**.
+
+??? abstract "🔄 Autre façon de comprendre : mythe vs histoire"
+    **Les Romains avaient besoin d'une belle histoire pour leur ville !**
+
+    - La **légende** (mythe) = une histoire inventée pour expliquer quelque chose
+    - L'**histoire** = ce qui s'est vraiment passé, prouvé par des preuves
+
+    ---
+
+    **Pourquoi inventer une légende ?**
+
+    Les Romains voulaient dire :
+    - "On descend des héros de Troie" (Énée)
+    - "Les dieux nous ont protégés" (la louve)
+    - "Notre ville est bénie depuis le début"
+
+    C'est comme le storytelling d'une marque aujourd'hui !
+
+    ---
+
+    **La réalité (ce que les archéologues ont trouvé) :**
+
+    - Vers -800 : des bergers s'installent sur les collines près du Tibre
+    - Pas de louve, pas de jumeaux miraculeux
+    - Juste des gens ordinaires qui ont fondé un village
+
+    Mais la légende était plus cool à raconter !
 
 ```
     LA LÉGENDE DE ROMULUS ET RÉMUS
@@ -176,6 +242,44 @@ En réalité, Rome naît vers le **VIIIe siècle av. J.-C.** comme un petit vill
 
 !!! success "À retenir"
     En **-509**, les Romains chassent leur dernier roi (Tarquin le Superbe) et créent la **République**. Ce mot vient de *res publica* = « la chose publique ».
+
+??? abstract "🔄 Autre façon de comprendre : République vs Empire"
+    **Rome a eu 3 formes de gouvernement :**
+
+    ```
+    -753 à -509 : ROYAUTÉ (des rois)
+         │
+         ▼
+    -509 à -27  : RÉPUBLIQUE (des élus)
+         │
+         ▼
+    -27 à +476  : EMPIRE (des empereurs)
+    ```
+
+    ---
+
+    **République = "la chose publique"**
+
+    - Personne ne possède le pouvoir seul
+    - Plusieurs personnes sont élues pour gouverner
+    - Mandats courts (1 an pour les consuls)
+    - C'est l'ancêtre de nos républiques modernes !
+
+    **Empire = "un seul chef suprême"**
+
+    - L'empereur a tous les pouvoirs
+    - À vie (pas d'élection)
+    - Pouvoir transmis souvent dans la famille
+
+    ---
+
+    **Comparaison avec aujourd'hui :**
+
+    | Rome République | France aujourd'hui |
+    |-----------------|-------------------|
+    | 2 consuls élus | 1 président élu |
+    | Sénat | Sénat + Assemblée |
+    | Citoyens votent | Citoyens votent |
 
 ### 2.2 Les institutions républicaines
 

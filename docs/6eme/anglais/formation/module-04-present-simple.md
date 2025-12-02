@@ -60,6 +60,65 @@
     - study → He stud**IES**
     - try → She tr**IES**
 
+??? warning "⚠️ Pièges à éviter : présent simple"
+
+    **Piège 1 : Oublier le -S à la 3ème personne**
+
+    - ❌ "She play tennis"
+    - ✅ "She play**S** tennis"
+
+    **"He, She, It - le S est petit mais n'oublie pas !"**
+
+    ---
+
+    **Piège 2 : Les terminaisons spéciales**
+
+    | Fin du verbe | Règle | Exemple |
+    |--------------|-------|---------|
+    | -S, -SH, -CH, -X, -O | + **ES** | watch**ES**, go**ES** |
+    | consonne + Y | Y → **IES** | stud**IES**, tr**IES** |
+    | voyelle + Y | + **S** | play**S**, stay**S** |
+
+    ❌ "She watchs TV" → ✅ "She watch**ES** TV"
+    ❌ "He studys" → ✅ "He stud**IES**"
+
+    ---
+
+    **Piège 3 : Remettre le -S avec DOESN'T**
+
+    Avec DOESN'T, le verbe reste à la base verbale (SANS -S) !
+
+    - ❌ "She doesn't play**S** tennis"
+    - ✅ "She doesn't **play** tennis"
+
+    **Le -S "disparaît" dans DOESN'T !**
+
+    ---
+
+    **Piège 4 : Confondre DO et DOES**
+
+    | Sujet | Auxiliaire |
+    |-------|-----------|
+    | I / You / We / They | **DO** / **DON'T** |
+    | He / She / It | **DOES** / **DOESN'T** |
+
+    - ❌ "Does you like pizza?"
+    - ✅ "**Do** you like pizza?"
+
+    ---
+
+    **Piège 5 : Position de l'adverbe de fréquence**
+
+    | Avec verbe normal | Avec BE |
+    |-------------------|---------|
+    | **Avant** le verbe | **Après** BE |
+    | I **always eat** | I **am always** happy |
+
+    - ❌ "I eat always breakfast"
+    - ✅ "I **always eat** breakfast"
+    - ❌ "She always is late"
+    - ✅ "She **is always** late"
+
 !!! example "Adverbes de fréquence = stats de joueur"
 
     **Comme une barre de fréquence :**
@@ -91,6 +150,40 @@
     - **Vérités générales** : The sun rises in the east.
     - **Goûts et préférences** : I like chocolate.
     - **Routines** : She wakes up at 7 o'clock.
+
+??? abstract "🔄 Autre façon de comprendre : présent simple"
+    **Le présent simple = ce qui est TOUJOURS vrai ou RÉGULIER**
+
+    Imagine ta fiche de personnage dans un RPG :
+    - **Classe** : "I **am** a warrior" (je suis un guerrier) → toujours vrai
+    - **Habileté** : "I **fight** with a sword" (je combats à l'épée) → habitude
+    - **Stats** : "I **like** magic" (j'aime la magie) → goût permanent
+
+    ---
+
+    **LA RÈGLE D'OR : le -S de la 3ème personne**
+
+    ```
+    I play       We play
+    You play     You play
+    HE/SHE/IT playS   They play
+    ```
+
+    **Astuce mnémotechnique :**
+    "He, She, It - ne l'oublie pas, c'est le S qui fait la différence !"
+
+    ---
+
+    **Les pièges de l'orthographe avec le -S :**
+
+    | Fin du verbe | Règle | Exemple |
+    |--------------|-------|---------|
+    | consonne | + S | play → plays |
+    | -S, -SH, -CH, -X, -O | + ES | watch → watch**ES** |
+    | consonne + Y | Y → IES | study → stud**IES** |
+    | voyelle + Y | + S | play → plays |
+
+    **DO/GO → DOES/GOES** (exceptions à retenir !)
 
 ### 1.2 Marqueurs de temps
 

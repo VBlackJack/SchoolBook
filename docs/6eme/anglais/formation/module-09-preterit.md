@@ -65,6 +65,67 @@
 
     **Astuce : apprends-les par groupes !**
 
+??? warning "⚠️ Pièges à éviter : le prétérit"
+
+    **Piège 1 : Ajouter -ED aux verbes irréguliers**
+
+    | ❌ Erreur | ✅ Correct |
+    |----------|-----------|
+    | go**ed** | **went** |
+    | see**ed** | **saw** |
+    | have**ed** | **had** |
+
+    **Les verbes irréguliers ne prennent PAS -ED !**
+
+    ---
+
+    **Piège 2 : Garder le prétérit avec DID/DIDN'T**
+
+    Avec DID ou DIDN'T, le verbe retourne à la base verbale !
+
+    - ❌ "Did you **went** to school?"
+    - ✅ "Did you **go** to school?"
+    - ❌ "I didn't **played**"
+    - ✅ "I didn't **play**"
+
+    ---
+
+    **Piège 3 : L'orthographe des réguliers**
+
+    | Fin du verbe | Règle | Exemple |
+    |--------------|-------|---------|
+    | -E | + D | like → lik**ed** |
+    | consonne + Y | Y → **IED** | study → stud**ied** |
+    | CVC court | doubler | stop → sto**pped** |
+
+    ❌ "stoped" → ✅ "sto**pp**ed"
+    ❌ "tryed" → ✅ "tr**ied**"
+
+    ---
+
+    **Piège 4 : WAS vs WERE**
+
+    | Sujet | Verbe |
+    |-------|-------|
+    | I / He / She / It | **WAS** |
+    | You / We / They | **WERE** |
+
+    ❌ "They was happy"
+    ✅ "They **were** happy"
+
+    ---
+
+    **Piège 5 : Les marqueurs de temps du passé**
+
+    | Marqueur | Signification |
+    |----------|---------------|
+    | **yesterday** | hier |
+    | **last** week/month | semaine/mois dernier |
+    | **... ago** | il y a ... |
+
+    Si tu vois ces mots → prétérit !
+    ❌ "Yesterday I play" → ✅ "Yesterday I **played**"
+
 !!! example "Raconter ta partie d'hier"
 
     **Exemple de récit :**
@@ -83,6 +144,52 @@
 
 !!! success "À retenir"
     Le **prétérit** (Past Simple) sert à parler d'une action **terminée** dans le **passé**.
+
+??? abstract "🔄 Autre façon de comprendre : le prétérit"
+    **Le prétérit = le temps des histoires terminées !**
+
+    Pense aux recaps de parties ou aux histoires :
+    - "Yesterday, I **played**..." (Hier, j'ai joué...)
+    - "Last week, she **won**..." (La semaine dernière, elle a gagné...)
+
+    ---
+
+    **Verbes réguliers = facile, ajoute -ED !**
+
+    ```
+    play → played
+    watch → watched
+    like → liked
+    ```
+
+    **Mais attention à l'orthographe :**
+    - Verbe en -E → juste -D (like → liked)
+    - Verbe en consonne + Y → -IED (try → tried)
+    - Verbe court (consonne-voyelle-consonne) → doubler (stop → stopped)
+
+    ---
+
+    **Verbes irréguliers = pas de règle, il faut les apprendre !**
+
+    **Astuce pour mémoriser : fais des groupes !**
+
+    | Groupe | Infinitif → Prétérit |
+    |--------|---------------------|
+    | Pas de changement | cut → cut, put → put |
+    | Son "o" | go → went, do → did |
+    | Son "ou/aw" | see → saw, know → knew |
+    | Son "ought" | buy → bought, think → thought |
+
+    ---
+
+    **La question et la négation au prétérit :**
+
+    On utilise **DID** + verbe à l'infinitif :
+    - Affirmative : "I **played**"
+    - Négative : "I **did not (didn't) play**"
+    - Question : "**Did** you **play**?"
+
+    **Attention : on ne dit PAS "Did you played?"** ❌
 
 ```
     QUAND UTILISER LE PRÉTÉRIT ?

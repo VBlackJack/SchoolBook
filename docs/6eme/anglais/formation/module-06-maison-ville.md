@@ -46,6 +46,52 @@
     | **in front of** | devant | The car is **in front of** the house |
     | **behind** | derrière | The garden is **behind** the house |
 
+??? abstract "🔄 Autre façon de comprendre : les prépositions de lieu"
+    **Les prépositions = des GPS en anglais !**
+
+    Imagine que tu dois expliquer où se trouve un objet dans Minecraft ou The Sims :
+
+    ```
+    Position d'un objet par rapport à un autre :
+
+                  ABOVE / ON TOP OF (au-dessus)
+                        ↑
+    BEHIND ←──── [📦 BOÎTE] ────→ IN FRONT OF
+    (derrière)        │           (devant)
+                      ↓
+                    UNDER
+                    (sous)
+
+    À gauche : NEXT TO        À droite : NEXT TO
+               BESIDE                    BESIDE
+    ```
+
+    ---
+
+    **Les 3 prépositions de base à retenir :**
+
+    | Préposition | Position | Mnémotechnique |
+    |-------------|----------|----------------|
+    | **IN** | À l'intérieur | IN = dedans (INtérieur) |
+    | **ON** | Sur/dessus | ON = dessus |
+    | **UNDER** | Sous/dessous | UNDER = dessous |
+
+    ---
+
+    **THERE IS vs THERE ARE = compter les objets !**
+
+    - **There IS** → 1 seul objet (singulier)
+    - **There ARE** → plusieurs objets (pluriel)
+
+    ```
+    There is A cat.        (1 chat)
+    There are TWO cats.    (2 chats)
+    ```
+
+    **Astuce : regarde ce qui vient APRÈS !**
+    - A/An/One → There IS
+    - Nombre > 1 ou pluriel → There ARE
+
 !!! warning "British vs American English"
 
     | British (UK) | American (US) | Français |
@@ -56,6 +102,55 @@
     | **ground floor** | **first floor** | rez-de-chaussée |
 
     **Dans les jeux américains, tu verras souvent la version US !**
+
+??? warning "⚠️ Pièges à éviter : maison et ville"
+
+    **Piège 1 : Confondre les prépositions IN, ON, UNDER**
+
+    | Préposition | Signification | Exemple |
+    |-------------|---------------|---------|
+    | **IN** | dans, à l'intérieur | The cat is **in** the box |
+    | **ON** | sur, dessus | The book is **on** the table |
+    | **UNDER** | sous, dessous | The dog is **under** the bed |
+
+    ❌ "The cat is on the box" (si le chat est dedans)
+    ✅ "The cat is **in** the box"
+
+    ---
+
+    **Piège 2 : THERE IS vs THERE ARE**
+
+    | Singulier | Pluriel |
+    |-----------|---------|
+    | There **IS** a cat | There **ARE** two cats |
+    | There **IS** a TV | There **ARE** many shops |
+
+    ❌ "There is two bedrooms"
+    ✅ "There **are** two bedrooms"
+
+    **Regarde ce qui vient APRÈS !**
+
+    ---
+
+    **Piège 3 : Confondre les pièces**
+
+    | Anglais | Français | Piège |
+    |---------|----------|-------|
+    | **bathroom** | salle de bain | ≠ toilet |
+    | **toilet / WC** | toilettes | pièce séparée |
+    | **living room** | salon | ≠ dining room |
+    | **dining room** | salle à manger | pour manger |
+
+    ---
+
+    **Piège 4 : NEXT TO vs BETWEEN**
+
+    - **NEXT TO** = à côté (un seul objet de référence)
+    - **BETWEEN** = entre (deux objets de référence)
+
+    ❌ "The lamp is between the desk" (il faut 2 objets !)
+    ✅ "The lamp is **next to** the desk"
+    ✅ "The lamp is **between** the desk and the bed"
 
 !!! example "La ville dans GTA / jeux open-world"
 

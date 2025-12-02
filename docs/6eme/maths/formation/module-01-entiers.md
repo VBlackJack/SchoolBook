@@ -86,6 +86,65 @@
     - Le **chiffre** des dizaines est **5**
     - Le **nombre** de dizaines est **345** (car 3 456 = 345 dizaines + 6 unités)
 
+??? warning "⚠️ Pièges à éviter : les grands nombres"
+    **Piège 1 : Confondre "chiffre de" et "nombre de"**
+
+    Dans **45 678** :
+    - ❌ "Le nombre des centaines est 6" → FAUX !
+    - ✅ Le **chiffre** des centaines est **6**
+    - ✅ Le **nombre** de centaines est **456** (car 45 678 = 456 × 100 + 78)
+
+    ---
+
+    **Piège 2 : Oublier les zéros intercalés**
+
+    - "Trois millions cinq mille" = **3 005 000** (pas 35 000 !)
+    - "Sept cent mille" = **700 000** (pas 70 000 !)
+
+    **Astuce : place chaque groupe dans le tableau de numération !**
+
+    ---
+
+    **Piège 3 : Les espaces dans les grands nombres**
+
+    - ❌ 45.236.781 (points = version anglaise)
+    - ❌ 45,236,781 (virgules = version anglaise)
+    - ✅ 45 236 781 (espaces = version française)
+
+    ---
+
+    **Piège 4 : L'arrondi - regarder le BON chiffre**
+
+    Pour arrondir à la centaine, regarde le chiffre des **dizaines** (pas des centaines !)
+
+    - 4 **3**47 arrondi à la centaine → 4 300 (car 4 < 5)
+    - 4 **6**47 arrondi à la centaine → 4 700 (car 6 ≥ 5)
+
+??? abstract "🔄 Autre façon de comprendre : Chiffre vs Nombre"
+    **Pense aux lettres et aux mots :**
+
+    - **Chiffre** = comme une **lettre** (A, B, C... → 0, 1, 2...)
+    - **Nombre** = comme un **mot** (formé de lettres → formé de chiffres)
+
+    Le mot "CHAT" est composé des lettres C, H, A, T.
+    Le nombre **3456** est composé des chiffres 3, 4, 5, 6.
+
+    ---
+
+    **Autre image : les étages d'un immeuble**
+
+    ```
+    3 456 = un immeuble de 4 étages
+
+    Étage 4 (milliers)  : 3 appartements  → 3 000
+    Étage 3 (centaines) : 4 appartements  →   400
+    Étage 2 (dizaines)  : 5 appartements  →    50
+    Étage 1 (unités)    : 6 appartements  →     6
+    ```
+
+    Le **chiffre** des dizaines (5) = combien d'appartements à l'étage 2
+    Le **nombre** de dizaines (345) = combien de "paquets de 10" au total
+
 ---
 
 ## ✏️ Exercices guidés - Leçon 1
@@ -164,6 +223,30 @@
 
 !!! example "Exemple"
     **4 527** = (4 × 10³) + (5 × 10²) + (2 × 10¹) + (7 × 10⁰)
+
+??? abstract "🔄 Autre façon de comprendre : la décomposition"
+    **Imagine des billets et des pièces :**
+
+    Pour payer **4 527 €**, tu pourrais utiliser :
+    - 4 billets de 1 000 € = 4 000 €
+    - 5 billets de 100 € = 500 €
+    - 2 billets de 10 € = 20 €
+    - 7 pièces de 1 € = 7 €
+
+    **Total : 4 000 + 500 + 20 + 7 = 4 527 €**
+
+    ---
+
+    **Les puissances de 10, c'est juste compter les zéros !**
+
+    | Puissance | Compte les zéros |
+    |-----------|-----------------|
+    | 10¹ = 10 | 1 zéro |
+    | 10² = 100 | 2 zéros |
+    | 10³ = 1 000 | 3 zéros |
+    | 10⁶ = 1 000 000 | 6 zéros |
+
+    **L'exposant = le nombre de zéros !**
 
 ---
 

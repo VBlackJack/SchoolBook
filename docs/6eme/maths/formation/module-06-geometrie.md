@@ -110,6 +110,28 @@
 | (d1) parallèle à (d2) | (d1) // (d2) | "d1 parallèle à d2" |
 | (d1) perpendiculaire à (d2) | (d1) ⊥ (d2) | "d1 perpendiculaire à d2" |
 
+??? abstract "🔄 Autre façon de comprendre : droites, segments, demi-droites"
+    **Imagine une route :**
+
+    - **Droite** = une route infinie des deux côtés (comme une autoroute qui va à l'infini)
+    - **Segment** = un morceau de route avec un début et une fin (entre deux villes)
+    - **Demi-droite** = une route qui part d'un point et continue à l'infini (sortie de ville vers l'horizon)
+
+    ---
+
+    **Pour les positions relatives, pense aux rails de train :**
+
+    - **Parallèles** = les deux rails ne se touchent jamais, ils gardent toujours la même distance
+    - **Sécantes** = deux routes qui se croisent à un carrefour
+    - **Perpendiculaires** = un croisement en forme de + ou T (angle droit)
+
+    ---
+
+    **Comment reconnaître un angle droit ?**
+
+    Utilise le coin d'une feuille de papier ou d'une équerre.
+    Si ça correspond parfaitement → c'est un angle droit → perpendiculaires !
+
 ---
 
 ## Exercices guidés - Leçon 1
@@ -195,6 +217,42 @@
 !!! warning "Attention aux deux graduations !"
     Le rapporteur a deux échelles (0°-180° dans les deux sens).
     Utilise celle qui commence à **0°** sur le côté de l'angle.
+
+??? warning "⚠️ Pièges à éviter : géométrie"
+    **Piège 1 : Confondre droite, demi-droite et segment**
+
+    | Élément | Notation | Caractéristique |
+    |---------|----------|-----------------|
+    | Droite | (AB) | Infinie des 2 côtés |
+    | Demi-droite | [AB) | Origine A, infinie d'un côté |
+    | Segment | [AB] | Deux extrémités, longueur finie |
+
+    **Les crochets [ ] indiquent les extrémités !**
+
+    ---
+
+    **Piège 2 : Le rapporteur - quelle graduation ?**
+
+    Le rapporteur a DEUX échelles ! Utilise celle qui commence à **0°** sur ton côté.
+
+    - ❌ Lire 120° alors que l'angle est aigu → c'était 60° !
+    - ✅ Si l'angle semble petit (aigu), le résultat doit être < 90°
+
+    ---
+
+    **Piège 3 : Les diagonales du rectangle**
+
+    - ❌ Les diagonales du rectangle sont des axes de symétrie → FAUX !
+    - ✅ Seules les diagonales du **carré** sont des axes de symétrie
+
+    ---
+
+    **Piège 4 : Diamètre vs Rayon**
+
+    - Diamètre = 2 × Rayon (le diamètre passe par le centre)
+    - Rayon = Diamètre ÷ 2
+
+    Si on te donne le diamètre et qu'on demande le rayon, **divise par 2 !**
 
 ---
 

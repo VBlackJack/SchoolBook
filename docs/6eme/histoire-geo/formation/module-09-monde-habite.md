@@ -63,6 +63,65 @@
     - Himalaya (trop haut)
     - Australie intérieure (désert)
 
+??? warning "⚠️ Pièges à éviter : population mondiale"
+
+    **Piège 1 : Confondre foyer de peuplement et pays peuplé**
+
+    | Foyer de peuplement | Pays le plus peuplé |
+    |---------------------|---------------------|
+    | **Région** densément peuplée | Un **pays** avec beaucoup d'habitants |
+    | Ex : Asie du Sud (Inde + Bangladesh + Pakistan) | Ex : Chine (1,4 milliard) |
+
+    ❌ "La Chine est un foyer de peuplement"
+    ✅ L'**Asie de l'Est** est un foyer de peuplement (dont la Chine fait partie)
+
+    ---
+
+    **Piège 2 : Confondre densité et population totale**
+
+    | Exemple | Population | Densité |
+    |---------|------------|---------|
+    | **Monaco** | 40 000 hab | **19 000 hab/km²** (record !) |
+    | **Russie** | 145 millions | 8 hab/km² |
+
+    La Russie a beaucoup plus d'habitants, mais Monaco est **bien plus dense** !
+
+    ---
+
+    **Piège 3 : Confondre transition démographique et migrations**
+
+    | Transition démographique | Migrations |
+    |-------------------------|------------|
+    | Évolution natalité/mortalité | Déplacements de population |
+    | Naturelle (naissances/décès) | Géographique (mouvement) |
+
+    ❌ "La transition démographique = les gens qui se déplacent"
+    ✅ Transition = passage de forte à faible natalité/mortalité
+
+    ---
+
+    **Piège 4 : Inverser les facteurs push et pull**
+
+    | Push (répulsif) | Pull (attractif) |
+    |-----------------|------------------|
+    | Ce qui fait **partir** | Ce qui **attire** |
+    | Guerre, pauvreté, famine | Emploi, sécurité, famille |
+
+    **Astuce mnémotechnique :**
+    - **Push** = pousse (à partir)
+    - **Pull** = tire (vers soi, attire)
+
+    ---
+
+    **Piège 5 : Croire que la population augmente partout**
+
+    - ❌ "La population augmente dans tous les pays"
+    - ✅ Croissance **inégale** :
+      - **Afrique** : croissance forte
+      - **Europe/Japon** : croissance faible ou **négative** (vieillissement)
+
+    Certains pays comme l'Allemagne ou le Japon perdent des habitants !
+
 !!! example "L'explosion démographique en chiffres"
 
     **Croissance de la population :**
@@ -116,6 +175,40 @@ La population mondiale atteint aujourd'hui **8 milliards d'habitants**. Mais cet
 
 !!! success "À retenir"
     La population mondiale est **très inégalement répartie**. Il existe des zones très densément peuplées (les **foyers de peuplement**) et des zones presque vides (les **déserts humains**).
+
+??? abstract "🔄 Autre façon de comprendre : pourquoi on vit là où on vit ?"
+    **Les humains s'installent là où c'est facile de vivre !**
+
+    **Ce qui attire les gens :**
+    - ✅ Eau douce (fleuves, lacs)
+    - ✅ Climat tempéré (ni trop chaud, ni trop froid)
+    - ✅ Terres fertiles (pour cultiver)
+    - ✅ Accès à la mer (commerce)
+
+    **Ce qui repousse les gens :**
+    - ❌ Déserts (pas d'eau)
+    - ❌ Montagnes très hautes (froid, difficile d'accès)
+    - ❌ Forêts denses (difficile à cultiver)
+    - ❌ Zones polaires (trop froid)
+
+    ---
+
+    **Les 3 grands foyers de peuplement = là où tout a commencé**
+
+    | Foyer | Pourquoi ? |
+    |-------|-----------|
+    | **Asie de l'Est** | Riziculture (le riz nourrit énormément de monde) |
+    | **Asie du Sud** | Mousson = eau pour l'agriculture |
+    | **Europe** | Climat tempéré, agriculture ancienne |
+
+    Ces régions sont peuplées depuis des milliers d'années = effet boule de neige !
+
+    ---
+
+    **8 milliards d'humains, mais :**
+    - 90% vivent dans l'hémisphère Nord
+    - 60% vivent en Asie
+    - Très peu vivent dans les déserts, montagnes, forêts tropicales
 
 ```
     CARTE SIMPLIFIÉE DE LA POPULATION MONDIALE

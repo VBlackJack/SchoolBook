@@ -56,6 +56,47 @@
     | Oubli du « ne » | j'ai pas vu | je n'ai pas vu |
     | Familier à l'écrit | c'est ouf | c'est incroyable |
 
+??? warning "⚠️ Pièges à éviter : rédaction"
+    **Piège 1 : Commencer sans analyser le sujet**
+
+    Avant d'écrire, réponds à ces questions :
+    - Quel type de texte ? (récit, description, dialogue...)
+    - Qui parle ? (je, il, narrateur...)
+    - Quel temps ? (passé, présent...)
+
+    ---
+
+    **Piège 2 : Mélanger imparfait et passé simple**
+
+    - **Imparfait** = description, situation qui dure
+    - **Passé simple** = action qui fait avancer l'histoire
+
+    ❌ "Il marchait et soudain il marchait plus vite"
+    ✅ "Il marchait (imparfait) et soudain il **courut** (passé simple)"
+
+    ---
+
+    **Piège 3 : Les dialogues mal présentés**
+
+    Règles obligatoires :
+    - « » au début et à la fin du dialogue
+    - — (tiret) à chaque changement de personne
+    - Retour à la ligne à chaque réplique
+
+    ❌ Marie dit : Où vas-tu ? Paul dit : Au cinéma.
+    ✅ Marie demanda : « Où vas-tu ? — Au cinéma », répondit Paul.
+
+    ---
+
+    **Piège 4 : Ne pas se relire**
+
+    Relis-toi en **plusieurs passes** :
+    1. Le sens (répond-on au sujet ?)
+    2. Les accords (sujet-verbe, adjectifs)
+    3. Les homophones (a/à, et/est, son/sont)
+    4. La conjugaison
+    5. L'orthographe et la ponctuation
+
 !!! example "Le brouillon, c'est comme l'entraînement !"
 
     **Tu ne fais pas une ranked sans t'échauffer ?**
@@ -148,6 +189,42 @@
     4. **Résolution** : « Il vainquit le monstre. » (passé simple)
     5. **Situation finale** : « Ils vécurent heureux. » (passé simple)
 
+??? abstract "🔄 Autre façon de comprendre : le schéma narratif"
+    **Le schéma narratif, c'est comme une montagne russe !**
+
+    ```
+                    Péripéties
+                   /          \
+    Élément ──────/            \──── Résolution
+    perturbateur                        │
+        │                               │
+    Situation                      Situation
+    initiale                        finale
+    (calme)                        (calme)
+    ```
+
+    ---
+
+    **Ou comme une partie de jeu vidéo :**
+
+    | Étape du récit | Dans un jeu |
+    |----------------|-------------|
+    | **Situation initiale** | Écran titre, tout est calme |
+    | **Élément perturbateur** | Le boss apparaît ! |
+    | **Péripéties** | Combats, obstacles, galères |
+    | **Résolution** | Tu trouves la technique pour gagner |
+    | **Situation finale** | VICTOIRE ! Écran de fin |
+
+    ---
+
+    **Les mots-déclencheurs de chaque étape :**
+
+    - **Situation initiale** : "Il était une fois...", "Autrefois...", "Ce jour-là..."
+    - **Élément perturbateur** : "Soudain...", "Tout à coup...", "Un jour..."
+    - **Péripéties** : "Puis...", "Ensuite...", "Alors..."
+    - **Résolution** : "Finalement...", "Enfin..."
+    - **Situation finale** : "Depuis ce jour...", "C'est ainsi que..."
+
 ### Les temps du récit
 
 !!! tip "Quand utiliser quoi ?"
@@ -156,6 +233,39 @@
 
 !!! example "Exemple"
     « Le soleil **brillait** (imparfait - description). Soudain, un bruit **retentit** (passé simple - action). »
+
+??? abstract "🔄 Autre façon de comprendre : imparfait vs passé simple"
+    **L'imparfait = le DÉCOR (arrière-plan)**
+    **Le passé simple = l'ACTION (premier plan)**
+
+    Imagine une scène de film :
+    - **Imparfait** = ce qu'on voit en arrière-plan (le ciel, les décors, les gens qui passent)
+    - **Passé simple** = ce que fait le personnage principal (l'action qui avance l'histoire)
+
+    ---
+
+    **Exemple visuel :**
+
+    ```
+    ┌─────────────────────────────────────────────┐
+    │  ARRIÈRE-PLAN (imparfait)                   │
+    │  "Le soleil brillait, les oiseaux           │
+    │   chantaient, le vent soufflait..."         │
+    │                                             │
+    │        ┌─────────────────────┐              │
+    │        │ PREMIER PLAN        │              │
+    │        │ (passé simple)      │              │
+    │        │ "SOUDAIN, il vit    │              │
+    │        │  un loup !"         │              │
+    │        └─────────────────────┘              │
+    └─────────────────────────────────────────────┘
+    ```
+
+    ---
+
+    **Astuce pour choisir :**
+    - L'action fait-elle **avancer** l'histoire ? → **Passé simple**
+    - C'est une **description** ou une **situation** qui dure ? → **Imparfait**
 
 ### Les connecteurs temporels
 
@@ -265,6 +375,44 @@
     ❌ « dit-il », « dit-elle », « dit-il »...
     ✅ « répondit-il », « s'exclama-t-elle », « murmura-t-il »...
 
+??? abstract "🔄 Autre façon de comprendre : écrire un dialogue"
+    **Le dialogue, c'est comme une conversation en message !**
+
+    Mais à l'écrit, il y a des règles de présentation :
+
+    ```
+    📱 Sur téléphone :        📖 Dans un livre :
+    ─────────────────        ─────────────────────────
+    Moi : Salut !            Marie demanda :
+    Tom : Ça va ?            « Salut !
+    Moi : Ouais et toi ?     — Ça va ? répondit Tom.
+    Tom : Tranquille         — Ouais et toi ?
+                             — Tranquille. »
+    ```
+
+    ---
+
+    **Les règles en image :**
+
+    ```
+    Marie demanda :          ← Phrase d'introduction + deux-points
+    « Où vas-tu ?            ← Guillemets au début + 1ère réplique
+    — Je vais au parc.       ← Tiret = changement de personne
+    — Je peux venir ? »      ← Dernière réplique + guillemets fermants
+    ```
+
+    ---
+
+    **Les verbes de parole = la FAÇON de parler**
+
+    | Émotion | Verbes à utiliser |
+    |---------|-------------------|
+    | Neutre | dit, répondit, demanda |
+    | Colère | cria, hurla, s'emporta |
+    | Tristesse | soupira, murmura, gémit |
+    | Joie | s'exclama, s'écria |
+    | Peur | balbutia, bégaya, chuchota |
+
 ---
 
 ## Exercices guidés - Leçon 4
@@ -322,6 +470,48 @@
     8. Hors-sujet
     9. Pas de paragraphes
     10. Oublier les majuscules
+
+??? abstract "🔄 Autre façon de comprendre : se relire efficacement"
+    **La relecture en 5 PASSES (comme au jeu !)**
+
+    Chaque relecture vérifie UNE CHOSE à la fois :
+
+    | Passe | Je vérifie... | Ce que je cherche |
+    |-------|---------------|-------------------|
+    | 1ère | Le **SENS** | Mon texte répond-il au sujet ? |
+    | 2ème | Les **ACCORDS** | Sujet-verbe, adjectifs |
+    | 3ème | Les **HOMOPHONES** | a/à, et/est, son/sont... |
+    | 4ème | La **CONJUGAISON** | Terminaisons, temps |
+    | 5ème | L'**ORTHOGRAPHE** | Doubles lettres, accents |
+
+    ---
+
+    **Le truc des erreurs les plus courantes :**
+
+    ```
+    ERREUR n°1 : Le "ne" oublié
+    ❌ "J'ai pas compris"
+    ✅ "Je N'ai PAS compris"
+
+    ERREUR n°2 : -é / -er / -ez
+    Remplace par VENDRE/VENDU :
+    ❌ "Je vais manger" → "Je vais vendu" ❌ → donc -ER
+    ✅ "J'ai mangé" → "J'ai vendu" ✅ → donc -É
+
+    ERREUR n°3 : a/à
+    Remplace par AVAIT :
+    ❌ "Il à faim" → "Il avait faim" ✅ → donc A
+    ✅ "Je vais à Paris" → "Je vais avait Paris" ❌ → donc À
+    ```
+
+    ---
+
+    **La checklist finale :**
+    - [ ] J'ai respecté le sujet
+    - [ ] Mon texte a un début, un milieu, une fin
+    - [ ] J'ai vérifié les accords
+    - [ ] J'ai vérifié les homophones
+    - [ ] Mon écriture est lisible
 
 ---
 

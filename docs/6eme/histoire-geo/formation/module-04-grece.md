@@ -144,6 +144,39 @@ La Grèce antique n'était pas un pays unifié mais un ensemble de **cités-Éta
     - Un **territoire** agricole autour
     - Ses propres **lois**, sa **monnaie**, son **armée**
 
+??? abstract "🔄 Autre façon de comprendre : les cités grecques"
+    **Les cités grecques, c'est comme des serveurs Minecraft indépendants !**
+
+    Chaque cité grecque (Athènes, Sparte, Corinthe...) :
+    - A ses propres règles (lois)
+    - Son propre gouvernement (admin)
+    - Sa propre monnaie (ressources)
+    - Son propre territoire (carte)
+
+    Elles se font parfois la guerre entre elles, parfois elles s'allient !
+
+    ---
+
+    **Pourquoi autant de cités séparées ?**
+
+    Regarde une carte de la Grèce :
+    - Plein de **montagnes** partout
+    - Des **îles** dispersées
+    - Difficile de communiquer d'une région à l'autre
+
+    Résultat : chaque vallée est devenue un petit État indépendant !
+
+    ---
+
+    **Athènes vs Sparte = le match le plus célèbre de l'Antiquité**
+
+    | Athènes | Sparte |
+    |---------|--------|
+    | Démocratie | Oligarchie (quelques chefs) |
+    | Culture, philosophie | Entraînement militaire |
+    | Commerce maritime | Agriculture |
+    | "Parler pour convaincre" | "Combattre pour vaincre" |
+
 ```
     ORGANISATION D'UNE CITÉ GRECQUE
 
@@ -184,6 +217,34 @@ La Grèce antique n'était pas un pays unifié mais un ensemble de **cités-Éta
 
 !!! success "À retenir"
     En **-508**, **Clisthène** fonde la **démocratie** à Athènes. C'est le premier régime où les **citoyens** votent les lois et prennent les décisions.
+
+??? abstract "🔄 Autre façon de comprendre : la démocratie"
+    **Démo-cratie = Pouvoir du peuple (en grec)**
+
+    - *Demos* = le peuple
+    - *Kratos* = le pouvoir
+
+    **Avant la démocratie :**
+    - Un roi ou quelques nobles décidaient TOUT
+    - Le peuple n'avait rien à dire
+
+    **Avec la démocratie :**
+    - Les citoyens votent les lois
+    - Ils peuvent prendre la parole à l'assemblée
+    - Certains sont tirés au sort pour gouverner !
+
+    ---
+
+    **ATTENTION : la démocratie athénienne ≠ la démocratie d'aujourd'hui**
+
+    | Athènes antique | Aujourd'hui |
+    |-----------------|-------------|
+    | Seuls les citoyens hommes adultes | Tous les adultes |
+    | Pas les femmes | Femmes = peuvent voter |
+    | Pas les esclaves | Plus d'esclaves |
+    | Pas les étrangers | Les étrangers peuvent devenir citoyens |
+
+    Sur 400 000 habitants d'Athènes, seulement 40 000 étaient citoyens !
 
 **Évolution politique d'Athènes :**
 
@@ -285,6 +346,48 @@ La Grèce antique n'était pas un pays unifié mais un ensemble de **cités-Éta
     - Les **esclaves** (pas de liberté)
 
     Seuls **10 à 15%** des habitants sont citoyens !
+
+??? warning "⚠️ Pièges à éviter : la Grèce antique"
+    **Piège 1 : La Grèce n'était PAS un pays unifié**
+
+    - ❌ La Grèce était un grand pays avec un roi → FAUX !
+    - ✅ C'était plein de **cités-États** indépendantes (Athènes, Sparte, Corinthe...)
+
+    Chaque cité avait ses propres lois, sa monnaie, son armée !
+
+    ---
+
+    **Piège 2 : Confondre démocratie athénienne et démocratie moderne**
+
+    | Athènes antique | Aujourd'hui |
+    |-----------------|-------------|
+    | Seuls les hommes votent | Hommes ET femmes votent |
+    | Esclaves = pas de droits | Plus d'esclaves |
+    | Nés de parents athéniens | Tous les citoyens majeurs |
+    | 10-15% de la population | Tous les adultes |
+
+    ---
+
+    **Piège 3 : Confondre les dieux**
+
+    | Dieu grec | Dieu romain (équivalent) |
+    |-----------|--------------------------|
+    | **Zeus** | Jupiter |
+    | **Poséidon** | Neptune |
+    | **Athéna** | Minerve |
+    | **Arès** | Mars |
+    | **Aphrodite** | Vénus |
+
+    Dans les films/jeux, les deux versions sont mélangées !
+
+    ---
+
+    **Piège 4 : Les JO antiques ≠ JO modernes**
+
+    - Seuls les hommes grecs libres participaient
+    - Athlètes nus (pas de maillot !)
+    - Pas de médailles, mais une **couronne d'olivier**
+    - Sports violents (pancrace = combat sans règles)
 
 ---
 

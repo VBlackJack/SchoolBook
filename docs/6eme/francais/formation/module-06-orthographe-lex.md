@@ -53,6 +53,46 @@
 
     **Le correcteur automatique ne corrige pas tout !**
 
+??? warning "⚠️ Pièges à éviter : orthographe lexicale"
+    **Piège 1 : Oublier la règle du M devant M, B, P**
+
+    - ❌ "inpossible" → ✅ "i**m**possible"
+    - ❌ "enporter" → ✅ "e**m**porter"
+    - ❌ "anbulance" → ✅ "a**m**bulance"
+
+    **Exception : bonbon, néanmoins, embonpoint**
+
+    ---
+
+    **Piège 2 : Les doubles consonnes après le préfixe A-**
+
+    - a + ccord = a**cc**ord
+    - a + rriver = a**rr**iver
+    - a + ppeler = a**pp**eler
+
+    **Le préfixe "ad-" s'assimile à la lettre suivante !**
+
+    ---
+
+    **Piège 3 : Confondre S et SS entre voyelles**
+
+    - Un S entre voyelles = son [z] : poi**s**on, mai**s**on
+    - Deux SS entre voyelles = son [s] : poi**ss**on, cla**ss**e
+
+    ❌ "la clase" → ✅ "la cla**ss**e"
+
+    ---
+
+    **Piège 4 : Les mots difficiles les plus courants**
+
+    | Mot | Erreur fréquente | Correction |
+    |-----|------------------|------------|
+    | beaucoup | "bocoup" | **beau**coup |
+    | toujours | "toujour" | toujour**s** |
+    | développer | "developper" | d**é**velopper |
+    | adresse | "addresse" | a**d**resse (1 seul d !)|
+    | appartement | "apartement" | a**pp**artement |
+
 ---
 
 ## Leçon 1 : La règle du m devant m, b, p
@@ -79,6 +119,31 @@
 
 !!! tip "Astuce mémo"
     **« Devant m, b, p, n devient m, c'est sympathique ! »**
+
+??? abstract "🔄 Autre façon de comprendre : m devant m, b, p"
+    **Pense à la FAMILLE des lettres !**
+
+    Les lettres **m, b, p** sont des "cousines" car elles se forment avec les lèvres fermées :
+    - Dis "mmm" → lèvres fermées
+    - Dis "bbb" → lèvres fermées puis ouvertes
+    - Dis "ppp" → lèvres fermées puis ouvertes
+
+    Le **n** (formé avec la langue sur le palais) ne s'entend pas bien devant ses "cousines", alors il se transforme en **m** !
+
+    ---
+
+    **L'image du PONT :**
+
+    Imagine que le **n** est un pont droit : |
+
+    Devant m, b, p, il doit se transformer en pont courbe pour s'adapter : m
+
+    ---
+
+    **Les 3 exceptions à retenir :**
+    - **bonbon** (comme le bonbon qui ne suit pas les règles !)
+    - **néanmoins** (mot savant)
+    - **embonpoint** (mot rare)
 
 ---
 
@@ -139,6 +204,37 @@
     | **rr** | arriver, terrible, erreur |
     | **ss** | classe, possible, laisser |
     | **tt** | lettre, attendre, battre |
+
+??? abstract "🔄 Autre façon de comprendre : les doubles consonnes"
+    **Les préfixes qui DOUBLENT :**
+
+    Quand un préfixe se termine par la même lettre que le début du mot, on double :
+
+    ```
+    a- + ccord  = accord (a + c... mais attends, le préfixe "ad-" devient "ac-" !)
+    a- + rriver = arriver (le préfixe "ad-" devient "ar-" !)
+    a- + ppeler = appeler (le préfixe "ad-" devient "ap-" !)
+    ```
+
+    ---
+
+    **L'astuce du SON :**
+
+    - Un seul **S** entre deux voyelles = son [Z] : maison, poison
+    - Deux **SS** entre deux voyelles = son [S] : classe, poisson
+
+    Compare :
+    - "poi**s**on" (venin, son [z]) ≠ "poi**ss**on" (animal, son [s])
+
+    ---
+
+    **Pour les verbes en -ELER et -ETER :**
+
+    Devant un "e muet", le verbe change :
+    - j'app**elle** (double l) ou j'ach**è**te (accent)
+    - tu app**elles** (double l) ou tu ach**è**tes (accent)
+
+    La règle moderne : les verbes courants prennent un accent, les autres doublent.
 
 ---
 
@@ -294,6 +390,41 @@
     - No**ë**l (no-el, pas « noel »)
     - ma**ï**s (ma-is, pas « mais »)
     - capharña**ü**m
+
+??? abstract "🔄 Autre façon de comprendre : les accents"
+    **L'accent aigu (é) = bouche fermée, souriante**
+
+    Quand tu dis "é", ta bouche est comme un sourire !
+    - école, été, café, vérité
+
+    ---
+
+    **L'accent grave (è) = bouche ouverte**
+
+    Quand tu dis "è", ta bouche s'ouvre davantage !
+    - mère, père, frère, très
+
+    ---
+
+    **L'accent circonflexe (ê) = le souvenir d'une lettre disparue**
+
+    Beaucoup de mots avec ^ avaient un "s" autrefois :
+    - for**ê**t → forest (en anglais : forest)
+    - h**ô**pital → hospital (en anglais : hospital)
+    - f**ê**te → feste (en anglais : feast)
+
+    **C'est comme un fantôme de lettre !**
+
+    ---
+
+    **La cédille (ç) = le "c" qui veut faire le son [s]**
+
+    Le "c" fait naturellement :
+    - [s] devant e, i, y : ciel, cygne
+    - [k] devant a, o, u : car, col
+
+    Pour forcer le [s] devant a, o, u, on ajoute une cédille :
+    - fran**ç**ais, le**ç**on, re**ç**u
 
 ---
 

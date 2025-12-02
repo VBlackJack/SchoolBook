@@ -51,6 +51,68 @@
 
     **C'est la notion de RÉFÉRENTIEL**
 
+??? warning "⚠️ Pièges à éviter : le mouvement"
+
+    **Piège 1 : Oublier le référentiel**
+
+    - ❌ "La personne dans le train est immobile"
+    - ✅ "La personne est immobile **par rapport au train**" (mais en mouvement par rapport au sol)
+
+    **Toujours préciser par rapport à quoi !**
+
+    ---
+
+    **Piège 2 : Confondre vitesse et accélération**
+
+    | Vitesse | Accélération |
+    |---------|--------------|
+    | Rapidité du déplacement | Changement de vitesse |
+    | En km/h ou m/s | Augmente ou diminue |
+    | "Je roule à 50 km/h" | "J'accélère de 0 à 50" |
+
+    Une voiture à vitesse **constante** n'accélère pas !
+
+    ---
+
+    **Piège 3 : Erreur dans la formule de vitesse**
+
+    ```
+    v = d / t   (vitesse = distance / temps)
+    ```
+
+    **Erreurs fréquentes :**
+
+    - ❌ v = t / d (inversion)
+    - ❌ v = d × t (multiplication au lieu de division)
+
+    **Astuce :** "Pour aller vite, il faut parcourir **beaucoup** de distance en **peu** de temps"
+
+    ---
+
+    **Piège 4 : Mélanger les unités**
+
+    | Unité de distance | Unité de temps | Unité de vitesse |
+    |-------------------|----------------|------------------|
+    | km | h | **km/h** |
+    | m | s | **m/s** |
+
+    ❌ Distance en km et temps en secondes → résultat incohérent !
+
+    **Conversion :** 1 m/s = 3,6 km/h (multiplier par 3,6)
+
+    ---
+
+    **Piège 5 : Confondre les types de trajectoires**
+
+    | Trajectoire | Forme | Exemple |
+    |-------------|-------|---------|
+    | **Rectiligne** | Ligne droite | Voiture sur autoroute |
+    | **Circulaire** | Cercle | Manège |
+    | **Curviligne** | Courbe quelconque | Balle lancée |
+
+    ❌ "Une balle lancée a une trajectoire rectiligne"
+    ✅ Elle a une trajectoire **curviligne** (parabole)
+
 !!! example "Calcul de vitesse : exemples concrets"
 
     **Formule : Vitesse = Distance / Temps**
@@ -77,6 +139,40 @@
 
 !!! success "À retenir"
     Le **référentiel** est l'objet par rapport auquel on étudie le mouvement. Un objet peut être immobile dans un référentiel et en mouvement dans un autre.
+
+??? abstract "🔄 Autre façon de comprendre : le référentiel"
+    **Le référentiel, c'est ton point de vue !**
+
+    Imagine que tu es dans un train qui roule à 300 km/h :
+
+    - **Pour toi** (dans le train) : tu es assis, immobile, tu lis tranquillement
+    - **Pour quelqu'un sur le quai** : tu passes à 300 km/h comme une fusée !
+
+    Qui a raison ? **LES DEUX !** Tout dépend du référentiel choisi.
+
+    ---
+
+    **Autre exemple : la Terre**
+
+    - Pour toi, tu es immobile devant ton bureau
+    - Pour un astronaute dans l'espace, tu tournes à 1670 km/h avec la Terre !
+
+    ---
+
+    **La formule de la vitesse :**
+
+    ```
+    Vitesse = Distance / Temps
+
+    v = d / t
+    ```
+
+    **Exemple concret :**
+    - Tu cours 100 m en 20 secondes
+    - v = 100 m / 20 s = 5 m/s
+    - Pour convertir en km/h : 5 × 3,6 = 18 km/h
+
+    **L'astuce : multiplier par 3,6 pour passer de m/s à km/h !**
 
 ```
     EXEMPLE : PASSAGER DANS UN TRAIN

@@ -61,6 +61,71 @@
     - Solidarité avec les plus fragiles
     - Respect de chacun
 
+??? warning "⚠️ Pièges à éviter : EMC et citoyenneté"
+
+    **Piège 1 : Confondre la devise française avec d'autres**
+
+    - ❌ "Travail, Famille, Patrie" → devise du régime de **Vichy** (1940-1944)
+    - ✅ **"Liberté, Égalité, Fraternité"** = devise de la République française
+
+    ---
+
+    **Piège 2 : Mal comprendre la laïcité**
+
+    | La laïcité c'est... | La laïcité ce n'est PAS... |
+    |---------------------|---------------------------|
+    | Liberté de croire ou non | Interdire toutes les religions |
+    | Neutralité de l'État | Être contre les religions |
+    | Pas de signes ostensibles à l'école | Cacher ses croyances partout |
+
+    ❌ "Laïcité = athéisme obligatoire" → FAUX !
+    ✅ La laïcité **protège** la liberté de religion
+
+    ---
+
+    **Piège 3 : Confondre droits et devoirs**
+
+    | Droits | Devoirs |
+    |--------|---------|
+    | Ce que tu **peux** faire | Ce que tu **dois** faire |
+    | Voter, t'exprimer, être soigné | Respecter la loi, payer les impôts |
+
+    ❌ "Voter est un devoir obligatoire" → FAUX, c'est un droit (et un devoir **moral**)
+    ✅ En France, voter n'est **pas obligatoire** (contrairement à la Belgique)
+
+    ---
+
+    **Piège 4 : Confondre démocratie et République**
+
+    | Démocratie | République |
+    |------------|------------|
+    | Le **peuple** détient le pouvoir | Pas de **roi** (chef élu) |
+    | Vote, élections | Intérêt général |
+
+    On peut avoir une **monarchie démocratique** (ex : Royaume-Uni, Espagne)
+    Et une République **non démocratique** (ex : dictatures qui se disent républiques)
+
+    ---
+
+    **Piège 5 : Inverser les couleurs du drapeau**
+
+    Le drapeau français : **BLEU - BLANC - ROUGE** (de gauche à droite)
+
+    ❌ Rouge, blanc, bleu
+    ❌ Bleu, rouge, blanc
+
+    **Astuce :** Les couleurs sont dans l'ordre alphabétique inversé (R > B > B devient B < B < R) ou retiens "BBR" !
+
+    ---
+
+    **Piège 6 : Confondre discrimination et différence**
+
+    - **Différence** = constater que les gens ne sont pas identiques (normal !)
+    - **Discrimination** = traiter quelqu'un **moins bien** à cause d'une différence (interdit !)
+
+    ❌ "Noter que quelqu'un est différent = discriminer"
+    ✅ Discriminer = **traiter injustement** à cause d'une différence
+
 !!! example "Les droits et devoirs"
 
     | Droits (ce que tu peux faire) | Devoirs (ce que tu dois faire) |
@@ -116,6 +181,43 @@ L'EMC (Enseignement Moral et Civique) nous apprend à vivre ensemble, à respect
 
 !!! success "À retenir"
     La devise de la France est **« Liberté, Égalité, Fraternité »**. Elle est inscrite sur les bâtiments publics (mairies, écoles).
+
+??? abstract "🔄 Autre façon de comprendre : la devise dans ta vie"
+    **La devise, c'est comme les règles d'un bon serveur de jeu !**
+
+    **LIBERTÉ = Tu peux faire ce que tu veux...**
+    - Jouer au personnage que tu veux
+    - Dire ce que tu penses dans le chat
+    - Choisir ton style de jeu
+
+    **...MAIS ta liberté s'arrête où commence celle des autres !**
+    - Pas de triche qui ruine l'expérience des autres
+    - Pas d'insultes
+    - Pas de harcèlement
+
+    ---
+
+    **ÉGALITÉ = Mêmes règles pour tout le monde**
+    - Pas de passe-droit pour les admins
+    - Même traitement pour tous les joueurs
+    - Les sanctions s'appliquent à tous
+
+    ---
+
+    **FRATERNITÉ = On s'entraide**
+    - Aider les nouveaux joueurs
+    - Ne pas laisser quelqu'un seul face au harcèlement
+    - Partager ses ressources avec ceux qui galèrent
+
+    ---
+
+    **Dans la vraie vie, c'est pareil !**
+
+    | Devise | Dans un jeu | Dans la vie |
+    |--------|-------------|-------------|
+    | Liberté | Jouer comme tu veux | Penser, parler, croire librement |
+    | Égalité | Mêmes règles | Mêmes droits pour tous |
+    | Fraternité | Aider les autres | Solidarité, entraide |
 
 ```
     LA DEVISE RÉPUBLICAINE

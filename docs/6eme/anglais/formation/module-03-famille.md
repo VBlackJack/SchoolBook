@@ -52,6 +52,113 @@
     ❌ "She loves his brother" = Elle aime SON frère (à lui)
     ✅ "She loves her brother" = Elle aime son frère (à elle)
 
+??? warning "⚠️ Pièges à éviter : famille et description"
+
+    **Piège 1 : HIS vs HER - le grand classique**
+
+    | Possesseur | Possessif | Pour tout ! |
+    |------------|-----------|-------------|
+    | He (garçon/homme) | **HIS** | his car, his sister, his games |
+    | She (fille/femme) | **HER** | her car, her brother, her games |
+
+    ❌ "Tom loves her dog" (si c'est le chien de Tom)
+    ✅ "Tom loves **his** dog"
+
+    **Astuce : regarde QUI possède, pas CE qui est possédé !**
+
+    ---
+
+    **Piège 2 : HAVE vs HAS**
+
+    | Sujet | Verbe |
+    |-------|-------|
+    | I / You / We / They | **HAVE** |
+    | He / She / It | **HAS** |
+
+    - ❌ "She have blue eyes"
+    - ✅ "She **has** blue eyes"
+
+    ---
+
+    **Piège 3 : Ordre des adjectifs en anglais**
+
+    En anglais, les adjectifs se placent **AVANT** le nom :
+
+    - ❌ "hair long blond" (ordre français)
+    - ✅ "**long blond** hair"
+
+    | Français | Anglais |
+    |----------|---------|
+    | les yeux bleus | **blue** eyes |
+    | les cheveux longs | **long** hair |
+
+    ---
+
+    **Piège 4 : Confondre cousin/nephew/niece**
+
+    | Anglais | Français | Qui c'est ? |
+    |---------|----------|-------------|
+    | **cousin** | cousin(e) | Enfant de ton oncle/tante |
+    | **nephew** | neveu | Fils de ton frère/sœur |
+    | **niece** | nièce | Fille de ton frère/sœur |
+
+    **Nephew/niece = génération en dessous de toi**
+
+    ---
+
+    **Piège 5 : Les adjectifs de caractère positifs/négatifs**
+
+    | Positif | Négatif |
+    |---------|---------|
+    | nice (gentil) | mean (méchant) |
+    | smart (intelligent) | stupid (stupide) |
+    | friendly (amical) | unfriendly |
+
+    ❌ Confondre "fun" (amusant) et "funny" (drôle)
+    - "The game is **fun**" (amusant à jouer)
+    - "He is **funny**" (il me fait rire)
+
+??? abstract "🔄 Autre façon de comprendre : HIS vs HER"
+    **La différence entre HIS et HER = qui possède ?**
+
+    En français, "son/sa/ses" change selon l'objet possédé :
+    - **son** frère, **sa** sœur, **ses** parents
+
+    En anglais, c'est le **possesseur** qui décide :
+    - Si c'est un garçon/homme → **HIS** (pour tout)
+    - Si c'est une fille/femme → **HER** (pour tout)
+
+    ---
+
+    **Imagine un jeu avec 2 personnages :**
+
+    ```
+    👦 Tom (garçon)           👧 Emma (fille)
+         ↓                         ↓
+       HIS                       HER
+    pour TOUT ce               pour TOUT ce
+    qui est à Tom              qui est à Emma
+    ```
+
+    **Tom :**
+    - HIS dog (son chien)
+    - HIS sister (sa sœur)
+    - HIS games (ses jeux)
+
+    **Emma :**
+    - HER dog (son chien)
+    - HER brother (son frère)
+    - HER games (ses jeux)
+
+    ---
+
+    **L'astuce : regarde QUI possède, pas CE qui est possédé !**
+
+    | Phrase | Possesseur | Possessif |
+    |--------|------------|-----------|
+    | Tom loves ___ cat | Tom (garçon) | **his** |
+    | Emma loves ___ cat | Emma (fille) | **her** |
+
 !!! example "Les amis en ligne"
 
     **Vocabulaire gaming pour les amis :**

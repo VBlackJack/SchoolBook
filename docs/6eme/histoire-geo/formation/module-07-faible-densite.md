@@ -61,6 +61,58 @@
     - Sherpas dans l'Himalaya
     - Tribus amazoniennes
 
+??? warning "⚠️ Pièges à éviter : densité et espaces ruraux"
+
+    **Piège 1 : Confondre densité faible et absence totale de population**
+
+    - ❌ "Le Sahara est inhabité"
+    - ✅ Le Sahara a une **très faible densité** (< 1 hab/km²) mais des gens y vivent (oasis, nomades)
+
+    **"Désert humain" = très peu peuplé, pas 0 habitant !**
+
+    ---
+
+    **Piège 2 : Erreur de calcul de la densité**
+
+    ```
+    Densité = Habitants ÷ Surface (en km²)
+    ```
+
+    ❌ "500 habitants sur 10 km² = 50 km²" → FAUX (confusion unité)
+    ✅ 500 ÷ 10 = **50 hab/km²**
+
+    L'unité est **hab/km²** (habitants par kilomètre carré)
+
+    ---
+
+    **Piège 3 : Confondre exode rural et néo-ruraux**
+
+    | Mouvement | Direction | Définition |
+    |-----------|-----------|-----------|
+    | **Exode rural** | Campagne → Ville | Départ des campagnes vers les villes |
+    | **Néo-ruraux** | Ville → Campagne | Citadins qui s'installent à la campagne |
+
+    Ce sont des mouvements **opposés** !
+
+    ---
+
+    **Piège 4 : Penser que rural = agricole**
+
+    - ❌ "En zone rurale, tout le monde est agriculteur"
+    - ✅ Beaucoup de ruraux travaillent dans les **services**, le **tourisme**, ou font du **télétravail**
+
+    En France, moins de 3% de la population est agriculteur, même en zone rurale !
+
+    ---
+
+    **Piège 5 : Confondre contrainte naturelle et impossibilité**
+
+    - ❌ "On ne peut pas vivre dans le désert/en montagne"
+    - ✅ Les contraintes **rendent la vie plus difficile** mais les humains s'adaptent :
+      - Oasis dans le désert
+      - Terrasses en montagne
+      - Nomadisme dans les zones arides
+
 !!! example "La vie à la campagne française"
 
     **Tu habites peut-être en zone rurale si :**
@@ -111,6 +163,37 @@ Si les métropoles concentrent la population, de vastes espaces restent faibleme
 
 !!! success "À retenir"
     Un **espace de faible densité** est un territoire où la population est peu nombreuse par rapport à la surface. On considère généralement qu'une densité inférieure à **30 habitants/km²** est faible.
+
+??? abstract "🔄 Autre façon de comprendre : la densité de population"
+    **La densité, c'est comme le nombre de joueurs sur une map !**
+
+    Imagine une carte de jeu :
+    - Si 100 joueurs sont sur une petite map → c'est bondé = **forte densité**
+    - Si 5 joueurs sont sur une énorme map → tu ne croises presque personne = **faible densité**
+
+    ---
+
+    **La formule magique :**
+
+    ```
+    Densité = Nombre d'habitants ÷ Surface (en km²)
+
+    Exemple Paris :
+    2 millions ÷ 100 km² = 20 000 hab/km² (TRÈS dense !)
+
+    Exemple Sahara :
+    quelques milliers ÷ 9 millions km² = < 1 hab/km² (quasi vide)
+    ```
+
+    ---
+
+    **Comparaison concrète :**
+
+    | Lieu | Densité | C'est comme... |
+    |------|---------|----------------|
+    | Paris | 20 000 hab/km² | Métro aux heures de pointe |
+    | Campagne française | 30 hab/km² | Quelques maisons par km |
+    | Sahara | < 1 hab/km² | Serveur Minecraft vide |
 
 ### 1.2 Les différents types
 

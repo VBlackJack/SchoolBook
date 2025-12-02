@@ -49,6 +49,123 @@
     | **Monnaie** | Pound (£) | Dollar ($) |
     | **Conduite** | À gauche | À droite |
 
+??? warning "⚠️ Pièges à éviter : culture anglophone"
+
+    **Piège 1 : UK ≠ England**
+
+    | Terme | Ce que c'est |
+    |-------|-------------|
+    | **UK** | England + Scotland + Wales + Northern Ireland |
+    | **England** | Un seul des 4 pays du UK |
+    | **Great Britain** | England + Scotland + Wales (sans N. Ireland) |
+
+    ❌ "England" pour parler de tout le UK
+    ✅ Utilise "**UK**" ou "**Britain**" pour l'ensemble
+
+    ---
+
+    **Piège 2 : Le vocabulaire UK vs USA**
+
+    | UK | USA | Français |
+    |----|-----|----------|
+    | flat | apartment | appartement |
+    | lift | elevator | ascenseur |
+    | chips | fries | frites |
+    | crisps | chips | chips (paquet) |
+    | football | soccer | football ⚽ |
+
+    **Attention au contexte (jeu US ou UK) !**
+
+    ---
+
+    **Piège 3 : Les dates américaines**
+
+    | UK/France | USA |
+    |-----------|-----|
+    | jour/mois | **mois/jour** |
+    | 5/6 = 5 juin | 5/6 = **6 mai** |
+
+    **Independence Day = July 4th = 4/7 en France, 7/4 aux USA !**
+
+    ---
+
+    **Piège 4 : Les fêtes à ne pas confondre**
+
+    | Fête | Pays | Date |
+    |------|------|------|
+    | **Thanksgiving** | USA seulement | 4ème jeudi de novembre |
+    | **Guy Fawkes Night** | UK seulement | 5 novembre |
+    | **Halloween** | USA + UK | 31 octobre |
+
+    ❌ Thanksgiving n'existe pas au UK !
+
+    ---
+
+    **Piège 5 : La monnaie**
+
+    | Pays | Monnaie | Symbole |
+    |------|---------|---------|
+    | UK | Pound/Livre | **£** |
+    | USA | Dollar | **$** |
+    | Irlande | Euro | € |
+
+    ❌ "Dollars" au UK → ✅ "**Pounds**"
+
+??? abstract "🔄 Autre façon de comprendre : UK vs USA"
+    **Deux pays, deux versions de l'anglais !**
+
+    Imagine deux versions d'un même jeu : la version UK et la version US. C'est le même jeu, mais avec quelques différences !
+
+    ---
+
+    **1. L'orthographe (spelling) :**
+
+    Les Américains ont simplifié certains mots :
+
+    | UK (complet) | USA (simplifié) |
+    |--------------|-----------------|
+    | colo**u**r | color |
+    | favo**u**rite | favorite |
+    | cent**re** | center |
+    | theatre | theater |
+
+    **Astuce : les jeux américains utilisent souvent la version US !**
+
+    ---
+
+    **2. Le vocabulaire (words) :**
+
+    Attention, certains mots sont complètement différents :
+
+    ```
+    🇬🇧 UK          🇺🇸 USA         🇫🇷 Français
+    ─────────────────────────────────────────
+    flat           apartment      appartement
+    lift           elevator       ascenseur
+    biscuit        cookie         biscuit
+    chips          fries          frites
+    crisps         chips          chips (paquet)
+    football       soccer         football
+    rubbish        garbage        poubelle
+    queue          line           file d'attente
+    ```
+
+    ---
+
+    **3. Le piège des frites et chips :**
+
+    ```
+    🇬🇧 UK :
+    - chips 🍟 = frites
+    - crisps 🥔 = chips (paquet)
+
+    🇺🇸 USA :
+    - fries 🍟 = frites
+    - chips 🥔 = chips (paquet)
+    ```
+
+    **Si tu demandes "chips" au UK, tu auras des frites !**
+
 !!! example "La pop culture anglophone"
 
     **Ce que tout le monde connaît :**

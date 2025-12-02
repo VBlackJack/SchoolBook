@@ -55,6 +55,74 @@
 
     **1 million d'espèces menacées d'extinction !**
 
+??? warning "⚠️ Pièges à éviter : environnement"
+
+    **Piège 1 : Confondre biotope et biocénose**
+
+    | Biotope | Biocénose |
+    |---------|-----------|
+    | Le **milieu** de vie | Les **êtres vivants** |
+    | Sol, eau, climat, lumière | Animaux, plantes, champignons |
+    | "Le décor" | "Les acteurs" |
+
+    **Écosystème = Biotope + Biocénose**
+
+    ---
+
+    **Piège 2 : Oublier que la chaîne alimentaire commence par un végétal**
+
+    - ❌ Lapin → Herbe → Renard
+    - ✅ **Herbe** → Lapin → Renard
+
+    Les **producteurs** (végétaux) sont TOUJOURS au début car ils fabriquent leur nourriture !
+
+    ---
+
+    **Piège 3 : Confondre producteur et consommateur**
+
+    | Producteur | Consommateur |
+    |------------|--------------|
+    | Végétaux | Animaux |
+    | Fabrique sa nourriture | Mange d'autres êtres |
+    | Autotrophe | Hétérotrophe |
+
+    **Les décomposeurs recyclent les restes !**
+
+    ---
+
+    **Piège 4 : Mal comprendre l'effet de serre**
+
+    - ❌ "L'effet de serre c'est mal"
+    - ✅ L'effet de serre **naturel** est nécessaire (sinon -18°C sur Terre !)
+
+    Le problème, c'est l'**excès** de gaz à effet de serre (CO₂) qui amplifie le phénomène.
+
+    ---
+
+    **Piège 5 : Confondre les 3 piliers du développement durable**
+
+    | Pilier | Objectif |
+    |--------|----------|
+    | **Écologique** | Protéger l'environnement |
+    | **Social** | Bien-être de tous |
+    | **Économique** | Prospérité partagée |
+
+    **Les 3 doivent être en équilibre !**
+
+    ---
+
+    **Piège 6 : Mélanger les 5 R**
+
+    Dans l'ordre de priorité :
+
+    1. **R**efuser (le mieux = ne pas acheter)
+    2. **R**éduire (consommer moins)
+    3. **R**éutiliser (donner, réparer)
+    4. **R**ecycler (trier ses déchets)
+    5. **R**endre à la terre (composter)
+
+    **Le meilleur déchet = celui qu'on ne produit pas !**
+
 !!! example "Chaînes alimentaires du quotidien"
 
     **Qui mange qui ?**
@@ -95,6 +163,49 @@
     - Un **milieu de vie** (biotope) : sol, eau, air, climat
     - Les **êtres vivants** (biocénose) : animaux, végétaux, micro-organismes
     - Les **relations** entre eux
+
+??? abstract "🔄 Autre façon de comprendre : l'écosystème"
+    **Un écosystème, c'est comme un serveur Minecraft !**
+
+    - **Biotope** = le décor, le terrain (biome forêt, désert, océan...)
+    - **Biocénose** = tous les mobs et joueurs
+    - **Relations** = qui mange qui, qui aide qui
+
+    Si tu supprimes tous les loups → trop de moutons → plus d'herbe → mort des moutons !
+
+    ---
+
+    **La chaîne alimentaire = qui mange qui**
+
+    ```
+    PRODUCTEURS → CONSOMMATEURS 1 → CONSOMMATEURS 2 → DÉCOMPOSEURS
+    (plantes)      (herbivores)      (carnivores)      (bactéries)
+
+    Herbe    →      Lapin      →      Renard      →    Champignons
+    ```
+
+    **L'énergie passe du Soleil aux plantes, puis de mangeur en mangeur !**
+
+    ---
+
+    **La règle des 10% :**
+
+    À chaque niveau, 90% de l'énergie est perdue :
+    - Pour faire 1 kg de renard, il faut ~10 kg de lapins
+    - Pour faire 10 kg de lapins, il faut ~100 kg d'herbe
+
+    **C'est pour ça qu'il y a plus d'herbivores que de carnivores !**
+
+    ---
+
+    **L'impact de l'Homme = on déséquilibre le système**
+
+    - Déforestation → animaux sans maison
+    - Pollution → animaux malades
+    - Surpêche → plus de poissons
+    - CO₂ → réchauffement climatique
+
+    **Mais on peut aussi agir positivement (recycler, protéger, économiser) !**
 
 ```
     ÉCOSYSTÈME = BIOTOPE + BIOCÉNOSE

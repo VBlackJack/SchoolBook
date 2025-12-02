@@ -145,6 +145,75 @@ L'être humain a évolué progressivement sur des millions d'années :
 !!! warning "Attention aux idées reçues !"
     L'humain **ne descend pas du singe** ! Nous avons un **ancêtre commun** avec les grands singes actuels (chimpanzés, gorilles). C'est comme des cousins qui ont le même arrière-arrière-grand-père.
 
+??? warning "⚠️ Pièges à éviter : la Préhistoire"
+    **Piège 1 : "L'Homme descend du singe"**
+
+    - ❌ L'Homme descend du singe → FAUX !
+    - ✅ L'Homme et les singes ont un **ancêtre commun**
+
+    On est comme des cousins, pas des descendants !
+
+    ---
+
+    **Piège 2 : Confondre "chiffre de" et dates en Préhistoire**
+
+    - -3 000 000 (3 millions d'années) → Préhistoire
+    - -3 000 (3 000 ans avant J.-C.) → Antiquité
+
+    **Le nombre de zéros change tout !**
+
+    ---
+
+    **Piège 3 : Croire que les hommes vivaient avec les dinosaures**
+
+    - Dinosaures : disparus il y a **65 millions** d'années
+    - Premiers humains : il y a **7 millions** d'années
+
+    **58 millions d'années séparent les deux !** (contrairement aux films)
+
+    ---
+
+    **Piège 4 : Confondre Paléolithique et Néolithique**
+
+    | Paléolithique | Néolithique |
+    |---------------|-------------|
+    | Pierre **taillée** | Pierre **polie** |
+    | **Nomades** | **Sédentaires** |
+    | Chasse-cueillette | Agriculture |
+    | -3 Ma à -10 000 | -10 000 à -3 000 |
+
+??? abstract "🔄 Autre façon de comprendre : l'évolution humaine"
+    **L'évolution, c'est comme un arbre généalogique géant !**
+
+    Imagine ta famille :
+    - Tu as des cousins (vous avez les mêmes grands-parents)
+    - Tu ne descends pas de ton cousin → vous avez un ancêtre commun
+
+    C'est pareil pour les singes :
+    - Les humains et les chimpanzés sont comme des "cousins"
+    - On ne descend pas DU singe, mais on a un ancêtre COMMUN
+    - C'était il y a environ 7 millions d'années
+
+    ```
+    Ancêtre commun (il y a 7 Ma)
+              │
+       ┌──────┴──────┐
+       │             │
+       ▼             ▼
+    Branche      Branche
+    des singes   des humains
+    actuels      actuels
+    ```
+
+    ---
+
+    **Pourquoi l'Afrique ?**
+
+    C'est comme dans un jeu : le "spawn point" de l'humanité, c'est l'Afrique !
+    - Tous les plus vieux fossiles ont été trouvés là-bas
+    - Lucy, Toumaï... tous africains
+    - Puis les humains ont "migré" vers les autres continents
+
 ---
 
 ## 2. Le mode de vie au Paléolithique
@@ -231,6 +300,27 @@ Le feu permet de :
 - **Cuire** les aliments (plus faciles à manger et à digérer)
 - **Se protéger** des animaux sauvages
 - **Fabriquer** des outils (durcir le bois)
+
+??? abstract "🔄 Autre façon de comprendre : la vie au Paléolithique"
+    **Imagine que tu dois survivre en mode "hardcore" dans Minecraft ou ARK...**
+
+    - Pas de base permanente → tu te déplaces tout le temps (NOMADE)
+    - Tu dois chasser et cueillir ta nourriture chaque jour
+    - Tu fabriques tes outils avec ce que tu trouves (pierre, os, bois)
+    - La nuit, tu te protèges avec le feu
+
+    ---
+
+    **Le feu = le plus grand "power-up" de la Préhistoire !**
+
+    | Avant le feu | Après le feu |
+    |--------------|--------------|
+    | Froid la nuit | Chaleur |
+    | Viande crue (difficile à mâcher) | Viande cuite (+ facile à digérer) |
+    | Peur des prédateurs | Les animaux fuient le feu |
+    | Nuit = danger | Lumière pour voir |
+
+    Le feu a littéralement changé l'évolution humaine : avec la cuisson, notre cerveau a pu grossir car on dépensait moins d'énergie à digérer !
 
 ```
     LES USAGES DU FEU

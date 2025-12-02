@@ -55,6 +55,48 @@
 
     Avec ce module, tu ne feras plus ces erreurs !
 
+??? warning "⚠️ Pièges à éviter : la conjugaison (partie 1)"
+    **Piège 1 : Confondre 2ème et 3ème groupe**
+
+    Les verbes en -IR ne sont pas tous du 2ème groupe !
+
+    | Verbe | Test "nous" | Groupe |
+    |-------|-------------|--------|
+    | finir | nous fin**issons** | 2ème ✅ |
+    | partir | nous part**ons** | 3ème ❌ |
+    | courir | nous cour**ons** | 3ème ❌ |
+
+    **S'il n'y a pas -ISSONS, c'est le 3ème groupe !**
+
+    ---
+
+    **Piège 2 : Le "e muet" au présent (1er groupe)**
+
+    - ❌ "Il chantes" → ✅ "Il chant**e**" (pas de -s à la 3ème personne)
+    - Les terminaisons -e, -es, -e sont "muettes" (on ne les entend pas)
+
+    **je -e, tu -es, il -e, ils -ent → toutes muettes !**
+
+    ---
+
+    **Piège 3 : Les verbes en -GER et -CER au présent**
+
+    - manger → nous mang**e**ons (on garde le E pour le son "j")
+    - commencer → nous commen**ç**ons (cédille pour le son "s")
+
+    ---
+
+    **Piège 4 : Les radicaux irréguliers au futur**
+
+    | Infinitif | Radical futur | PAS... |
+    |-----------|---------------|--------|
+    | aller | ir- | ~~aller~~ |
+    | être | ser- | ~~êtr~~ |
+    | avoir | aur- | ~~avr~~ |
+    | faire | fer- | ~~fair~~ |
+    | voir | **verr**- | ~~voir~~ (double R !) |
+    | pouvoir | **pourr**- | ~~pouv~~ (double R !) |
+
 ---
 
 ## Leçon 1 : Les trois groupes de verbes
@@ -87,6 +129,32 @@
     - Verbes en -IR (sans -issons) : venir, partir, dormir, sortir...
     - Verbes en -RE : prendre, mettre, dire, écrire, lire...
     - Verbes en -OIR : voir, pouvoir, vouloir, savoir, devoir...
+
+??? abstract "🔄 Autre façon de comprendre : les 3 groupes"
+    **Les groupes, c'est comme les équipes sportives !**
+
+    - **1er groupe (-ER)** = la GRANDE équipe (90% des verbes français !)
+      - Facile à reconnaître, terminaisons régulières
+      - C'est l'équipe des verbes "normaux" : manger, jouer, regarder...
+
+    - **2ème groupe (-IR → -issons)** = l'équipe MOYENNE
+      - Verbes qui "grandissent" avec -iss- : finir → finissons
+      - Pour vérifier : "nous grandissons" ✅, "nous venons" ❌
+
+    - **3ème groupe** = l'équipe des REBELLES
+      - Tous les verbes qui ne suivent pas les règles
+      - Ce sont les "stars" capricieuses : être, avoir, aller, faire...
+
+    ---
+
+    **L'astuce du "nous -issons" :**
+
+    ```
+    finir → nous finISSons → 2ème groupe ✅
+    partir → nous partons → 3ème groupe (pas de -iss-)
+    courir → nous courons → 3ème groupe (pas de -iss-)
+    choisir → nous choisISSons → 2ème groupe ✅
+    ```
 
 ---
 
@@ -175,6 +243,35 @@
     - je pren**ds**, tu pren**ds**, il pren**d**
     - SAUF : verbes en -INDRE et -SOUDRE → je pein**s**, il pein**t**
 
+??? abstract "🔄 Autre façon de comprendre : le présent"
+    **Le présent, c'est le temps du "maintenant" et des habitudes !**
+
+    - **Maintenant** : "Je **mange** une pizza" (en ce moment)
+    - **Habitude** : "Je **mange** à 12h" (tous les jours)
+    - **Vérité générale** : "L'eau **bout** à 100°C" (toujours vrai)
+
+    ---
+
+    **L'astuce de la "base + costume" :**
+
+    Le verbe = une personne qui change de costume selon la personne :
+
+    ```
+    CHANTER : chant- (la base) + costume
+
+    je chant-e       nous chant-ons
+    tu chant-es      vous chant-ez
+    il chant-e       ils chant-ent
+    ```
+
+    La base "chant-" reste pareille, seul le costume (terminaison) change !
+
+    ---
+
+    **Pour les verbes en -ER, retiens :**
+    - Les costumes "muets" : je chantE, tu chantES, il chantE, ils chantENT
+    - On n'entend pas ces terminaisons à l'oral, mais il faut les écrire !
+
 ---
 
 ## Exercices guidés - Leçon 2
@@ -246,6 +343,35 @@
 !!! warning "Attention aux verbes en -ier et -yer"
     - crier → nous cri**i**ons (deux i !)
     - payer → nous pay**i**ons (y + i)
+
+??? abstract "🔄 Autre façon de comprendre : l'imparfait"
+    **L'imparfait, c'est le temps du "film du passé" !**
+
+    Imagine que tu regardes un film de ton passé :
+    - **Décor/description** : "Il **faisait** beau, les oiseaux **chantaient**"
+    - **Habitude passée** : "Quand j'**étais** petit, je **jouais** au foot"
+    - **Action qui dure** : "Je **dormais** quand le téléphone a sonné"
+
+    ---
+
+    **La méthode infaillible pour former l'imparfait :**
+
+    ```
+    1. Conjugue au PRÉSENT avec "nous"
+    2. Enlève le "-ons"
+    3. Ajoute les terminaisons : -ais, -ais, -ait, -ions, -iez, -aient
+    ```
+
+    **Exemple :**
+    - manger → nous mang**eons** → mang- → je mang**ais**
+    - finir → nous finiss**ons** → finiss- → je finiss**ais**
+    - prendre → nous pren**ons** → pren- → je pren**ais**
+
+    ---
+
+    **Astuce : les terminaisons de l'imparfait ressemblent à "avoir" :**
+    - j'av**ais**, tu av**ais**, il av**ait**...
+    - je chant**ais**, tu chant**ais**, il chant**ait**...
 
 ---
 
@@ -335,6 +461,43 @@
 
 !!! tip "Astuce pour les doubles R"
     Les verbes **voir, pouvoir, courir, mourir, envoyer** ont un double R au futur.
+
+??? abstract "🔄 Autre façon de comprendre : le futur"
+    **Le futur, c'est le temps des projets et des prédictions !**
+
+    - **Projet** : "Demain, j'**irai** au cinéma"
+    - **Prédiction** : "Il **pleuvra** ce week-end"
+    - **Promesse** : "Je te **rendrai** ton livre"
+
+    ---
+
+    **La formule magique du futur :**
+
+    ```
+    INFINITIF + terminaisons du verbe AVOIR au présent
+
+    chanter + ai = je chanterAI
+    chanter + as = tu chanterAS
+    chanter + a  = il chanterA
+    chanter + ons = nous chanterONS
+    chanter + ez = vous chanterEZ
+    chanter + ont = ils chanterONT
+    ```
+
+    **C'est comme si le verbe "avoir" se collait à l'infinitif !**
+
+    ---
+
+    **Pour les verbes irréguliers, retiens les RADICAUX :**
+
+    ```
+    ÊTRE   → je SER-ai    (comme "SERvir")
+    AVOIR  → j'AUR-ai     (comme "AURore")
+    ALLER  → j'IR-ai      (comme "IRonie")
+    FAIRE  → je FER-ai    (comme "FER" à repasser)
+    VOIR   → je VERR-ai   (double R !)
+    POUVOIR → je POURR-ai (double R !)
+    ```
 
 ---
 

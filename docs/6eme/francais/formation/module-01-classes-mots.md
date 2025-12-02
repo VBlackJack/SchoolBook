@@ -90,6 +90,60 @@
     - **A**dverbe
     - i**N**terjection
 
+??? warning "⚠️ Pièges à éviter : les classes de mots"
+    **Piège 1 : Confondre nature et fonction**
+
+    - **NATURE** = ce que le mot EST (comme ta carte d'identité)
+    - **FONCTION** = ce que le mot FAIT dans la phrase (comme ton rôle dans un jeu)
+
+    "chat" est TOUJOURS un nom (nature), mais il peut être sujet ou COD (fonction)
+
+    ---
+
+    **Piège 2 : Confondre déterminant et pronom**
+
+    - "**Leur** maison est grande" → DEVANT un nom = **déterminant**
+    - "Je **leur** parle" → PAS devant un nom = **pronom**
+
+    **Le test : y a-t-il un nom juste après ?**
+
+    ---
+
+    **Piège 3 : Confondre adjectif et adverbe**
+
+    - "Il est **rapide**" → décrit "il" (nom/pronom) = **adjectif**
+    - "Il court **rapidement**" → décrit "court" (verbe) = **adverbe**
+
+    **Adverbe = modifie un verbe, adjectif ou autre adverbe (souvent en -ment)**
+
+    ---
+
+    **Piège 4 : Le mot "que" a plusieurs natures**
+
+    - "Je sais **que** tu viens" → **conjonction** de subordination
+    - "Le livre **que** j'ai lu" → **pronom** relatif
+    - "**Que** veux-tu ?" → **pronom** interrogatif
+
+    **Regarde le contexte pour trouver la bonne nature !**
+
+??? abstract "🔄 Autre façon de comprendre : Variable vs Invariable"
+    **Pense à des objets du quotidien :**
+
+    - **Mots variables** = comme des **vêtements** qu'on peut ajuster
+      - Un t-shirt peut être en S, M, L, XL → le mot s'adapte (singulier/pluriel, masculin/féminin)
+      - "chat" → "chats", "chatte", "chattes"
+
+    - **Mots invariables** = comme des **objets rigides** qui ne changent pas
+      - Une brique reste une brique, on ne peut pas l'étirer
+      - "toujours" reste "toujours", "avec" reste "avec"
+
+    ---
+
+    **Autre image : les Lego :**
+
+    - **Variables** = pièces qu'on peut transformer (ajouter des extensions)
+    - **Invariables** = pièces fixes qui restent identiques
+
 ---
 
 ## Exercices guidés - Leçon 1
@@ -137,6 +191,24 @@
 
     - *un* chat → ✅ nom
     - *un* manger → ❌ pas un nom (c'est un verbe)
+
+??? abstract "🔄 Autre façon de comprendre : le nom"
+    **Le nom, c'est ce qu'on peut TOUCHER ou IMAGINER :**
+
+    - **Concret** (on peut toucher) : table, téléphone, pizza
+    - **Abstrait** (on peut imaginer) : amour, liberté, courage
+
+    **Test du dessin :**
+    Si tu peux le **dessiner** (même de façon simple) ou le **représenter**, c'est probablement un nom !
+
+    - "chat" → je peux dessiner un chat ✅
+    - "rapidement" → je ne peux pas dessiner "rapidement" ❌
+
+    ---
+
+    **Le nom propre a une majuscule car il est UNIQUE :**
+    - Il n'y a qu'une seule **Tour Eiffel** → majuscule
+    - Il y a plein de **tours** → minuscule
 
 ---
 
@@ -202,6 +274,22 @@
     | vous | votre, vos | |
     | ils/elles | leur, leurs | |
 
+??? abstract "🔄 Autre façon de comprendre : le déterminant"
+    **Le déterminant, c'est le BADGE du nom :**
+
+    Imagine que le nom est une personne à une fête. Le déterminant, c'est son badge d'identification !
+
+    - "**le** chat" → badge qui dit "ce chat précis, celui qu'on connaît"
+    - "**un** chat" → badge qui dit "un chat quelconque, on ne sait pas lequel"
+    - "**mon** chat" → badge qui dit "ce chat m'appartient"
+    - "**ce** chat" → badge qui dit "celui-là, que je montre du doigt"
+
+    ---
+
+    **Un nom sans déterminant, c'est bizarre :**
+    - "J'ai vu chat" ❌ → Il manque le badge !
+    - "J'ai vu **un** chat" ✅ → Maintenant on sait de quel type de chat on parle
+
 ---
 
 ## Exercices guidés - Leçon 3
@@ -246,6 +334,25 @@
 
     - Il est *grand* → ✅ adjectif
     - Il est *table* → ❌ pas un adjectif
+
+??? abstract "🔄 Autre façon de comprendre : l'adjectif"
+    **L'adjectif, c'est le FILTRE Instagram du nom !**
+
+    Comme un filtre qui modifie l'apparence d'une photo, l'adjectif modifie le nom :
+
+    - "un chat" → photo normale
+    - "un **gros** chat **noir**" → photo avec filtres (taille + couleur)
+
+    ---
+
+    **Autre image : les options d'un personnage de jeu vidéo**
+
+    Quand tu crées un personnage, tu choisis des caractéristiques :
+    - Taille : **grand** / **petit**
+    - Apparence : **musclé** / **mince**
+    - Couleur : **blond** / **brun**
+
+    Ces options = les adjectifs du personnage !
 
 ---
 
@@ -300,6 +407,28 @@
     - je *mange*, tu *manges*, il *mange* → ✅ verbe
     - je *table*, tu *table* → ❌ pas un verbe
 
+??? abstract "🔄 Autre façon de comprendre : le verbe"
+    **Le verbe, c'est le MOTEUR de la phrase !**
+
+    Sans verbe, la phrase ne "démarre" pas :
+    - "Le chat sur le canapé" → phrase cassée, pas de moteur
+    - "Le chat **dort** sur le canapé" → phrase complète, le moteur fonctionne !
+
+    ---
+
+    **Autre test : le temps qui passe**
+
+    Si tu peux changer le moment (hier, maintenant, demain), c'est un verbe :
+
+    - Hier, je **mangeais** / Maintenant, je **mange** / Demain, je **mangerai**
+    - Le verbe change avec le temps = c'est son super-pouvoir !
+
+    ---
+
+    **Verbe d'ACTION vs verbe d'ÉTAT :**
+    - ACTION = quelque chose se passe (courir, manger, sauter)
+    - ÉTAT = rien ne bouge, on décrit (être, sembler, rester)
+
 ---
 
 ## Exercices guidés - Leçon 5
@@ -350,6 +479,27 @@
 !!! warning "Ne pas confondre !"
     - **Déterminant** : toujours DEVANT un nom → *leur* maison
     - **Pronom** : REMPLACE un nom → Je *leur* parle.
+
+??? abstract "🔄 Autre façon de comprendre : le pronom"
+    **Le pronom, c'est le DOUBLURE du nom !**
+
+    Au cinéma, quand l'acteur principal ne peut pas faire une cascade, on utilise une doublure. Le pronom fait pareil :
+
+    - "**Marie** mange une pomme. **Marie** est contente." → répétition ennuyeuse
+    - "**Marie** mange une pomme. **Elle** est contente." → la doublure "elle" remplace "Marie"
+
+    ---
+
+    **Liste des doublures les plus courantes :**
+
+    | Le nom | Sa doublure (pronom) |
+    |--------|---------------------|
+    | Marie | elle |
+    | le livre | il, le |
+    | les enfants | ils, eux |
+    | la pizza | elle, la |
+
+    **Avantage :** ça évite de répéter le même mot 10 fois !
 
 ---
 

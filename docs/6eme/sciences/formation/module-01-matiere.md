@@ -59,6 +59,49 @@
 
     → Ce sont des formes d'**énergie** !
 
+??? warning "⚠️ Pièges à éviter : la matière"
+
+    **Piège 1 : Croire que l'air n'est pas de la matière**
+
+    - ❌ "L'air n'existe pas, c'est du vide"
+    - ✅ L'air **EST** de la matière : il a une **masse** (1,2 kg par m³) et un **volume**
+
+    **Preuves :** Le vent peut faire tomber des arbres, un ballon gonflé est plus lourd qu'un ballon dégonflé.
+
+    ---
+
+    **Piège 2 : Confondre matière et objet**
+
+    | Ce qui est dit | Correct ? |
+    |----------------|-----------|
+    | "Le bois est une matière" | ✅ OUI |
+    | "La chaise est une matière" | ❌ NON (c'est un objet fait de matière) |
+    | "Le fer est une matière" | ✅ OUI |
+    | "Le vélo est une matière" | ❌ NON (c'est un objet) |
+
+    **Objet = ce qu'on voit / Matière = ce qui le compose**
+
+    ---
+
+    **Piège 3 : Confondre masse et poids**
+
+    | Masse | Poids |
+    |-------|-------|
+    | Quantité de matière | Force due à la gravité |
+    | En **kilogrammes (kg)** | En **newtons (N)** |
+    | Ne change pas sur la Lune | 6 fois plus faible sur la Lune |
+
+    En 6ème, on parle surtout de **masse** !
+
+    ---
+
+    **Piège 4 : Penser que "invisible = pas de matière"**
+
+    - ❌ "Je ne vois pas l'air, donc ce n'est pas de la matière"
+    - ✅ Beaucoup de gaz sont **invisibles** mais sont bien de la matière
+
+    Contre-exemple : le verre est visible mais laisse passer la lumière, l'air est invisible mais on le sent quand il y a du vent !
+
 !!! example "L'air, c'est de la matière !"
 
     **Preuves que l'air existe (même si tu ne le vois pas) :**
@@ -106,6 +149,38 @@ Regarde autour de toi : une table, un verre d'eau, l'air que tu respires... Tout
     - A une **masse** (qu'on peut peser)
     - Occupe un **volume** (qu'on peut mesurer)
     - Peut être perçu par nos **sens** (toucher, voir, sentir...)
+
+??? abstract "🔄 Autre façon de comprendre : matière vs énergie"
+    **La matière, c'est ce qui prend de la place et qu'on peut peser !**
+
+    **Test simple :** Si tu peux le mettre sur une balance et voir un poids, c'est de la matière.
+
+    - Un caillou → sur la balance → affiche 50g → MATIÈRE ✅
+    - La lumière → sur la balance → affiche 0g → PAS MATIÈRE ❌
+
+    ---
+
+    **L'air, cette matière invisible !**
+
+    Beaucoup de gens pensent que l'air n'est "rien". FAUX !
+
+    Preuves :
+    - Quand tu souffles un ballon, quelque chose le gonfle
+    - Le vent peut faire tomber des arbres → l'air a une force
+    - 1 mètre cube d'air pèse 1,2 kg !
+
+    L'air est de la matière, juste **invisible** !
+
+    ---
+
+    **Matière = ce qui EST**
+    **Énergie = ce qui SE PASSE**
+
+    | MATIÈRE | ÉNERGIE |
+    |---------|---------|
+    | La bougie (cire) | La flamme (lumière + chaleur) |
+    | Le fil électrique (cuivre) | Le courant qui passe |
+    | Les haut-parleurs | Le son qui en sort |
 
 ### 1.2 Matière ou pas matière ?
 
