@@ -48,7 +48,7 @@ graph TD
     | **Boîtier** | Protège les composants | Le squelette |
 
 !!! tip "L'ordinateur, c'est comme un corps humain ! 🧑"
-    ![L'ordinateur comme un corps humain](../../../../assets/images/informatique/ordinateur-corps-humain.svg){ loading=lazy }
+    ![L'ordinateur comme un corps humain](../../../assets/images/informatique/ordinateur-corps-humain.svg){ loading=lazy }
 
 ---
 
@@ -85,7 +85,7 @@ graph TD
     C'est la "colonne vertébrale" de l'ordinateur !
 
 !!! example "Schéma simplifié d'une carte mère 🔌"
-    ![La carte mère](../../../../assets/images/informatique/carte-mere.svg){ loading=lazy }
+    ![La carte mère](../../../assets/images/informatique/carte-mere.svg){ loading=lazy }
 
 ### Les éléments de la carte mère
 
