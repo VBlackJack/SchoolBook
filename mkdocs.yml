@@ -1,7 +1,9 @@
 site_name: SchoolBook
 site_description: Le compagnon numérique du Collégien - Maths, Français, Histoire-Géo & Sciences
 site_author: SchoolBook Team
-repo_name: SchoolBook
+site_url: https://vblackjack.github.io/SchoolBook/
+repo_name: VBlackJack/SchoolBook
+repo_url: https://github.com/VBlackJack/SchoolBook
 edit_uri: edit/main/docs/
 
 theme:
@@ -44,6 +46,8 @@ plugins:
   - search:
       lang: fr
   - tags
+  - minify:
+      minify_html: true
 
 markdown_extensions:
   - admonition
