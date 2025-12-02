@@ -420,8 +420,8 @@
     │   ├── 📁 Minecraft
     │   │   ├── 🖼️ ma-base-2024-01.png
     │   │   └── 🖼️ dragon-battu.png
-    │   └── 📁 Fortnite
-    │       └── 🖼️ victoire-royale.png
+    │   └── 📁 Forza
+    │       └── 🖼️ ma-voiture-custom.png
     │
     ├── 📁 Videos (tes enregistrements)
     │   ├── 📁 Brut (vidéos non montées)
@@ -431,7 +431,7 @@
     │
     └── 📁 Sauvegardes
         ├── 📁 Minecraft-worlds
-        └── 📁 Fortnite-replays
+        └── 📁 Forza-replays
     ```
 
     **Pourquoi c'est important ?**

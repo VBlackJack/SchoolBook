@@ -109,14 +109,14 @@
     Name: Théo
     Age: 12
     Country: France
-    Favorite game: Fortnite
+    Favorite game: Minecraft
     ```
 
     **En anglais :**
     - My name is Théo.
     - I am 12 years old.
     - I am French.
-    - I like playing Fortnite.
+    - I like playing Minecraft.
 
 ---
 

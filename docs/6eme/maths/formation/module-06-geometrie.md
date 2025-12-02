@@ -24,10 +24,10 @@
     - Une horloge est un **cercle**
 
     **Dans les jeux vidéo :**
-    - Minecraft : tout est en **cubes** (géométrie 3D !)
-    - La map de Fortnite : repérage avec des **coordonnées** (A1, B3...)
-    - Le viseur de tir : un **cercle** avec une **croix** au centre (perpendiculaires)
-    - Les trajectoires de tir : des **segments** ou des **courbes**
+    - Minecraft : tout est en **cubes** (géométrie 3D !) et coordonnées X, Y, Z
+    - Forza Horizon 5 : la map utilise des **coordonnées** pour les courses
+    - Le viseur dans Hogwarts Legacy : un **cercle** avec une **croix** (perpendiculaires)
+    - Construction LEGO Star Wars : assembler des **formes géométriques**
 
     **Dans le sport :**
     - Terrain de foot : **rectangle** de 105m × 68m

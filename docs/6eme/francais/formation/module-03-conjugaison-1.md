@@ -19,7 +19,7 @@
 
     **Quand tu racontes ta journée (passé - imparfait/passé composé) :**
     - "Ce matin, je **dormais** et mon réveil **a sonné**"
-    - "Hier, on **jouait** à Fortnite et je **gagnais** toutes les parties"
+    - "Hier, on **jouait** à Minecraft et je **construisais** une super base"
     - "Le match **était** serré mais on **a gagné** !"
 
     **Quand tu décris le présent :**

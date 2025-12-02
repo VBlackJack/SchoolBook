@@ -142,7 +142,7 @@
     | Type | Exemples |
     |------|----------|
     | **Plateformes de jeux** | Steam, Epic Games, Xbox Game Pass |
-    | **Jeux populaires** | Minecraft, Fortnite, Roblox |
+    | **Jeux populaires** | Minecraft, Forza Horizon, Hogwarts Legacy |
 
 !!! example "🎮 Les logiciels qu'utilisent les YouTubers gaming"
     Tu te demandes comment les YouTubers font leurs vidéos de jeux ? Voici leurs outils :

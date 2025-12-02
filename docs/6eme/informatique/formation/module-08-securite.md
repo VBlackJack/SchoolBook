@@ -392,24 +392,24 @@
     4. **Garder** des preuves (captures d'écran)
     5. Si grave : **déposer plainte**
 
-!!! example "🎮 Histoire vraie : le compte Fortnite piraté"
+!!! example "🎮 Histoire vraie : le compte Minecraft piraté"
     **Ce qui est arrivé à Lucas (12 ans) :**
 
     1. Lucas utilise le mot de passe `lucas2011` sur tous ses comptes
-    2. Un site de "V-Bucks gratuits" lui demande son login Epic Games
+    2. Un site de "Minecoins gratuits" lui demande son login Microsoft/Mojang
     3. Il entre ses identifiants (ERREUR !)
-    4. Le lendemain : son compte Fortnite est volé !
+    4. Le lendemain : son compte Minecraft est volé !
     5. Le pirate a changé le mot de passe et l'email
-    6. Tous ses skins (50€ de valeur) sont perdus...
+    6. Tous ses mondes et son compte premium sont perdus...
 
     **Ce qu'il aurait dû faire :**
 
-    - ❌ Ne JAMAIS entrer son mot de passe sur un site "V-Bucks gratuits" (ça n'existe pas !)
+    - ❌ Ne JAMAIS entrer son mot de passe sur un site "Minecoins gratuits" (ça n'existe pas !)
     - ❌ Ne pas utiliser le même mot de passe partout
-    - ✅ Activer l'authentification à 2 facteurs (2FA) sur Epic Games
+    - ✅ Activer l'authentification à 2 facteurs (2FA) sur Microsoft
     - ✅ Utiliser un mot de passe unique et complexe
 
-    **La bonne nouvelle :** Epic Games a un support pour récupérer les comptes volés. Mais c'est long et compliqué !
+    **La bonne nouvelle :** Microsoft a un support pour récupérer les comptes volés. Mais c'est long et compliqué !
 
 !!! example "📱 Arnaque aux faux concours Instagram"
     Tu vois ce message sur Instagram :

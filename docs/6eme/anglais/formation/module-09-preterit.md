@@ -20,7 +20,7 @@
 
     - "Link **woke up** after 100 years..." (Zelda)
     - "The hero **saved** the kingdom." (RPG classique)
-    - "The player **won** the championship." (FIFA)
+    - "The player **won** the race." (Forza Horizon)
 
     **Les recaps YouTube :**
 
@@ -130,11 +130,11 @@
 
     **Exemple de récit :**
 
-    "Yesterday, I **played** Fortnite with my friends. We **landed** at Tilted Towers. I **found** a legendary weapon! But then, an enemy **saw** me and I **lost** the game. We **played** again and finally **won**!"
+    "Yesterday, I **played** Minecraft with my friends. We **built** a big house. I **found** diamonds! But then, a Creeper **saw** me and I **lost** all my items. We **played** again and finally **killed** the Ender Dragon!"
 
     **Traduction :**
 
-    "Hier, j'ai joué à Fortnite avec mes amis. On a atterri à Tilted Towers. J'ai trouvé une arme légendaire ! Mais ensuite, un ennemi m'a vu et j'ai perdu la partie. On a rejoué et finalement on a gagné !"
+    "Hier, j'ai joué à Minecraft avec mes amis. On a construit une grande maison. J'ai trouvé des diamants ! Mais ensuite, un Creeper m'a vu et j'ai perdu tous mes objets. On a rejoué et finalement on a tué l'Ender Dragon !"
 
 ---
 

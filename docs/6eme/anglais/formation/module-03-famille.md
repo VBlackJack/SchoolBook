@@ -168,7 +168,7 @@
     | **friend** | ami |
     | **best friend / BFF** | meilleur ami |
     | **teammate** | coéquipier |
-    | **squad** | équipe (Fortnite) |
+    | **squad** | équipe (jeux en ligne) |
     | **clan** | clan |
     | **guild** | guilde |
 

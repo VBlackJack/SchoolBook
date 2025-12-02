@@ -20,7 +20,7 @@
 
     - **Spider-Man** → Gratte-ciels, Queens, Manhattan
     - **Avengers** → Times Square, Stark Tower
-    - **GTA IV** → "Liberty City" = New York
+    - **LEGO Marvel** → Tu explores la ville !
 
     **Tokyo :**
 

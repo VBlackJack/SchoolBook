@@ -152,7 +152,7 @@
     ✅ "The lamp is **next to** the desk"
     ✅ "The lamp is **between** the desk and the bed"
 
-!!! example "La ville dans GTA / jeux open-world"
+!!! example "La ville dans Minecraft / Forza / jeux open-world"
 
     **Vocabulaire urbain :**
 

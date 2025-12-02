@@ -35,8 +35,8 @@
     | Présent simple | BE + ING |
     |----------------|----------|
     | Habitude | Action en cours |
-    | "I play Fortnite" | "I'm playing Fortnite" |
-    | = Je joue à Fortnite (en général) | = Je suis EN TRAIN DE jouer |
+    | "I play Minecraft" | "I'm playing Minecraft" |
+    | = Je joue à Minecraft (en général) | = Je suis EN TRAIN DE jouer |
 
     **Exemple concret :**
 
@@ -123,8 +123,8 @@
 
     | Situation | Temps | Exemple |
     |-----------|-------|---------|
-    | **Habitude** (toujours) | Présent simple | "I **play** Fortnite" (en général) |
-    | **Maintenant** (en cours) | BE + ING | "I**'m playing** Fortnite" (là, tout de suite) |
+    | **Habitude** (toujours) | Présent simple | "I **play** Minecraft" (en général) |
+    | **Maintenant** (en cours) | BE + ING | "I**'m playing** Minecraft" (là, tout de suite) |
 
     ---
 

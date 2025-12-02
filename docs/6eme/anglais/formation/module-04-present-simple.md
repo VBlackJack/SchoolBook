@@ -18,7 +18,7 @@
 
     **Tes habitudes de gaming :**
 
-    - "I **play** Fortnite every day." (Je joue à Fortnite tous les jours)
+    - "I **play** Minecraft every day." (Je joue à Minecraft tous les jours)
     - "She **watches** streams on Twitch." (Elle regarde des streams)
     - "We **play** together on weekends." (On joue ensemble le week-end)
 

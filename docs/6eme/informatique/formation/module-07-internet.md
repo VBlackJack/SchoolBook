@@ -131,24 +131,24 @@
     | **Email** | Envoyer des messages | Gmail, Outlook |
     | **Streaming** | Regarder des vidéos/musique | YouTube, Netflix, Spotify |
     | **Messagerie** | Discuter en direct | WhatsApp, Discord |
-    | **Jeux en ligne** | Jouer avec d'autres | Fortnite, Minecraft |
+    | **Jeux en ligne** | Jouer avec d'autres | Minecraft, Forza, Hogwarts |
     | **Cloud** | Stocker des fichiers | Google Drive, Dropbox |
 
-!!! example "🎮 Que se passe-t-il quand tu joues à Fortnite en ligne ?"
-    Quand tu lances une partie de Fortnite avec tes amis :
+!!! example "🎮 Que se passe-t-il quand tu joues à Minecraft en ligne ?"
+    Quand tu rejoins un serveur Minecraft avec tes amis :
 
     1. **Ton PC/console** → envoie ta position, tes actions sur Internet
-    2. **Les serveurs de Fortnite** (des gros ordinateurs) reçoivent les infos de tous les joueurs
-    3. **Les serveurs calculent** : "Ce joueur a tiré, est-ce que ça touche l'autre ?"
-    4. **Les serveurs renvoient** les résultats à tout le monde
-    5. **Ton écran affiche** : tu as éliminé un adversaire !
+    2. **Le serveur Minecraft** (un gros ordinateur) reçoit les infos de tous les joueurs
+    3. **Le serveur calcule** : "Ce joueur a cassé un bloc, ce joueur a crafté une épée..."
+    4. **Le serveur renvoie** les mises à jour à tout le monde
+    5. **Ton écran affiche** : ton ami a construit une maison pendant que tu minais !
 
     **Tout ça en moins de 0,05 seconde !** (C'est le "ping" dont parlent les gamers)
 
     ```
-    TOI 🎮 ──────────────────► SERVEUR FORTNITE 🖥️ ◄─────────────── AMI 🎮
-         "Je tire !"           "OK, impact calculé !"    "Je cours !"
-              ◄──────────────── "Tu l'as touché !" ────────────────►
+    TOI 🎮 ──────────────────► SERVEUR MINECRAFT 🖥️ ◄─────────────── AMI 🎮
+         "Je casse un bloc !"   "OK, bloc cassé !"    "Je construis !"
+              ◄──────────────── "Monde mis à jour !" ────────────────►
     ```
 
     **C'est pour ça que :**
@@ -307,10 +307,10 @@
     | **Wi-Fi** | 30-80 ms | Variable (parfois 200ms !) |
     | **Ethernet** | 5-15 ms | Toujours stable |
 
-    **En pratique dans Fortnite :**
+    **En pratique dans Forza Horizon 5 (courses en ligne) :**
 
-    - **Wi-Fi instable** : Tu tires sur un ennemi... mais il s'est déjà déplacé côté serveur → tu rates !
-    - **Ethernet stable** : Ce que tu vois = ce qui se passe vraiment → tu touches !
+    - **Wi-Fi instable** : Tu freines au bon moment... mais côté serveur tu as déjà percuté un mur → tu perds !
+    - **Ethernet stable** : Ce que tu vois = ce qui se passe vraiment → tu gagnes !
 
     **Conseil :** Si tu joues en compétition ou que tu veux le meilleur ping, branche un câble Ethernet à ton PC/console. C'est beaucoup plus stable que le Wi-Fi !
 

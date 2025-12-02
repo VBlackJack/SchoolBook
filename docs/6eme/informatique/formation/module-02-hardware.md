@@ -192,7 +192,7 @@ graph TD
     - **Pâte thermique** : Aide à transférer la chaleur
 
 !!! example "🎮 Pourquoi ton PC ou ta PS5 fait du bruit quand tu joues ?"
-    Tu as peut-être remarqué que quand tu joues à un jeu vidéo gourmand (comme Fortnite ou GTA), ton ordinateur ou ta console fait plus de bruit...
+    Tu as peut-être remarqué que quand tu joues à un jeu vidéo gourmand (comme Forza Horizon 5 ou Hogwarts Legacy), ton ordinateur ou ta console fait plus de bruit...
 
     **C'est normal !** Voici ce qui se passe :
 
@@ -281,8 +281,8 @@ graph TD
     | **Webcam** | Capter la vidéo |
     | **Manette de jeu** | Jouer aux jeux vidéo |
 
-!!! example "🎮 Quand tu joues à Fortnite avec une manette..."
-    Imagine : tu appuies sur le bouton pour sauter dans Fortnite.
+!!! example "🎮 Quand tu joues à Forza avec une manette..."
+    Imagine : tu appuies sur le bouton pour accélérer dans Forza Horizon 5.
 
     **Voici le voyage de ton appui de bouton :**
 

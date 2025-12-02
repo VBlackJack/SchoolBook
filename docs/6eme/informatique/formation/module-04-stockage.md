@@ -106,9 +106,9 @@
 
     **Voici pourquoi :**
 
-    La PS4 classique a un **disque dur HDD**. Quand tu lances GTA V :
+    La PS4 classique a un **disque dur HDD**. Quand tu lances Hogwarts Legacy :
 
-    1. Le jeu doit charger la carte de Los Santos (~5 Go de données)
+    1. Le jeu doit charger la carte de Poudlard (~5 Go de données)
     2. Le HDD lit les données à ~100 Mo/seconde
     3. 5 000 Mo ÷ 100 Mo/s = **50 secondes** minimum !
     4. Plus les textures, les sons, les personnages...

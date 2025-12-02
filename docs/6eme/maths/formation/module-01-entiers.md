@@ -18,9 +18,9 @@
 !!! tip "Tu utilises déjà les grands nombres sans le savoir !"
 
     **Dans les jeux vidéo :**
-    - Ton score sur Fortnite ou Minecraft peut atteindre des **millions** de points
-    - Les dégâts dans certains RPG : "Tu infliges **45 236** points de dégâts !"
-    - L'argent dans GTA : tu peux avoir **2 500 000 $** sur ton compte
+    - Dans Minecraft, un stack = **64** blocs, et tu peux en avoir des **milliers** !
+    - Tes crédits dans Forza Horizon 5 : tu peux avoir **2 500 000 CR** sur ton compte
+    - Les XP dans Hogwarts Legacy pour débloquer les sorts : des **dizaines de milliers**
 
     **Sur YouTube et TikTok :**
     - "Cette vidéo a **12 millions** de vues"

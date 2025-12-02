@@ -22,11 +22,11 @@
     - **Forza / Gran Turismo** → Physique réaliste
     - **Rocket League** → Trajectoires, rebonds
 
-    **Dans les jeux de tir/sport :**
+    **Dans d'autres jeux :**
 
-    - **FIFA/PES** → Vitesse du ballon, trajectoire courbe
+    - **BeamNG.drive** → Crash tests réalistes, physique des collisions
     - **Angry Birds** → Trajectoire parabolique
-    - **Basketball** → Arc du tir
+    - **LEGO Star Wars** → Projectiles des blasters
 
 !!! example "Les types de mouvement au quotidien"
 

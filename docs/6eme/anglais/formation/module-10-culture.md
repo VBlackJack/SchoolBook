@@ -22,7 +22,7 @@
     |-----------|---------------------|
     | **Films** | Marvel, Disney, Harry Potter, Star Wars |
     | **Musique** | Ed Sheeran, Taylor Swift, Billie Eilish |
-    | **Jeux vidéo** | Fortnite (USA), Minecraft (Suède mais en anglais) |
+    | **Jeux vidéo** | Minecraft, Forza, Hogwarts Legacy |
     | **Sport** | NBA, NFL, Premier League |
     | **Séries** | Stranger Things, The Simpsons |
 
@@ -37,7 +37,7 @@
     | **Christmas** | 25 décembre | Father Christmas / Santa Claus |
     | **St Patrick's Day** | 17 mars (Irlande) | Vert partout ! |
 
-    **Dans Fortnite et autres jeux = événements spéciaux à ces dates !**
+    **Dans Minecraft et autres jeux = événements spéciaux à ces dates !**
 
 !!! warning "Différences UK vs USA"
 

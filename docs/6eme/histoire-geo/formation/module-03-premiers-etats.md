@@ -28,7 +28,7 @@
     - **Assassin's Creed Origins** → Tu explores l'Égypte antique !
     - **Civilization** → Tu construis des pyramides
     - **Age of Mythology** → Dieux égyptiens (Rê, Anubis, Isis)
-    - **Fortnite** → Skin de Cléopâtre, événements Égypte
+    - **Hogwarts Legacy** → Référence à l'Égypte ancienne dans les cours d'histoire de la magie
 
 !!! example "L'Égypte dans ton quotidien"
 

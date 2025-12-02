@@ -27,7 +27,7 @@
 
     - **Assassin's Creed IV: Black Flag** → Tu es un pirate dans les Caraïbes
     - **Sea of Thieves** → Piraterie et exploration maritime
-    - **GTA V** → Los Santos a des plages magnifiques
+    - **Forza Horizon 5** → Le Mexique a des côtes magnifiques !
     - **Minecraft** → Les biomes côtiers sont super stratégiques !
 
 !!! example "Pourquoi tout le monde aime la plage"

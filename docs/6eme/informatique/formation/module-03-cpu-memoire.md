@@ -60,17 +60,17 @@
     Un processeur à **3.5 GHz** effectue **3,5 milliards d'opérations par seconde** !
 
 !!! example "🎮 3,5 milliards par seconde, ça veut dire quoi concrètement ?"
-    Imagine que tu joues à FIFA et que tu fais une passe :
+    Imagine que tu joues à Forza Horizon 5 et que tu fais une course :
 
     En **1 seule seconde**, ton processeur fait :
 
-    - Calcule où est le ballon → **10 millions d'opérations**
-    - Calcule où sont les 22 joueurs → **50 millions d'opérations**
-    - Calcule la trajectoire de la passe → **100 millions d'opérations**
-    - Vérifie s'il y a hors-jeu → **20 millions d'opérations**
-    - Gère les animations des joueurs → **200 millions d'opérations**
+    - Calcule où est ta voiture → **10 millions d'opérations**
+    - Calcule où sont les 11 autres voitures → **50 millions d'opérations**
+    - Calcule la physique (freinage, virage, drift) → **100 millions d'opérations**
+    - Gère les collisions → **20 millions d'opérations**
+    - Gère les animations des voitures → **200 millions d'opérations**
     - Affiche tout ça 60 fois par seconde → **500 millions d'opérations**
-    - Joue les sons (foule, commentaires) → **50 millions d'opérations**
+    - Joue les sons (moteur, foule, radio) → **50 millions d'opérations**
     - Et plein d'autres trucs...
 
     **TOTAL : plusieurs milliards de calculs... juste pour UNE passe !**
@@ -270,7 +270,7 @@
     **C'est pour ça que les téléphones avec plus de RAM (8 Go) sont plus fluides !**
 
 !!! example "🎮 Pourquoi les jeux modernes demandent 16 Go de RAM ?"
-    Un jeu comme GTA V ou Fortnite charge énormément de choses dans la RAM :
+    Un jeu comme Hogwarts Legacy ou Forza Horizon 5 charge énormément de choses dans la RAM :
 
     | Élément | Taille en RAM |
     |---------|---------------|

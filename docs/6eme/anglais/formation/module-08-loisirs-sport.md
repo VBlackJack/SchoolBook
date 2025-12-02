@@ -211,7 +211,7 @@
 
     | Phrase | Traduction |
     |--------|------------|
-    | "I like playing Fortnite" | J'aime jouer à Fortnite |
+    | "I like playing Minecraft" | J'aime jouer à Minecraft |
     | "My favorite game is..." | Mon jeu préféré est... |
     | "I play every day" | Je joue tous les jours |
     | "I'm good at shooting games" | Je suis bon aux jeux de tir |

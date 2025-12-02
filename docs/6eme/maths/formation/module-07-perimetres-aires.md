@@ -30,9 +30,9 @@
     - La taille de ton écran de TV = son **aire** (55 pouces = la diagonale !)
 
     **Dans les jeux vidéo :**
-    - Zone de jeu dans Fortnite : l'**aire** de la zone safe
-    - Construire un mur dans Minecraft : compter les blocs = **aire**
-    - Distance à parcourir = lié au **périmètre**
+    - Construire un mur dans Minecraft : compter les blocs = **aire** (ex: mur 5×3 = 15 blocs)
+    - Surface d'une piste dans Forza : l'**aire** du circuit
+    - Carte du Monde des Sorciers dans Hogwarts : mesurer les **distances** = périmètre
 
     **Mesures courantes à connaître :**
     - Chambre moyenne : **10 à 15 m²** (aire)

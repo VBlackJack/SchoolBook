@@ -405,7 +405,7 @@ graph TD
     - **Ne repousse pas** trop longtemps les mises à jour de sécurité
 
 !!! example "🎮 Pourquoi les jeux aussi ont des mises à jour ?"
-    Tu as déjà vu "Mise à jour disponible" sur Fortnite, Minecraft ou FIFA ?
+    Tu as déjà vu "Mise à jour disponible" sur Minecraft, Forza ou Hogwarts Legacy ?
 
     **C'est exactement comme Windows !** Les développeurs corrigent :
 
@@ -414,10 +414,10 @@ graph TD
     - 🛡️ **Les failles** : "Des tricheurs exploitent une faille" → corrigé !
     - 🎁 **Du contenu** : Nouvelles cartes, skins, événements...
 
-    **Exemple concret - Fortnite :**
-    - Fortnite fait une mise à jour **tous les 15 jours** environ
-    - Chaque mise à jour = nouveaux skins, armes, corrections de bugs
-    - Si tu ne mets pas à jour = tu ne peux plus jouer en ligne !
+    **Exemple concret - Minecraft :**
+    - Minecraft fait des mises à jour régulières (environ 2-3 par an)
+    - Chaque mise à jour = nouveaux blocs, mobs, biomes, corrections de bugs
+    - La mise à jour 1.20 a ajouté les chameaux et le bambou !
 
     **C'est pareil pour Windows :**
     Sans les mises à jour de sécurité, des pirates pourraient accéder à ton PC !
