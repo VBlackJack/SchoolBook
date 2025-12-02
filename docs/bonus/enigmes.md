@@ -241,95 +241,95 @@
 
 ## Rébus
 
+!!! info "Comment lire un rébus"
+    Dans un rébus, on utilise des images ou des lettres qui, lues à voix haute, forment un mot.
+
 ??? question "Rébus 1"
-    🐝 + 1 = ?
+    La lettre **B** + 💧 (de l'eau) = ?
 
     ??? success "Réponse"
-        **BEAU** (B + EAU)
+        **BEAU** !
+
+        B + EAU = BEAU [bo]
 
 ??? question "Rébus 2"
-    🅰️ + 🅱️ + 🐜 = ?
+    🐱 (un chat) + 💧 (de l'eau) = ?
 
     ??? success "Réponse"
-        **ABRICOT** (A + BRI + COT... non, plutôt ABONDANT : A + B + ON + DENT)
+        **CHAPEAU** !
 
-        Ou simplement : A + B + ANT = **HABITANT** ?
-
-        (Les rébus sont ouverts à interprétation !)
+        CHAT + EAU = CHAPEAU [ʃapo]
 
 ??? question "Rébus 3"
-    100 + 🎵 = ?
+    La lettre **I** + 🎲 (un dé) = ?
 
     ??? success "Réponse"
-        **SENSATION** (CENT + SA + SION/SON)
+        **IDÉE** !
+
+        I + DÉ = IDÉE [ide]
 
 ??? question "Rébus 4"
-    🍎 + 🅰️ + 👃 = ?
+    🌲 (un pin) + 🪣 (un seau) = ?
 
     ??? success "Réponse"
-        **PARISIEN** (POIRE... non)
+        **PINCEAU** !
 
-        Hmm, essayons : POMME + A + NEZ = **PAS DE NEZ** ?
+        PIN + SEAU = PINCEAU [pɛ̃so]
 
 ---
 
 ## Charades
 
 ??? question "Charade 1"
-    Mon premier est le contraire de "tard".
+    Mon premier est le contraire de "haut".
 
-    Mon deuxième est ce que font les poules.
+    Mon deuxième coule de source.
 
-    Mon tout est un moyen de transport.
+    Mon tout flotte sur l'eau.
 
     ??? success "Réponse"
-        - Mon premier : **TÔT**
-        - Mon deuxième : **PONDENT** (les poules pondent) → **POND**
-        - Mon tout : **TÔTPOND** = **AUTOBUS** ?
-
-        Non, reprenons :
-        - TÔT + O (les poules font "cot cot" ou pondent des **O**eufs)
-        - **AUTO** !
+        - Mon premier : **BAS** [ba]
+        - Mon deuxième : **EAU** [o]
+        - Mon tout : **BATEAU** [bato] !
 
 ??? question "Charade 2"
     Mon premier est un animal qui miaule.
 
-    Mon deuxième recouvre le corps des poissons.
+    Mon deuxième coule du robinet.
 
-    Mon tout est un légume orange.
+    Mon tout se porte sur la tête.
 
     ??? success "Réponse"
-        - Mon premier : **CHAT**
-        - Mon deuxième : **ÉCAILLE** → **ROTE** ? Non...
-
-        Reprenons :
-        - CHAT + ROT (bruit) = **CAROTTE** !
+        - Mon premier : **CHAT** [ʃa]
+        - Mon deuxième : **EAU** [o]
+        - Mon tout : **CHAPEAU** [ʃapo] !
 
 ??? question "Charade 3"
     Mon premier est une note de musique.
 
-    Mon deuxième est une note de musique.
+    Mon deuxième est le dieu égyptien du soleil.
 
-    Mon troisième est une note de musique.
+    Mon troisième signifie "joli" au masculin.
 
-    Mon tout est un fruit.
+    Mon tout est un petit fruit jaune.
 
     ??? success "Réponse"
-        - MI + RA + BEL = **MIRABELLE** !
+        - Mon premier : **MI** (note de musique)
+        - Mon deuxième : **RA** (dieu du soleil)
+        - Mon troisième : **BEL** (synonyme de "beau")
+        - Mon tout : **MIRABELLE** !
 
 ??? question "Charade 4"
-    Mon premier coule de source.
+    Mon premier est un animal qui ronronne.
 
-    Mon second est un oiseau bavard.
+    Mon deuxième sort du robinet.
 
-    Mon tout est un vêtement.
+    Mon tout est une grande demeure royale.
 
     ??? success "Réponse"
-        - Mon premier : **EAU**
-        - Mon second : **PIE**
-        - Mon tout : **ÉPAULE** ? Non...
-
-        Ou bien : **MANTEAU** (MAN + T + EAU)
+        - Mon premier : **CHAT** [ʃa]
+        - Mon deuxième : **EAU** [o]
+        - Mon tout : **CHÂTEAU** [ʃato] !
 
 ---
 
@@ -350,7 +350,7 @@
     Réarrange les lettres de **GARE** pour former un autre mot.
 
     ??? success "Réponse"
-        **RAGE** ou **GEAR**
+        **RAGE**
 
 ??? question "Anagramme 3"
     Réarrange les lettres de **AIMER** pour former un autre mot.
