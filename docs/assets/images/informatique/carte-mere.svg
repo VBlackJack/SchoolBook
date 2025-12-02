@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="pcbGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#065f46;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+    <pattern id="pcbPattern" patternUnits="userSpaceOnUse" width="20" height="20">
+      <circle cx="10" cy="10" r="1" fill="#10b981" opacity="0.3"/>
+    </pattern>
+    <filter id="shadow4" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="2" dy="2" stdDeviation="2" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="500" fill="#1f2937" rx="20"/>
+
+  <!-- Title -->
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">🔌 La Carte Mère - "Colonne Vertébrale" de l'ordinateur</text>
+
+  <!-- PCB Board -->
+  <rect x="100" y="60" width="600" height="400" rx="10" fill="url(#pcbGrad)" stroke="#059669" stroke-width="3"/>
+  <rect x="100" y="60" width="600" height="400" rx="10" fill="url(#pcbPattern)"/>
+
+  <!-- Traces (circuit lines) -->
+  <path d="M200 160 L350 160 L350 200" stroke="#fbbf24" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M200 200 L280 200 L280 300 L350 300" stroke="#fbbf24" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M450 200 L520 200 L520 280" stroke="#fbbf24" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M450 160 L600 160 L600 250" stroke="#fbbf24" stroke-width="2" fill="none" opacity="0.6"/>
+
+  <!-- CPU Socket -->
+  <g filter="url(#shadow4)">
+    <rect x="130" y="100" width="120" height="120" rx="5" fill="#374151" stroke="#6b7280" stroke-width="2"/>
+    <rect x="145" y="115" width="90" height="90" rx="3" fill="#1f2937"/>
+    <text x="190" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#60a5fa">CPU</text>
+    <text x="190" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#9ca3af">Socket</text>
+    <!-- CPU icon -->
+    <text x="190" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="18">🧠</text>
+  </g>
+  <text x="190" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#fbbf24">← Processeur ici</text>
+
+  <!-- RAM Slots -->
+  <g filter="url(#shadow4)">
+    <rect x="300" y="100" width="180" height="25" rx="3" fill="#1e1b4b"/>
+    <rect x="305" y="105" width="40" height="15" rx="2" fill="#4f46e5"/>
+    <rect x="350" y="105" width="40" height="15" rx="2" fill="#6366f1"/>
+    <rect x="395" y="105" width="40" height="15" rx="2" fill="#4f46e5"/>
+    <rect x="440" y="105" width="35" height="15" rx="2" fill="#6366f1"/>
+    <text x="390" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#a5b4fc">Slots RAM (mémoire)</text>
+  </g>
+
+  <!-- PCIe Slot (GPU) -->
+  <g filter="url(#shadow4)">
+    <rect x="130" y="280" width="300" height="40" rx="5" fill="#1f2937" stroke="#ec4899" stroke-width="2"/>
+    <rect x="140" y="290" width="280" height="20" rx="3" fill="#831843"/>
+    <text x="280" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#f9a8d4">SLOT PCIe x16</text>
+    <text x="280" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#ec4899">↑ Carte graphique (GPU) 🎨</text>
+  </g>
+
+  <!-- SATA Connectors -->
+  <g filter="url(#shadow4)">
+    <rect x="130" y="370" width="50" height="20" rx="3" fill="#f97316"/>
+    <rect x="190" y="370" width="50" height="20" rx="3" fill="#f97316"/>
+    <rect x="250" y="370" width="50" height="20" rx="3" fill="#f97316"/>
+    <text x="190" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#fdba74">SATA (disques durs/SSD)</text>
+  </g>
+
+  <!-- Chipset -->
+  <g filter="url(#shadow4)">
+    <rect x="350" y="200" width="80" height="60" rx="5" fill="#374151" stroke="#9ca3af" stroke-width="1"/>
+    <rect x="360" y="210" width="60" height="40" rx="3" fill="#1f2937"/>
+    <text x="390" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#d1d5db">CHIPSET</text>
+    <text x="390" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#9ca3af">Chef d'orchestre</text>
+  </g>
+
+  <!-- Power Connectors -->
+  <g filter="url(#shadow4)">
+    <rect x="520" y="100" width="80" height="50" rx="5" fill="#1f2937" stroke="#fbbf24" stroke-width="2"/>
+    <text x="560" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#fbbf24">24 PIN</text>
+    <text x="560" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fbbf24">Alimentation</text>
+  </g>
+
+  <!-- I/O Ports Panel -->
+  <rect x="620" y="80" width="60" height="150" rx="5" fill="#4b5563" stroke="#6b7280" stroke-width="2"/>
+  <text x="650" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#d1d5db">PORTS</text>
+  <!-- USB -->
+  <rect x="630" y="110" width="20" height="10" rx="2" fill="#3b82f6"/>
+  <rect x="655" y="110" width="20" height="10" rx="2" fill="#3b82f6"/>
+  <text x="650" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#93c5fd">USB</text>
+  <!-- HDMI -->
+  <rect x="630" y="145" width="40" height="12" rx="2" fill="#ef4444"/>
+  <text x="650" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#fca5a5">HDMI</text>
+  <!-- Ethernet -->
+  <rect x="635" y="185" width="30" height="18" rx="2" fill="#22c55e"/>
+  <text x="650" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#86efac">Ethernet</text>
+
+  <!-- Legend -->
+  <rect x="520" y="320" width="160" height="120" rx="10" fill="#111827" opacity="0.8"/>
+  <text x="600" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">LÉGENDE</text>
+  <circle cx="540" cy="365" r="6" fill="#60a5fa"/>
+  <text x="555" y="369" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#fff">CPU (cerveau)</text>
+  <circle cx="540" cy="385" r="6" fill="#6366f1"/>
+  <text x="555" y="389" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#fff">RAM (mémoire)</text>
+  <circle cx="540" cy="405" r="6" fill="#ec4899"/>
+  <text x="555" y="409" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#fff">GPU (graphique)</text>
+  <circle cx="540" cy="425" r="6" fill="#f97316"/>
+  <text x="555" y="429" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#fff">Stockage</text>
+
+  <!-- Footer -->
+  <text x="400" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6b7280">💡 La carte mère connecte TOUS les composants entre eux - sans elle, rien ne fonctionne !</text>
+</svg>

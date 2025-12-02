@@ -34,22 +34,7 @@ graph LR
 ```
 
 !!! tip "Imagine une usine ! 🏭"
-    ```
-    ┌─────────────────────────────────────────────────────────────┐
-    │                         USINE                               │
-    │  ┌──────────┐      ┌──────────┐      ┌──────────┐          │
-    │  │ LIVRAISON│ ──▶  │  ATELIER │ ──▶  │ EXPÉDITION│         │
-    │  │ (Entrée) │      │(Travail) │      │ (Sortie)  │         │
-    │  │ 📦       │      │ 🔧       │      │ 🚚        │         │
-    │  └──────────┘      └────┬─────┘      └──────────┘          │
-    │                         │                                   │
-    │                    ┌────▼─────┐                             │
-    │                    │ ENTREPÔT │                             │
-    │                    │(Stockage)│                             │
-    │                    │ 🏪       │                             │
-    │                    └──────────┘                             │
-    └─────────────────────────────────────────────────────────────┘
-    ```
+    ![L'ordinateur comme une usine](../../../assets/images/informatique/usine-ordinateur.svg)
 
     - **Livraison** = ce qu'on apporte (clavier, souris) → **ENTRÉE**
     - **Atelier** = où on fabrique/transforme (processeur) → **TRAITEMENT**
@@ -314,18 +299,9 @@ graph LR
     C'est le **langage binaire** !
 
 !!! example "Imagine des interrupteurs ! 🔘"
-    ```
-    L'ordinateur, c'est comme des MILLIARDS d'interrupteurs :
+    ![Le binaire : des milliards d'interrupteurs](../../../assets/images/informatique/binaire-interrupteurs.svg)
 
-    OFF  ON   OFF  ON   ON   OFF  OFF  ON
-    ┌─┐  ┌─┐  ┌─┐  ┌─┐  ┌─┐  ┌─┐  ┌─┐  ┌─┐
-    │○│  │●│  │○│  │●│  │●│  │○│  │○│  │●│
-    └─┘  └─┘  └─┘  └─┘  └─┘  └─┘  └─┘  └─┘
-     0    1    0    1    1    0    0    1   = la lettre "Y" !
-
-    ○ = éteint (0)
-    ● = allumé (1)
-    ```
+    L'ordinateur, c'est comme des MILLIARDS d'interrupteurs ON/OFF !
 
     8 interrupteurs = **1 octet** = **1 caractère** (lettre, chiffre...)
 
@@ -369,15 +345,7 @@ graph LR
     | 1 téra-octet (To) | 1 000 Go |
 
 !!! example "Visualise les tailles ! 📦"
-    ```
-    1 Ko (Kilo-octet)     1 Mo (Méga-octet)      1 Go (Giga-octet)      1 To (Téra-octet)
-    = 1 000 octets        = 1 000 Ko             = 1 000 Mo             = 1 000 Go
-
-        📄                    📚                     📚📚📚                 🏛️
-     1 page de             1 livre                1 bibliothèque         Toutes les
-      texte                                        entière !             bibliothèques
-                                                                         de ta ville !
-    ```
+    ![Les tailles de données](../../../assets/images/informatique/tailles-donnees.svg)
 
 ### Exemples concrets de tailles
 
