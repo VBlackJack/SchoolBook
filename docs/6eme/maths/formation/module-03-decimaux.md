@@ -137,6 +137,68 @@ Ou : "quarante-sept unités et trois cent cinquante-six millièmes"
 
     Mais 3,5 ≠ 3,05 !
 
+??? tip "💡 Autre façon de comprendre : les décimaux"
+    **Méthode 1 : Les décimaux comme de l'argent**
+
+    Tu connais déjà les décimaux grâce à l'argent !
+
+    - **3,50 €** = 3 euros et 50 centimes
+    - **0,25 €** = 25 centimes = 1/4 d'euro
+    - **0,10 €** = 10 centimes = 1/10 d'euro
+
+    Chaque chiffre après la virgule = des "centimes" de plus en plus petits !
+
+    ---
+
+    **Méthode 2 : Penser en fractions**
+
+    | Décimal | En fraction | En mots |
+    |---------|-------------|---------|
+    | 0,1 | 1/10 | Un dixième |
+    | 0,01 | 1/100 | Un centième |
+    | 0,5 | 5/10 = 1/2 | La moitié |
+    | 0,25 | 25/100 = 1/4 | Un quart |
+    | 0,75 | 75/100 = 3/4 | Trois quarts |
+
+    ---
+
+    **Méthode 3 : La règle du "zoom"**
+
+    Pour comparer des décimaux, imagine que tu zoomes :
+
+    ```
+    3,5 vs 3,45
+
+    Zoom sur l'intervalle [3 ; 4] :
+
+    3,0  3,1  3,2  3,3  3,4  3,45 3,5  3,6 ... 4,0
+                            │    │
+                            │    └── 3,5 est ICI
+                            └─────── 3,45 est ICI
+
+    On voit que 3,45 < 3,5
+    ```
+
+    ---
+
+    **Méthode 4 : Aligner pour comparer**
+
+    Pour comparer, ajoute des zéros pour avoir le même nombre de chiffres :
+
+    - 3,5 devient **3,50**
+    - 3,45 reste **3,45**
+
+    Maintenant compare : 50 > 45, donc **3,5 > 3,45**
+
+    ---
+
+    **Méthode 5 : Le sens de la virgule**
+
+    - **× 10** = virgule vers la **droite** (nombre plus GRAND)
+    - **÷ 10** = virgule vers la **gauche** (nombre plus PETIT)
+
+    Moyen mnémotechnique : "**Multiplier = Monter = droite (→)**"
+
 ??? warning "⚠️ Pièges à éviter : nombres décimaux"
     **Piège 1 : Comparer en regardant la "longueur"**
 

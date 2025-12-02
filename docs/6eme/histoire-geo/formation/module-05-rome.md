@@ -59,19 +59,27 @@
 ??? warning "⚠️ Pièges à éviter : Rome"
     **Piège 1 : Confondre République et Empire**
 
-    | République | Empire |
-    |------------|--------|
-    | -509 à -27 | -27 à +476 |
+    | ❌ Erreur fréquente | ✅ Réalité |
+    |--------------------|-----------|
+    | "Jules César était empereur" | Jules César = **dictateur** (pas empereur !) |
+    | "La République avait un chef unique" | 2 **consuls** élus pour 1 an |
+    | "L'Empire = territoire conquis" | L'Empire = **régime politique** avec empereur |
+
+    | République (-509 à -27) | Empire (-27 à +476) |
+    |------------------------|---------------------|
     | Pouvoir **partagé** (consuls, Sénat) | Pouvoir **d'un seul** (empereur) |
     | Magistrats **élus** pour 1 an | Empereur **à vie** |
-    | Jules César = dictateur (pas empereur !) | Auguste = 1er empereur |
+    | Auguste = 1er empereur |
 
     ---
 
     **Piège 2 : Confondre mythe et histoire**
 
-    - La **louve** qui allaite Romulus et Rémus = **LÉGENDE**
-    - L'existence de Rome vers -753 = **HISTOIRE** (preuves archéologiques)
+    | ❌ LÉGENDE (mythe) | ✅ HISTOIRE (preuves) |
+    |-------------------|----------------------|
+    | Louve allaitant Romulus et Rémus | Village de bergers vers -800 |
+    | Romulus tue Rémus | Pas de traces de jumeaux |
+    | Fondation en -753 par Romulus | Développement progressif |
 
     Les Romains aimaient se créer des origines héroïques !
 
@@ -79,21 +87,24 @@
 
     **Piège 3 : Les dates négatives**
 
-    - -753 → "moins 753" = 753 ans **avant** Jésus-Christ
-    - +476 → 476 ans **après** Jésus-Christ
-    - Entre -753 et +476 = environ **1200 ans** d'histoire romaine
+    | ❌ Erreur | ✅ Correct |
+    |----------|-----------|
+    | "-753 = il y a 753 ans" | -753 = 753 ans **avant** J.-C. (il y a ~2777 ans !) |
+    | "+476 = dans 476 ans" | +476 = 476 ans **après** J.-C. |
+    | "Rome a duré 500 ans" | -753 à +476 = environ **1200 ans** ! |
 
     ---
 
     **Piège 4 : Confondre les termes politiques**
 
-    - **Consul** = chef élu de la République (2 par an)
-    - **Sénateur** = membre du Sénat (conseil des anciens)
-    - **Empereur** = chef suprême de l'Empire
-    - **Patricien** = noble de naissance
-    - **Plébéien** = citoyen du peuple
+    | ❌ Ce n'est PAS | ✅ C'est |
+    |----------------|---------|
+    | Consul = empereur | Consul = chef **élu** de la République (2 par an) |
+    | Sénateur = consul | Sénateur = membre du **Sénat** (conseil des anciens) |
+    | Patricien = riche | Patricien = **noble de naissance** |
+    | Plébéien = pauvre | Plébéien = citoyen **du peuple** (pas forcément pauvre) |
 
-    Ce ne sont PAS des synonymes !
+    Ces termes ont des sens bien précis !
 
 !!! example "Les gladiateurs = les stars de l'époque !"
 
