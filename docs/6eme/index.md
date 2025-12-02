@@ -126,9 +126,9 @@
 
         Des situations de ta vie quotidienne :
 
-        - Jeux vidéo (Minecraft, Fortnite, FIFA...)
-        - Sport (foot, basket, natation...)
-        - Réseaux sociaux et apps
+        - Jeux vidéo (Minecraft, Forza, Hogwarts, Star Wars...)
+        - Sport et loisirs
+        - Films et séries
         - Shopping et argent de poche
 
     === "Explications alternatives"
@@ -180,6 +180,108 @@
     - Rome à réviser ? → [Module 5 Histoire](histoire-geo/formation/module-05-rome.md)
 
 </div>
+
+---
+
+## Ta progression Jedi
+
+!!! success "Système de badges - Collectionne-les tous !"
+
+    Chaque module terminé te rapproche du rang de **Maître Jedi** !
+
+    === "Badges de progression"
+
+        | Badge | Rang | Modules | Récompense |
+        |:-----:|------|:-------:|------------|
+        | 🟤 | **Youngling** | 1 | Tu commences ta formation ! |
+        | ⚔️ | **Padawan** | 5 | Tu maîtrises les bases |
+        | 🔷 | **Mineur de diamants** | 10 | Comme dans Minecraft ! |
+        | 🏎️ | **Pilote Horizon** | 20 | Licence Forza obtenue |
+        | 🪄 | **Sorcier de Poudlard** | 30 | Hogwarts serait fier |
+        | 🧱 | **Maître constructeur** | 40 | Niveau LEGO atteint |
+        | 🌟 | **Chevalier Jedi** | 50 | La Force est avec toi |
+        | ⭐ | **Maître Jedi** | 60 | Tu as TOUT complété ! |
+
+    === "Niveaux par matière"
+
+        Pour chaque matière (10 modules), tu passes par 4 niveaux :
+
+        ```
+        ┌─────────────────────────────────────────────────────────┐
+        │                                                         │
+        │   🟤 YOUNGLING        0-2 modules    "Je découvre"     │
+        │         │                                               │
+        │         ▼                                               │
+        │   ⚔️ PADAWAN          3-5 modules    "J'apprends"      │
+        │         │                                               │
+        │         ▼                                               │
+        │   🗡️ CHEVALIER JEDI   6-8 modules    "Je maîtrise"     │
+        │         │                                               │
+        │         ▼                                               │
+        │   ⭐ MAÎTRE JEDI      9-10 modules   "Je suis expert"  │
+        │                                                         │
+        └─────────────────────────────────────────────────────────┘
+        ```
+
+    === "Défis spéciaux"
+
+        Des badges bonus pour les plus motivés :
+
+        | Badge | Défi | Description |
+        |:-----:|------|-------------|
+        | 🎯 | **Sniper** | 20/20 à une évaluation |
+        | 🔥 | **En feu !** | 3 modules d'affilée |
+        | 🌈 | **Touche-à-tout** | 1 module dans chaque matière |
+        | 💎 | **Perfectionniste** | Tous les exercices d'un module |
+        | 🚀 | **Fusée** | 5 modules en une semaine |
+
+---
+
+## Les jeux dans tes cours
+
+!!! example "Apprends avec tes jeux préférés !"
+
+    Les exemples dans les modules utilisent des références à :
+
+    === "Minecraft"
+
+        - **Coordonnées XYZ** → Repérage dans l'espace
+        - **Crafting** (3×3) → Tableaux et proportions
+        - **Blocs et stacks** (64) → Calculs et multiplications
+        - **Biomes** → Géographie et écosystèmes
+        - **Redstone** → Logique et circuits
+
+    === "Forza Horizon 5"
+
+        - **Vitesse (km/h)** → Conversions d'unités
+        - **Temps au tour** → Calculs de durée
+        - **Distance de freinage** → Proportionnalité
+        - **Tuning** → Pourcentages et ratios
+        - **Crédits** → Opérations et budget
+
+    === "Hogwarts Legacy"
+
+        - **Potions** → Mélanges et proportions (Sciences)
+        - **Sortilèges latins** → Étymologie (Français)
+        - **Histoire de la magie** → Chronologie
+        - **Gallions/Mornilles** → Conversions monétaires
+        - **Les 4 maisons** → Fractions et pourcentages
+
+    === "Star Wars / LEGO"
+
+        - **Parsecs et années-lumière** → Grandes distances
+        - **Droïdes** → Technologie et programmation
+        - **L'Empire vs Rebelles** → Histoire et citoyenneté
+        - **Sabres laser** → Couleurs et lumière (Sciences)
+        - **Construction LEGO** → Géométrie et symétrie
+
+    === "BeamNG.drive"
+
+        - **Crash tests** → Forces et chocs (Sciences)
+        - **Vitesse/Distance/Temps** → Formules de mouvement
+        - **Dégâts** → Pourcentages
+        - **Trajectoires** → Géométrie et angles
+        - **Physique réaliste** → Lois de la physique
 
 ---
 
