@@ -12,6 +12,66 @@
 
 ---
 
+## 🎮 In Real Life: BE + ING = right now!
+
+!!! tip "Le BE + ING dans les jeux et vidéos"
+
+    **Ce que tu vois dans les jeux :**
+
+    | Anglais | Signification |
+    |---------|---------------|
+    | **Loading...** | En train de charger |
+    | **Connecting...** | En train de se connecter |
+    | **Searching for players...** | Recherche de joueurs en cours |
+    | **Saving...** | Sauvegarde en cours |
+    | **Downloading...** | Téléchargement en cours |
+
+    **Le -ING = ça se passe MAINTENANT !**
+
+!!! example "Présent simple VS BE + ING"
+
+    **La grande différence :**
+
+    | Présent simple | BE + ING |
+    |----------------|----------|
+    | Habitude | Action en cours |
+    | "I play Fortnite" | "I'm playing Fortnite" |
+    | = Je joue à Fortnite (en général) | = Je suis EN TRAIN DE jouer |
+
+    **Exemple concret :**
+
+    - **Question** : "What are you doing?" (Qu'est-ce que tu fais ?)
+    - **Réponse** : "I'm playing!" (Je joue !) - pas "I play" !
+
+!!! warning "Le piège du -ING"
+
+    **Comment ajouter -ING :**
+
+    | Règle | Exemple |
+    |-------|---------|
+    | Verbe normal | play → play**ing** |
+    | Verbe en -E | make → mak**ing** (on enlève le E) |
+    | Consonne + voyelle + consonne | run → ru**nn**ing (on double) |
+    | Verbe en -IE | lie → l**y**ing |
+
+    **Attention à :**
+    - ❌ makeing → ✅ making
+    - ❌ runing → ✅ running
+    - ❌ dieing → ✅ dying
+
+!!! example "Streaming et BE + ING"
+
+    **Quand un YouTuber/streamer parle :**
+
+    - "Hey guys! I**'m playing** the new game!"
+    - "Look! Something **is happening**!"
+    - "The chat **is going** crazy!"
+    - "We **are winning**!"
+
+    **Tout ce qui se passe EN DIRECT = BE + ING !**
+
+---
+
 ## 1. Qu'est-ce que le présent BE + ING ?
 
 ### 1.1 Utilisation

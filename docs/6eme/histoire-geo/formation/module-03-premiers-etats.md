@@ -12,6 +12,64 @@
 
 ---
 
+## 🎮 Dans la vraie vie : l'Égypte et la Mésopotamie partout !
+
+!!! tip "L'Égypte ancienne dans la pop culture"
+
+    **Dans les films :**
+
+    - **La Momie** (1999) → Momies, pyramides, malédictions
+    - **Astérix et Obélix : Mission Cléopâtre** → Pharaons, hiéroglyphes
+    - **Les Dix Commandements** → Moïse et les pyramides
+    - **Gods of Egypt** → Les dieux égyptiens
+
+    **Dans les jeux vidéo :**
+
+    - **Assassin's Creed Origins** → Tu explores l'Égypte antique !
+    - **Civilization** → Tu construis des pyramides
+    - **Age of Mythology** → Dieux égyptiens (Rê, Anubis, Isis)
+    - **Fortnite** → Skin de Cléopâtre, événements Égypte
+
+!!! example "L'Égypte dans ton quotidien"
+
+    | Ce que tu connais | Origine égyptienne |
+    |-------------------|-------------------|
+    | Le mot "papier" | Vient de "papyrus" (plante du Nil) |
+    | Les pyramides sur le billet de 1$ | Symbole mystique |
+    | L'œil d'Horus | Logo de nombreuses marques |
+    | Le scarabée | Porte-bonheur égyptien |
+    | Les obélisques | Paris, Londres, New York en ont ! |
+
+!!! warning "L'écriture : l'invention la plus importante de l'humanité ?"
+
+    **Sans l'invention de l'écriture (-3300), pas de :**
+
+    - SMS, WhatsApp, Discord → Tout ça c'est de l'écriture !
+    - Livres, mangas, BD
+    - Paroles de chansons
+    - Sous-titres de films et séries
+    - Règles de jeux vidéo
+
+    **Les premiers "messages" de l'histoire = tablettes d'argile en Mésopotamie**
+
+    C'était comme des SMS gravés dans l'argile !
+
+!!! example "Les premiers codes de lois = base de notre justice"
+
+    **Le Code de Hammurabi (-1750) établissait déjà :**
+
+    - Des règles pour tout le monde
+    - Des punitions pour les crimes
+    - La protection des plus faibles
+
+    **Aujourd'hui, on a toujours des codes de lois !**
+
+    - Code pénal (punitions pour les crimes)
+    - Code civil (mariage, famille)
+    - Règlement intérieur du collège (eh oui !)
+
+---
+
 ## Introduction
 
 !!! question "Problématique"

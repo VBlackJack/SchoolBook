@@ -12,6 +12,74 @@
 
 ---
 
+## 🎮 Dans la vraie vie : 8 milliards d'humains !
+
+!!! tip "Imagine la population mondiale..."
+
+    **Comparaisons pour comprendre :**
+
+    | Nombre | Équivalent |
+    |--------|------------|
+    | 8 milliards | = toute la population de la Terre |
+    | 1,4 milliard | = la Chine ou l'Inde (chacun !) |
+    | 340 millions | = les États-Unis |
+    | 67 millions | = la France |
+    | 1 million | = une grande ville comme Lyon |
+
+    **Si la Terre était un village de 100 personnes :**
+
+    - 60 seraient Asiatiques
+    - 17 Africains
+    - 10 Européens
+    - 8 Latino-Américains
+    - 5 Nord-Américains
+
+!!! example "Les pays les plus peuplés dans la culture"
+
+    **Tu les connais via :**
+
+    | Pays | Population | Ce que tu connais |
+    |------|------------|-------------------|
+    | **Chine** | 1,4 milliard | TikTok (Douyin), smartphones Xiaomi, kung-fu |
+    | **Inde** | 1,4 milliard | Bollywood, yoga, curry |
+    | **USA** | 340 millions | Hollywood, NBA, McDonald's |
+    | **Brésil** | 215 millions | Football (Neymar), carnaval |
+    | **Japon** | 125 millions | Manga, anime, Nintendo, Toyota |
+
+!!! warning "Pourquoi le monde est inégalement peuplé"
+
+    **Zones TRÈS peuplées (foyers de peuplement) :**
+
+    - Asie de l'Est (Chine, Japon, Corée)
+    - Asie du Sud (Inde, Bangladesh, Pakistan)
+    - Europe
+    - Nord-Est des États-Unis
+
+    **Zones PRESQUE VIDES (déserts humains) :**
+
+    - Sahara (trop sec)
+    - Amazonie (forêt dense)
+    - Sibérie (trop froid)
+    - Himalaya (trop haut)
+    - Australie intérieure (désert)
+
+!!! example "L'explosion démographique en chiffres"
+
+    **Croissance de la population :**
+
+    - 1800 → 1 milliard (toute l'histoire humaine)
+    - 1927 → 2 milliards (+127 ans)
+    - 1960 → 3 milliards (+33 ans)
+    - 1974 → 4 milliards (+14 ans)
+    - 1987 → 5 milliards (+13 ans)
+    - 2022 → 8 milliards
+
+    **On ajoute 80 millions de personnes par an !**
+
+    C'est comme si l'Allemagne apparaissait chaque année...
+
+---
+
 ## Introduction
 
 !!! question "Problématique"

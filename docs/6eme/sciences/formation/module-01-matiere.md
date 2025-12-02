@@ -12,6 +12,65 @@
 
 ---
 
+## 🎮 Dans la vraie vie : la matière est partout !
+
+!!! tip "Tout ce que tu touches est de la matière"
+
+    **Regarde autour de toi :**
+
+    | Objet | Matière(s) | Propriétés |
+    |-------|-----------|------------|
+    | Ton téléphone | Verre, métal, plastique | Dur, léger, conducteur |
+    | Tes vêtements | Coton, polyester, élastomère | Souple, léger, résistant |
+    | Ta canette de soda | Aluminium | Léger, recyclable |
+    | Ton casque audio | Plastique, mousse, cuivre | Léger, isolant, conducteur |
+
+!!! example "Les matériaux dans les jeux vidéo"
+
+    **Dans Minecraft :**
+
+    - **Bois** → Facile à obtenir, brûle
+    - **Pierre** → Plus résistant, ne brûle pas
+    - **Fer** → Encore plus dur, outils efficaces
+    - **Diamant** → Le plus résistant, rare
+
+    **Ce sont des vraies propriétés des matériaux !**
+
+    Dans la vraie vie aussi :
+    - Le bois brûle (inflammable)
+    - La pierre est plus dure
+    - Le diamant est le matériau naturel le plus dur
+
+!!! warning "Matière vs Énergie"
+
+    **Ce qui EST de la matière :**
+
+    - L'air (même si tu ne le vois pas !)
+    - L'eau sous toutes ses formes
+    - Toi-même !
+    - Tout objet que tu peux toucher
+
+    **Ce qui N'EST PAS de la matière :**
+
+    - La lumière
+    - La chaleur
+    - Le son
+    - L'électricité
+
+    → Ce sont des formes d'**énergie** !
+
+!!! example "L'air, c'est de la matière !"
+
+    **Preuves que l'air existe (même si tu ne le vois pas) :**
+
+    - Quand tu gonfles un ballon → l'air prend de la place
+    - Quand il y a du vent → l'air se déplace
+    - Quand tu plonges un verre retourné dans l'eau → l'eau ne rentre pas (l'air bloque)
+
+    **L'air a une masse : 1 m³ d'air pèse environ 1,2 kg !**
+
+---
+
 ## Introduction
 
 !!! question "Problématique"

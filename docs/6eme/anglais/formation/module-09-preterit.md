@@ -12,6 +12,71 @@
 
 ---
 
+## 🎮 In Real Life: Le passé pour raconter !
+
+!!! tip "Le prétérit dans les jeux et histoires"
+
+    **Dans les jeux vidéo, les histoires sont au passé :**
+
+    - "Link **woke up** after 100 years..." (Zelda)
+    - "The hero **saved** the kingdom." (RPG classique)
+    - "The player **won** the championship." (FIFA)
+
+    **Les recaps YouTube :**
+
+    - "So, I **played** this game and..."
+    - "What **happened** was crazy!"
+    - "I **found** a secret area!"
+
+!!! example "Verbes réguliers : facile !"
+
+    **Règle simple : ajouter -ED**
+
+    | Infinitif | Prétérit | Exemple |
+    |-----------|----------|---------|
+    | play | play**ed** | I played yesterday |
+    | watch | watch**ed** | We watched a movie |
+    | want | want**ed** | She wanted pizza |
+
+    **Attention à l'orthographe :**
+
+    | Règle | Exemple |
+    |-------|---------|
+    | -E final → juste -D | like → lik**ed** |
+    | Consonne + Y → -IED | try → tr**ied** |
+    | Consonne courte → doubler | stop → sto**pped** |
+
+!!! warning "Les verbes irréguliers : à apprendre par cœur !"
+
+    **Les plus fréquents dans les jeux :**
+
+    | Infinitif | Prétérit | Traduction |
+    |-----------|----------|------------|
+    | go | **went** | aller |
+    | see | **saw** | voir |
+    | have | **had** | avoir |
+    | do | **did** | faire |
+    | get | **got** | obtenir |
+    | make | **made** | fabriquer |
+    | take | **took** | prendre |
+    | win | **won** | gagner |
+    | lose | **lost** | perdre |
+    | find | **found** | trouver |
+
+    **Astuce : apprends-les par groupes !**
+
+!!! example "Raconter ta partie d'hier"
+
+    **Exemple de récit :**
+
+    "Yesterday, I **played** Fortnite with my friends. We **landed** at Tilted Towers. I **found** a legendary weapon! But then, an enemy **saw** me and I **lost** the game. We **played** again and finally **won**!"
+
+    **Traduction :**
+
+    "Hier, j'ai joué à Fortnite avec mes amis. On a atterri à Tilted Towers. J'ai trouvé une arme légendaire ! Mais ensuite, un ennemi m'a vu et j'ai perdu la partie. On a rejoué et finalement on a gagné !"
+
+---
+
 ## 1. Qu'est-ce que le prétérit ?
 
 ### 1.1 Utilisation

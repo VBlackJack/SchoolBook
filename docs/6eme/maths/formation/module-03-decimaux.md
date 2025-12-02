@@ -13,6 +13,44 @@
 
 ---
 
+## 🎮 Dans la vraie vie : les décimaux sont partout !
+
+!!! tip "La virgule, tu la croises tous les jours !"
+
+    **Dans les magasins et sur Internet :**
+    - Prix d'un jeu : **59,99 €** (pas 60€, la technique marketing !)
+    - Un kebab : **7,50 €**
+    - Ton forfait téléphone : **9,99 €** par mois
+    - Une pizza surgelée : **4,25 €**
+
+    **Dans le sport :**
+    - Record du 100m : **9,58** secondes (Usain Bolt)
+    - Taille d'un joueur NBA : **2,06 m** (LeBron James)
+    - Temps de marathon : **2h01min39s** = **2,027** heures
+    - Ta moyenne en EPS : **14,5/20**
+
+    **Sur tes écrans :**
+    - Note d'une appli sur le store : **4,7** étoiles sur 5
+    - Taux de "like" d'un YouTubeur : **98,3 %**
+    - Temps de chargement : **3,2** secondes
+    - Taille d'un fichier : **2,4 Go** ou **756,8 Mo**
+
+    **Dans la cuisine :**
+    - **0,5 L** de lait (= un demi-litre)
+    - **1,5 kg** de farine
+    - **0,25 L** de crème (= un quart de litre)
+    - Température du four : **180,0 °C**
+
+!!! example "Pourquoi 9,99€ et pas 10€ ?"
+    Les magasins utilisent les décimaux pour te faire croire que c'est moins cher !
+
+    - **9,99 €** → ton cerveau voit "9" en premier = "moins de 10€"
+    - Mais **9,99 €** = **10 €** - **1 centime** seulement !
+
+    **Exercice malin** : Un jeu à 69,99€. Si tu arrondis, c'est combien ? → **70€** !
+
+---
+
 ## 📚 Leçon 1 : Comprendre les décimaux
 
 ### La virgule

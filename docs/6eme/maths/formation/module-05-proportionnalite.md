@@ -13,6 +13,45 @@
 
 ---
 
+## 🎮 Dans la vraie vie : la proportionnalité partout !
+
+!!! tip "La proportionnalité, c'est logique !"
+
+    **Quand tu achètes :**
+    - 1 croissant = 1,20€ → 2 croissants = 2,40€ → 5 croissants = 6€
+    - 1 kg de pommes = 2€ → 3 kg = 6€ (×3)
+    - Forfait mobile 2h = 10€ → 4h = 20€ ? (c'est proportionnel !)
+
+    **Dans les jeux vidéo :**
+    - 1 coffre = 100 pièces d'or → 5 coffres = 500 pièces d'or
+    - 1 niveau = 1000 XP → combien d'XP pour atteindre le niveau 10 ?
+    - 1 heure de jeu = 3 quêtes → 4 heures = 12 quêtes possibles
+
+    **Les pourcentages (soldes, promos) :**
+    - T-shirt à 20€ avec **-50%** → tu paies 10€
+    - Jeu à 60€ avec **-25%** → réduction de 15€ → tu paies 45€
+    - Batterie à **75%** → il reste les 3/4 de l'autonomie
+
+    **Sur les cartes et plans :**
+    - Échelle 1/100 → 1 cm sur le plan = 100 cm (1 m) en vrai
+    - Sur Google Maps : 2 cm = 1 km → 6 cm = 3 km
+    - Plan de ta chambre : 1 cm = 50 cm → ta chambre de 8 cm sur le plan = 4 m en réalité
+
+    **Dans les recettes :**
+    - Recette pour 4 personnes, tu es 8 → multiplie tout par 2 !
+    - 200g de farine pour 4 → 400g pour 8 personnes
+    - 3 œufs pour 4 personnes → 6 œufs pour 8 personnes
+
+!!! example "Calcul rapide de pourboire"
+    Au restaurant, on laisse souvent **10%** de pourboire :
+
+    - Addition de **25€** → pourboire = 2,50€ (facile : on divise par 10 !)
+    - Addition de **43€** → pourboire ≈ 4,30€
+
+    **Astuce** : Pour calculer 10%, déplace juste la virgule d'un cran vers la gauche !
+
+---
+
 ## Leçon 1 : Reconnaître la proportionnalité
 
 ### Qu'est-ce que la proportionnalité ?

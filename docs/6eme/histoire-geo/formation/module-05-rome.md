@@ -12,6 +12,66 @@
 
 ---
 
+## 🎮 Dans la vraie vie : Rome est partout autour de toi !
+
+!!! tip "L'Empire romain dans la pop culture"
+
+    **Dans les films :**
+
+    - **Gladiator** → Combats de gladiateurs, Colisée, empereurs
+    - **Astérix et Obélix** → Les Romains contre les Gaulois
+    - **Ben-Hur** → Courses de chars à Rome
+    - **Spartacus** → Révolte d'esclaves gladiateurs
+
+    **Dans les jeux vidéo :**
+
+    - **Assassin's Creed Brotherhood** → Rome à l'époque de la Renaissance
+    - **Total War: Rome** → Tu diriges les légions romaines
+    - **Ryse: Son of Rome** → Tu es un légionnaire
+    - **Age of Empires** → Civilisation romaine
+
+!!! example "L'héritage romain dans ta vie quotidienne"
+
+    | Aujourd'hui | Héritage romain |
+    |-------------|-----------------|
+    | **Le français** | Vient du latin (langue des Romains) |
+    | **Les routes** | Les Romains ont inventé les routes pavées |
+    | **Le calendrier** | Juillet = Jules César, Août = Auguste |
+    | **Les chiffres romains** | I, V, X, L, C, M (sur les montres !) |
+    | **Les arènes, amphithéâtres** | Arènes de Nîmes, Colisée de Rome |
+    | **L'eau courante** | Aqueducs romains (Pont du Gard) |
+    | **Le béton** | Inventé par les Romains ! |
+
+!!! warning "Les mots latins que tu utilises"
+
+    **Tu parles latin sans le savoir :**
+
+    | Expression | Origine latine |
+    |------------|----------------|
+    | « et cetera » (etc.) | « et les autres choses » |
+    | « agenda » | « ce qui doit être fait » |
+    | « vidéo » | « je vois » |
+    | « audio » | « j'entends » |
+    | « maximum » / « minimum » | superlatifs latins |
+    | « a.m. / p.m. » | ante meridiem / post meridiem |
+    | « VS » (versus) | « contre » |
+
+!!! example "Les gladiateurs = les stars de l'époque !"
+
+    **Comparaison avec aujourd'hui :**
+
+    | Gladiateurs (Rome) | Aujourd'hui |
+    |--------------------|-------------|
+    | Combattent au Colisée | Footballeurs au stade |
+    | Fans dédiés | Supporters de foot |
+    | Célèbres dans tout l'Empire | Stars internationales |
+    | Sponsorisés par les riches | Sponsoring de marques |
+    | Graffitis avec leurs noms | Maillots avec leur nom |
+
+    **Le Colisée pouvait contenir 50 000 spectateurs... comme un grand stade de foot !**
+
+---
+
 ## Introduction
 
 !!! question "Problématique"

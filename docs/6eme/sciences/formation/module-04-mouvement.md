@@ -12,6 +12,60 @@
 
 ---
 
+## 🎮 Dans la vraie vie : le mouvement partout !
+
+!!! tip "La physique du mouvement dans les jeux"
+
+    **Dans les jeux de course :**
+
+    - **Mario Kart** → Vitesse en km/h, accélération, freinage
+    - **Forza / Gran Turismo** → Physique réaliste
+    - **Rocket League** → Trajectoires, rebonds
+
+    **Dans les jeux de tir/sport :**
+
+    - **FIFA/PES** → Vitesse du ballon, trajectoire courbe
+    - **Angry Birds** → Trajectoire parabolique
+    - **Basketball** → Arc du tir
+
+!!! example "Les types de mouvement au quotidien"
+
+    | Mouvement | Type de trajectoire | Exemple |
+    |-----------|--------------------| --------|
+    | Voiture sur autoroute | Rectiligne | Ligne droite |
+    | Roue de vélo | Circulaire | Cercle parfait |
+    | Ballon de foot | Curviligne | Courbe (parabole) |
+    | Balle de ping-pong | Rebonds | Plusieurs trajectoires |
+
+!!! warning "Tout est relatif !"
+
+    **Dans un TGV à 300 km/h :**
+
+    - Par rapport au train → Tu es immobile (assis)
+    - Par rapport au sol → Tu vas à 300 km/h !
+
+    **Dans un avion :**
+
+    - Pour toi → Le chariot se déplace lentement
+    - Pour quelqu'un au sol → Le chariot va à 900 km/h !
+
+    **C'est la notion de RÉFÉRENTIEL**
+
+!!! example "Calcul de vitesse : exemples concrets"
+
+    **Formule : Vitesse = Distance / Temps**
+
+    | Situation | Distance | Temps | Vitesse |
+    |-----------|----------|-------|---------|
+    | Course de 100m | 100 m | 10 s | 10 m/s = 36 km/h |
+    | Paris-Lyon en TGV | 450 km | 2 h | 225 km/h |
+    | Marathon | 42 km | 2 h | 21 km/h |
+    | Usain Bolt (record) | 100 m | 9,58 s | 37,6 km/h |
+
+    **Usain Bolt court presque aussi vite qu'un vélo !**
+
+---
+
 ## 1. Qu'est-ce qu'un mouvement ?
 
 ### 1.1 Définition

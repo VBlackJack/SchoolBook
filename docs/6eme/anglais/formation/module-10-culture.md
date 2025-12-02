@@ -12,6 +12,77 @@
 
 ---
 
+## 🎮 In Real Life: English culture everywhere!
+
+!!! tip "La culture anglophone dans ta vie"
+
+    **Ce que tu connais déjà :**
+
+    | Catégorie | Exemples anglophones |
+    |-----------|---------------------|
+    | **Films** | Marvel, Disney, Harry Potter, Star Wars |
+    | **Musique** | Ed Sheeran, Taylor Swift, Billie Eilish |
+    | **Jeux vidéo** | Fortnite (USA), Minecraft (Suède mais en anglais) |
+    | **Sport** | NBA, NFL, Premier League |
+    | **Séries** | Stranger Things, The Simpsons |
+
+!!! example "Les fêtes anglophones"
+
+    **Fêtes que tu vois dans les films/jeux :**
+
+    | Fête | Date | Particularité |
+    |------|------|---------------|
+    | **Halloween** | 31 octobre | Costumes, trick or treat |
+    | **Thanksgiving** | 4ème jeudi de novembre (USA) | Turkey (dinde), family |
+    | **Christmas** | 25 décembre | Father Christmas / Santa Claus |
+    | **St Patrick's Day** | 17 mars (Irlande) | Vert partout ! |
+
+    **Dans Fortnite et autres jeux = événements spéciaux à ces dates !**
+
+!!! warning "Différences UK vs USA"
+
+    | Sujet | UK (British) | USA (American) |
+    |-------|-------------|----------------|
+    | **Football** | ⚽ Football | 🏈 Soccer (football = foot US) |
+    | **Orthographe** | colour, favourite | color, favorite |
+    | **Vocabulaire** | chips = frites | chips = chips, fries = frites |
+    | **Monnaie** | Pound (£) | Dollar ($) |
+    | **Conduite** | À gauche | À droite |
+
+!!! example "La pop culture anglophone"
+
+    **Ce que tout le monde connaît :**
+
+    | Personnage/Série | Pays |
+    |------------------|------|
+    | **Harry Potter** | UK (Royaume-Uni) |
+    | **Spider-Man** | USA |
+    | **Sherlock Holmes** | UK |
+    | **Mickey Mouse** | USA |
+    | **The Beatles** | UK |
+    | **Marvel/DC** | USA |
+    | **James Bond** | UK |
+
+    **L'anglais te donne accès à TOUT ça en version originale !**
+
+!!! tip "Pourquoi apprendre l'anglais ?"
+
+    **Statistiques :**
+
+    - **1,5 milliard** de personnes parlent anglais
+    - **60%** des sites web sont en anglais
+    - **80%** des jeux vidéo sont créés en anglais
+    - **Tous** les grands films sortent d'abord en anglais
+
+    **Avec l'anglais, tu peux :**
+
+    - Jouer aux jeux avant la traduction française
+    - Comprendre les streams internationaux
+    - Voyager partout dans le monde
+    - Accéder à plus de contenus sur internet
+
+---
+
 ## 1. Les pays anglophones
 
 ### 1.1 Où parle-t-on anglais ?

@@ -12,6 +12,69 @@
 
 ---
 
+## 🎮 In Real Life: English is everywhere!
+
+!!! tip "Tu parles déjà anglais sans le savoir !"
+
+    **Dans les jeux vidéo :**
+
+    | Ce que tu vois | Traduction |
+    |----------------|------------|
+    | **Start** | Commencer |
+    | **Play** | Jouer |
+    | **Game Over** | Partie terminée |
+    | **Loading** | Chargement |
+    | **Settings** | Paramètres |
+    | **Level** | Niveau |
+    | **New Game** | Nouvelle partie |
+    | **Continue** | Continuer |
+
+!!! example "L'anglais sur les réseaux"
+
+    **Tu utilises ces mots tous les jours :**
+
+    | Anglais | Signification |
+    |---------|---------------|
+    | **Like** | J'aime |
+    | **Share** | Partager |
+    | **Follow** | Suivre |
+    | **Comment** | Commentaire |
+    | **Post** | Publication |
+    | **Story** | Histoire (éphémère) |
+    | **Live** | En direct |
+    | **Subscribe** | S'abonner |
+
+!!! warning "Les faux-amis"
+
+    **Attention, ces mots ne veulent pas dire ce que tu crois !**
+
+    | Anglais | ❌ Faux sens | ✅ Vrai sens |
+    |---------|-------------|--------------|
+    | **actually** | actuellement | en fait |
+    | **library** | librairie | bibliothèque |
+    | **college** | collège | université |
+    | **sensible** | sensible | raisonnable |
+
+!!! example "Se présenter comme dans un jeu"
+
+    **Créer son profil de joueur = se présenter !**
+
+    ```
+    Username: Théo_Gaming
+    Name: Théo
+    Age: 12
+    Country: France
+    Favorite game: Fortnite
+    ```
+
+    **En anglais :**
+    - My name is Théo.
+    - I am 12 years old.
+    - I am French.
+    - I like playing Fortnite.
+
+---
+
 ## 1. Les salutations - Greetings
 
 ### 1.1 Dire bonjour

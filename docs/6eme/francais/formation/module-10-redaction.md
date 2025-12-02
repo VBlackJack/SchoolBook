@@ -13,6 +13,65 @@
 
 ---
 
+## 🎮 Dans la vraie vie : écrire, c'est partout !
+
+!!! tip "Tu écris plus que tu ne le penses !"
+
+    **Où tu rédiges au quotidien :**
+
+    | Situation | Type d'écrit | Compétence |
+    |-----------|--------------|------------|
+    | Message à un ami | Récit / dialogue | Raconter |
+    | Bio Instagram/TikTok | Description | Se présenter |
+    | Avis sur un jeu | Argumentation | Donner son opinion |
+    | Mail au prof | Lettre formelle | S'exprimer poliment |
+    | Fan fiction | Récit complet | Inventer une histoire |
+    | Commentaire YouTube | Opinion | Réagir |
+
+!!! example "Écrire un bon récit = raconter une partie épique !"
+
+    **La structure d'un récit, c'est comme une partie de jeu :**
+
+    | Étape du récit | Dans un jeu |
+    |----------------|-------------|
+    | **Situation initiale** | Tu lances la partie, tout est calme |
+    | **Élément perturbateur** | L'ennemi apparaît ! |
+    | **Péripéties** | Combat, galères, rebondissements |
+    | **Résolution** | Tu trouves la solution, tu gagnes ! |
+    | **Situation finale** | Victoire ! Écran de fin |
+
+    **Exemple :**
+    « On jouait tranquillement (SI). Soudain, un tryhard nous a attaqués (EP). On a tout essayé pour s'en sortir (P). Finalement, mon pote a fait un clutch incroyable (R). On a gagné la game ! (SF) »
+
+!!! warning "Les erreurs de rédaction les plus courantes"
+
+    **Ce qui fait perdre des points :**
+
+    | Erreur | Exemple | Correction |
+    |--------|---------|------------|
+    | Pas de paragraphes | Un bloc de texte | Sauter des lignes |
+    | Phrases trop longues | 5 lignes sans point | Couper en phrases courtes |
+    | Répétitions | il dit, il dit, il dit | il murmure, s'exclame, ajoute |
+    | Mélange des temps | il mange puis il alla | il mangea puis il alla |
+    | Oubli du « ne » | j'ai pas vu | je n'ai pas vu |
+    | Familier à l'écrit | c'est ouf | c'est incroyable |
+
+!!! example "Le brouillon, c'est comme l'entraînement !"
+
+    **Tu ne fais pas une ranked sans t'échauffer ?**
+
+    Pareil pour la rédaction :
+
+    1. **Brainstorming** = réfléchir à ta stratégie
+    2. **Plan** = préparer ton équipe/loadout
+    3. **Brouillon** = partie d'entraînement
+    4. **Relecture** = regarder le replay pour voir les erreurs
+    5. **Copie au propre** = la vraie partie qui compte !
+
+    **Jamais de « rush » direct sur la copie !**
+
+---
+
 ## Leçon 1 : Préparer son écrit
 
 ### Analyser le sujet

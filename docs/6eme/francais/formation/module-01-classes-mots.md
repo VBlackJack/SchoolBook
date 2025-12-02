@@ -13,6 +13,41 @@
 
 ---
 
+## 🎮 Dans la vraie vie : les mots ont une identité !
+
+!!! tip "Chaque mot a une nature, comme toi tu as une identité !"
+
+    **Imagine que les mots sont des personnages de jeu vidéo :**
+
+    - **NOMS** = les personnages et objets (épée, maison, Zelda, Mario)
+    - **VERBES** = les actions (courir, sauter, combattre, parler)
+    - **ADJECTIFS** = les caractéristiques (fort, rapide, légendaire)
+    - **DÉTERMINANTS** = les petits mots qui accompagnent (le, une, mon, ces)
+    - **PRONOMS** = les remplaçants (il, elle, celui-ci)
+    - **ADVERBES** = les modificateurs (très, rapidement, toujours)
+
+    **Dans tes messages et réseaux sociaux :**
+    - "**Je** mange **une** **pizza** **délicieuse**" → pronom + verbe + déterminant + nom + adjectif
+    - "**C'est** **trop** **bien** !" → pronom + adverbe + adverbe
+    - "**Mon** **pote** **arrive** **bientôt**" → déterminant + nom + verbe + adverbe
+
+    **Pourquoi c'est utile de connaître les natures ?**
+    - Pour faire les **accords** correctement
+    - Pour comprendre la **construction des phrases**
+    - Pour ne plus faire de fautes dans tes **copies** et **messages**
+    - Pour mieux **écrire** et être plus clair
+
+!!! example "Le même mot peut changer de sens selon sa nature !"
+    ```
+    "Le FERME est grand"     → FERME = nom (une ferme, un bâtiment)
+    "Je FERME la porte"      → FERME = verbe (l'action de fermer)
+    "Un ton FERME"           → FERME = adjectif (une manière décidée)
+    ```
+
+    C'est comme dans un jeu : le contexte détermine le rôle du mot !
+
+---
+
 ## Leçon 1 : Variables et invariables
 
 ### La règle fondamentale

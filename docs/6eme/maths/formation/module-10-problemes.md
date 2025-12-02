@@ -13,6 +13,47 @@
 
 ---
 
+## 🎮 Dans la vraie vie : résoudre des problèmes tout le temps !
+
+!!! tip "Tu résous des problèmes sans le savoir !"
+
+    **Gérer ton argent :**
+    - "J'ai 20€, le jeu coûte 15€, combien il me reste ?" → Soustraction !
+    - "3 amis veulent partager une addition de 45€" → Division !
+    - "J'économise 5€ par semaine, dans combien de temps j'aurai 60€ ?" → Division !
+
+    **Organiser une sortie :**
+    - "On est 8, le bus coûte 2,50€ par personne" → Multiplication !
+    - "Le film dure 2h15, il commence à 14h30, il finit quand ?" → Addition de durées !
+    - "On a 4 pizzas de 8 parts, on est 12, combien par personne ?" → Plusieurs opérations !
+
+    **Dans les jeux vidéo :**
+    - "J'ai 1200 pièces, l'objet coûte 800, il m'en reste combien ?"
+    - "Je gagne 150 XP par partie, combien de parties pour 3000 XP ?"
+    - "Ma base a 2500 PV, l'ennemi fait 300 dégâts par tour, je tiens combien de tours ?"
+
+    **Dans le sport :**
+    - "J'ai couru 3 fois 400m, j'ai fait quelle distance ?"
+    - "Le match dure 90 min, on en est à 67 min, il reste combien ?"
+    - "Notre équipe a marqué 3-2-1-4 buts sur 4 matchs, quelle moyenne ?"
+
+!!! example "La vraie méthode pour résoudre un problème"
+    ```
+    1. JE LIS      → Je lis tout l'énoncé (même 2 fois !)
+    2. JE SURLIGNE → Les nombres importants et la question
+    3. JE CHERCHE  → Quelle opération ? (+, -, ×, ÷)
+    4. JE CALCULE  → Posément, sans me précipiter
+    5. JE VÉRIFIE  → Ma réponse a du sens ? L'unité est bonne ?
+    ```
+
+!!! warning "Le piège classique : ne pas lire la question !"
+    Énoncé : "Tom a 15 billes. Il en donne 7 à Léa. Combien Léa a-t-elle de billes ?"
+
+    - ❌ Réponse piège : 15 - 7 = 8 billes (c'est ce qui reste à TOM !)
+    - ✅ Bonne réponse : On ne sait pas ! On ne connaît pas ce que Léa avait avant !
+
+---
+
 ## Leçon 1 : Comprendre un énoncé
 
 ### Les étapes pour comprendre

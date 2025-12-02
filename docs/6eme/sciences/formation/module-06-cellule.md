@@ -12,6 +12,66 @@
 
 ---
 
+## 🎮 Dans la vraie vie : les cellules, briques du vivant
+
+!!! tip "Tu es fait de cellules !"
+
+    **Ton corps en chiffres :**
+
+    - ~37 000 milliards de cellules
+    - 200 types de cellules différentes
+    - Chaque seconde, des millions de cellules meurent et naissent
+
+    **Comparaison :**
+
+    - 37 000 milliards = si tu comptais 1 cellule par seconde, il faudrait plus d'1 million d'années !
+
+!!! example "Les cellules, c'est comme des briques LEGO"
+
+    **Analogie avec la construction :**
+
+    | LEGO | Cellules |
+    |------|----------|
+    | 1 brique | 1 cellule |
+    | Plusieurs briques assemblées | Un tissu (peau, muscle...) |
+    | Une construction entière | Un organe (cœur, cerveau...) |
+    | Plusieurs constructions | Un organisme (toi !) |
+
+    **Dans Minecraft aussi :**
+
+    - 1 bloc = 1 cellule
+    - Plusieurs blocs = une structure
+    - Le monde entier = un organisme géant !
+
+!!! warning "Taille des cellules"
+
+    **Tu ne peux pas voir une cellule à l'œil nu !**
+
+    | Objet | Taille |
+    |-------|--------|
+    | Cheveu | 100 μm d'épaisseur |
+    | Cellule humaine | 10-100 μm |
+    | Bactérie | 1-10 μm |
+    | Virus | 0,02-0,3 μm (ultra petit !) |
+
+    **1 mm = 1000 μm (micromètres)**
+
+    Sur 1 mm, tu peux aligner ~10 cellules !
+
+!!! example "Cellule animale vs cellule végétale"
+
+    **La grande différence :**
+
+    | Cellule animale | Cellule végétale |
+    |-----------------|------------------|
+    | Pas de paroi rigide | Paroi cellulosique (rigide) |
+    | Pas de chloroplastes | Chloroplastes (photosynthèse) |
+    | Forme variable | Forme rectangulaire |
+
+    **C'est pour ça que les plantes sont rigides et ne bougent pas !**
+
+---
+
 ## 1. Qu'est-ce qu'une cellule ?
 
 ### 1.1 Définition

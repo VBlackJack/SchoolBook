@@ -13,6 +13,52 @@
 
 ---
 
+## 🎮 Dans la vraie vie : la géométrie tout autour de toi !
+
+!!! tip "La géométrie est partout, ouvre les yeux !"
+
+    **Dans ta maison :**
+    - Les murs sont **perpendiculaires** au sol (angle droit = 90°)
+    - Le carrelage forme des **carrés** ou des **rectangles**
+    - Les portes sont des **rectangles**
+    - Une horloge est un **cercle**
+
+    **Dans les jeux vidéo :**
+    - Minecraft : tout est en **cubes** (géométrie 3D !)
+    - La map de Fortnite : repérage avec des **coordonnées** (A1, B3...)
+    - Le viseur de tir : un **cercle** avec une **croix** au centre (perpendiculaires)
+    - Les trajectoires de tir : des **segments** ou des **courbes**
+
+    **Dans le sport :**
+    - Terrain de foot : **rectangle** de 105m × 68m
+    - Rond central : **cercle** de 9,15m de rayon
+    - Ligne de touche : **segment**
+    - Coin de corner : **angle** à 90°
+
+    **Sur ton téléphone :**
+    - Les icônes : **carrés** aux coins arrondis
+    - Le bouton home : souvent un **cercle**
+    - Les notifications : **rectangles**
+
+    **Dans la rue :**
+    - Passage piéton : **bandes parallèles**
+    - Panneau STOP : **octogone** (8 côtés)
+    - Panneau cédez le passage : **triangle**
+    - Panneau sens interdit : **cercle** rouge
+
+!!! example "Les angles dans la vraie vie"
+    ```
+    0°     = plat, fermé
+    45°    = diagonale (une part de pizza sur 8)
+    90°    = coin de table, angle droit ⌐
+    180°   = ligne droite (demi-tour)
+    360°   = tour complet (une roue qui tourne)
+    ```
+
+    Quand tu fais demi-tour à vélo → tu tournes de **180°** !
+
+---
+
 ## Leçon 1 : Points, droites et segments
 
 ### Le vocabulaire de base

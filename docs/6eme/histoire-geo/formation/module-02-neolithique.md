@@ -12,6 +12,57 @@
 
 ---
 
+## 🎮 Dans la vraie vie : le Néolithique a tout changé !
+
+!!! tip "Sans le Néolithique, pas de civilisation moderne !"
+
+    **Tout ce que tu manges vient du Néolithique :**
+
+    | Aliment | Domestiqué au Néolithique |
+    |---------|---------------------------|
+    | Pain, pâtes, céréales | Blé domestiqué vers -10 000 |
+    | Riz (sushi, riz au lait) | Domestiqué en Chine vers -8 000 |
+    | Pop-corn, tortillas | Maïs domestiqué vers -7 000 |
+    | Lait, fromage, yaourt | Vaches, chèvres domestiquées |
+    | Viande (bœuf, porc) | Élevage inventé au Néolithique |
+
+    **Sans agriculture = pas de McDo, pas de pizza, pas de kebab !**
+
+!!! example "Le Néolithique dans la pop culture"
+
+    **Dans les jeux vidéo :**
+
+    - **Civilization** → Tu passes de chasseur-cueilleur à agriculteur
+    - **Age of Empires** → Tu développes ton village, construis des fermes
+    - **Minecraft** → Tu cultives du blé, tu élèves des animaux
+    - **Stardew Valley** → Tu gères ta ferme... comme au Néolithique !
+
+    **Le principe de tous ces jeux = la révolution néolithique !**
+
+!!! warning "Pourquoi tu ne pourrais pas vivre comme au Paléolithique"
+
+    **Imagine une semaine sans Néolithique :**
+
+    - Pas de maison → tu dors dehors ou dans une tente
+    - Pas de supermarché → tu dois chasser et cueillir ta nourriture
+    - Pas de vêtements en tissu → uniquement des peaux d'animaux
+    - Pas de poterie → tu ne peux pas cuire de pâtes ni stocker d'eau
+    - Tu dois marcher des kilomètres chaque jour pour trouver à manger
+
+    **Conclusion : la sédentarisation a créé le confort moderne !**
+
+!!! example "Les mégalithes, premières constructions monumentales"
+
+    **Tu connais peut-être :**
+
+    - **Stonehenge** (Angleterre) → souvent dans les films et jeux
+    - **Carnac** (Bretagne) → 3000 menhirs alignés
+    - **Astérix et Obélix** → Les menhirs d'Obélix !
+
+    **Fun fact :** Les mégalithes ont été construits AVANT les pyramides d'Égypte !
+
+---
+
 ## Introduction
 
 !!! question "Problématique"

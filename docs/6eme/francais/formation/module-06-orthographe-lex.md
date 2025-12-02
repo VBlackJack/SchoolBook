@@ -13,6 +13,48 @@
 
 ---
 
+## 🎮 Dans la vraie vie : les fautes qui piquent les yeux !
+
+!!! tip "Ces mots qu'on écrit souvent mal..."
+
+    **Dans tes messages et recherches :**
+
+    - ❌ « difisile » → ✅ « di**ff**icile » (double f)
+    - ❌ « ariver » → ✅ « a**rr**iver » (double r)
+    - ❌ « apartement » → ✅ « a**pp**artement » (double p)
+    - ❌ « adresse » → ✅ « a**d**re**ss**e » (un d, deux s)
+
+    **Les mots des jeux vidéo :**
+
+    - ❌ « inposible » → ✅ « i**m**possible » (m devant p !)
+    - ❌ « chanpion » → ✅ « cha**m**pion » (m devant p !)
+    - ❌ « canpagne » → ✅ « ca**m**pagne » (m devant p !)
+    - ❌ « anbuche » → ✅ « e**m**buscade » (m devant b !)
+
+!!! example "Test : ces marques, tu les écris bien ?"
+
+    | Marque/Mot | Orthographe | Règle |
+    |------------|-------------|-------|
+    | A**m**azon | m devant a | OK (pas de règle) |
+    | I**n**stagram | n devant s | Normal |
+    | Ca**m**ping | m devant p | Règle ! |
+    | No**m**bre de vues | m devant b | Règle ! |
+
+    **Astuce YouTube :** Tu vois « 1M vues » ? M = **m**illion, avec un M car il y a... la règle du m !
+
+!!! warning "Le piège des accents sur le clavier"
+
+    Sur téléphone, les accents sont souvent oubliés :
+
+    - ❌ « ca va » → ✅ « **ç**a va » (cédille)
+    - ❌ « francais » → ✅ « fran**ç**ais » (cédille)
+    - ❌ « ete » → ✅ « **é**t**é** » (accents aigus)
+    - ❌ « fete » → ✅ « f**ê**te » (accent circonflexe)
+
+    **Le correcteur automatique ne corrige pas tout !**
+
+---
+
 ## Leçon 1 : La règle du m devant m, b, p
 
 ### La règle

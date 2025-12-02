@@ -12,6 +12,48 @@
 
 ---
 
+## 🎮 Dans la vraie vie : la Préhistoire est partout !
+
+!!! tip "Tu connais déjà la Préhistoire sans le savoir !"
+
+    **Dans les films et séries :**
+
+    - **L'Âge de Glace** → Mammouths, humains préhistoriques, glaciations
+    - **Les Croods** → Vie des premiers humains, grottes, découverte du feu
+    - **Jurassic Park** → Attention, les dinosaures ont disparu AVANT les humains !
+
+    **Dans les jeux vidéo :**
+
+    - **Far Cry Primal** → Tu joues un chasseur préhistorique
+    - **ARK: Survival** → Survie façon préhistorique (avec des dinosaures, mais c'est du jeu !)
+    - **Minecraft** → Au début tu craftes des outils en pierre... comme au Paléolithique !
+
+!!! example "La Préhistoire autour de toi"
+
+    | Ce que tu connais | Lien avec la Préhistoire |
+    |-------------------|-------------------------|
+    | Faire un feu de camp | Nos ancêtres l'ont maîtrisé il y a 400 000 ans |
+    | Manger de la viande | Chasseurs depuis des millions d'années |
+    | Dessiner, peindre | L'art existe depuis 40 000 ans (Lascaux) |
+    | Avoir un chien | Premier animal domestiqué (-15 000 ans) |
+    | Utiliser des outils | Invention humaine depuis 3 millions d'années |
+
+!!! warning "Les fausses idées sur la Préhistoire"
+
+    **Ce qu'on croit (à cause des films) :**
+
+    - ❌ Les humains vivaient avec les dinosaures
+    - ❌ Ils étaient bêtes et violents ("Ugh ugh !")
+    - ❌ Ils habitaient tous dans des grottes sombres
+
+    **La réalité :**
+
+    - ✅ Les dinosaures ont disparu 65 millions d'années AVANT les humains
+    - ✅ Ils étaient très intelligents (outils, art, langage)
+    - ✅ Ils vivaient surtout sous des tentes et en plein air
+
+---
+
 ## Introduction
 
 !!! question "Problématique"

@@ -13,6 +13,40 @@
 
 ---
 
+## 🎮 Dans la vraie vie : les opérations partout !
+
+!!! tip "Les 4 opérations, tu les utilises tous les jours !"
+
+    **Addition (+) - Quand tu accumules :**
+    - Tu as **1 250** V-Bucks et tu en achètes **1 000** de plus → combien au total ?
+    - Tes points d'XP : niveau 1 = 500, niveau 2 = 800 → total d'XP ?
+    - Tu as 15€ d'argent de poche + 20€ de mamie = ?
+
+    **Soustraction (-) - Quand tu dépenses ou perds :**
+    - Tu as **5 000** pièces d'or et tu achètes une épée à **1 200** → reste ?
+    - Il te restait **45 minutes** de temps d'écran, tu en as utilisé **30** → reste ?
+    - Ton équipe favorite a marqué 3 buts, l'adversaire 1 → différence ?
+
+    **Multiplication (×) - Quand tu répètes :**
+    - Un pack de skins coûte **800** V-Bucks. Tu en veux **3** → prix total ?
+    - Tu gagnes **150** XP par partie. En **8** parties → combien d'XP ?
+    - Une boîte de 24 bonbons, tu as 5 boîtes → combien de bonbons ?
+
+    **Division (÷) - Quand tu partages ou répartis :**
+    - **120** cartes Pokémon à partager entre **4** amis → combien chacun ?
+    - Un trajet de **450** km en **3** heures → vitesse moyenne ?
+    - **36** élèves dans la classe, **6** équipes → combien par équipe ?
+
+!!! example "Situation concrète : Organiser une fête"
+    Tu organises un anniversaire pour 12 amis :
+
+    - **Addition** : 12 invités + toi + 2 parents = **15 personnes**
+    - **Multiplication** : 15 personnes × 3 parts de pizza chacun = **45 parts**
+    - **Division** : 45 parts ÷ 8 parts par pizza = **6 pizzas** (avec reste)
+    - **Soustraction** : Budget 50€ - 42€ de pizzas = **8€** restants pour les boissons
+
+---
+
 ## 📚 Leçon 1 : Addition et soustraction
 
 ### L'addition posée

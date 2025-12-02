@@ -12,6 +12,67 @@
 
 ---
 
+## 🎮 In Real Life: House and City!
+
+!!! tip "La maison dans les jeux"
+
+    **Dans Minecraft :**
+
+    | Anglais | Dans le jeu |
+    |---------|-------------|
+    | **house** | Ta maison de base |
+    | **bedroom** | Pièce avec le lit (spawn) |
+    | **kitchen** | Où tu mets le four (furnace) |
+    | **basement** | Sous-sol (cave à toi) |
+    | **roof** | Le toit |
+
+    **Dans The Sims :**
+
+    - Tu construis chaque **room** (pièce)
+    - Tu places les **furniture** (meubles)
+    - Tu décores le **living room** (salon)
+
+!!! example "Les prépositions de lieu = où sont les objets ?"
+
+    **Super important pour décrire :**
+
+    | Préposition | Signification | Exemple |
+    |-------------|---------------|---------|
+    | **in** | dans | The cat is **in** the box |
+    | **on** | sur | The book is **on** the table |
+    | **under** | sous | The dog is **under** the bed |
+    | **next to** | à côté de | The lamp is **next to** the sofa |
+    | **between** | entre | The TV is **between** the windows |
+    | **in front of** | devant | The car is **in front of** the house |
+    | **behind** | derrière | The garden is **behind** the house |
+
+!!! warning "British vs American English"
+
+    | British (UK) | American (US) | Français |
+    |--------------|---------------|----------|
+    | **flat** | **apartment** | appartement |
+    | **garden** | **yard** | jardin |
+    | **lift** | **elevator** | ascenseur |
+    | **ground floor** | **first floor** | rez-de-chaussée |
+
+    **Dans les jeux américains, tu verras souvent la version US !**
+
+!!! example "La ville dans GTA / jeux open-world"
+
+    **Vocabulaire urbain :**
+
+    | Anglais | Dans le jeu |
+    |---------|-------------|
+    | **street** | Les rues |
+    | **shop / store** | Magasins |
+    | **hospital** | Hôpital |
+    | **police station** | Commissariat |
+    | **bank** | Banque |
+    | **gas station** | Station-service |
+    | **airport** | Aéroport |
+
+---
+
 ## 1. La maison - The House
 
 ### 1.1 Les types de logements

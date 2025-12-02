@@ -12,6 +12,68 @@
 
 ---
 
+## 🎮 In Real Life: Numbers are everywhere!
+
+!!! tip "Les nombres en anglais dans ta vie"
+
+    **Dans les jeux :**
+
+    | Ce que tu vois | Signification |
+    |----------------|---------------|
+    | **Score: 1,000** | One thousand points |
+    | **Level 25** | Twenty-five |
+    | **100 HP** | One hundred Health Points |
+    | **Timer: 3:45** | Three forty-five |
+
+    **Dans les vidéos YouTube :**
+
+    - **1M views** = One million views (1 million de vues)
+    - **500K subscribers** = Five hundred thousand subscribers
+
+!!! example "L'heure dans la vie quotidienne"
+
+    **Rendez-vous de gaming :**
+
+    - "Let's play at **5 o'clock**!" = On joue à 17h !
+    - "Stream starts at **8 PM**!" = Le stream commence à 20h !
+
+    **AM vs PM :**
+
+    | Abréviation | Signification | Période |
+    |-------------|---------------|---------|
+    | **AM** | Ante Meridiem | Minuit → Midi |
+    | **PM** | Post Meridiem | Midi → Minuit |
+
+    **9 AM = 9h du matin / 9 PM = 21h**
+
+!!! warning "Les pièges des nombres"
+
+    **Attention à bien prononcer :**
+
+    | Nombre | Prononciation | Piège |
+    |--------|---------------|-------|
+    | **13** | thir-TEEN | Accent sur -teen |
+    | **30** | THIR-ty | Accent sur thir- |
+    | **15** | fif-TEEN | Accent sur -teen |
+    | **50** | FIF-ty | Accent sur fif- |
+
+    **Conseil : écoute bien l'accent dans les jeux !**
+
+!!! example "Les dates importantes pour toi"
+
+    **Comment dire ta date d'anniversaire :**
+
+    - "My birthday is on **March 15th**" (15 mars)
+    - "I was born in **2012**" (two thousand twelve)
+
+    **Les mois à connaître pour les événements gaming :**
+
+    - **June** = E3 (événement jeux vidéo)
+    - **November** = Black Friday sales
+    - **December** = Christmas sales
+
+---
+
 ## 1. Les nombres - Numbers
 
 ### 1.1 De 0 à 20

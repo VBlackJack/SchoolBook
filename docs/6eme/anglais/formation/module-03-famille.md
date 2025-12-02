@@ -12,6 +12,63 @@
 
 ---
 
+## 🎮 In Real Life: Family and Friends!
+
+!!! tip "La famille dans la pop culture"
+
+    **Séries en anglais que tu connais peut-être :**
+
+    - **The Simpsons** → Homer (father), Marge (mother), Bart (son), Lisa (daughter), Maggie (baby)
+    - **Modern Family** → Une famille américaine typique
+    - **Peppa Pig** → Daddy Pig, Mummy Pig, George (brother)
+
+    **Dans les jeux :**
+
+    - **The Sims** → Tu crées ta family !
+    - **Animal Crossing** → Tes villagers sont comme des friends
+
+!!! example "Décrire quelqu'un comme dans un jeu"
+
+    **Personnaliser un personnage = décrire en anglais !**
+
+    | Caractéristique | Anglais | Exemple |
+    |-----------------|---------|---------|
+    | Taille | **tall / short** | He is tall |
+    | Cheveux | **hair** | She has brown hair |
+    | Yeux | **eyes** | Blue eyes |
+    | Âge | **young / old** | He is young |
+
+    **C'est exactement comme créer un avatar !**
+
+!!! warning "His / Her : le piège classique"
+
+    **En anglais, le possessif dépend du possesseur, pas de l'objet !**
+
+    | Possesseur | Possessif | Exemple |
+    |------------|-----------|---------|
+    | **He** (il) | **his** | **His** sister (sa sœur à lui) |
+    | **She** (elle) | **her** | **Her** brother (son frère à elle) |
+
+    ❌ "She loves his brother" = Elle aime SON frère (à lui)
+    ✅ "She loves her brother" = Elle aime son frère (à elle)
+
+!!! example "Les amis en ligne"
+
+    **Vocabulaire gaming pour les amis :**
+
+    | Anglais | Français |
+    |---------|----------|
+    | **friend** | ami |
+    | **best friend / BFF** | meilleur ami |
+    | **teammate** | coéquipier |
+    | **squad** | équipe (Fortnite) |
+    | **clan** | clan |
+    | **guild** | guilde |
+
+    **"Add me as a friend!" = Ajoute-moi en ami !**
+
+---
+
 ## 1. La famille - The Family
 
 ### 1.1 La famille proche

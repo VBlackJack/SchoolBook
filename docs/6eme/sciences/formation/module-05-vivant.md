@@ -12,6 +12,73 @@
 
 ---
 
+## 🎮 Dans la vraie vie : le vivant autour de toi
+
+!!! tip "Vivant ou non vivant ? Le test !"
+
+    **Comment savoir si quelque chose est vivant ?**
+
+    | Caractéristique | Exemple |
+    |-----------------|---------|
+    | Naître | Un chaton naît de sa mère |
+    | Se nourrir | Tu manges pour avoir de l'énergie |
+    | Grandir | Tu grandis chaque année |
+    | Se reproduire | Les plantes font des graines |
+    | Réagir | Tu fermes les yeux face au soleil |
+    | Mourir | Les feuilles tombent en automne |
+
+    **Si ça fait TOUT ça = VIVANT !**
+
+!!! example "Les êtres vivants dans les jeux vidéo"
+
+    **Dans Pokémon :**
+
+    - Les Pokémon naissent d'œufs → Naître
+    - Ils mangent des Pokéblocs → Se nourrir
+    - Ils évoluent → Grandir
+    - Ils pondent des œufs → Se reproduire
+    - Ils réagissent aux attaques → Réagir
+
+    **Dans Minecraft :**
+
+    - Les animaux ont des bébés
+    - Il faut les nourrir (blé pour les vaches)
+    - Les arbres poussent à partir de graines
+
+!!! warning "Attention aux pièges !"
+
+    **Ce qui SEMBLE vivant mais ne l'est PAS :**
+
+    | Objet | Pourquoi pas vivant ? |
+    |-------|----------------------|
+    | Robot / IA | Ne se reproduit pas seul |
+    | Feu | Ne se nourrit pas vraiment, ne se reproduit pas |
+    | Voiture | Construite, pas née |
+    | Nuage | N'a pas de cycle de vie |
+
+    **Ce qui EST vivant mais surprend :**
+
+    | Être vivant | Pourquoi vivant ? |
+    |-------------|------------------|
+    | Champignon | Se nourrit, se reproduit (spores) |
+    | Corail | Animal marin ! (pas une plante) |
+    | Bactérie | Naît, se nourrit, se reproduit |
+
+!!! example "La biodiversité en chiffres"
+
+    **Combien d'espèces sur Terre ?**
+
+    - ~2 millions d'espèces connues
+    - Peut-être 10 millions au total !
+    - ~10 000 nouvelles espèces découvertes chaque année
+
+    **Comparaisons :**
+
+    - 1 forêt tropicale = plus d'espèces que toute l'Europe
+    - 1 poignée de terre = des milliards de bactéries
+
+---
+
 ## 1. Qu'est-ce qu'un être vivant ?
 
 ### 1.1 Les caractéristiques du vivant

@@ -12,6 +12,70 @@
 
 ---
 
+## 🎮 Dans la vraie vie : bien ponctuer, c'est essentiel !
+
+!!! tip "La ponctuation change tout le sens !"
+
+    **Compare ces messages :**
+
+    | Sans ponctuation | Avec ponctuation | Différence |
+    |------------------|------------------|------------|
+    | « on mange mamie » | « On mange, mamie ! » | Sans virgule, tu manges ta mamie ! |
+    | « viens on joue » | « Viens, on joue ! » | Plus clair et enthousiaste |
+    | « non je veux pas » | « Non, je ne veux pas. » | Plus poli et correct |
+    | « cest nul » | « C'est nul ! » | Exprime vraiment ton émotion |
+
+!!! example "Les types de phrases dans tes messages"
+
+    **Déclarative (information) :**
+    - « Je suis en ligne. »
+    - « J'ai fini mes devoirs. »
+
+    **Interrogative (question) :**
+    - « Tu joues ? »
+    - « On fait une partie ? »
+
+    **Exclamative (émotion) :**
+    - « J'ai gagné ! »
+    - « Trop fort ! »
+
+    **Impérative (ordre/conseil) :**
+    - « Rejoins-moi ! »
+    - « Regarde cette vidéo. »
+
+!!! warning "Le piège du « ne » oublié à l'oral"
+
+    **Ce qu'on dit souvent :**
+
+    - ❌ « J'ai pas compris »
+    - ❌ « Je sais pas »
+    - ❌ « Y'a personne »
+
+    **Ce qu'il faut écrire :**
+
+    - ✅ « Je **n'**ai **pas** compris »
+    - ✅ « Je **ne** sais **pas** »
+    - ✅ « Il **n'**y a **personne** »
+
+    **À l'oral c'est toléré, mais à l'écrit le « ne » est OBLIGATOIRE !**
+
+!!! example "La ponctuation dans les jeux et sur les réseaux"
+
+    **Points d'exclamation = enthousiasme/émotion**
+    - « GG ! » (Good Game !)
+    - « Trop bien ! »
+    - « VICTOIRE !!! »
+
+    **Points d'interrogation = questions**
+    - « Tu viens ? »
+    - « C'est quoi ton pseudo ? »
+
+    **Points de suspension = hésitation/suspense**
+    - « Je sais pas trop... »
+    - « Et là... il a ragequit. »
+
+---
+
 ## Leçon 1 : Les types de phrases
 
 ### Les 4 types

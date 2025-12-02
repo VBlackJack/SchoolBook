@@ -12,6 +12,49 @@
 
 ---
 
+## 🎮 Dans la vraie vie : éviter les fautes embarrassantes !
+
+!!! tip "Ces fautes qu'on voit partout... et comment les éviter !"
+
+    **Les fautes qui font mal aux yeux sur les réseaux :**
+    - ❌ "Sa va ?" → ✅ "**Ça** va ?" (ça = cela)
+    - ❌ "C'est toi qui a raison" → ✅ "C'est toi qui **as** raison"
+    - ❌ "Je les est vu" → ✅ "Je **les ai** vus"
+    - ❌ "Ils son parti" → ✅ "Ils **sont** partis"
+
+    **Les homophones piégeux dans tes messages :**
+    - **a/à** : "Il **a** faim" vs "Je vais **à** Paris"
+    - **et/est** : "Toi **et** moi" vs "Il **est** là"
+    - **ou/où** : "Pizza **ou** kebab ?" vs "**Où** tu vas ?"
+    - **son/sont** : "**Son** téléphone" vs "Ils **sont** sympas"
+    - **on/ont** : "**On** y va ?" vs "Ils **ont** gagné"
+
+    **Pourquoi c'est important ?**
+    - Dans une **lettre de motivation** (pour un stage, un job...)
+    - Dans un **mail** au prof ou au CPE
+    - Pour ne pas passer pour quelqu'un qui ne sait pas écrire !
+    - Pour être **crédible** quand tu écris
+
+!!! example "Test rapide : trouve les erreurs !"
+    ```
+    "Les fille son arrivé a l'école. Elle on vue leurs copine."
+    ```
+
+    Corrections :
+    ```
+    "Les filleS SONT arrivéES À l'école. ElleS ONT vU leurs copineS."
+    ```
+
+    **6 fautes dans une phrase !** Avec ce module, tu les repèreras toutes.
+
+!!! warning "La règle d'or de l'orthographe"
+    **TOUJOURS se poser la question : "Qui fait quoi ?"**
+
+    - Qui **est** arrivé ? → Les filles (féminin pluriel) → arrivé**es**
+    - Qui **ont** vu ? → Elles (féminin pluriel) → mais "vu" ne s'accorde pas ici (COD après)
+
+---
+
 ## Leçon 1 : L'accord dans le groupe nominal
 
 ### La règle de base

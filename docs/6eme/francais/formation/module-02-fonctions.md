@@ -13,6 +13,40 @@
 
 ---
 
+## 🎮 Dans la vraie vie : comprendre qui fait quoi !
+
+!!! tip "Les fonctions, c'est comme les rôles dans une équipe !"
+
+    **Imagine un film ou une série :**
+    - Le **SUJET** = le personnage principal (celui qui fait l'action)
+    - Le **VERBE** = l'action (ce qu'il fait)
+    - Le **COD** = ce sur quoi porte l'action (l'objet de l'action)
+    - Les **COMPLÉMENTS** = les détails (où, quand, comment, pourquoi)
+
+    **Exemple avec une action de jeu vidéo :**
+    "**Mario** attrape **les pièces** rapidement dans le château."
+
+    - **Mario** = SUJET (qui attrape ?)
+    - **attrape** = VERBE (l'action)
+    - **les pièces** = COD (il attrape quoi ?)
+    - **rapidement** = CC de manière (comment ?)
+    - **dans le château** = CC de lieu (où ?)
+
+    **Dans tes messages de tous les jours :**
+    - "**Je** regarde **une série** ce soir"
+      → Qui regarde ? **Je** (sujet) → Quoi ? **une série** (COD) → Quand ? **ce soir** (CC temps)
+
+    - "**Mon pote** a envoyé **un message** à **sa crush**"
+      → Qui a envoyé ? **Mon pote** (sujet) → Quoi ? **un message** (COD) → À qui ? **à sa crush** (COI)
+
+!!! example "Pourquoi c'est utile de savoir ça ?"
+    - Pour **accorder** correctement (le COD avant "avoir" = accord !)
+    - Pour **mieux écrire** des phrases claires
+    - Pour **analyser des textes** au collège
+    - Pour briller en cours de français !
+
+---
+
 ## Leçon 1 : Nature vs Fonction
 
 ### La différence fondamentale

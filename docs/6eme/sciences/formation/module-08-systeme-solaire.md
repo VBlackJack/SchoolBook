@@ -12,6 +12,70 @@
 
 ---
 
+## 🎮 Dans la vraie vie : l'espace dans les médias
+
+!!! tip "L'espace dans les films et jeux"
+
+    **Films cultes :**
+
+    - **Star Wars** → Galaxie lointaine, planètes diverses
+    - **Interstellar** → Trous noirs, relativité
+    - **Gravity** → Orbite terrestre, station spatiale
+    - **Seul sur Mars** → Survie sur Mars
+
+    **Jeux vidéo :**
+
+    - **No Man's Sky** → Exploration de planètes
+    - **Kerbal Space Program** → Fusées et orbites
+    - **Minecraft** → Même là, tu vois le jour et la nuit !
+
+!!! example "Les planètes : comparaisons"
+
+    **Pour imaginer les tailles :**
+
+    | Planète | Comparaison |
+    |---------|-------------|
+    | Soleil | Ballon de foot |
+    | Jupiter | Bille (1 cm) |
+    | Terre | Tête d'épingle |
+    | Lune | Grain de sable |
+
+    **Le Soleil est ÉNORME : 1 million de Terres rentreraient dedans !**
+
+!!! warning "Pourquoi c'est le jour et la nuit ?"
+
+    **La Terre tourne sur elle-même en 24 heures**
+
+    - Quand ton côté fait face au Soleil → JOUR
+    - Quand ton côté est dans l'ombre → NUIT
+
+    **C'est pour ça qu'il fait nuit en France quand il fait jour en Australie !**
+
+    Décalage horaire = la Terre est ronde et tourne !
+
+!!! example "Les saisons expliquées"
+
+    **La Terre est penchée de 23° sur son orbite**
+
+    - Été en France → Notre hémisphère penche vers le Soleil
+    - Hiver en France → Notre hémisphère penche loin du Soleil
+
+    **C'est pour ça que quand c'est l'été chez nous, c'est l'hiver en Australie !**
+
+    La distance au Soleil ne change pas beaucoup (ce n'est pas la cause des saisons).
+
+!!! example "Moyen mnémotechnique pour les planètes"
+
+    **Dans l'ordre (du Soleil vers l'extérieur) :**
+
+    **M**ercure - **V**énus - **T**erre - **M**ars - **J**upiter - **S**aturne - **U**ranus - **N**eptune
+
+    **"Me Voici Toute Mignonne, Je Suis Une Nébuleuse"**
+
+    Ou : **"Mon Vieux Tu M'as Jeté Sur Une Navette"**
+
+---
+
 ## 1. Le système solaire
 
 ### 1.1 Composition

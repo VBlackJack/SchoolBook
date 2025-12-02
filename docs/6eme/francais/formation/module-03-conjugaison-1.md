@@ -13,6 +13,50 @@
 
 ---
 
+## 🎮 Dans la vraie vie : conjuguer partout !
+
+!!! tip "Tu conjugues tout le temps sans y penser !"
+
+    **Quand tu racontes ta journée (passé - imparfait/passé composé) :**
+    - "Ce matin, je **dormais** et mon réveil **a sonné**"
+    - "Hier, on **jouait** à Fortnite et je **gagnais** toutes les parties"
+    - "Le match **était** serré mais on **a gagné** !"
+
+    **Quand tu décris le présent :**
+    - "Je **regarde** une série"
+    - "Mon chat **dort** sur mon lit"
+    - "Les cours **finissent** à 17h"
+
+    **Quand tu fais des projets (futur) :**
+    - "Demain, j'**irai** chez mon pote"
+    - "Ce week-end, on **jouera** au foot"
+    - "L'année prochaine, je **serai** en 5ème"
+
+    **Dans tes messages :**
+    - "Tu **fais** quoi ?" (présent)
+    - "T'**étais** où ?" (imparfait)
+    - "On **se verra** demain" (futur)
+
+!!! example "Pourquoi la conjugaison c'est important ?"
+    Regarde la différence :
+
+    - "Je **mange**" = maintenant, en ce moment
+    - "Je **mangeais**" = avant, c'est fini ou c'était une habitude
+    - "Je **mangerai**" = plus tard, dans le futur
+
+    **Sans conjugaison, on ne saurait pas QUAND ça se passe !**
+
+!!! warning "Les erreurs qui font mal aux yeux sur les réseaux"
+    ```
+    ❌ "Je vais manger" → "Je vais mangé"
+    ❌ "J'ai manger" → devrait être "J'ai mangé"
+    ❌ "Il faut que je mange" → pas "Il faut que je manges"
+    ```
+
+    Avec ce module, tu ne feras plus ces erreurs !
+
+---
+
 ## Leçon 1 : Les trois groupes de verbes
 
 ### Comment les reconnaître ?

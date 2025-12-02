@@ -12,6 +12,69 @@
 
 ---
 
+## 🎮 Dans la vraie vie : les espaces vides dans les médias
+
+!!! tip "Les paysages ruraux et sauvages au cinéma et en jeu"
+
+    **Les grands espaces américains :**
+
+    - **Red Dead Redemption 1 & 2** → Immenses plaines, montagnes, vie de cow-boy
+    - **The Last of Us** → Traversée de l'Amérique désertée
+    - **Yellowstone** (série) → Ranch dans le Montana
+
+    **Les déserts :**
+
+    - **Dune** → Désert de sable, survie
+    - **Mad Max** → Désert post-apocalyptique
+    - **Uncharted 3** → Désert arabique
+
+    **La nature sauvage :**
+
+    - **Into the Wild** → Vivre seul en Alaska
+    - **Le Hobbit** → Montagnes, forêts, campagne
+    - **Minecraft** → Tu commences souvent dans un biome vide !
+
+!!! example "La différence ville vs campagne"
+
+    | En ville (métropole) | À la campagne (faible densité) |
+    |---------------------|-------------------------------|
+    | Voisins de palier | Voisin le plus proche à 500m |
+    | Métro toutes les 3 min | 1 bus par heure (si tu as de la chance) |
+    | Bruit permanent | Silence (sauf les oiseaux !) |
+    | Pollution | Air pur |
+    | Petits appartements | Grandes maisons avec jardin |
+    | Tout à proximité | Voiture obligatoire |
+
+!!! warning "Pourquoi certaines zones sont-elles vides ?"
+
+    **Les obstacles naturels :**
+
+    - **Déserts** → Trop chaud, pas d'eau (Sahara)
+    - **Montagnes** → Froid, difficile d'accès (Himalaya)
+    - **Forêts denses** → Difficile à habiter (Amazonie)
+    - **Zones polaires** → Trop froid (Sibérie, Groenland)
+
+    **Pourtant, des gens y vivent !**
+
+    - Touaregs dans le Sahara
+    - Inuits au Groenland
+    - Sherpas dans l'Himalaya
+    - Tribus amazoniennes
+
+!!! example "La vie à la campagne française"
+
+    **Tu habites peut-être en zone rurale si :**
+
+    - Il n'y a pas de feu rouge dans ta commune
+    - Tu dois prendre la voiture pour aller au collège
+    - Tu connais tous tes voisins par leur prénom
+    - Il y a des tracteurs sur la route
+    - La boulangerie la plus proche est à 5 km
+
+    **85% du territoire français est rural, mais seulement 20% de la population y vit !**
+
+---
+
 ## Introduction
 
 !!! question "Problématique"

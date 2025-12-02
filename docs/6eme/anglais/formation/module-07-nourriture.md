@@ -12,6 +12,66 @@
 
 ---
 
+## 🎮 In Real Life: Food is everywhere!
+
+!!! tip "La nourriture anglaise que tu connais"
+
+    **Ces mots anglais qu'on utilise en français :**
+
+    | Mot anglais | Ce que c'est |
+    |-------------|--------------|
+    | **burger** | Hamburger |
+    | **hot dog** | Saucisse dans du pain |
+    | **sandwich** | Tu connais ! |
+    | **bacon** | Lard grillé |
+    | **cookies** | Biscuits américains |
+    | **pancakes** | Crêpes épaisses |
+    | **muffin** | Petit gâteau |
+    | **milkshake** | Lait frappé |
+
+!!! example "Commander comme dans un jeu/film"
+
+    **Au McDo (ou dans un jeu) :**
+
+    | Phrase | Traduction |
+    |--------|------------|
+    | "Can I have a burger, please?" | Je peux avoir un burger, svp ? |
+    | "I'd like some fries." | Je voudrais des frites. |
+    | "Can I get a large Coke?" | Je peux avoir un grand Coca ? |
+    | "Here you are!" | Voilà ! |
+    | "Enjoy your meal!" | Bon appétit ! |
+
+!!! warning "SOME vs ANY"
+
+    **Règle simple :**
+
+    | SOME | ANY |
+    |------|-----|
+    | Phrases **affirmatives** | Phrases **négatives/questions** |
+    | "I have **some** pizza" | "I don't have **any** pizza" |
+    | "There is **some** water" | "Is there **any** water?" |
+
+    **Exception : offre polie → SOME**
+    - "Would you like **some** cake?" (Tu veux du gâteau ?)
+
+!!! example "La nourriture dans Minecraft et autres jeux"
+
+    **Vocabulaire food des jeux :**
+
+    | Anglais | Dans le jeu |
+    |---------|-------------|
+    | **apple** | Pomme (Minecraft) |
+    | **bread** | Pain |
+    | **steak** | Viande cuite |
+    | **golden apple** | Pomme dorée |
+    | **potion** | Potion (pas vraiment food mais...) |
+    | **health / HP** | Points de vie |
+    | **hunger bar** | Barre de faim |
+
+    **"I need food!" = J'ai besoin de nourriture !**
+
+---
+
 ## 1. Les aliments - Food
 
 ### 1.1 Fruits et légumes

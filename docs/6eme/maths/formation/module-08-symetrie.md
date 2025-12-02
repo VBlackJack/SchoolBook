@@ -13,6 +13,49 @@
 
 ---
 
+## 🎮 Dans la vraie vie : la symétrie partout !
+
+!!! tip "La symétrie, c'est l'équilibre parfait !"
+
+    **Sur ton corps :**
+    - Ton visage est (presque) symétrique : œil gauche / œil droit
+    - Tes mains sont symétriques l'une de l'autre
+    - Main droite + miroir = main gauche !
+
+    **Dans la nature :**
+    - Un papillon 🦋 : les deux ailes sont identiques
+    - Une feuille d'arbre : symétrique par rapport à la nervure centrale
+    - Un flocon de neige ❄️ : 6 axes de symétrie !
+    - Ton reflet dans l'eau 🌊
+
+    **Dans les logos et marques :**
+    - Logo McDonald's (M) : symétrique
+    - Logo Adidas : 3 bandes symétriques
+    - Logo Mercedes : étoile à 3 branches (symétrie de rotation !)
+    - Beaucoup de logos de voitures sont symétriques
+
+    **Dans les jeux :**
+    - Les cartes à jouer (roi, dame...) : symétriques pour être lues dans les deux sens
+    - Le plateau d'échecs : symétrique
+    - Les terrains de sport : symétriques pour être équitables
+
+    **En architecture :**
+    - La Tour Eiffel : symétrique
+    - Le Taj Mahal : parfaitement symétrique
+    - La plupart des bâtiments importants
+
+!!! example "Test rapide : cette lettre est-elle symétrique ?"
+    ```
+    A → OUI (axe vertical │)
+    B → OUI (axe horizontal ─)
+    F → NON
+    H → OUI (2 axes ! │ et ─)
+    O → OUI (plein d'axes !)
+    S → NON (attention piège, elle n'est PAS symétrique !)
+    ```
+
+---
+
 ## Leçon 1 : Qu'est-ce que la symétrie axiale ?
 
 ### Définition

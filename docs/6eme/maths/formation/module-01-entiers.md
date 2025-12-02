@@ -13,6 +13,39 @@
 
 ---
 
+## 🎮 Dans la vraie vie : pourquoi les grands nombres ?
+
+!!! tip "Tu utilises déjà les grands nombres sans le savoir !"
+
+    **Dans les jeux vidéo :**
+    - Ton score sur Fortnite ou Minecraft peut atteindre des **millions** de points
+    - Les dégâts dans certains RPG : "Tu infliges **45 236** points de dégâts !"
+    - L'argent dans GTA : tu peux avoir **2 500 000 $** sur ton compte
+
+    **Sur YouTube et TikTok :**
+    - "Cette vidéo a **12 millions** de vues"
+    - "Ce créateur a **3,5 millions** d'abonnés"
+    - Quand tu vois "1,2M vues" → ça veut dire **1 200 000** vues !
+
+    **Dans le sport :**
+    - Le stade de France peut accueillir **80 000** personnes
+    - Le salaire de Mbappé : environ **72 millions** d'euros par an !
+    - Record du monde du 100m : **9,58** secondes (là c'est des décimaux, on verra plus tard !)
+
+    **Dans la vie de tous les jours :**
+    - La population de la France : environ **68 millions** d'habitants
+    - Le prix d'une maison : souvent entre **200 000** et **500 000** euros
+    - La distance Terre-Lune : **384 400** km
+
+!!! example "Mini-exercice fun"
+    Si ton YouTubeur préféré a **2 340 000** abonnés et qu'il en gagne **15 000** par jour, combien en aura-t-il dans une semaine ?
+
+    ??? success "Réponse"
+        15 000 × 7 = 105 000 nouveaux abonnés
+        2 340 000 + 105 000 = **2 445 000 abonnés** !
+
+---
+
 ## 📚 Leçon 1 : Lire et écrire les grands nombres
 
 ### Le tableau de numération

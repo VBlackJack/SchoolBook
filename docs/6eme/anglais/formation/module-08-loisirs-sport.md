@@ -12,6 +12,65 @@
 
 ---
 
+## 🎮 In Real Life: Hobbies and Sports!
+
+!!! tip "Tes hobbies en anglais"
+
+    **Ce que tu fais vraiment :**
+
+    | Hobby | En anglais |
+    |-------|------------|
+    | Jouer aux jeux vidéo | **Playing video games** |
+    | Regarder des vidéos | **Watching videos** |
+    | Écouter de la musique | **Listening to music** |
+    | Jouer au foot | **Playing football** |
+    | Dessiner | **Drawing** |
+    | Lire des mangas | **Reading manga** |
+
+!!! example "PLAY / DO / GO : la règle des sports"
+
+    **3 verbes différents selon le sport :**
+
+    | Verbe | Type de sport | Exemples |
+    |-------|---------------|----------|
+    | **PLAY** | Sports d'équipe / avec balle | play football, play tennis, play basketball |
+    | **DO** | Sports individuels / arts martiaux | do judo, do gymnastics, do karate |
+    | **GO** | Sports avec -ING | go swimming, go skiing, go running |
+
+    **Astuce :**
+    - PLAY = tu joues CONTRE quelqu'un
+    - DO = tu fais seul
+    - GO = tu VAS quelque part pour le faire
+
+!!! warning "CAN = tu sais faire"
+
+    **CAN exprime une capacité :**
+
+    | Affirmatif | Négatif |
+    |------------|---------|
+    | I **can** swim | I **can't** (cannot) swim |
+    | She **can** play guitar | She **can't** play guitar |
+
+    **Attention : pas de -S à la 3ème personne !**
+    - ❌ She cans play
+    - ✅ She can play
+
+!!! example "Vocabulaire gaming comme hobby"
+
+    **Parler de tes jeux préférés :**
+
+    | Phrase | Traduction |
+    |--------|------------|
+    | "I like playing Fortnite" | J'aime jouer à Fortnite |
+    | "My favorite game is..." | Mon jeu préféré est... |
+    | "I play every day" | Je joue tous les jours |
+    | "I'm good at shooting games" | Je suis bon aux jeux de tir |
+    | "I can't play horror games" | Je ne peux pas jouer aux jeux d'horreur |
+
+    **"Gaming is my hobby!" = Le gaming est mon hobby !**
+
+---
+
 ## 1. Les loisirs - Hobbies
 
 ### 1.1 Activités courantes

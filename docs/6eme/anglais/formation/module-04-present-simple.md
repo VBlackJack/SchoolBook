@@ -12,6 +12,75 @@
 
 ---
 
+## 🎮 In Real Life: Présent simple everywhere!
+
+!!! tip "Le présent simple dans les jeux et la vraie vie"
+
+    **Tes habitudes de gaming :**
+
+    - "I **play** Fortnite every day." (Je joue à Fortnite tous les jours)
+    - "She **watches** streams on Twitch." (Elle regarde des streams)
+    - "We **play** together on weekends." (On joue ensemble le week-end)
+
+    **Tes routines du matin :**
+
+    - "I **wake up** at 7." (Je me réveille à 7h)
+    - "I **eat** breakfast." (Je prends le petit-déj)
+    - "I **go** to school." (Je vais à l'école)
+
+!!! example "La règle du -S à la 3ème personne"
+
+    **Le S de HE/SHE/IT**
+
+    | Sujet | Verbe | Exemple |
+    |-------|-------|---------|
+    | I | play | I play |
+    | You | play | You play |
+    | **He/She/It** | play**S** | He play**S** |
+    | We | play | We play |
+    | They | play | They play |
+
+    **C'est comme un S qu'on met pour "lui/elle" !**
+
+!!! warning "Les pièges du présent simple"
+
+    **1. Oubli du -S :**
+
+    - ❌ "He play video games"
+    - ✅ "He play**S** video games"
+
+    **2. Ajout de -ES après S, SH, CH, X, O :**
+
+    - watch → He watch**ES**
+    - go → She go**ES**
+    - miss → It miss**ES**
+
+    **3. Y qui devient -IES :**
+
+    - study → He stud**IES**
+    - try → She tr**IES**
+
+!!! example "Adverbes de fréquence = stats de joueur"
+
+    **Comme une barre de fréquence :**
+
+    ```
+    100% ████████████████████ always (toujours)
+     80% ████████████████░░░░ usually (d'habitude)
+     60% ████████████░░░░░░░░ often (souvent)
+     40% ████████░░░░░░░░░░░░ sometimes (parfois)
+     20% ████░░░░░░░░░░░░░░░░ rarely (rarement)
+      0% ░░░░░░░░░░░░░░░░░░░░ never (jamais)
+    ```
+
+    **Exemples :**
+
+    - "I **always** play after homework." (100%)
+    - "I **sometimes** win." (40%)
+    - "I **never** rage quit!" (0%... vraiment ? 😄)
+
+---
+
 ## 1. Qu'est-ce que le présent simple ?
 
 ### 1.1 Utilisation

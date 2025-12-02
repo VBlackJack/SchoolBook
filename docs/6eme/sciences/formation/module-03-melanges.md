@@ -12,6 +12,58 @@
 
 ---
 
+## 🎮 Dans la vraie vie : les mélanges sont partout !
+
+!!! tip "Tu utilises des mélanges tous les jours"
+
+    **Au petit-déjeuner :**
+
+    | Mélange | Type | Constituants |
+    |---------|------|-------------|
+    | Lait chocolaté | Homogène | Lait + cacao + sucre |
+    | Jus d'orange avec pulpe | Hétérogène | Jus + pulpe |
+    | Céréales dans le lait | Hétérogène | Céréales + lait |
+    | Café sucré | Homogène | Eau + café + sucre dissous |
+
+    **Homogène = on ne voit qu'une seule chose**
+    **Hétérogène = on voit plusieurs choses**
+
+!!! example "La cuisine = un labo de chimie !"
+
+    **Tu fais des mélanges sans le savoir :**
+
+    - **Vinaigrette** → Mélange hétérogène (huile + vinaigre se séparent)
+    - **Mayonnaise** → Mélange homogène (grâce à l'œuf qui sert d'émulsifiant)
+    - **Eau salée** → Dissolution (le sel "disparaît" dans l'eau)
+    - **Pâte à crêpes** → Mélange homogène
+
+!!! warning "Dissoudre ≠ Fondre"
+
+    **Attention à la confusion !**
+
+    | Dissoudre | Fondre |
+    |-----------|--------|
+    | Sucre dans l'eau | Glaçon qui fond |
+    | = se mélanger à un liquide | = passer de solide à liquide |
+    | Le sucre reste du sucre | La glace devient de l'eau |
+    | Besoin d'un solvant (eau) | Besoin de chaleur |
+
+    **Test : si tu fais évaporer l'eau sucrée, tu retrouves le sucre !**
+
+!!! example "La filtration : tu l'utilises déjà !"
+
+    **Exemples de filtration au quotidien :**
+
+    - **Passoire** → Sépare l'eau des pâtes
+    - **Cafetière** → Le filtre retient le marc de café
+    - **Aspirateur** → Le filtre retient la poussière
+    - **Masque** → Filtre les particules de l'air
+    - **Traitement de l'eau** → Usines de filtration
+
+    **Principe : le filtre a des trous assez petits pour bloquer les grosses particules mais laisser passer les petites !**
+
+---
+
 ## Introduction
 
 !!! question "Problématique"

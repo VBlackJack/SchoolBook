@@ -12,6 +12,78 @@
 
 ---
 
+## 🎮 Dans la vraie vie : la citoyenneté au quotidien
+
+!!! tip "Tu es déjà citoyen sans le savoir !"
+
+    **Au collège :**
+
+    - Élire les **délégués de classe** = vote démocratique
+    - Respecter le **règlement intérieur** = lois à petite échelle
+    - Participer au **conseil de classe** = représentation
+    - Aider un camarade = **fraternité**
+    - Traiter tout le monde pareil = **égalité**
+
+    **Dans ta vie :**
+
+    - Avoir une **carte d'identité** = preuve de citoyenneté
+    - Respecter le **code de la route** = lois pour tous
+    - Trier ses déchets = **responsabilité** citoyenne
+
+!!! example "Les symboles de la République que tu connais"
+
+    | Symbole | Où tu le vois |
+    |---------|---------------|
+    | **Drapeau tricolore** | Bâtiments publics, foot équipe de France |
+    | **Marianne** | Timbres, mairies, pièces de monnaie |
+    | **La Marseillaise** | Avant les matchs de foot, cérémonies |
+    | **Devise** | Fronton des écoles, mairies |
+    | **14 juillet** | Fête nationale, feu d'artifice |
+    | **Coq** | Maillot équipe de France |
+
+!!! warning "Liberté, Égalité, Fraternité dans ta vie"
+
+    **LIBERTÉ :**
+
+    - Tu peux dire ce que tu penses (liberté d'expression)
+    - Tu peux pratiquer (ou non) une religion (liberté de conscience)
+    - Tu peux circuler librement
+
+    **ÉGALITÉ :**
+
+    - Filles et garçons ont les mêmes droits
+    - Tous égaux devant la loi (pas de privilèges)
+    - Mêmes chances à l'école pour tous
+
+    **FRATERNITÉ :**
+
+    - Aider les autres
+    - Solidarité avec les plus fragiles
+    - Respect de chacun
+
+!!! example "Les droits et devoirs"
+
+    | Droits (ce que tu peux faire) | Devoirs (ce que tu dois faire) |
+    |------------------------------|-------------------------------|
+    | Aller à l'école gratuitement | Respecter les règles |
+    | Être protégé par la loi | Ne pas nuire aux autres |
+    | Exprimer ton opinion | Respecter l'opinion des autres |
+    | Être soigné | Payer (plus tard) des impôts |
+    | Voter (à 18 ans) | Respecter les résultats des votes |
+
+!!! tip "Le harcèlement, c'est NON !"
+
+    **Le respect, c'est :**
+
+    - Ne pas se moquer des autres
+    - Ne pas insulter sur les réseaux
+    - Signaler si quelqu'un est harcelé
+    - Défendre les plus faibles
+
+    **Numéro à retenir : 3020** (numéro national contre le harcèlement)
+
+---
+
 ## Introduction
 
 !!! question "Problématique"

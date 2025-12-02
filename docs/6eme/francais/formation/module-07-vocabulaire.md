@@ -13,6 +13,61 @@
 
 ---
 
+## 🎮 Dans la vraie vie : enrichir ton vocabulaire !
+
+!!! tip "Le vocabulaire, c'est comme les skins dans un jeu !"
+
+    Plus tu as de mots, plus tu peux t'exprimer avec précision !
+
+    **Au lieu de toujours dire « c'est bien » :**
+
+    | Situation | Mot précis |
+    |-----------|------------|
+    | Un jeu vidéo | C'est **addictif**, **immersif**, **captivant** |
+    | Un film | C'est **émouvant**, **palpitant**, **hilarant** |
+    | De la nourriture | C'est **savoureux**, **succulent**, **délicieux** |
+    | Une musique | C'est **entraînant**, **mélodieux**, **rythmé** |
+
+!!! example "Les préfixes des jeux vidéo et d'internet"
+
+    Tu connais déjà plein de préfixes sans le savoir !
+
+    | Préfixe | Sens | Exemples du quotidien |
+    |---------|------|----------------------|
+    | **multi-** | plusieurs | **Multi**joueur, **multi**média |
+    | **re-** | encore | **Re**jouer, **re**start, **re**spawn |
+    | **dé-/un-** | contraire | **Dé**bloquer, **un**lock, **dé**sinstaller |
+    | **super-/ultra-** | très | **Super** rare, **ultra** puissant |
+    | **anti-** | contre | **Anti**virus, **anti**cheat |
+    | **co-/multi-** | ensemble | **Co**-op, **multi**player |
+
+!!! warning "Attention aux niveaux de langue !"
+
+    **Entre amis (familier) :**
+
+    - « C'est **ouf** ce truc ! »
+    - « J'ai **kiffé** ce film ! »
+    - « Il est trop **stylé** ! »
+
+    **En cours ou par écrit (courant/soutenu) :**
+
+    - « C'est **incroyable** ! »
+    - « J'ai **adoré** ce film ! »
+    - « Il est très **élégant** ! »
+
+    **Le bon niveau au bon moment = la clé !**
+
+!!! example "Le sens figuré, tu l'utilises tout le temps !"
+
+    - « Je **suis mort** de rire ! » (tu n'es pas vraiment mort)
+    - « Ce jeu me **tue** ! » (il ne te tue pas vraiment)
+    - « J'ai le **seum** » (tu n'as pas vraiment de poison)
+    - « Il m'a **cramé** » (il t'a repéré, pas brûlé)
+    - « Je **galère** » (tu n'es pas sur un bateau)
+    - « C'est **chaud** » (ce n'est pas une question de température)
+
+---
+
 ## Leçon 1 : Les familles de mots
 
 ### Définition

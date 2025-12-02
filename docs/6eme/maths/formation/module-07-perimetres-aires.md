@@ -13,6 +13,45 @@
 
 ---
 
+## 🎮 Dans la vraie vie : périmètres et aires !
+
+!!! tip "Périmètre = le tour, Aire = l'intérieur"
+
+    **Périmètre - Quand tu fais le tour :**
+    - Courir autour du terrain de foot = calculer le **périmètre**
+    - Mettre une clôture autour du jardin = le **périmètre** du jardin
+    - La longueur de ta ceinture = le **périmètre** de ta taille
+    - Faire le tour de ta chambre en marchant = son **périmètre**
+
+    **Aire - Quand tu remplis l'intérieur :**
+    - Peindre un mur = calculer l'**aire** pour savoir combien de peinture
+    - Carreler une pièce = l'**aire** pour savoir combien de carreaux
+    - Gazon pour le jardin = l'**aire** du terrain
+    - La taille de ton écran de TV = son **aire** (55 pouces = la diagonale !)
+
+    **Dans les jeux vidéo :**
+    - Zone de jeu dans Fortnite : l'**aire** de la zone safe
+    - Construire un mur dans Minecraft : compter les blocs = **aire**
+    - Distance à parcourir = lié au **périmètre**
+
+    **Mesures courantes à connaître :**
+    - Chambre moyenne : **10 à 15 m²** (aire)
+    - Terrain de foot : **7 140 m²** (105m × 68m)
+    - Feuille A4 : **623,7 cm²** (21 × 29,7)
+    - Écran de téléphone 6 pouces : environ **80 cm²**
+
+!!! example "Situation concrète : décorer ta chambre"
+    Ta chambre fait **4m × 3m** :
+
+    - **Périmètre** = 4 + 3 + 4 + 3 = **14 m**
+      → Tu veux mettre une guirlande lumineuse tout autour
+
+    - **Aire** = 4 × 3 = **12 m²**
+      → Tu veux acheter du parquet (vendu au m²)
+      → Un paquet couvre 2 m², il te faut **6 paquets**
+
+---
+
 ## Leçon 1 : Périmètre et aire - La différence
 
 ### Comprendre la différence

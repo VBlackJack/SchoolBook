@@ -12,6 +12,67 @@
 
 ---
 
+## 🎮 Dans la vraie vie : catastrophes naturelles
+
+!!! tip "Les volcans et séismes dans les médias"
+
+    **Films catastrophe :**
+
+    - **Volcano** → Éruption à Los Angeles
+    - **San Andreas** → Méga-séisme en Californie
+    - **Dante's Peak** → Éruption explosive
+    - **2012** → Catastrophes géologiques
+
+    **Dans les jeux :**
+
+    - **Minecraft** → La lave sort des volcans
+    - **Zelda** → Montagnes de feu, Death Mountain
+    - **Pokémon** → Mont Chimney (volcan)
+
+!!! example "Séismes et volcans : où et pourquoi ?"
+
+    **La "Ceinture de Feu" du Pacifique :**
+
+    - 75% des volcans actifs du monde
+    - 90% des séismes mondiaux
+    - Japon, Indonésie, Chili, Californie...
+
+    **Pourquoi là ?** Les plaques tectoniques se rencontrent !
+
+    | Zone | Pays touchés | Phénomène |
+    |------|-------------|-----------|
+    | Ceinture de Feu | Japon, Chili, USA | Séismes, volcans |
+    | Méditerranée | Italie, Turquie, Grèce | Séismes, Etna, Vésuve |
+    | Islande | Islande | Volcans (dorsale) |
+
+!!! warning "L'échelle de Richter"
+
+    **Intensité des séismes :**
+
+    | Magnitude | Effet | Exemple |
+    |-----------|-------|---------|
+    | < 3 | Imperceptible | Plusieurs par jour |
+    | 3-5 | Légères secousses | Régulier en France |
+    | 5-6 | Dégâts légers | Tremblement modéré |
+    | 6-7 | Dégâts importants | Haïti 2010 (7.0) |
+    | > 8 | Catastrophe | Japon 2011 (9.1) |
+
+    **Chaque niveau = 32 fois plus d'énergie !**
+
+!!! example "La météo vs le climat"
+
+    **Attention à ne pas confondre :**
+
+    | Météo | Climat |
+    |-------|--------|
+    | Court terme (jours) | Long terme (décennies) |
+    | "Il pleut aujourd'hui" | "Il pleut beaucoup en automne ici" |
+    | Variable | Stable (en moyenne) |
+
+    **Le changement climatique = le climat qui change sur le long terme**
+
+---
+
 ## 1. La structure de la Terre
 
 ### 1.1 Les couches terrestres

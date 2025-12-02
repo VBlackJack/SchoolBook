@@ -12,6 +12,80 @@
 
 ---
 
+## 🎮 Dans la vraie vie : protéger la planète
+
+!!! tip "L'environnement, ça te concerne !"
+
+    **Tu peux agir tous les jours :**
+
+    | Action | Impact |
+    |--------|--------|
+    | Éteindre les lumières | Économie d'énergie |
+    | Prendre une douche courte | Économie d'eau |
+    | Trier ses déchets | Recyclage |
+    | Aller à pied/vélo | Moins de pollution |
+    | Manger local/de saison | Moins de transport |
+
+    **Chaque petit geste compte quand on est 8 milliards !**
+
+!!! example "L'environnement dans les jeux vidéo"
+
+    **Minecraft = un écosystème simplifié :**
+
+    - Biomes différents (forêt, désert, océan)
+    - Chaînes alimentaires (loups mangent les moutons)
+    - Ressources limitées (minerais épuisables)
+
+    **Autres exemples :**
+
+    - **Animal Crossing** → Gestion d'une île, saisons
+    - **Eco** → Jeu sur l'équilibre écologique
+    - **Subnautica** → Écosystème sous-marin
+
+!!! warning "Les menaces sur la planète"
+
+    **Ce qui met en danger l'environnement :**
+
+    | Problème | Cause | Conséquence |
+    |----------|-------|-------------|
+    | Réchauffement climatique | CO₂, gaz à effet de serre | Fonte des glaces, canicules |
+    | Pollution plastique | Déchets mal gérés | Océans pollués |
+    | Déforestation | Agriculture intensive | Perte de biodiversité |
+    | Extinction d'espèces | Chasse, destruction habitat | Disparition définitive |
+
+    **1 million d'espèces menacées d'extinction !**
+
+!!! example "Chaînes alimentaires du quotidien"
+
+    **Qui mange qui ?**
+
+    ```
+    Herbe → Lapin → Renard → Décomposeurs
+       ↑                          │
+       └──────────────────────────┘
+              (cycle fermé)
+    ```
+
+    **Si on supprime un maillon :**
+
+    - Plus de renards → Trop de lapins → Plus d'herbe → Plus de lapins
+
+    **C'est pour ça qu'il faut protéger TOUTES les espèces !**
+
+!!! tip "Les écogestes"
+
+    **Règle des 5R :**
+
+    1. **R**efuser (ce dont on n'a pas besoin)
+    2. **R**éduire (sa consommation)
+    3. **R**éutiliser (plutôt que jeter)
+    4. **R**ecycler (quand c'est possible)
+    5. **R**endre à la terre (composter)
+
+    **Le meilleur déchet = celui qu'on ne produit pas !**
+
+---
+
 ## 1. Les écosystèmes
 
 ### 1.1 Qu'est-ce qu'un écosystème ?

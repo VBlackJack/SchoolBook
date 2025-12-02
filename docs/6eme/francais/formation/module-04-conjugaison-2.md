@@ -13,6 +13,47 @@
 
 ---
 
+## 🎮 Dans la vraie vie : raconter ce qu'on a fait !
+
+!!! tip "Tu utilises ces temps tous les jours sans le savoir !"
+
+    **Quand tu racontes ta journée à tes parents :**
+
+    - « J'**ai eu** 16 en maths ! » → passé composé
+    - « On **est allés** à la cantine. » → passé composé avec être
+    - « La prof **a dit** qu'on aurait un contrôle. » → passé composé
+
+    **Quand tu postes sur les réseaux :**
+
+    - « J'**ai enfin** fini ce jeu ! » → passé composé
+    - « On **s'est éclatés** au parc ! » → passé composé pronominal
+    - « **Regardez** ce que j'**ai trouvé** ! » → impératif + passé composé
+
+    **Dans les jeux vidéo :**
+
+    - « **Victoire !** Tu **as** gagné la partie ! »
+    - « Tu **es** arrivé premier ! »
+    - « **Reviens** quand tu **auras** plus d'XP ! »
+
+!!! example "Les erreurs qu'on entend souvent..."
+
+    | On dit souvent ❌ | On devrait dire ✅ |
+    |------------------|-------------------|
+    | « J'ai **été** au cinéma » | « Je **suis allé** au cinéma » |
+    | « On **a été** à Paris » | « On **est allés** à Paris » |
+    | « Elle est **parti** » | « Elle est **partie** » (accord !) |
+    | « Les films que j'ai **vu** » | « Les films que j'ai **vus** » |
+
+!!! warning "L'erreur n°1 à éviter"
+    « **J'ai été** » = j'étais dans un état (malade, content...)
+
+    « **Je suis allé** » = je me suis déplacé quelque part
+
+    - ❌ « J'ai été au McDo » → ✅ « Je **suis allé** au McDo »
+    - ✅ « J'**ai été** malade hier » (état)
+
+---
+
 ## Leçon 1 : Le passé composé
 
 ### Formation

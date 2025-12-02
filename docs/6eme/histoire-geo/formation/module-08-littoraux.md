@@ -12,6 +12,67 @@
 
 ---
 
+## 🎮 Dans la vraie vie : la mer et les côtes partout !
+
+!!! tip "Les littoraux dans les films et jeux"
+
+    **Films cultes au bord de l'eau :**
+
+    - **Pirates des Caraïbes** → Ports, îles, commerce maritime
+    - **Les Dents de la mer** → Station balnéaire américaine
+    - **Moana** / **Vaiana** → Îles du Pacifique
+    - **Titanic** → Voyage transatlantique
+
+    **Jeux vidéo :**
+
+    - **Assassin's Creed IV: Black Flag** → Tu es un pirate dans les Caraïbes
+    - **Sea of Thieves** → Piraterie et exploration maritime
+    - **GTA V** → Los Santos a des plages magnifiques
+    - **Minecraft** → Les biomes côtiers sont super stratégiques !
+
+!!! example "Pourquoi tout le monde aime la plage"
+
+    **Ce que tu fais au bord de la mer :**
+
+    | Activité | Pourquoi c'est populaire |
+    |----------|-------------------------|
+    | Baignade | Se rafraîchir, s'amuser |
+    | Bronzage | Vacances, détente |
+    | Surf, bodyboard | Sports nautiques |
+    | Pêche | Loisir ou travail |
+    | Balades | Paysages, air pur |
+
+    **60% de la population mondiale vit à moins de 60 km de la côte !**
+
+!!! warning "Les dangers des littoraux"
+
+    **Problèmes environnementaux :**
+
+    - **Montée des eaux** → Avec le réchauffement climatique, la mer monte
+    - **Érosion** → Les falaises et plages reculent
+    - **Pollution** → Plastique dans les océans
+    - **Bétonisation** → Trop de constructions
+
+    **Exemples concrets :**
+
+    - Venise s'enfonce dans l'eau
+    - Des îles du Pacifique risquent de disparaître
+    - En France, certaines maisons sont détruites car trop proches de la falaise
+
+!!! example "Les métiers de la mer"
+
+    **Tu connais sûrement :**
+
+    - Pêcheur → Comme dans les docs Netflix sur la pêche
+    - Marin → Commerce international
+    - Sauveteur → SNSM, plages surveillées
+    - Surfeur pro → Compétitions mondiales
+    - Restaurateur de plage → Cuisine de fruits de mer
+
+    **Le commerce mondial passe à 90% par la mer !**
+
+---
+
 ## Introduction
 
 !!! question "Problématique"

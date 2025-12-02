@@ -12,6 +12,67 @@
 
 ---
 
+## 🎮 Dans la vraie vie : la Grèce antique t'influence encore !
+
+!!! tip "La mythologie grecque est PARTOUT !"
+
+    **Dans les films et séries :**
+
+    - **Percy Jackson** → Demi-dieux, Zeus, Poséidon, l'Olympe
+    - **Hercule** (Disney) → Héraclès et les 12 travaux
+    - **Clash of Titans** / **Wrath of Titans** → Persée, Méduse, le Kraken
+    - **Troy** → La guerre de Troie, Achille
+
+    **Dans les jeux vidéo :**
+
+    - **God of War** → Kratos combat Zeus, Athéna, Arès
+    - **Assassin's Creed Odyssey** → Tu explores la Grèce antique !
+    - **Hades** → Tu incarnes le fils du dieu des Enfers
+    - **Age of Mythology** → Tu invoques des dieux grecs
+
+!!! example "Le vocabulaire grec dans ta vie"
+
+    | Mot français | Origine grecque |
+    |--------------|-----------------|
+    | **Démocratie** | demos (peuple) + kratos (pouvoir) |
+    | **Téléphone** | tele (loin) + phone (voix) |
+    | **Biologie** | bios (vie) + logos (étude) |
+    | **Géographie** | geo (terre) + graphein (écrire) |
+    | **Photographie** | photos (lumière) + graphein |
+    | **Athlète** | athletes (combattant) |
+    | **Musée** | mouseion (temple des Muses) |
+    | **Stade** | stadion (mesure de distance) |
+
+!!! warning "Les Jeux Olympiques viennent de Grèce !"
+
+    **Les JO modernes = héritage direct de la Grèce antique :**
+
+    - Premiers JO : **-776** à Olympie
+    - Épreuves : course, lutte, lancer de disque, pentathlon
+    - Récompense : couronne d'olivier (pas de médaille !)
+    - Trêve sacrée : pas de guerre pendant les Jeux
+
+    **Aujourd'hui encore :**
+
+    - La flamme olympique est allumée en Grèce
+    - Le marathon = bataille de Marathon (-490)
+    - Devise : "Plus vite, plus haut, plus fort"
+
+!!! example "La démocratie, invention grecque"
+
+    **Athènes a inventé le vote citoyen (-508) :**
+
+    - Avant : les rois décidaient seuls
+    - Après : les citoyens votent les lois
+
+    **Aujourd'hui, la démocratie c'est :**
+
+    - Voter aux élections
+    - Élire le président, les députés
+    - Le délégué de classe... c'est de la démocratie !
+
+---
+
 ## Introduction
 
 !!! question "Problématique"

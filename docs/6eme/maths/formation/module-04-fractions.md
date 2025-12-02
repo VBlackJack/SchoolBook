@@ -13,6 +13,49 @@
 
 ---
 
+## 🎮 Dans la vraie vie : les fractions au quotidien !
+
+!!! tip "Tu utilises des fractions sans le savoir !"
+
+    **Quand tu partages :**
+    - Une pizza coupée en **8 parts** → chaque part = **1/8** de la pizza
+    - Tu manges **3 parts** sur 8 → tu as mangé **3/8** de la pizza
+    - Un gâteau partagé en 4 → chaque personne a **1/4** (un quart)
+
+    **Dans la musique et les vidéos :**
+    - Tu as regardé **la moitié** d'un film → tu es à **1/2**
+    - La barre de progression à 75% → tu es aux **3/4**
+    - Un morceau de 4 min, tu es à 1 min → **1/4** du morceau écouté
+
+    **Dans les jeux vidéo :**
+    - Ta barre de vie à moitié → **1/2** ou **50%**
+    - Succès débloqués : 15 sur 20 → **15/20** = **3/4** des succès
+    - Tu as craftable 2 objets sur 3 → **2/3** de l'équipement
+    - Batterie de manette : un quart restant → **1/4**
+
+    **Dans le sport :**
+    - Mi-temps au foot → **1/2** du match
+    - Quart de finale → il reste **1/4** des équipes
+    - Tu as couru **3 tours** sur 4 → **3/4** de la course
+
+    **En cuisine :**
+    - Une **demi**-baguette → **1/2** baguette
+    - Un **quart** de litre de lait → **1/4** L = 250 mL
+    - **Trois-quarts** d'un paquet → **3/4** du paquet
+
+!!! example "Les fractions et les pourcentages, c'est pareil !"
+    ```
+    1/2  =  50%   → la moitié
+    1/4  =  25%   → un quart
+    3/4  =  75%   → trois quarts
+    1/10 =  10%   → un dixième
+    1/5  =  20%   → un cinquième
+    ```
+
+    **Soldes -50%** = tu paies **la moitié** = **1/2** du prix !
+
+---
+
 ## Leçon 1 : Comprendre les fractions
 
 ### Qu'est-ce qu'une fraction ?

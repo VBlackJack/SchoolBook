@@ -12,6 +12,64 @@
 
 ---
 
+## 🎮 Dans la vraie vie : se nourrir pour vivre
+
+!!! tip "Les plantes fabriquent leur propre nourriture !"
+
+    **La photosynthèse en version simple :**
+
+    ```
+    Eau + CO₂ + Lumière → Sucre + Oxygène
+    ```
+
+    **C'est comme si les plantes cuisinaient leur repas avec le soleil !**
+
+    Et en bonus : elles rejettent l'oxygène qu'on respire.
+
+    **Sans plantes → pas d'oxygène → pas de vie !**
+
+!!! example "La nutrition dans les jeux vidéo"
+
+    **Dans Minecraft :**
+
+    - Tu dois manger pour survivre (barre de faim)
+    - Les animaux mangent du blé, des carottes...
+    - Les cultures ont besoin d'eau et de lumière
+
+    **Dans Stardew Valley :**
+
+    - Les plantes poussent avec eau + soleil
+    - Tu dois te nourrir pour avoir de l'énergie
+
+    **C'est exactement comme dans la vraie vie !**
+
+!!! warning "Animaux vs Végétaux : deux stratégies"
+
+    | Végétaux | Animaux |
+    |----------|---------|
+    | Fabriquent leur nourriture | Mangent d'autres êtres vivants |
+    | Immobiles | Se déplacent pour trouver à manger |
+    | Ont besoin de lumière | Pas besoin de lumière pour manger |
+    | Autotrophes | Hétérotrophes |
+
+    **Les animaux sont « paresseux » : ils mangent ce que les plantes fabriquent !**
+
+!!! example "Ton alimentation"
+
+    **Ce que tu manges vient des plantes (directement ou pas) :**
+
+    | Aliment | Origine |
+    |---------|---------|
+    | Pain | Blé (plante) |
+    | Steak | Vache (qui mange de l'herbe) |
+    | Poisson | Poisson (qui mange des algues/plancton) |
+    | Pomme | Pommier (plante) |
+    | Œuf | Poule (qui mange des graines) |
+
+    **Toute la nourriture vient des plantes au départ !**
+
+---
+
 ## 1. La nutrition des végétaux
 
 ### 1.1 La photosynthèse

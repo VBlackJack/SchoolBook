@@ -13,6 +13,56 @@
 
 ---
 
+## 🎮 Dans la vraie vie : mesurer le monde !
+
+!!! tip "Les unités sont partout dans ton quotidien !"
+
+    **Longueurs - Tu mesures quoi ?**
+    - Ta taille : environ **1,50 m** (ou 150 cm)
+    - Ton téléphone : environ **15 cm** de long
+    - Distance maison-collège : quelques **km**
+    - Épaisseur d'une carte : **0,3 mm**
+    - Marathon : **42,195 km**
+
+    **Masses - Tu pèses quoi ?**
+    - Ton poids : environ **40-50 kg**
+    - Un smartphone : environ **200 g**
+    - Une voiture : environ **1,5 tonne** (1 500 kg)
+    - Un paquet de chips : **150 g**
+    - Un sac de cours chargé : **5-8 kg** (trop lourd !)
+
+    **Capacités - Tu verses quoi ?**
+    - Une canette : **33 cL**
+    - Une bouteille d'eau : **1,5 L** ou **50 cL**
+    - Un verre : environ **25 cL**
+    - Une cuillère à soupe : **15 mL**
+    - Une piscine olympique : **2 500 000 L** !
+
+    **Durées - Tu comptes le temps ?**
+    - Une récré : **15 minutes**
+    - Un cours : **55 minutes** (ou 1h)
+    - Une journée de cours : **6-7 heures**
+    - Un film : environ **2h** (120 min)
+    - Un épisode de série : **20-45 min**
+
+!!! example "Conversions utiles à connaître par coeur"
+    ```
+    LONGUEURS                MASSES              CAPACITÉS
+    1 km = 1000 m           1 kg = 1000 g       1 L = 100 cL
+    1 m = 100 cm            1 t = 1000 kg       1 L = 1000 mL
+    1 cm = 10 mm                                1 cL = 10 mL
+
+    DURÉES
+    1 h = 60 min            1 jour = 24 h
+    1 min = 60 s            1 semaine = 7 jours
+    ```
+
+!!! warning "Piège fréquent : les durées ne sont PAS en base 10 !"
+    - 1h30 ≠ 1,30 h → 1h30 = 1,5 h (car 30 min = 0,5 h)
+    - 2h45 = 2h + 45min = 2h + 0,75h = 2,75 h
+
+---
+
 ## Leçon 1 : Les longueurs
 
 ### Les unités de longueur

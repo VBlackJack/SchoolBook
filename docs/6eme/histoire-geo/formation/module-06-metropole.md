@@ -12,6 +12,71 @@
 
 ---
 
+## 🎮 Dans la vraie vie : les grandes villes dans les médias
+
+!!! tip "Les métropoles dans les films et jeux"
+
+    **New York :**
+
+    - **Spider-Man** → Gratte-ciels, Queens, Manhattan
+    - **Avengers** → Times Square, Stark Tower
+    - **GTA IV** → "Liberty City" = New York
+
+    **Tokyo :**
+
+    - **Fast & Furious: Tokyo Drift** → Courses de voitures
+    - **Pokémon** → Inspiré des villes japonaises
+    - **Yakuza** (jeu) → Quartiers de Tokyo
+
+    **Paris :**
+
+    - **Miraculous Ladybug** → Tour Eiffel, Notre-Dame
+    - **Ratatouille** → Paris vu par un rat chef cuisinier
+    - **Assassin's Creed Unity** → Paris pendant la Révolution
+
+!!! example "Tu connais déjà les métropoles !"
+
+    | Ce que tu connais | Métropole |
+    |-------------------|-----------|
+    | Tour Eiffel | Paris |
+    | Statue de la Liberté | New York |
+    | Big Ben | Londres |
+    | Colisée | Rome |
+    | Tour de Pise | Milan (région) |
+    | Pyramides | Le Caire |
+    | Opéra de Sydney | Sydney |
+
+!!! warning "Vivre en ville : avantages et inconvénients"
+
+    **Ce qui est cool :**
+
+    - Transports en commun (métro, bus, tram)
+    - Magasins, cinémas, restaurants à proximité
+    - Événements, concerts, musées
+    - Plus d'offres d'emploi
+
+    **Ce qui est moins cool :**
+
+    - Pollution de l'air
+    - Bruit permanent
+    - Logements petits et chers
+    - Embouteillages
+    - Moins de nature
+
+!!! example "Les mégapoles : les plus grandes villes du monde"
+
+    | Ville | Population | Comparaison |
+    |-------|------------|-------------|
+    | **Tokyo** | 37 millions | = 6x la population de la Belgique |
+    | **Delhi** | 32 millions | = tous les Pays-Bas ! |
+    | **Shanghai** | 29 millions | = presque l'Australie |
+    | **São Paulo** | 22 millions | = 3x Paris + banlieue |
+    | **Paris** | 12 millions | avec l'Île-de-France |
+
+    **Tu pourrais marcher des jours sans sortir de Tokyo !**
+
+---
+
 ## Introduction
 
 !!! question "Problématique"

@@ -13,6 +13,65 @@
 
 ---
 
+## 🎮 Dans la vraie vie : tu lis plus que tu ne le crois !
+
+!!! tip "Tu lis des textes différents tous les jours !"
+
+    **Types de textes que tu rencontres :**
+
+    | Où ? | Type de texte | Exemple |
+    |------|---------------|---------|
+    | **YouTube** | Descriptif | Description d'une vidéo |
+    | **Jeux vidéo** | Narratif | Histoire du jeu, dialogues |
+    | **Jeux vidéo** | Injonctif | Tutoriel, règles |
+    | **Wikipédia** | Explicatif | Article sur un sujet |
+    | **Pub/Réseaux** | Argumentatif | « Achète ce produit ! » |
+    | **Recettes TikTok** | Injonctif | Étapes à suivre |
+
+!!! example "Comprendre l'implicite sur internet"
+
+    Quand quelqu'un écrit « **Intéressant...** » avec des points de suspension, ça peut vouloir dire :
+
+    - Il trouve vraiment ça intéressant
+    - Ou c'est ironique et il pense le contraire !
+
+    **L'implicite, c'est lire entre les lignes :**
+
+    | Ce qui est écrit | Ce que ça veut dire (implicite) |
+    |------------------|--------------------------------|
+    | « Sympa ta coupe... » | Peut-être une moquerie |
+    | « Tu as fait ça tout seul ? » | Doute sur tes capacités |
+    | « C'est... original » | Pas vraiment un compliment |
+    | « On verra » | Probablement non |
+
+!!! warning "La méthode QQOQCP pour comprendre une vidéo ou un article"
+
+    **Avant de croire une info, pose-toi ces questions :**
+
+    - **Q**ui ? → Qui a écrit/dit ça ? (source fiable ?)
+    - **Q**uoi ? → De quoi ça parle exactement ?
+    - **O**ù ? → Où ça se passe ?
+    - **Q**uand ? → C'est récent ou ancien ?
+    - **C**omment ? → Comment on le sait ? (preuves ?)
+    - **P**ourquoi ? → Pourquoi cette info est diffusée ? (intention ?)
+
+    **Ça t'aide à repérer les fake news !**
+
+!!! example "Les indices dans les récits de jeux vidéo"
+
+    Dans un jeu, tu utilises déjà les inférences sans le savoir :
+
+    | Ce que tu vois | Ce que tu comprends |
+    |----------------|---------------------|
+    | Musique stressante | Danger proche |
+    | Écran qui tremble | Tu prends des dégâts |
+    | PNJ qui fuit | Ennemi puissant arrive |
+    | Coffre brillant | Récompense rare dedans |
+
+    **C'est exactement pareil avec un texte écrit !**
+
+---
+
 ## Leçon 1 : Les types de textes
 
 ### Les 5 grands types

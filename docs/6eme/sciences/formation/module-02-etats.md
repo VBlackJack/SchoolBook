@@ -12,6 +12,76 @@
 
 ---
 
+## 🎮 Dans la vraie vie : les états de la matière au quotidien
+
+!!! tip "Tu observes les changements d'état tous les jours !"
+
+    **Dans ta cuisine :**
+
+    | Observation | Changement d'état |
+    |-------------|-------------------|
+    | Glaçons qui fondent | Fusion (solide → liquide) |
+    | Eau qui bout | Vaporisation (liquide → gaz) |
+    | Buée sur la vitre | Liquéfaction (gaz → liquide) |
+    | Givre dans le congélateur | Solidification (liquide → solide) |
+
+    **Dehors :**
+
+    | Observation | Changement d'état |
+    |-------------|-------------------|
+    | Neige qui fond | Fusion |
+    | Rosée du matin | Liquéfaction |
+    | Flaques qui sèchent | Évaporation |
+    | Verglas sur la route | Solidification |
+
+!!! example "Les états de la matière dans les jeux"
+
+    **Dans Minecraft :**
+
+    - **Eau** → Coule, forme des lacs (liquide)
+    - **Glace** → On peut marcher dessus (solide)
+    - **Lave** → Coule aussi (liquide très chaud !)
+
+    **L'eau peut se transformer en glace si tu la mets dans un biome neigeux !**
+
+    **Dans Pokémon :**
+
+    - Types **Glace** → Attaques de solidification
+    - Types **Eau** → État liquide
+    - Types **Feu** → Provoquent la vaporisation
+
+!!! warning "Les températures clés de l'eau"
+
+    ```
+    ─────────────────────────────────────────────────►
+    -50°C    0°C            100°C          200°C
+      │       │               │               │
+      │   FUSION          ÉBULLITION          │
+      │   glace→eau       eau→vapeur          │
+      │       │               │               │
+    ◄─────────┼───────────────┼───────────────►
+      GLACE   │     EAU       │    VAPEUR
+     SOLIDE   │   LIQUIDE     │      GAZ
+    ```
+
+    **À retenir :**
+
+    - 0°C = l'eau gèle (ou fond)
+    - 100°C = l'eau bout (à pression normale)
+
+!!! example "Le cycle de l'eau dans la nature"
+
+    **Tu l'observes tout le temps :**
+
+    1. **Évaporation** : Le soleil chauffe les océans → l'eau s'évapore
+    2. **Condensation** : La vapeur refroidit en altitude → nuages
+    3. **Précipitations** : Pluie, neige, grêle
+    4. **Ruissellement** : L'eau retourne vers la mer
+
+    **Et ça recommence à l'infini depuis des milliards d'années !**
+
+---
+
 ## Introduction
 
 !!! question "Problématique"
