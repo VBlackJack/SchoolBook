@@ -217,19 +217,19 @@
 !!! info "Structure en arbre"
     Les dossiers sont organisés en **arborescence** (comme un arbre) :
 
-    ```
-    C:\
-    ├── Utilisateurs
-    │   └── Thomas
-    │       ├── Documents
-    │       │   ├── Collège
-    │       │   │   ├── Français
-    │       │   │   └── Maths
-    │       │   └── Personnel
-    │       ├── Images
-    │       ├── Musique
-    │       └── Vidéos
-    └── Program Files
+    ```mermaid
+    graph TD
+        C["C:\"] --> U["Utilisateurs"]
+        C --> PF["Program Files"]
+        U --> T["Thomas"]
+        T --> D["Documents"]
+        T --> I["Images"]
+        T --> M["Musique"]
+        T --> V["Vidéos"]
+        D --> COL["Collège"]
+        D --> P["Personnel"]
+        COL --> FR["Français"]
+        COL --> MA["Maths"]
     ```
 
 ### Le chemin d'accès

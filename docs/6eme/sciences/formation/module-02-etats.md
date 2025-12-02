@@ -282,29 +282,14 @@ La matière peut exister sous trois formes différentes appelées **états**. L'
 !!! success "À retenir"
     Un **changement d'état** est le passage d'un état à un autre. Il se produit à une **température précise** et nécessite un **apport ou une perte de chaleur**.
 
-```
-    LES CHANGEMENTS D'ÉTAT
-
-                        SUBLIMATION
-              ┌──────────────────────────────┐
-              │                              │
-              │                              ▼
-         ┌────┴────┐    FUSION          ┌─────────┐
-         │         │ ────────────────►  │         │
-         │ SOLIDE  │                    │ LIQUIDE │
-         │         │ ◄────────────────  │         │
-         └────┬────┘  SOLIDIFICATION    └────┬────┘
-              │                              │
-              │                              │
-              │      CONDENSATION            │
-              │    ◄─────────────────        │
-              │                     │        │
-              ▼                     │        ▼
-         ┌─────────┐           ┌────┴────┐
-         │         │           │         │
-         │   GAZ   │◄──────────│ LIQUIDE │
-         │         │VAPORISATION         │
-         └─────────┘           └─────────┘
+```mermaid
+flowchart LR
+    S[SOLIDE] -->|Fusion| L[LIQUIDE]
+    L -->|Solidification| S
+    L -->|Vaporisation| G[GAZ]
+    G -->|Condensation| L
+    S -->|Sublimation| G
+    G -->|Condensation solide| S
 ```
 
 ### 2.2 Les six changements d'état
@@ -369,22 +354,14 @@ La matière peut exister sous trois formes différentes appelées **états**. L'
 !!! success "À retenir"
     L'eau sur Terre se transforme en permanence selon le **cycle de l'eau**. Elle passe par les trois états grâce à l'énergie du Soleil.
 
-```
-    LE CYCLE DE L'EAU
-
-                    ☀️ Soleil (énergie)
-                         │
-                         ▼
-    ☁️ Nuages ◄───── ÉVAPORATION ◄───── 🌊 Mers/Océans
-        │                                    ▲
-        │ CONDENSATION                       │
-        │ (gouttes d'eau)                    │
-        ▼                                    │
-    🌧️ Pluie ───► 🏔️ Montagnes              │
-        │              │                     │
-        │              │ RUISSELLEMENT       │
-        │              ▼                     │
-        └────────► 🏞️ Rivières ─────────────┘
+```mermaid
+flowchart TD
+    SOL[☀️ Soleil] -->|Énergie| MER[🌊 Mers/Océans]
+    MER -->|Évaporation| NUAGE[☁️ Nuages]
+    NUAGE -->|Condensation| PLUIE[🌧️ Précipitations]
+    PLUIE --> MONT[🏔️ Montagnes]
+    MONT -->|Ruissellement| RIV[🏞️ Rivières]
+    RIV --> MER
 ```
 
 ### 3.2 Les étapes du cycle

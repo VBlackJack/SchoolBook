@@ -435,21 +435,12 @@ Les premiers agriculteurs ont inventé de nouveaux outils :
 
     **Le cercle vertueux de la sédentarisation :**
 
-    ```
-    Sédentarisation
-         │
-         ▼
-    Plus de temps libre (pas de déplacement)
-         │
-         ▼
-    Spécialisation des métiers
-    (certains font de la poterie, d'autres tissent...)
-         │
-         ▼
-    Inventions et perfectionnement
-         │
-         ▼
-    Meilleure qualité de vie
+    ```mermaid
+    flowchart TD
+        A["Sédentarisation"] --> B["Plus de temps libre<br>(pas de déplacement)"]
+        B --> C["Spécialisation des métiers<br>(poterie, tissage...)"]
+        C --> D["Inventions et perfectionnement"]
+        D --> E["Meilleure qualité de vie"]
     ```
 
 ```
@@ -484,25 +475,14 @@ La vie sédentaire apporte aussi des difficultés :
 
 La révolution néolithique s'est **diffusée** progressivement depuis le Proche-Orient :
 
+```mermaid
+flowchart TD
+    A["-10 000 : Proche-Orient<br>(Croissant fertile)"] --> B["-7 000 : Grèce, Balkans"]
+    B --> C["-6 000 : Méditerranée<br>(Italie, France du Sud)"]
+    C --> D["-5 000 : Europe centrale,<br>atlantique"]
+    D --> E["-4 000 : Nord de l'Europe,<br>îles britanniques"]
 ```
-    DIFFUSION DU NÉOLITHIQUE EN EUROPE
-
-    -10 000 : Proche-Orient (Croissant fertile)
-         │
-         ▼
-    -7 000 : Grèce, Balkans
-         │
-         ▼
-    -6 000 : Méditerranée (Italie, France du Sud)
-         │
-         ▼
-    -5 000 : Europe centrale, atlantique
-         │
-         ▼
-    -4 000 : Nord de l'Europe, îles britanniques
-
-    Vitesse moyenne : environ 1 km par an !
-```
+*Vitesse moyenne : environ 1 km par an !*
 
 ### 6.2 Monuments mégalithiques
 

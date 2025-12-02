@@ -243,51 +243,39 @@
     Une **chaîne alimentaire** montre "qui mange qui" dans un écosystème.
     Elle commence toujours par un **végétal** (producteur).
 
+```mermaid
+flowchart LR
+    H["🌿 Herbe<br>PRODUCTEUR"] --> C["🐛 Chenille<br>Consommateur 1"]
+    C --> M["🐦 Mésange<br>Consommateur 2"]
+    M --> E["🦅 Épervier<br>Consommateur 3"]
 ```
-    CHAÎNE ALIMENTAIRE (exemple forêt)
-
-    🌿 Herbe  →  🐛 Chenille  →  🐦 Mésange  →  🦅 Épervier
-       │            │               │               │
-    PRODUCTEUR   CONSOMMATEUR   CONSOMMATEUR   CONSOMMATEUR
-    (végétal)    1er ordre      2ème ordre     3ème ordre
-                 (herbivore)    (carnivore)    (carnivore)
-
-    → signifie "est mangé par"
-```
+*→ signifie "est mangé par"*
 
 ### 2.2 Le réseau alimentaire
 
+```mermaid
+flowchart BT
+    V["🌿 Végétaux"] --> CH["🐛 Chenille"]
+    V --> GR["🐸 Grenouille"]
+    CH --> OI["🐦 Oiseau"]
+    CH --> SE["🐍 Serpent"]
+    GR --> SE
+    OI --> RA["🦅 Rapace"]
+    SE --> RA
 ```
-    RÉSEAU ALIMENTAIRE (simplifié)
-
-                    🦅 Rapace
-                   ╱    ╲
-                  ╱      ╲
-           🐦 Oiseau    🐍 Serpent
-              ╱  ╲        ╱
-             ╱    ╲      ╱
-         🐛 Chenille  🐸 Grenouille
-             ╲       ╱
-              ╲     ╱
-            🌿 Végétaux
-
-    Plusieurs chaînes interconnectées = réseau
-```
+*Plusieurs chaînes interconnectées = réseau*
 
 ### 2.3 Les décomposeurs
 
 !!! success "À retenir"
     Les **décomposeurs** (bactéries, champignons, vers) transforment la matière organique morte en matière minérale, réutilisable par les végétaux.
 
-```
-    LE CYCLE DE LA MATIÈRE
-
-         🌿 Végétaux
-            ↑
-    Sels minéraux
-            ↑
-    🍄 DÉCOMPOSEURS ← 💀 Matière morte
-    (recyclent tout !)   (feuilles, cadavres)
+```mermaid
+flowchart LR
+    MM["💀 Matière morte<br>(feuilles, cadavres)"] --> D["🍄 DÉCOMPOSEURS<br>(recyclent tout)"]
+    D --> SM["Sels minéraux"]
+    SM --> V["🌿 Végétaux"]
+    V --> MM
 ```
 
 ---
@@ -391,19 +379,13 @@
 !!! success "À retenir"
     Le **développement durable** répond aux besoins du présent sans compromettre la capacité des générations futures à répondre aux leurs.
 
+```mermaid
+flowchart TD
+    DD[DÉVELOPPEMENT DURABLE] --> E["🌍 ÉCOLOGIE<br>Protéger l'environnement"]
+    DD --> S["👥 SOCIAL<br>Bien-être de tous"]
+    DD --> EC["💰 ÉCONOMIE<br>Prospérité partagée"]
 ```
-    LES 3 PILIERS DU DÉVELOPPEMENT DURABLE
-
-              DÉVELOPPEMENT DURABLE
-                      │
-         ┌────────────┼────────────┐
-         │            │            │
-    🌍 ÉCOLOGIE   👥 SOCIAL    💰 ÉCONOMIE
-    Protéger      Bien-être    Prospérité
-    l'environnement  de tous     partagée
-
-    Les 3 doivent être en ÉQUILIBRE
-```
+*Les 3 doivent être en ÉQUILIBRE*
 
 ### 5.2 Exemples concrets
 

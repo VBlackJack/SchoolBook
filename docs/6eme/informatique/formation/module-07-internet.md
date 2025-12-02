@@ -103,24 +103,19 @@
     **Web** = les sites web qu'on consulte via Internet
 
 !!! example "Analogie : La route et les voitures 🛣️"
+    ```mermaid
+    graph LR
+        subgraph INTERNET["🛣️ INTERNET = Les routes"]
+            A["🏠 Maison"] ---|Câbles & serveurs| B["🏢 Entreprise"]
+        end
+        subgraph WEB["🚗 WEB = Les voitures"]
+            C["Sites web qui circulent sur ces câbles"]
+        end
+        INTERNET --> WEB
     ```
-    INTERNET = LES ROUTES                    WEB = LES VOITURES
-    ═══════════════════                      ═══════════════════
 
-    ┌─────────────────────────────────────────────────────────┐
-    │                                                         │
-    │     🏠 ─────────🛣️─────────── 🏢                       │
-    │      │                        │                         │
-    │      │    Les CÂBLES et       │   Les SITES WEB        │
-    │      │    SERVEURS qui        │   qui circulent        │
-    │      │    permettent la       │   sur ces câbles       │
-    │      │    connexion           │                         │
-    │      │         🚗 🚙 🚕       │                         │
-    │                                                         │
-    │   Internet existe sans le Web (emails, jeux...)        │
-    │   Le Web a BESOIN d'Internet pour fonctionner          │
-    └─────────────────────────────────────────────────────────┘
-    ```
+    - Internet existe sans le Web (emails, jeux...)
+    - Le Web a BESOIN d'Internet pour fonctionner
 
 ### Les services d'Internet
 

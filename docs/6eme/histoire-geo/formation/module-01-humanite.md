@@ -194,15 +194,10 @@ L'être humain a évolué progressivement sur des millions d'années :
     - On ne descend pas DU singe, mais on a un ancêtre COMMUN
     - C'était il y a environ 7 millions d'années
 
-    ```
-    Ancêtre commun (il y a 7 Ma)
-              │
-       ┌──────┴──────┐
-       │             │
-       ▼             ▼
-    Branche      Branche
-    des singes   des humains
-    actuels      actuels
+    ```mermaid
+    flowchart TD
+        A["Ancêtre commun<br>(il y a 7 Ma)"] --> B["Branche des singes actuels"]
+        A --> C["Branche des humains actuels"]
     ```
 
     ---
@@ -345,25 +340,14 @@ Le feu permet de :
 !!! success "À retenir"
     Partis d'Afrique, les humains ont progressivement peuplé **tous les continents** en migrant pendant des centaines de milliers d'années.
 
-```
-    MIGRATIONS HUMAINES (Homo sapiens)
-
-                         EUROPE
-                        -45 000
-                           ↑
-                           │
-         ASIE ←────── AFRIQUE ─────→ PROCHE-
-        -70 000       (départ)        ORIENT
-           │                          -100 000
-           │
-           ▼
-        OCÉANIE                    AMÉRIQUES
-        -50 000                    -15 000
-                                      ↑
-                                      │
-                                   (via le
-                                   détroit de
-                                   Béring gelé)
+```mermaid
+flowchart TD
+    AF["🌍 AFRIQUE<br>(départ)"] --> PO["Proche-Orient<br>-100 000"]
+    AF --> AS["ASIE<br>-70 000"]
+    PO --> EU["EUROPE<br>-45 000"]
+    AS --> OC["OCÉANIE<br>-50 000"]
+    AS --> AM["AMÉRIQUES<br>-15 000"]
+    AM -.-|"via Béring gelé"| AS
 ```
 
 ### 3.2 L'adaptation aux environnements

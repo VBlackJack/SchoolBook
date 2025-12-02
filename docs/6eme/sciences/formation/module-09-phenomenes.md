@@ -341,20 +341,12 @@
 
 ### 4.2 Le cycle de l'eau
 
-```
-    LE CYCLE DE L'EAU
-
-         ☁️☁️☁️ NUAGES
-         ↗️        ↓
-    ÉVAPORATION    PRÉCIPITATIONS
-         ↑         ↓ (pluie, neige)
-     ☀️  │         ↓
-    ═══════════════════════
-      🌊 MER      🏔️ MONTAGNES
-                    ↓
-              RUISSELLEMENT
-                    ↓
-              🌊 RIVIÈRES → MER
+```mermaid
+flowchart TD
+    MER[🌊 Mer] -->|Évaporation ☀️| NUAGE[☁️ Nuages]
+    NUAGE -->|Précipitations| MONT[🏔️ Montagnes]
+    MONT -->|Ruissellement| RIV[🌊 Rivières]
+    RIV --> MER
 ```
 
 ### 4.3 Phénomènes météo extrêmes
