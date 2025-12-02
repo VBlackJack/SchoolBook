@@ -1,0 +1,147 @@
+/* SchoolBook - Custom Styles */
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background: linear-gradient(135deg, var(--md-primary-fg-color) 0%, var(--md-accent-fg-color) 100%);
+    border-radius: 1rem;
+    color: white;
+}
+
+.hero h2 {
+    color: white !important;
+    margin-bottom: 0.5rem;
+}
+
+.hero p {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 1.2rem;
+}
+
+.hero .md-button {
+    margin: 0.5rem;
+}
+
+.hero .md-button--primary {
+    background-color: white;
+    color: var(--md-primary-fg-color);
+    border-color: white;
+}
+
+.hero .md-button--primary:hover {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+/* Grid Cards Enhancement */
+.grid.cards > ul > li {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.grid.cards > ul > li:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+/* Icons in cards */
+.grid.cards .lg {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Footer note */
+.footer-note {
+    text-align: center;
+    padding: 2rem;
+    margin-top: 2rem;
+    border-top: 1px solid var(--md-default-fg-color--lightest);
+    font-style: italic;
+    color: var(--md-default-fg-color--light);
+}
+
+/* Statistics table centered */
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+    padding: 0.75rem 1rem;
+}
+
+/* Admonition tabs */
+.md-typeset .tabbed-set {
+    margin-top: 1rem;
+}
+
+/* ASCII art blocks */
+.md-typeset pre > code {
+    font-size: 0.75rem;
+    line-height: 1.4;
+}
+
+/* Button improvements */
+.md-button {
+    margin: 0.25rem;
+}
+
+/* Module navigation buttons */
+.md-typeset .md-button--primary {
+    font-weight: 600;
+}
+
+/* Warning boxes for "Pièges à éviter" */
+.md-typeset .admonition.warning,
+.md-typeset details.warning {
+    border-left-width: 4px;
+}
+
+/* Tip boxes for "Explications alternatives" */
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+    border-left-width: 4px;
+}
+
+/* Abstract boxes for "Exemples concrets" */
+.md-typeset .admonition.abstract,
+.md-typeset details.abstract {
+    border-left-width: 4px;
+}
+
+/* Tables with emojis */
+.md-typeset table th,
+.md-typeset table td {
+    vertical-align: middle;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 76.1875em) {
+    .hero {
+        padding: 1.5rem 1rem;
+    }
+
+    .hero h2 {
+        font-size: 1.5rem;
+    }
+}
+
+/* Dark mode adjustments */
+[data-md-color-scheme="slate"] .hero {
+    background: linear-gradient(135deg, var(--md-primary-fg-color) 0%, var(--md-accent-fg-color) 100%);
+}
+
+[data-md-color-scheme="slate"] .hero .md-button--primary {
+    background-color: var(--md-default-bg-color);
+    color: var(--md-primary-fg-color);
+}
+
+/* Print styles */
+@media print {
+    .hero {
+        background: none;
+        color: black;
+        border: 2px solid black;
+    }
+
+    .hero h2,
+    .hero p {
+        color: black !important;
+    }
+}

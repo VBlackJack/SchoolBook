@@ -37,6 +37,9 @@ theme:
   icon:
     logo: material/school
 
+extra_css:
+  - stylesheets/extra.css
+
 plugins:
   - search:
       lang: fr
