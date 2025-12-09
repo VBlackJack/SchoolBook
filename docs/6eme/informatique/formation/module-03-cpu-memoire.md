@@ -87,22 +87,10 @@
     - **8 cœurs** = 8 tâches en parallèle
 
 !!! example "Analogie : La cuisine ! 👨‍🍳"
-    Imagine une cuisine :
+    ![Cœurs CPU = Cuisiniers](../../../assets/images/informatique/cpu-coeurs-cuisine.jpeg){ loading=lazy }
 
-    - **1 cœur** = 1 cuisinier
-    - **8 cœurs** = 8 cuisiniers travaillant ensemble
-
-    Plus il y a de cuisiniers, plus on peut préparer de plats en même temps !
-
-    ```
-    1 CŒUR (1 cuisinier)              8 CŒURS (8 cuisiniers)
-    ┌─────────────────────┐           ┌─────────────────────┐
-    │  👨‍🍳                  │           │ 👨‍🍳👨‍🍳👨‍🍳👨‍🍳           │
-    │  🍳                  │           │ 👨‍🍳👨‍🍳👨‍🍳👨‍🍳           │
-    │                     │           │ 🍳🍳🍳🍳🍳🍳🍳🍳      │
-    │  1 plat à la fois   │           │ 8 plats en même temps│
-    └─────────────────────┘           └─────────────────────┘
-    ```
+    - **1 cœur** = 1 cuisinier → 1 plat à la fois
+    - **8 cœurs** = 8 cuisiniers → 8 plats en même temps !
 
 ### Les grandes marques
 
@@ -158,27 +146,7 @@
     | **HDD** | ⚡ | To | Oui | € |
 
 !!! example "La pyramide des mémoires 🏔️"
-    ```
-    Plus RAPIDE mais PETIT                    Plus LENT mais GRAND
-           ▲                                         ▼
-           │    ┌─────┐                              │
-           │    │Cache│ ← Hyper rapide (dans le CPU) │
-           │    │ 🏃💨 │   Quelques Mo                │
-           │    └──┬──┘                              │
-           │  ┌────┴────┐                            │
-           │  │   RAM   │ ← Rapide                   │
-           │  │   🚗    │   8-32 Go                  │
-           │  └────┬────┘                            │
-           │ ┌─────┴─────┐                           │
-           │ │    SSD    │ ← Assez rapide            │
-           │ │    🚲     │   256 Go - 2 To           │
-           │ └─────┬─────┘                           │
-           │┌──────┴──────┐                          │
-           ││    HDD     │ ← Lent mais énorme        │
-           ││    🐢      │   1-4 To                  │
-           │└────────────┘                           │
-           ▼                                         ▲
-    ```
+    ![Hiérarchie de la mémoire](../../../assets/images/informatique/memoire-hierarchie.jpeg){ loading=lazy }
 
 ### Mémoire volatile vs non-volatile
 
@@ -213,30 +181,12 @@
     3. C'est beaucoup plus rapide que d'aller chercher sur le disque !
 
 !!! example "Analogie : Ton bureau de travail ! 📚"
-    Imagine que tu fais tes devoirs :
+    ![RAM = Bureau de travail](../../../assets/images/informatique/ram-bureau-analogie.jpeg){ loading=lazy }
 
     - **Disque dur** = ton armoire de rangement (grande, mais loin)
     - **RAM** = ton bureau (plus petit, mais tout est à portée de main)
 
-    Tu sors tes cahiers de l'armoire et tu les poses sur le bureau pour travailler !
-
-    ```
-    ┌─────────────────────────────────────────────────────────────────┐
-    │  TA CHAMBRE                                                     │
-    │                                                                 │
-    │   🗄️ ARMOIRE (Disque dur)         📝 BUREAU (RAM)               │
-    │   ┌─────────────┐                 ┌─────────────────┐           │
-    │   │ 📚📚📚📚📚 │                 │  📖 📓 ✏️       │           │
-    │   │ 📚📚📚📚📚 │  ──Sortir──▶   │  Tes devoirs    │           │
-    │   │ 📚📚📚📚📚 │   un livre     │  en cours !     │           │
-    │   │ BEAUCOUP   │                 │  (Plus rapide)  │           │
-    │   │ de livres  │  ◀──Ranger──   │                 │           │
-    │   └─────────────┘                 └─────────────────┘           │
-    │                                                                 │
-    │   💡 Quand tu éteins la lumière, le bureau est "vidé"          │
-    │      (tu ranges tout), mais l'armoire garde tes affaires !     │
-    └─────────────────────────────────────────────────────────────────┘
-    ```
+    💡 Quand tu éteins l'ordi, le bureau est "vidé", mais l'armoire garde tes fichiers !
 
 ### Combien de RAM faut-il ?
 
@@ -376,20 +326,9 @@
     C'est pour ça qu'il faut des composants **équilibrés** !
 
 !!! example "🚰 Le goulot d'étranglement, c'est comme une bouteille d'eau !"
-    Imagine que tu veux vider une bouteille d'eau le plus vite possible :
+    ![Bottleneck - Goulot d'étranglement](../../../assets/images/informatique/bottleneck-goulot.jpeg){ loading=lazy }
 
-    ```
-    La bouteille (1,5L)    Le goulot (petit trou)    L'eau qui sort
-         ┌───┐                    │                      💧
-         │   │                    ▼                      💧
-         │💧💧│               ┌───────┐                  💧
-         │💧💧│   ──────▶     │   ○   │   ──────▶       💧
-         │💧💧│               └───────┘                  💧
-         └───┘                                          💧
-
-    Même si la bouteille est ÉNORME, l'eau sort lentement
-    à cause du petit goulot !
-    ```
+    Même si la bouteille est ÉNORME, l'eau sort lentement à cause du petit goulot !
 
     **Dans ton PC, c'est pareil :**
 

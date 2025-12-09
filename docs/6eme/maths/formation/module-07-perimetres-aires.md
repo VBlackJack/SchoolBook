@@ -63,17 +63,10 @@
     | **Aire** | Surface à l'intérieur | cm², m², km²... | L'intérieur |
 
 !!! example "Analogie de la piscine"
-    ```
-    ┌────────────────────┐
-    │~~~~~~~~~~~~~~~~~~~~│
-    │~~~~~~~~~~~~~~~~~~~~│
-    │~~~~~~~~~~~~~~~~~~~~│
-    │~~~~~~~~~~~~~~~~~~~~│
-    └────────────────────┘
+    ![Périmètre vs Aire : analogie de la piscine](../../../assets/images/maths/maths-perimetre-aire-piscine.jpeg){ loading=lazy }
 
-    Périmètre = le tour de la piscine (pour faire le ménage du bord)
-    Aire = la surface de l'eau (pour savoir combien de litres d'eau)
-    ```
+    Périmètre = le tour de la piscine (pour le ménage du bord)
+    Aire = la surface de l'eau (combien de litres d'eau)
 
 !!! tip "Astuce mémo"
     - **Périmètre** → **P**our marcher autour (le **P**arcours)
@@ -161,15 +154,9 @@
     $$P_{carré} = 4 \times côté = 4c$$
 
 !!! example "Exemple : carré de côté 5 cm"
-    ```
-        5 cm
-      ┌──────┐
-      │      │ 5 cm
-      │      │
-      └──────┘
+    ![Périmètre du carré](../../../assets/images/maths/maths-carre-perimetre.jpeg){ loading=lazy }
 
-    P = 4 × 5 = 20 cm
-    ```
+    P = 4 × 5 = **20 cm**
 
 ### Périmètre du rectangle
 
@@ -177,14 +164,9 @@
     $$P_{rectangle} = 2 \times (Longueur + largeur) = 2(L + l)$$
 
 !!! example "Exemple : rectangle 8 cm × 3 cm"
-    ```
-           8 cm
-      ┌──────────┐
-      │          │ 3 cm
-      └──────────┘
+    ![Périmètre du rectangle](../../../assets/images/maths/maths-rectangle-perimetre.jpeg){ loading=lazy }
 
-    P = 2 × (8 + 3) = 2 × 11 = 22 cm
-    ```
+    P = 2 × (8 + 3) = 2 × 11 = **22 cm**
 
 !!! tip "Astuce mémo"
     **"Deux L et deux l, c'est le tour du rectangle !"**
@@ -244,21 +226,9 @@
     $$A_{carré} = côté \times côté = c^2$$
 
 !!! example "Exemple : carré de côté 4 cm"
-    ```
-        4 cm
-      ┌────┬────┬────┬────┐
-      │    │    │    │    │
-      ├────┼────┼────┼────┤
-      │    │    │    │    │ 4 cm
-      ├────┼────┼────┼────┤
-      │    │    │    │    │
-      ├────┼────┼────┼────┤
-      │    │    │    │    │
-      └────┴────┴────┴────┘
+    ![Aire du carré](../../../assets/images/maths/maths-carre-aire.jpeg){ loading=lazy }
 
-    A = 4 × 4 = 16 cm²
-    On compte bien 16 petits carrés de 1 cm² !
-    ```
+    A = 4 × 4 = **16 cm²** (on compte 16 petits carrés de 1 cm²)
 
 ### Aire du rectangle
 
@@ -266,19 +236,9 @@
     $$A_{rectangle} = Longueur \times largeur = L \times l$$
 
 !!! example "Exemple : rectangle 6 cm × 3 cm"
-    ```
-           6 cm
-      ┌──┬──┬──┬──┬──┬──┐
-      │  │  │  │  │  │  │
-      ├──┼──┼──┼──┼──┼──┤ 3 cm
-      │  │  │  │  │  │  │
-      ├──┼──┼──┼──┼──┼──┤
-      │  │  │  │  │  │  │
-      └──┴──┴──┴──┴──┴──┘
+    ![Aire du rectangle](../../../assets/images/maths/maths-rectangle-aire.jpeg){ loading=lazy }
 
-    A = 6 × 3 = 18 cm²
-    On compte bien 18 petits carrés de 1 cm² !
-    ```
+    A = 6 × 3 = **18 cm²** (on compte 18 petits carrés de 1 cm²)
 
 ### Tableau récapitulatif
 
@@ -338,34 +298,16 @@
     qui va du sommet opposé à la base.
 
 !!! example "Visualisation"
-    ```
-            * sommet
-           /|\
-          / | \    hauteur = h
-         /  |  \   (perpendiculaire à la base)
-        /   |   \
-       /___|___\_
-         base = b
+    ![Triangle : base et hauteur](../../../assets/images/maths/maths-triangle-hauteur.jpeg){ loading=lazy }
 
-    A = (b × h) ÷ 2
-    ```
+    A = (base × hauteur) ÷ 2
 
 ### Pourquoi diviser par 2 ?
 
 !!! example "Le triangle = la moitié du rectangle"
-    ```
-    ┌─────────────┐
-    │╲            │
-    │  ╲          │    Le rectangle a pour aire b × h
-    │    ╲        │
-    │      ╲      │    Le triangle prend exactement
-    │        ╲    │    la moitié du rectangle
-    │          ╲  │
-    │            ╲│
-    └─────────────┘
+    ![Triangle = moitié du rectangle](../../../assets/images/maths/maths-triangle-rectangle.jpeg){ loading=lazy }
 
-    A_triangle = (b × h) ÷ 2
-    ```
+    Le triangle prend exactement la moitié du rectangle → A = (b × h) ÷ 2
 
 !!! example "Exemple : triangle base 8 cm, hauteur 5 cm"
     A = (8 × 5) ÷ 2 = 40 ÷ 2 = **20 cm²**

@@ -172,16 +172,7 @@
 
     **Les plantes ont une "armure" (paroi) et des "panneaux solaires" (chloroplastes) !**
 
-```
-    LA CELLULE : UNITÉ DU VIVANT
-
-    Tous les êtres vivants sont constitués de cellules :
-
-    🦠 BACTÉRIE         1 cellule (unicellulaire)
-    🌿 PLANTE           Des milliards de cellules
-    🐕 CHIEN            Des milliers de milliards
-    🧑 HUMAIN           ~37 000 milliards de cellules !
-```
+![La cellule : unité du vivant](../../../assets/images/sciences/cellule-unite-vivant.jpeg){ loading=lazy }
 
 ### 1.2 Observer les cellules
 
@@ -202,23 +193,7 @@ Taille moyenne d'une cellule : 10 à 100 micromètres (μm)
     - Un **cytoplasme** (liquide intérieur)
     - Un **noyau** (contient l'ADN)
 
-```
-    SCHÉMA D'UNE CELLULE ANIMALE
-
-    ┌────────────────────────────────────┐
-    │          Membrane plasmique        │
-    │  ┌──────────────────────────────┐  │
-    │  │                              │  │
-    │  │      Cytoplasme              │  │
-    │  │                              │  │
-    │  │      ┌────────┐              │  │
-    │  │      │ Noyau  │              │  │
-    │  │      │ (ADN)  │              │  │
-    │  │      └────────┘              │  │
-    │  │                              │  │
-    │  └──────────────────────────────┘  │
-    └────────────────────────────────────┘
-```
+![Schéma d'une cellule animale](../../../assets/images/sciences/cellule-animale-schema.jpeg){ loading=lazy }
 
 ### 2.2 Rôle de chaque constituant
 
@@ -240,23 +215,7 @@ Taille moyenne d'une cellule : 10 à 100 micromètres (μm)
     - Des **chloroplastes** (photosynthèse)
     - Une grande **vacuole**
 
-```
-    CELLULE ANIMALE             CELLULE VÉGÉTALE
-
-    ┌──────────────┐           ═══════════════════ Paroi
-    │              │           ║                 ║
-    │  ┌────┐      │           ║  ┌────┐   🟢   ║ Chloroplaste
-    │  │Noyau│     │           ║  │Noyau│        ║
-    │  └────┘      │           ║  └────┘        ║
-    │              │           ║  ┌──────────┐  ║
-    │              │           ║  │ Vacuole  │  ║
-    │              │           ║  └──────────┘  ║
-    └──────────────┘           ═══════════════════
-
-    • Membrane                 • Paroi + Membrane
-    • Pas de paroi             • Chloroplastes (verts)
-    • Pas de chloroplastes     • Grande vacuole
-```
+![Comparaison cellule animale vs végétale](../../../assets/images/sciences/cellule-comparaison.jpeg){ loading=lazy }
 
 ### 3.2 Tableau comparatif
 

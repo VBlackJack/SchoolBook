@@ -146,16 +146,7 @@ graph LR
     Aujourd'hui, ton smartphone est **des millions de fois** plus puissant !
 
 !!! tip "Compare la taille ! 📏"
-    ```
-    ENIAC (1945)                          Smartphone (aujourd'hui)
-    ┌────────────────────────────┐        ┌─────┐
-    │                            │        │     │
-    │   167 m² = un appartement  │        │ 📱  │  ← Des millions de fois
-    │   30 tonnes                │   VS   │     │    plus puissant !
-    │   🏠🏠🏠🏠🏠🏠🏠🏠🏠🏠    │        │     │
-    │                            │        └─────┘
-    └────────────────────────────┘         ~150g
-    ```
+    ![ENIAC vs Smartphone](../../../assets/images/informatique/eniac-vs-smartphone.jpeg){ loading=lazy }
 
     C'est comme comparer un **dinosaure** à une **fourmi super-intelligente** ! 🦕 → 🐜
 

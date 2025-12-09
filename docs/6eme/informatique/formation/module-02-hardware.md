@@ -206,21 +206,7 @@ graph TD
     - **Périphériques d'entrée/sortie** : font les deux
 
 !!! example "Visualise les flux de données ! 🔄"
-    ```
-    ENTRÉE (vers l'ordi)           SORTIE (depuis l'ordi)
-    ─────────────────────          ─────────────────────
-          ⌨️ Clavier ──────┐    ┌────── 🖥️ Écran
-          🖱️ Souris ───────┤    │
-          🎤 Micro ────────┼──▶ 💻 ──▶├────── 🔊 Haut-parleurs
-          📷 Webcam ───────┤    │      │
-          🎮 Manette ──────┘    └────── 🖨️ Imprimante
-
-
-    ENTRÉE/SORTIE (les deux sens)
-    ─────────────────────────────
-          💾 Clé USB ◀──────▶ 💻
-          🖥️ Écran tactile ◀──▶ 💻
-    ```
+    ![Flux Entrée/Sortie des périphériques](../../../assets/images/informatique/peripheriques-flux.jpeg){ loading=lazy }
 
 ### Périphériques d'entrée
 

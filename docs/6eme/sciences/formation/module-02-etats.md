@@ -51,18 +51,7 @@
     - Types **Feu** → Provoquent la vaporisation
 
 !!! warning "Les températures clés de l'eau"
-
-    ```
-    ─────────────────────────────────────────────────►
-    -50°C    0°C            100°C          200°C
-      │       │               │               │
-      │   FUSION          ÉBULLITION          │
-      │   glace→eau       eau→vapeur          │
-      │       │               │               │
-    ◄─────────┼───────────────┼───────────────►
-      GLACE   │     EAU       │    VAPEUR
-     SOLIDE   │   LIQUIDE     │      GAZ
-    ```
+    ![Thermomètre et changements d'état](../../../assets/images/sciences/etats-thermometre-changements.jpeg){ loading=lazy }
 
     **À retenir :**
 
@@ -143,20 +132,7 @@
 
 La matière peut exister sous trois formes différentes appelées **états**. L'eau est l'exemple parfait : glaçon (solide), eau du robinet (liquide), vapeur (gaz).
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                    LES TROIS ÉTATS DE L'EAU                         │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│       🧊                    💧                    💨                 │
-│     GLACE                  EAU                  VAPEUR              │
-│     SOLIDE               LIQUIDE                GAZ                 │
-│                                                                      │
-│   Température :       Température :        Température :            │
-│     < 0°C              0°C à 100°C            > 100°C               │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-```
+![Les trois états de l'eau](../../../assets/images/sciences/etats-trois-eau.jpeg){ loading=lazy }
 
 ---
 
@@ -203,65 +179,27 @@ La matière peut exister sous trois formes différentes appelées **états**. L'
     "Un liquide est **liquide** comme l'eau"
     "Un gaz **s'envole** comme l'air"
 
-```
-    L'ÉTAT SOLIDE
+![L'état solide et ses particules](../../../assets/images/sciences/etats-solide-particules.jpeg){ loading=lazy }
 
-    Caractéristiques :              À l'échelle des particules :
-    ┌─────────────────┐            ┌─────────────────┐
-    │                 │            │ ○○○○○○○○○○○○○○ │
-    │   Forme fixe    │            │ ○○○○○○○○○○○○○○ │
-    │   Volume fixe   │            │ ○○○○○○○○○○○○○○ │
-    │   Ne coule pas  │            │ ○○○○○○○○○○○○○○ │
-    │                 │            └─────────────────┘
-    └─────────────────┘
-                                   Particules serrées et ordonnées
-    Exemples : glace, pierre,      Elles vibrent sur place
-    bois, métal, sel
-```
+**Exemples :** glace, pierre, bois, métal, sel
 
 ### 1.2 L'état liquide
 
 !!! success "À retenir"
     À l'état **liquide**, la matière n'a **pas de forme propre** (elle prend la forme du récipient) mais a un **volume propre**. Elle coule.
 
-```
-    L'ÉTAT LIQUIDE
+![L'état liquide et ses particules](../../../assets/images/sciences/etats-liquide-particules.jpeg){ loading=lazy }
 
-    Caractéristiques :              À l'échelle des particules :
-    ┌─────────────────┐            ┌─────────────────┐
-    │                 │            │  ○  ○   ○  ○   │
-    │ Pas de forme    │            │ ○  ○  ○   ○ ○  │
-    │ propre          │            │  ○ ○  ○  ○  ○  │
-    │ Volume fixe     │            │ ○   ○ ○  ○   ○ │
-    │ Coule           │            └─────────────────┘
-    └─────────────────┘
-                                   Particules proches mais mobiles
-    Exemples : eau, huile,         Elles glissent les unes
-    lait, essence                  sur les autres
-```
+**Exemples :** eau, huile, lait, essence
 
 ### 1.3 L'état gazeux
 
 !!! success "À retenir"
     À l'état **gazeux**, la matière n'a **ni forme propre ni volume propre**. Elle occupe tout l'espace disponible. Les gaz sont souvent invisibles.
 
-```
-    L'ÉTAT GAZEUX
+![L'état gazeux et ses particules](../../../assets/images/sciences/etats-gaz-particules.jpeg){ loading=lazy }
 
-    Caractéristiques :              À l'échelle des particules :
-    ┌─────────────────┐            ┌─────────────────┐
-    │                 │            │ ○        ○      │
-    │ Pas de forme    │            │      ○       ○  │
-    │ propre          │            │   ○      ○      │
-    │ Pas de volume   │            │        ○     ○  │
-    │ propre          │            └─────────────────┘
-    │ Occupe tout     │
-    │ l'espace        │            Particules très espacées
-    └─────────────────┘            et très rapides
-                                   Elles s'entrechoquent
-    Exemples : air, vapeur
-    d'eau, CO₂, hélium
-```
+**Exemples :** air, vapeur d'eau, CO₂, hélium
 
 ### 1.4 Tableau récapitulatif
 
@@ -311,26 +249,7 @@ flowchart LR
     - **Fusion/Solidification** : **0°C**
     - **Vaporisation/Condensation** : **100°C**
 
-```
-    THERMOMÈTRE ET CHANGEMENTS D'ÉTAT (EAU)
-
-    °C
-    │
-    │ 100 ─────────── ÉBULLITION (vaporisation)
-    │                 Eau → Vapeur
-    │
-    │  │
-    │  │  LIQUIDE
-    │  │
-    │
-    │   0 ─────────── FUSION / SOLIDIFICATION
-    │                 Glace ↔ Eau
-    │
-    │  │
-    │  │  SOLIDE
-    │  │
-    └──────────────────────────────────────────
-```
+![Thermomètre et changements d'état de l'eau](../../../assets/images/sciences/etats-thermometre-changements.jpeg){ loading=lazy }
 
 ### 2.4 Énergie et changements d'état
 
@@ -338,12 +257,7 @@ flowchart LR
     - Pour **fondre** ou **s'évaporer**, il faut **apporter de la chaleur** (énergie)
     - Pour **se solidifier** ou **se condenser**, il faut **retirer de la chaleur**
 
-```
-    ÉNERGIE ET CHANGEMENTS D'ÉTAT
-
-    SOLIDE ──(+chaleur)──► LIQUIDE ──(+chaleur)──► GAZ
-           ◄──(-chaleur)──         ◄──(-chaleur)──
-```
+![Énergie et changements d'état](../../../assets/images/sciences/etats-energie-chaleur.jpeg){ loading=lazy }
 
 ---
 
