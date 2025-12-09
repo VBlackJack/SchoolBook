@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 280">
+  <!-- Titre -->
+  <text x="350" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="middle">Types de Mégalithes</text>
+
+  <!-- Menhir -->
+  <g transform="translate(50, 60)">
+    <rect x="0" y="0" width="180" height="200" rx="10" fill="#efebe9" stroke="#8d6e63" stroke-width="2"/>
+    <text x="90" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#5d4037" text-anchor="middle">MENHIR</text>
+
+    <!-- Dessin menhir -->
+    <g transform="translate(55, 45)">
+      <!-- Pierre dressée -->
+      <path d="M30,10 Q45,0 60,10 L65,130 Q50,140 40,140 L25,130 Z" fill="#9e9e9e" stroke="#757575" stroke-width="2"/>
+      <!-- Sol -->
+      <ellipse cx="45" cy="140" rx="50" ry="8" fill="#a1887f"/>
+    </g>
+
+    <text x="90" y="175" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Pierre dressée</text>
+    <text x="90" y="190" font-family="Arial, sans-serif" font-size="11" fill="#666" text-anchor="middle">(verticale, isolée)</text>
+  </g>
+
+  <!-- Dolmen -->
+  <g transform="translate(260, 60)">
+    <rect x="0" y="0" width="180" height="200" rx="10" fill="#e8f5e9" stroke="#66bb6a" stroke-width="2"/>
+    <text x="90" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2e7d32" text-anchor="middle">DOLMEN</text>
+
+    <!-- Dessin dolmen -->
+    <g transform="translate(25, 55)">
+      <!-- Pierre horizontale (table) -->
+      <polygon points="0,30 130,30 125,45 5,45" fill="#78909c" stroke="#546e7a" stroke-width="2"/>
+      <!-- Piliers -->
+      <rect x="10" y="45" width="25" height="70" fill="#9e9e9e" stroke="#757575" stroke-width="2"/>
+      <rect x="95" y="45" width="25" height="70" fill="#9e9e9e" stroke="#757575" stroke-width="2"/>
+      <!-- Sol -->
+      <line x1="0" y1="115" x2="130" y2="115" stroke="#a1887f" stroke-width="3"/>
+    </g>
+
+    <text x="90" y="175" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Tombeau collectif</text>
+    <text x="90" y="190" font-family="Arial, sans-serif" font-size="11" fill="#666" text-anchor="middle">(table sur piliers)</text>
+  </g>
+
+  <!-- Cromlech -->
+  <g transform="translate(470, 60)">
+    <rect x="0" y="0" width="180" height="200" rx="10" fill="#e3f2fd" stroke="#42a5f5" stroke-width="2"/>
+    <text x="90" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1565c0" text-anchor="middle">CROMLECH</text>
+
+    <!-- Dessin cromlech (cercle de pierres) -->
+    <g transform="translate(90, 100)">
+      <!-- Pierres en cercle -->
+      <g fill="#9e9e9e" stroke="#757575" stroke-width="1">
+        <ellipse cx="0" cy="-45" rx="8" ry="15"/>
+        <ellipse cx="32" cy="-32" rx="8" ry="15" transform="rotate(25, 32, -32)"/>
+        <ellipse cx="45" cy="0" rx="8" ry="15" transform="rotate(90, 45, 0)"/>
+        <ellipse cx="32" cy="32" rx="8" ry="15" transform="rotate(-25, 32, 32)"/>
+        <ellipse cx="0" cy="45" rx="8" ry="15"/>
+        <ellipse cx="-32" cy="32" rx="8" ry="15" transform="rotate(25, -32, 32)"/>
+        <ellipse cx="-45" cy="0" rx="8" ry="15" transform="rotate(90, -45, 0)"/>
+        <ellipse cx="-32" cy="-32" rx="8" ry="15" transform="rotate(-25, -32, -32)"/>
+      </g>
+      <!-- Centre -->
+      <circle cx="0" cy="0" r="3" fill="#ff9800"/>
+    </g>
+
+    <text x="90" y="175" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Cercle de pierres</text>
+    <text x="90" y="190" font-family="Arial, sans-serif" font-size="11" fill="#666" text-anchor="middle">(ex: Stonehenge)</text>
+  </g>
+
+  <!-- Note -->
+  <text x="350" y="270" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Mégalithe = "grande pierre" en grec (megas = grand, lithos = pierre)</text>
+</svg>

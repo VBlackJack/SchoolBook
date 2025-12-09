@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 350">
+  <!-- Titre -->
+  <text x="325" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="middle">Ce que les Animaux Domestiqués Apportent</text>
+
+  <!-- Fond -->
+  <rect x="30" y="50" width="590" height="280" rx="10" fill="#fff8e1" stroke="#ff9800" stroke-width="2"/>
+
+  <!-- Mouton -->
+  <g transform="translate(50, 70)">
+    <rect x="0" y="0" width="160" height="110" rx="8" fill="white" stroke="#bdbdbd"/>
+    <text x="80" y="30" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">🐑</text>
+    <text x="80" y="50" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#5d4037" text-anchor="middle">MOUTON</text>
+    <line x1="20" y1="58" x2="140" y2="58" stroke="#e0e0e0" stroke-width="1"/>
+    <text x="80" y="75" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">• Viande</text>
+    <text x="80" y="90" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">• Laine</text>
+    <text x="80" y="105" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">• Peau (cuir)</text>
+  </g>
+
+  <!-- Chèvre -->
+  <g transform="translate(240, 70)">
+    <rect x="0" y="0" width="160" height="110" rx="8" fill="white" stroke="#bdbdbd"/>
+    <text x="80" y="30" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">🐐</text>
+    <text x="80" y="50" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#5d4037" text-anchor="middle">CHÈVRE</text>
+    <line x1="20" y1="58" x2="140" y2="58" stroke="#e0e0e0" stroke-width="1"/>
+    <text x="80" y="75" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">• Viande</text>
+    <text x="80" y="90" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">• Lait (fromage)</text>
+    <text x="80" y="105" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">• Peau</text>
+  </g>
+
+  <!-- Bœuf -->
+  <g transform="translate(430, 70)">
+    <rect x="0" y="0" width="160" height="110" rx="8" fill="white" stroke="#bdbdbd"/>
+    <text x="80" y="30" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">🐄</text>
+    <text x="80" y="50" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#5d4037" text-anchor="middle">BŒUF</text>
+    <line x1="20" y1="58" x2="140" y2="58" stroke="#e0e0e0" stroke-width="1"/>
+    <text x="80" y="75" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">• Viande, Lait</text>
+    <text x="80" y="90" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">• Travail (labour)</text>
+    <text x="80" y="105" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">• Transport</text>
+  </g>
+
+  <!-- Chien -->
+  <g transform="translate(140, 200)">
+    <rect x="0" y="0" width="160" height="110" rx="8" fill="white" stroke="#bdbdbd"/>
+    <text x="80" y="30" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">🐕</text>
+    <text x="80" y="50" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#5d4037" text-anchor="middle">CHIEN</text>
+    <line x1="20" y1="58" x2="140" y2="58" stroke="#e0e0e0" stroke-width="1"/>
+    <text x="80" y="75" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">• Garde du troupeau</text>
+    <text x="80" y="90" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">• Aide à la chasse</text>
+    <text x="80" y="105" font-family="Arial, sans-serif" font-size="11" fill="#666" text-anchor="middle">(premier animal domestiqué)</text>
+  </g>
+
+  <!-- Porc -->
+  <g transform="translate(340, 200)">
+    <rect x="0" y="0" width="160" height="110" rx="8" fill="white" stroke="#bdbdbd"/>
+    <text x="80" y="30" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">🐖</text>
+    <text x="80" y="50" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#5d4037" text-anchor="middle">PORC</text>
+    <line x1="20" y1="58" x2="140" y2="58" stroke="#e0e0e0" stroke-width="1"/>
+    <text x="80" y="75" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">• Viande</text>
+    <text x="80" y="90" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">• Graisse</text>
+    <text x="80" y="105" font-family="Arial, sans-serif" font-size="11" fill="#666" text-anchor="middle">(se nourrit de déchets)</text>
+  </g>
+</svg>

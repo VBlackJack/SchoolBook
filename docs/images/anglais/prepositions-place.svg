@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 350">
+  <!-- Titre -->
+  <text x="350" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="middle">Prepositions of Place - Prépositions de lieu</text>
+
+  <!-- Schéma central avec la boîte -->
+  <g transform="translate(230, 60)">
+    <!-- ABOVE / ON TOP OF -->
+    <g transform="translate(100, 0)">
+      <circle cx="20" cy="15" r="12" fill="#e74c3c"/>
+      <line x1="20" y1="35" x2="20" y2="60" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowRed2)"/>
+      <text x="20" y="90" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#c0392b" text-anchor="middle">ABOVE</text>
+      <text x="20" y="103" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">(au-dessus)</text>
+    </g>
+
+    <!-- La boîte centrale -->
+    <g transform="translate(60, 120)">
+      <rect x="0" y="0" width="120" height="80" rx="5" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
+      <text x="60" y="35" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">📦</text>
+      <text x="60" y="55" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">BOX</text>
+      <text x="60" y="70" font-family="Arial, sans-serif" font-size="8" fill="#ecf0f1" text-anchor="middle">(boîte)</text>
+    </g>
+
+    <!-- UNDER / BELOW -->
+    <g transform="translate(100, 220)">
+      <line x1="20" y1="0" x2="20" y2="25" stroke="#27ae60" stroke-width="2" marker-end="url(#arrowGreen)"/>
+      <circle cx="20" cy="45" r="12" fill="#27ae60"/>
+      <text x="20" y="75" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e8449" text-anchor="middle">UNDER</text>
+      <text x="20" y="88" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">(sous)</text>
+    </g>
+
+    <!-- IN FRONT OF -->
+    <g transform="translate(200, 140)">
+      <line x1="0" y1="20" x2="30" y2="20" stroke="#9b59b6" stroke-width="2" marker-end="url(#arrowPurple2)"/>
+      <circle cx="55" cy="20" r="12" fill="#9b59b6"/>
+      <text x="85" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#8e44ad">IN FRONT OF</text>
+      <text x="85" y="28" font-family="Arial, sans-serif" font-size="9" fill="#666">(devant)</text>
+    </g>
+
+    <!-- BEHIND -->
+    <g transform="translate(-80, 140)">
+      <circle cx="25" cy="20" r="12" fill="#f39c12"/>
+      <line x1="45" y1="20" x2="75" y2="20" stroke="#f39c12" stroke-width="2" marker-end="url(#arrowOrange2)"/>
+      <text x="-10" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#d68910">BEHIND</text>
+      <text x="-10" y="28" font-family="Arial, sans-serif" font-size="9" fill="#666">(derrière)</text>
+    </g>
+
+    <!-- ON -->
+    <g transform="translate(95, 100)">
+      <circle cx="25" cy="10" r="10" fill="#e91e63"/>
+      <text x="65" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#c2185b">ON</text>
+      <text x="65" y="28" font-family="Arial, sans-serif" font-size="9" fill="#666">(sur)</text>
+    </g>
+
+    <!-- IN -->
+    <g transform="translate(110, 145)">
+      <circle cx="10" cy="10" r="8" fill="#00bcd4"/>
+      <text x="40" y="0" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#00838f">IN</text>
+      <text x="40" y="13" font-family="Arial, sans-serif" font-size="9" fill="#666">(dans)</text>
+    </g>
+  </g>
+
+  <!-- Exemples à droite -->
+  <g transform="translate(500, 80)">
+    <rect x="0" y="0" width="180" height="220" rx="8" fill="#f5f5f5" stroke="#bdbdbd" stroke-width="2"/>
+    <text x="90" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">Examples</text>
+
+    <text x="10" y="50" font-family="Arial, sans-serif" font-size="10" fill="#333">The cat is ON the table.</text>
+    <text x="10" y="65" font-family="Arial, sans-serif" font-size="9" fill="#666">(Le chat est sur la table)</text>
+
+    <text x="10" y="90" font-family="Arial, sans-serif" font-size="10" fill="#333">The ball is UNDER the bed.</text>
+    <text x="10" y="105" font-family="Arial, sans-serif" font-size="9" fill="#666">(La balle est sous le lit)</text>
+
+    <text x="10" y="130" font-family="Arial, sans-serif" font-size="10" fill="#333">The dog is IN the garden.</text>
+    <text x="10" y="145" font-family="Arial, sans-serif" font-size="9" fill="#666">(Le chien est dans le jardin)</text>
+
+    <text x="10" y="170" font-family="Arial, sans-serif" font-size="10" fill="#333">The tree is BEHIND the house.</text>
+    <text x="10" y="185" font-family="Arial, sans-serif" font-size="9" fill="#666">(L'arbre est derrière la maison)</text>
+
+    <text x="10" y="210" font-family="Arial, sans-serif" font-size="10" fill="#333">The car is IN FRONT OF the door.</text>
+  </g>
+
+  <!-- NEXT TO et BETWEEN en bas -->
+  <g transform="translate(100, 280)">
+    <!-- NEXT TO -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="180" height="60" rx="8" fill="#e8f5e9" stroke="#4caf50" stroke-width="2"/>
+      <rect x="50" y="15" width="30" height="30" fill="#3498db"/>
+      <rect x="90" y="15" width="30" height="30" fill="#e74c3c"/>
+      <text x="90" y="65" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2e7d32" text-anchor="middle">NEXT TO (à côté de)</text>
+    </g>
+
+    <!-- BETWEEN -->
+    <g transform="translate(220, 0)">
+      <rect x="0" y="0" width="180" height="60" rx="8" fill="#fff3e0" stroke="#ff9800" stroke-width="2"/>
+      <rect x="30" y="15" width="25" height="30" fill="#3498db"/>
+      <circle cx="90" cy="30" r="12" fill="#e74c3c"/>
+      <rect x="125" y="15" width="25" height="30" fill="#3498db"/>
+      <text x="90" y="65" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#e65100" text-anchor="middle">BETWEEN (entre)</text>
+    </g>
+  </g>
+
+  <defs>
+    <marker id="arrowRed2" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#e74c3c"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#27ae60"/>
+    </marker>
+    <marker id="arrowPurple2" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#9b59b6"/>
+    </marker>
+    <marker id="arrowOrange2" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#f39c12"/>
+    </marker>
+  </defs>
+</svg>

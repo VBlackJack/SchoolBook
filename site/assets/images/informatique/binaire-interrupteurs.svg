@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e293b;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="300" fill="url(#bgGrad2)" rx="20"/>
+
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">🔘 Le binaire : des milliards d'interrupteurs !</text>
+  <text x="400" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#94a3b8">8 bits = 1 octet = 1 caractère</text>
+
+  <!-- Switches -->
+  <!-- Switch 1 - OFF -->
+  <g transform="translate(80, 100)">
+    <rect x="0" y="0" width="60" height="100" rx="10" fill="#334155" stroke="#475569" stroke-width="2"/>
+    <circle cx="30" cy="65" r="18" fill="#1e293b" stroke="#475569" stroke-width="2"/>
+    <text x="30" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">OFF</text>
+    <text x="30" y="120" text-anchor="middle" font-family="monospace" font-size="28" font-weight="bold" fill="#ef4444">0</text>
+  </g>
+
+  <!-- Switch 2 - ON -->
+  <g transform="translate(160, 100)">
+    <rect x="0" y="0" width="60" height="100" rx="10" fill="#334155" stroke="#22c55e" stroke-width="2"/>
+    <circle cx="30" cy="35" r="18" fill="#22c55e" filter="url(#glow)"/>
+    <text x="30" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#22c55e">ON</text>
+    <text x="30" y="120" text-anchor="middle" font-family="monospace" font-size="28" font-weight="bold" fill="#22c55e">1</text>
+  </g>
+
+  <!-- Switch 3 - OFF -->
+  <g transform="translate(240, 100)">
+    <rect x="0" y="0" width="60" height="100" rx="10" fill="#334155" stroke="#475569" stroke-width="2"/>
+    <circle cx="30" cy="65" r="18" fill="#1e293b" stroke="#475569" stroke-width="2"/>
+    <text x="30" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">OFF</text>
+    <text x="30" y="120" text-anchor="middle" font-family="monospace" font-size="28" font-weight="bold" fill="#ef4444">0</text>
+  </g>
+
+  <!-- Switch 4 - ON -->
+  <g transform="translate(320, 100)">
+    <rect x="0" y="0" width="60" height="100" rx="10" fill="#334155" stroke="#22c55e" stroke-width="2"/>
+    <circle cx="30" cy="35" r="18" fill="#22c55e" filter="url(#glow)"/>
+    <text x="30" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#22c55e">ON</text>
+    <text x="30" y="120" text-anchor="middle" font-family="monospace" font-size="28" font-weight="bold" fill="#22c55e">1</text>
+  </g>
+
+  <!-- Switch 5 - OFF -->
+  <g transform="translate(400, 100)">
+    <rect x="0" y="0" width="60" height="100" rx="10" fill="#334155" stroke="#475569" stroke-width="2"/>
+    <circle cx="30" cy="65" r="18" fill="#1e293b" stroke="#475569" stroke-width="2"/>
+    <text x="30" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">OFF</text>
+    <text x="30" y="120" text-anchor="middle" font-family="monospace" font-size="28" font-weight="bold" fill="#ef4444">0</text>
+  </g>
+
+  <!-- Switch 6 - OFF -->
+  <g transform="translate(480, 100)">
+    <rect x="0" y="0" width="60" height="100" rx="10" fill="#334155" stroke="#475569" stroke-width="2"/>
+    <circle cx="30" cy="65" r="18" fill="#1e293b" stroke="#475569" stroke-width="2"/>
+    <text x="30" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">OFF</text>
+    <text x="30" y="120" text-anchor="middle" font-family="monospace" font-size="28" font-weight="bold" fill="#ef4444">0</text>
+  </g>
+
+  <!-- Switch 7 - OFF -->
+  <g transform="translate(560, 100)">
+    <rect x="0" y="0" width="60" height="100" rx="10" fill="#334155" stroke="#475569" stroke-width="2"/>
+    <circle cx="30" cy="65" r="18" fill="#1e293b" stroke="#475569" stroke-width="2"/>
+    <text x="30" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">OFF</text>
+    <text x="30" y="120" text-anchor="middle" font-family="monospace" font-size="28" font-weight="bold" fill="#ef4444">0</text>
+  </g>
+
+  <!-- Switch 8 - ON -->
+  <g transform="translate(640, 100)">
+    <rect x="0" y="0" width="60" height="100" rx="10" fill="#334155" stroke="#22c55e" stroke-width="2"/>
+    <circle cx="30" cy="35" r="18" fill="#22c55e" filter="url(#glow)"/>
+    <text x="30" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#22c55e">ON</text>
+    <text x="30" y="120" text-anchor="middle" font-family="monospace" font-size="28" font-weight="bold" fill="#22c55e">1</text>
+  </g>
+
+  <!-- Result -->
+  <rect x="250" y="245" width="300" height="45" rx="10" fill="#3b82f6" opacity="0.2" stroke="#3b82f6" stroke-width="2"/>
+  <text x="400" y="275" text-anchor="middle" font-family="monospace" font-size="20" fill="#60a5fa">01010001 = Lettre "Q"</text>
+</svg>

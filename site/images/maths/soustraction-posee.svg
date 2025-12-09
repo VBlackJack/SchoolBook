@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 280">
+  <!-- Titre -->
+  <text x="250" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="middle">La Soustraction Posée</text>
+
+  <!-- Cadre principal -->
+  <rect x="30" y="50" width="440" height="200" rx="10" fill="#e3f2fd" stroke="#2196f3" stroke-width="2"/>
+
+  <!-- Calcul initial -->
+  <g transform="translate(60, 80)" font-family="Courier New, monospace" font-size="24">
+    <text x="0" y="0" fill="#333">8</text>
+    <text x="30" y="0" fill="#333">0</text>
+    <text x="60" y="0" fill="#333">0</text>
+    <text x="90" y="0" fill="#333">3</text>
+
+    <text x="-30" y="35" fill="#e74c3c" font-weight="bold">-</text>
+    <text x="0" y="35" fill="#333">2</text>
+    <text x="30" y="35" fill="#333">5</text>
+    <text x="60" y="35" fill="#333">6</text>
+    <text x="90" y="35" fill="#333">7</text>
+
+    <line x1="-30" y1="50" x2="115" y2="50" stroke="#333" stroke-width="2"/>
+  </g>
+
+  <!-- Flèche -->
+  <text x="210" y="120" font-family="Arial, sans-serif" font-size="24" fill="#9b59b6">→</text>
+
+  <!-- Calcul avec emprunts -->
+  <g transform="translate(280, 80)" font-family="Courier New, monospace" font-size="24">
+    <!-- Barrés et emprunts -->
+    <g font-size="14" fill="#e74c3c">
+      <text x="0" y="-12">7</text>
+      <line x1="0" y1="-2" x2="15" y2="-2" stroke="#e74c3c" stroke-width="1"/>
+      <text x="30" y="-12">9</text>
+      <line x1="28" y1="-2" x2="43" y2="-2" stroke="#e74c3c" stroke-width="1"/>
+      <text x="60" y="-12">9</text>
+      <line x1="58" y1="-2" x2="73" y2="-2" stroke="#e74c3c" stroke-width="1"/>
+    </g>
+
+    <g fill="#999" text-decoration="line-through">
+      <text x="0" y="0">8</text>
+      <text x="30" y="0">0</text>
+      <text x="60" y="0">0</text>
+    </g>
+    <text x="90" y="0" fill="#333">13</text>
+
+    <text x="-30" y="35" fill="#e74c3c" font-weight="bold">-</text>
+    <text x="0" y="35" fill="#333">2</text>
+    <text x="30" y="35" fill="#333">5</text>
+    <text x="60" y="35" fill="#333">6</text>
+    <text x="90" y="35" fill="#333">7</text>
+
+    <line x1="-30" y1="50" x2="125" y2="50" stroke="#333" stroke-width="2"/>
+
+    <!-- Résultat -->
+    <text x="0" y="85" fill="#1565c0" font-weight="bold">5</text>
+    <text x="30" y="85" fill="#1565c0" font-weight="bold">4</text>
+    <text x="60" y="85" fill="#1565c0" font-weight="bold">3</text>
+    <text x="90" y="85" fill="#1565c0" font-weight="bold">6</text>
+  </g>
+
+  <!-- Explication -->
+  <g transform="translate(50, 200)">
+    <rect x="0" y="0" width="400" height="40" rx="5" fill="#fff8e1" stroke="#ffc107"/>
+    <text x="200" y="17" font-family="Arial, sans-serif" font-size="11" fill="#666" text-anchor="middle">Quand on ne peut pas soustraire, on emprunte à la colonne de gauche.</text>
+    <text x="200" y="32" font-family="Arial, sans-serif" font-size="11" fill="#666" text-anchor="middle">3 - 7 impossible → on emprunte : 13 - 7 = 6</text>
+  </g>
+</svg>

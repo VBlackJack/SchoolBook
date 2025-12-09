@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 450">
+  <!-- Titre -->
+  <text x="350" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50" text-anchor="middle">Family Tree - L'Arbre Généalogique</text>
+
+  <!-- Grands-parents -->
+  <g transform="translate(200, 60)">
+    <!-- Grandfather -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="120" height="60" rx="8" fill="#e3f2fd" stroke="#2196f3" stroke-width="2"/>
+      <text x="60" y="20" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">👴</text>
+      <text x="60" y="40" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1565c0" text-anchor="middle">grandfather</text>
+      <text x="60" y="52" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">(grand-père)</text>
+    </g>
+
+    <!-- Grandmother -->
+    <g transform="translate(180, 0)">
+      <rect x="0" y="0" width="120" height="60" rx="8" fill="#fce4ec" stroke="#e91e63" stroke-width="2"/>
+      <text x="60" y="20" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">👵</text>
+      <text x="60" y="40" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#c2185b" text-anchor="middle">grandmother</text>
+      <text x="60" y="52" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">(grand-mère)</text>
+    </g>
+
+    <!-- Lien grandparents -->
+    <line x1="120" y1="30" x2="180" y2="30" stroke="#9e9e9e" stroke-width="2"/>
+    <text x="150" y="80" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">grandparents</text>
+  </g>
+
+  <!-- Ligne vers les parents -->
+  <line x1="350" y1="120" x2="350" y2="150" stroke="#9e9e9e" stroke-width="2"/>
+
+  <!-- Parents -->
+  <g transform="translate(200, 160)">
+    <!-- Father -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="120" height="60" rx="8" fill="#e3f2fd" stroke="#2196f3" stroke-width="2"/>
+      <text x="60" y="20" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">👨</text>
+      <text x="60" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1565c0" text-anchor="middle">father</text>
+      <text x="60" y="52" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">(père)</text>
+    </g>
+
+    <!-- Mother -->
+    <g transform="translate(180, 0)">
+      <rect x="0" y="0" width="120" height="60" rx="8" fill="#fce4ec" stroke="#e91e63" stroke-width="2"/>
+      <text x="60" y="20" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">👩</text>
+      <text x="60" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c2185b" text-anchor="middle">mother</text>
+      <text x="60" y="52" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">(mère)</text>
+    </g>
+
+    <!-- Lien parents -->
+    <line x1="120" y1="30" x2="180" y2="30" stroke="#9e9e9e" stroke-width="2"/>
+    <text x="150" y="80" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">parents</text>
+  </g>
+
+  <!-- Ligne vers les enfants -->
+  <line x1="350" y1="220" x2="350" y2="260" stroke="#9e9e9e" stroke-width="2"/>
+  <line x1="200" y1="260" x2="500" y2="260" stroke="#9e9e9e" stroke-width="2"/>
+
+  <!-- Enfants -->
+  <g transform="translate(100, 280)">
+    <!-- Brother -->
+    <g transform="translate(0, 0)">
+      <line x1="50" y1="-20" x2="50" y2="0" stroke="#9e9e9e" stroke-width="2"/>
+      <rect x="0" y="0" width="100" height="60" rx="8" fill="#e8f5e9" stroke="#4caf50" stroke-width="2"/>
+      <text x="50" y="20" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">👦</text>
+      <text x="50" y="40" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2e7d32" text-anchor="middle">brother</text>
+      <text x="50" y="52" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">(frère)</text>
+    </g>
+
+    <!-- ME -->
+    <g transform="translate(150, 0)">
+      <line x1="50" y1="-20" x2="50" y2="0" stroke="#9e9e9e" stroke-width="2"/>
+      <rect x="0" y="0" width="100" height="60" rx="8" fill="#fff3e0" stroke="#ff9800" stroke-width="3"/>
+      <text x="50" y="20" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">🧑</text>
+      <text x="50" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e65100" text-anchor="middle">ME</text>
+      <text x="50" y="52" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">(moi)</text>
+    </g>
+
+    <!-- Sister -->
+    <g transform="translate(300, 0)">
+      <line x1="50" y1="-20" x2="50" y2="0" stroke="#9e9e9e" stroke-width="2"/>
+      <rect x="0" y="0" width="100" height="60" rx="8" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2"/>
+      <text x="50" y="20" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">👧</text>
+      <text x="50" y="40" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#7b1fa2" text-anchor="middle">sister</text>
+      <text x="50" y="52" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">(soeur)</text>
+    </g>
+  </g>
+
+  <!-- Légende siblings -->
+  <g transform="translate(150, 360)">
+    <text x="150" y="0" font-family="Arial, sans-serif" font-size="11" fill="#666" text-anchor="middle">children (enfants) / siblings (frères et soeurs)</text>
+  </g>
+
+  <!-- Vocabulaire supplémentaire -->
+  <g transform="translate(520, 140)">
+    <rect x="0" y="0" width="150" height="180" rx="8" fill="#f5f5f5" stroke="#bdbdbd" stroke-width="2"/>
+    <text x="75" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">More vocabulary</text>
+
+    <text x="10" y="45" font-family="Arial, sans-serif" font-size="10" fill="#333">👶 baby = bébé</text>
+    <text x="10" y="65" font-family="Arial, sans-serif" font-size="10" fill="#333">👦 son = fils</text>
+    <text x="10" y="85" font-family="Arial, sans-serif" font-size="10" fill="#333">👧 daughter = fille</text>
+    <text x="10" y="110" font-family="Arial, sans-serif" font-size="10" fill="#333">👨‍👩‍👧 family = famille</text>
+    <text x="10" y="135" font-family="Arial, sans-serif" font-size="10" fill="#333">🧔 uncle = oncle</text>
+    <text x="10" y="155" font-family="Arial, sans-serif" font-size="10" fill="#333">👩 aunt = tante</text>
+    <text x="10" y="175" font-family="Arial, sans-serif" font-size="10" fill="#333">🧒 cousin = cousin(e)</text>
+  </g>
+</svg>

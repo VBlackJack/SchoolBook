@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 550 450">
+  <!-- Titre -->
+  <text x="275" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="middle">La Maison d'Être</text>
+  <text x="275" y="50" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">(Verbes qui se conjuguent avec "être" au passé composé)</text>
+
+  <!-- Maison -->
+  <g transform="translate(100, 70)">
+    <!-- Toit -->
+    <polygon points="175,0 0,100 350,100" fill="#e74c3c" stroke="#c0392b" stroke-width="3"/>
+
+    <!-- NAÎTRE au sommet -->
+    <g transform="translate(130, 30)">
+      <rect x="0" y="0" width="90" height="35" rx="5" fill="#fff" stroke="#e74c3c" stroke-width="2"/>
+      <text x="45" y="15" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#c0392b" text-anchor="middle">NAÎTRE</text>
+      <text x="45" y="28" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">👶 (né)</text>
+    </g>
+
+    <!-- Corps de la maison -->
+    <rect x="30" y="100" width="290" height="280" fill="#fff9c4" stroke="#fbc02d" stroke-width="3"/>
+
+    <!-- Fenêtres et portes avec verbes -->
+
+    <!-- ARRIVER (entrée gauche) -->
+    <g transform="translate(5, 150)">
+      <text x="0" y="0" font-family="Arial, sans-serif" font-size="16">→</text>
+      <rect x="35" y="-20" width="80" height="40" rx="5" fill="#e8f5e9" stroke="#4caf50" stroke-width="2"/>
+      <text x="75" y="-5" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2e7d32" text-anchor="middle">ARRIVER</text>
+      <text x="75" y="10" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">(arrivé)</text>
+    </g>
+
+    <!-- PARTIR (sortie droite) -->
+    <g transform="translate(235, 150)">
+      <rect x="0" y="-20" width="80" height="40" rx="5" fill="#ffebee" stroke="#ef5350" stroke-width="2"/>
+      <text x="40" y="-5" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#c62828" text-anchor="middle">PARTIR</text>
+      <text x="40" y="10" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">(parti)</text>
+      <text x="95" y="0" font-family="Arial, sans-serif" font-size="16">→</text>
+    </g>
+
+    <!-- ENTRER (porte gauche) -->
+    <g transform="translate(5, 220)">
+      <text x="0" y="0" font-family="Arial, sans-serif" font-size="16">→</text>
+      <rect x="35" y="-20" width="80" height="40" rx="5" fill="#e3f2fd" stroke="#2196f3" stroke-width="2"/>
+      <text x="75" y="-5" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1565c0" text-anchor="middle">ENTRER</text>
+      <text x="75" y="10" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">(entré)</text>
+    </g>
+
+    <!-- SORTIR (porte droite) -->
+    <g transform="translate(235, 220)">
+      <rect x="0" y="-20" width="80" height="40" rx="5" fill="#fce4ec" stroke="#e91e63" stroke-width="2"/>
+      <text x="40" y="-5" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#c2185b" text-anchor="middle">SORTIR</text>
+      <text x="40" y="10" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">(sorti)</text>
+      <text x="95" y="0" font-family="Arial, sans-serif" font-size="16">→</text>
+    </g>
+
+    <!-- MONTER (escalier haut) -->
+    <g transform="translate(130, 130)">
+      <text x="45" y="-25" font-family="Arial, sans-serif" font-size="16">↑</text>
+      <rect x="0" y="0" width="90" height="35" rx="5" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2"/>
+      <text x="45" y="15" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#7b1fa2" text-anchor="middle">MONTER</text>
+      <text x="45" y="28" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">(monté)</text>
+    </g>
+
+    <!-- DESCENDRE (escalier bas) -->
+    <g transform="translate(130, 270)">
+      <rect x="0" y="0" width="90" height="35" rx="5" fill="#fff3e0" stroke="#ff9800" stroke-width="2"/>
+      <text x="45" y="15" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#e65100" text-anchor="middle">DESCENDRE</text>
+      <text x="45" y="28" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">(descendu)</text>
+      <text x="45" y="55" font-family="Arial, sans-serif" font-size="16">↓</text>
+    </g>
+
+    <!-- Centre de la maison - autres verbes -->
+    <g transform="translate(55, 180)">
+      <text x="0" y="0" font-family="Arial, sans-serif" font-size="9" fill="#333">ALLER (allé)</text>
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="9" fill="#333">VENIR (venu)</text>
+    </g>
+
+    <g transform="translate(200, 180)">
+      <text x="0" y="0" font-family="Arial, sans-serif" font-size="9" fill="#333">RESTER (resté)</text>
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="9" fill="#333">RETOURNER (retourné)</text>
+    </g>
+
+    <!-- MOURIR en bas -->
+    <g transform="translate(130, 340)">
+      <rect x="0" y="0" width="90" height="35" rx="5" fill="#eceff1" stroke="#607d8b" stroke-width="2"/>
+      <text x="45" y="15" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#455a64" text-anchor="middle">MOURIR</text>
+      <text x="45" y="28" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">(mort) ⚰️</text>
+    </g>
+
+    <!-- Porte d'entrée -->
+    <rect x="145" y="310" width="60" height="70" fill="#8d6e63" stroke="#5d4037" stroke-width="2"/>
+    <circle cx="195" cy="345" r="4" fill="#ffc107"/>
+  </g>
+
+  <!-- Mnémotechnique -->
+  <g transform="translate(50, 405)">
+    <rect x="0" y="0" width="450" height="35" rx="8" fill="#e8f5e9" stroke="#4caf50" stroke-width="2"/>
+    <text x="225" y="15" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle">Astuce : Ces verbes expriment un mouvement ou un changement d'état</text>
+    <text x="225" y="28" font-family="Arial, sans-serif" font-size="10" fill="#2e7d32" text-anchor="middle">+ tous les verbes pronominaux (se laver, s'habiller...)</text>
+  </g>
+</svg>

@@ -110,7 +110,7 @@
 
 Il y a environ **10 000 ans**, les humains ont connu un changement majeur : au lieu de se déplacer pour trouver leur nourriture, ils ont commencé à **produire** eux-mêmes ce dont ils avaient besoin.
 
-![Frise chronologique : du Paléolithique au Néolithique](../../../assets/images/histoire-geo/histoire-frise-neolithique.jpeg){ loading=lazy }
+![Frise chronologique : du Paléolithique au Néolithique](../../../assets/images/histoire-geo/frise-prehistoire.jpeg){ loading=lazy }
 
 ---
 
@@ -154,7 +154,7 @@ Le mot « néolithique » signifie « âge de la pierre nouvelle » (les outils 
 
 On parle de « révolution » car ce changement a **transformé totalement** la vie des humains :
 
-![Paléolithique vs Néolithique](../../../assets/images/histoire-geo/histoire-paleolithique-neolithique.jpeg){ loading=lazy }
+![Paléolithique vs Néolithique](../../../assets/images/histoire-geo/avant-apres-neolithique.jpeg){ loading=lazy }
 
 ### 1.3 Où et quand ?
 
@@ -183,7 +183,7 @@ La révolution néolithique est née au **Proche-Orient** (actuel Irak, Syrie, T
 | **Maïs** | Amérique centrale | -7 000 |
 | **Millet** | Afrique | -5 000 |
 
-![Naissance de l'agriculture](../../../assets/images/histoire-geo/histoire-naissance-agriculture.jpeg){ loading=lazy }
+![Naissance de l'agriculture](../../../assets/images/histoire-geo/agriculture-naissance.jpeg){ loading=lazy }
 
 ### 2.2 Les techniques agricoles
 
@@ -196,7 +196,7 @@ Les premiers agriculteurs ont inventé de nouveaux outils :
 | **Houe** | Retourner la terre | Bois + pierre |
 | **Araire** (plus tard) | Labourer | Bois |
 
-![Outils agricoles du Néolithique](../../../assets/images/histoire-geo/histoire-outils-agricoles.jpeg){ loading=lazy }
+![Outils agricoles du Néolithique](../../../assets/images/histoire-geo/outils-neolithique.jpeg){ loading=lazy }
 
 ---
 
@@ -217,7 +217,7 @@ Les premiers agriculteurs ont inventé de nouveaux outils :
 | **Porc** | Proche-Orient | -8 000 | Viande |
 | **Bœuf** | Proche-Orient | -7 000 | Viande, travail |
 
-![Ce que les animaux domestiques apportent](../../../assets/images/histoire-geo/histoire-animaux-domestiques.jpeg){ loading=lazy }
+![Ce que les animaux domestiques apportent](../../../assets/images/histoire-geo/animaux-domestiques.jpeg){ loading=lazy }
 
 ### 3.2 Avantages de l'élevage
 
@@ -236,7 +236,7 @@ Les premiers agriculteurs ont inventé de nouveaux outils :
 !!! success "À retenir"
     Les humains deviennent **sédentaires** : ils s'installent dans des **villages permanents** pour cultiver leurs champs et élever leurs animaux.
 
-![Un village néolithique](../../../assets/images/histoire-geo/histoire-village-neolithique.jpeg){ loading=lazy }
+![Un village néolithique](../../../assets/images/histoire-geo/avant-apres-neolithique.jpeg){ loading=lazy }
 
 **Exemples de premiers villages :**
 
@@ -247,7 +247,7 @@ Les premiers agriculteurs ont inventé de nouveaux outils :
 
 ### 4.2 L'habitat change
 
-![Évolution de l'habitat : du Paléolithique au Néolithique](../../../assets/images/histoire-geo/histoire-evolution-habitat.jpeg){ loading=lazy }
+![Évolution de l'habitat : du Paléolithique au Néolithique](../../../assets/images/histoire-geo/avant-apres-neolithique.jpeg){ loading=lazy }
 
 **Les maisons néolithiques :**
 - **Murs** en pierre, brique crue (terre séchée) ou torchis
@@ -262,7 +262,7 @@ Les premiers agriculteurs ont inventé de nouveaux outils :
 
 ### 5.1 Changements sociaux
 
-![Nouvelle organisation sociale au Néolithique](../../../assets/images/histoire-geo/histoire-organisation-sociale.jpeg){ loading=lazy }
+![Nouvelle organisation sociale au Néolithique](../../../assets/images/histoire-geo/avant-apres-neolithique.jpeg){ loading=lazy }
 
 ### 5.2 Nouvelles inventions
 
@@ -302,7 +302,7 @@ Les premiers agriculteurs ont inventé de nouveaux outils :
         D --> E["Meilleure qualité de vie"]
     ```
 
-![Nouvelles techniques du Néolithique](../../../assets/images/histoire-geo/histoire-nouvelles-techniques.jpeg){ loading=lazy }
+![Nouvelles techniques du Néolithique](../../../assets/images/histoire-geo/outils-neolithique.jpeg){ loading=lazy }
 
 ### 5.3 Problèmes nouveaux
 
@@ -335,7 +335,7 @@ flowchart TD
 !!! success "À retenir"
     Les hommes du Néolithique ont construit des **mégalithes** (méga = grand, lithe = pierre) : dolmens, menhirs, cromlechs.
 
-![Types de mégalithes](../../../assets/images/histoire-geo/histoire-megalithes.jpeg){ loading=lazy }
+![Types de mégalithes](../../../assets/images/histoire-geo/avant-apres-neolithique.jpeg){ loading=lazy }
 
 **Exemples célèbres :**
 - **Carnac** (France) : alignements de milliers de menhirs

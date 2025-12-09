@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300">
+  <defs>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#3498db"/>
+    </marker>
+    <marker id="arrowBlueLeft" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto">
+      <path d="M9,0 L9,6 L0,3 z" fill="#3498db"/>
+    </marker>
+  </defs>
+
+  <!-- Titre -->
+  <text x="350" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="middle">Points, Droites et Segments</text>
+
+  <!-- Point A -->
+  <g transform="translate(50, 70)">
+    <rect x="0" y="0" width="130" height="100" rx="8" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+    <text x="65" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c" text-anchor="middle">Point A</text>
+    <circle cx="65" cy="55" r="6" fill="#e74c3c"/>
+    <text x="65" y="90" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">A</text>
+  </g>
+
+  <!-- Droite (AB) -->
+  <g transform="translate(200, 70)">
+    <rect x="0" y="0" width="180" height="100" rx="8" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+    <text x="90" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#3498db" text-anchor="middle">Droite (AB)</text>
+    <line x1="10" y1="55" x2="170" y2="55" stroke="#3498db" stroke-width="2" marker-start="url(#arrowBlueLeft)" marker-end="url(#arrowBlue)"/>
+    <circle cx="60" cy="55" r="5" fill="#e74c3c"/>
+    <circle cx="120" cy="55" r="5" fill="#e74c3c"/>
+    <text x="60" y="78" font-family="Arial, sans-serif" font-size="12" fill="#333" text-anchor="middle">A</text>
+    <text x="120" y="78" font-family="Arial, sans-serif" font-size="12" fill="#333" text-anchor="middle">B</text>
+    <text x="90" y="95" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Infinie des deux côtés</text>
+  </g>
+
+  <!-- Demi-droite [AB) -->
+  <g transform="translate(400, 70)">
+    <rect x="0" y="0" width="180" height="100" rx="8" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+    <text x="90" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60" text-anchor="middle">Demi-droite [AB)</text>
+    <line x1="30" y1="55" x2="170" y2="55" stroke="#27ae60" stroke-width="2" marker-end="url(#arrowBlue)"/>
+    <circle cx="30" cy="55" r="5" fill="#e74c3c"/>
+    <circle cx="100" cy="55" r="5" fill="#e74c3c"/>
+    <text x="30" y="78" font-family="Arial, sans-serif" font-size="12" fill="#333" text-anchor="middle">A</text>
+    <text x="100" y="78" font-family="Arial, sans-serif" font-size="12" fill="#333" text-anchor="middle">B</text>
+    <text x="90" y="95" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Origine en A, infinie vers B</text>
+  </g>
+
+  <!-- Segment [AB] -->
+  <g transform="translate(150, 190)">
+    <rect x="0" y="0" width="180" height="100" rx="8" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+    <text x="90" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#9b59b6" text-anchor="middle">Segment [AB]</text>
+    <line x1="30" y1="55" x2="150" y2="55" stroke="#9b59b6" stroke-width="3"/>
+    <circle cx="30" cy="55" r="5" fill="#e74c3c"/>
+    <circle cx="150" cy="55" r="5" fill="#e74c3c"/>
+    <text x="30" y="78" font-family="Arial, sans-serif" font-size="12" fill="#333" text-anchor="middle">A</text>
+    <text x="150" y="78" font-family="Arial, sans-serif" font-size="12" fill="#333" text-anchor="middle">B</text>
+    <text x="90" y="95" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">Limité par A et B</text>
+  </g>
+
+  <!-- Légende notation -->
+  <g transform="translate(370, 190)">
+    <rect x="0" y="0" width="200" height="100" rx="8" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+    <text x="100" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50" text-anchor="middle">Notations</text>
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" fill="#333">(AB) = droite</text>
+    <text x="20" y="68" font-family="Arial, sans-serif" font-size="12" fill="#333">[AB) = demi-droite</text>
+    <text x="20" y="86" font-family="Arial, sans-serif" font-size="12" fill="#333">[AB] = segment</text>
+  </g>
+</svg>

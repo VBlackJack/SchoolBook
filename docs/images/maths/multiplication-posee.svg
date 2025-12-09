@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 550 350">
+  <!-- Titre -->
+  <text x="275" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="middle">La Multiplication Posée</text>
+
+  <!-- Multiplication simple (à 1 chiffre) -->
+  <g transform="translate(30, 50)">
+    <rect x="0" y="0" width="200" height="200" rx="10" fill="#fff3e0" stroke="#ff9800" stroke-width="2"/>
+    <text x="100" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e65100" text-anchor="middle">Par 1 chiffre</text>
+
+    <g transform="translate(50, 45)" font-family="Courier New, monospace" font-size="24">
+      <!-- Retenues -->
+      <g fill="#e74c3c" font-size="12">
+        <text x="30" y="0">4</text>
+        <text x="60" y="0">2</text>
+      </g>
+
+      <text x="0" y="25" fill="#333">3</text>
+      <text x="30" y="25" fill="#333">4</text>
+      <text x="60" y="25" fill="#333">7</text>
+
+      <text x="-25" y="55" fill="#e65100" font-weight="bold">×</text>
+      <text x="60" y="55" fill="#333">6</text>
+
+      <line x1="-25" y1="70" x2="90" y2="70" stroke="#333" stroke-width="2"/>
+
+      <!-- Résultat -->
+      <text x="-30" y="105" fill="#bf360c" font-weight="bold">2</text>
+      <text x="0" y="105" fill="#bf360c" font-weight="bold">0</text>
+      <text x="30" y="105" fill="#bf360c" font-weight="bold">8</text>
+      <text x="60" y="105" fill="#bf360c" font-weight="bold">2</text>
+    </g>
+
+    <text x="100" y="175" font-family="Arial, sans-serif" font-size="10" fill="#666" text-anchor="middle">347 × 6 = 2082</text>
+  </g>
+
+  <!-- Multiplication à 2 chiffres -->
+  <g transform="translate(260, 50)">
+    <rect x="0" y="0" width="260" height="280" rx="10" fill="#e8f5e9" stroke="#4caf50" stroke-width="2"/>
+    <text x="130" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32" text-anchor="middle">Par 2 chiffres</text>
+
+    <g transform="translate(70, 45)" font-family="Courier New, monospace" font-size="22">
+      <text x="30" y="25" fill="#333">2</text>
+      <text x="55" y="25" fill="#333">4</text>
+      <text x="80" y="25" fill="#333">7</text>
+
+      <text x="5" y="55" fill="#2e7d32" font-weight="bold">×</text>
+      <text x="55" y="55" fill="#333">3</text>
+      <text x="80" y="55" fill="#333">6</text>
+
+      <line x1="5" y1="70" x2="110" y2="70" stroke="#333" stroke-width="2"/>
+
+      <!-- Ligne 1 : × 6 -->
+      <text x="5" y="100" fill="#1565c0">1</text>
+      <text x="30" y="100" fill="#1565c0">4</text>
+      <text x="55" y="100" fill="#1565c0">8</text>
+      <text x="80" y="100" fill="#1565c0">2</text>
+
+      <!-- Explication ligne 1 -->
+      <text x="120" y="100" font-family="Arial, sans-serif" font-size="10" fill="#666">← 247 × 6</text>
+
+      <!-- Ligne 2 : × 30 (décalé) -->
+      <text x="-20" y="130" fill="#e65100">7</text>
+      <text x="5" y="130" fill="#e65100">4</text>
+      <text x="30" y="130" fill="#e65100">1</text>
+      <text x="55" y="130" fill="#e65100">0</text>
+
+      <!-- Explication ligne 2 -->
+      <text x="120" y="130" font-family="Arial, sans-serif" font-size="10" fill="#666">← 247 × 30</text>
+
+      <line x1="-20" y1="145" x2="110" y2="145" stroke="#333" stroke-width="2"/>
+
+      <!-- Résultat final -->
+      <text x="-20" y="180" fill="#1b5e20" font-weight="bold">8</text>
+      <text x="5" y="180" fill="#1b5e20" font-weight="bold">8</text>
+      <text x="30" y="180" fill="#1b5e20" font-weight="bold">9</text>
+      <text x="55" y="180" fill="#1b5e20" font-weight="bold">2</text>
+    </g>
+
+    <!-- Note sur le décalage -->
+    <g transform="translate(20, 235)">
+      <rect x="0" y="0" width="220" height="35" rx="5" fill="#fff8e1" stroke="#ffc107"/>
+      <text x="110" y="15" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">Le 0 à droite de 7410 vient du décalage</text>
+      <text x="110" y="28" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">(on multiplie par les dizaines = ×10)</text>
+    </g>
+  </g>
+</svg>

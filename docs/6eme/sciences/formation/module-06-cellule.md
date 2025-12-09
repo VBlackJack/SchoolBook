@@ -193,7 +193,7 @@ Taille moyenne d'une cellule : 10 à 100 micromètres (μm)
     - Un **cytoplasme** (liquide intérieur)
     - Un **noyau** (contient l'ADN)
 
-![Schéma d'une cellule animale](../../../assets/images/sciences/cellule-animale-schema.jpeg){ loading=lazy }
+![Schéma d'une cellule animale](../../../assets/images/sciences/cellule-animale.jpeg){ loading=lazy }
 
 ### 2.2 Rôle de chaque constituant
 
@@ -215,7 +215,7 @@ Taille moyenne d'une cellule : 10 à 100 micromètres (μm)
     - Des **chloroplastes** (photosynthèse)
     - Une grande **vacuole**
 
-![Comparaison cellule animale vs végétale](../../../assets/images/sciences/cellule-comparaison.jpeg){ loading=lazy }
+![Comparaison cellule animale vs végétale](../../../assets/images/sciences/cellule-animale-vegetale.jpeg){ loading=lazy }
 
 ### 3.2 Tableau comparatif
 

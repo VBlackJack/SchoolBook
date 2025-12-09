@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <!-- Titre -->
+  <text x="200" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="middle">L'Addition Posée</text>
+
+  <!-- Cadre principal -->
+  <rect x="50" y="50" width="300" height="200" rx="10" fill="#e8f5e9" stroke="#4caf50" stroke-width="2"/>
+
+  <!-- Grille de calcul -->
+  <g transform="translate(100, 70)" font-family="Courier New, monospace" font-size="28">
+    <!-- Retenues -->
+    <g fill="#e74c3c" font-size="16">
+      <text x="80" y="0">1</text>
+      <text x="120" y="0">1</text>
+    </g>
+
+    <!-- Premier nombre -->
+    <text x="0" y="35" fill="#333">4</text>
+    <text x="40" y="35" fill="#333">5</text>
+    <text x="80" y="35" fill="#333">6</text>
+    <text x="120" y="35" fill="#333">7</text>
+
+    <!-- Signe + -->
+    <text x="-40" y="75" fill="#27ae60" font-weight="bold">+</text>
+
+    <!-- Deuxième nombre -->
+    <text x="0" y="75" fill="#333">2</text>
+    <text x="40" y="75" fill="#333">8</text>
+    <text x="80" y="75" fill="#333">4</text>
+    <text x="120" y="75" fill="#333">5</text>
+
+    <!-- Ligne de séparation -->
+    <line x1="-50" y1="90" x2="160" y2="90" stroke="#333" stroke-width="3"/>
+
+    <!-- Résultat -->
+    <text x="0" y="130" fill="#2e7d32" font-weight="bold">7</text>
+    <text x="40" y="130" fill="#2e7d32" font-weight="bold">4</text>
+    <text x="80" y="130" fill="#2e7d32" font-weight="bold">1</text>
+    <text x="120" y="130" fill="#2e7d32" font-weight="bold">2</text>
+  </g>
+
+  <!-- Explication des retenues -->
+  <g transform="translate(270, 90)">
+    <rect x="0" y="0" width="70" height="80" rx="5" fill="#ffebee" stroke="#e74c3c"/>
+    <text x="35" y="20" font-family="Arial, sans-serif" font-size="10" fill="#c62828" text-anchor="middle">Retenues</text>
+    <text x="35" y="40" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">7+5=12</text>
+    <text x="35" y="55" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">On pose 2</text>
+    <text x="35" y="70" font-family="Arial, sans-serif" font-size="9" fill="#666" text-anchor="middle">retenue 1</text>
+  </g>
+
+  <!-- Flèche montrant le sens -->
+  <g transform="translate(80, 210)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="11" fill="#666">On calcule de droite à gauche</text>
+    <path d="M180,0 L120,0" stroke="#666" stroke-width="2" marker-end="url(#arrowGray)"/>
+  </g>
+
+  <defs>
+    <marker id="arrowGray" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto">
+      <path d="M9,0 L9,6 L0,3 z" fill="#666"/>
+    </marker>
+  </defs>
+</svg>

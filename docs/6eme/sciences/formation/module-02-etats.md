@@ -51,7 +51,7 @@
     - Types **Feu** → Provoquent la vaporisation
 
 !!! warning "Les températures clés de l'eau"
-    ![Thermomètre et changements d'état](../../../assets/images/sciences/etats-thermometre-changements.jpeg){ loading=lazy }
+    ![Thermomètre et changements d'état](../../../assets/images/sciences/etats-temperature.jpeg){ loading=lazy }
 
     **À retenir :**
 
@@ -132,7 +132,7 @@
 
 La matière peut exister sous trois formes différentes appelées **états**. L'eau est l'exemple parfait : glaçon (solide), eau du robinet (liquide), vapeur (gaz).
 
-![Les trois états de l'eau](../../../assets/images/sciences/etats-trois-eau.jpeg){ loading=lazy }
+![Les trois états de l'eau](../../../assets/images/sciences/etats-eau-trois.jpeg){ loading=lazy }
 
 ---
 
@@ -179,7 +179,7 @@ La matière peut exister sous trois formes différentes appelées **états**. L'
     "Un liquide est **liquide** comme l'eau"
     "Un gaz **s'envole** comme l'air"
 
-![L'état solide et ses particules](../../../assets/images/sciences/etats-solide-particules.jpeg){ loading=lazy }
+![L'état solide et ses particules](../../../assets/images/sciences/etat-solide-particules.jpeg){ loading=lazy }
 
 **Exemples :** glace, pierre, bois, métal, sel
 
@@ -188,7 +188,7 @@ La matière peut exister sous trois formes différentes appelées **états**. L'
 !!! success "À retenir"
     À l'état **liquide**, la matière n'a **pas de forme propre** (elle prend la forme du récipient) mais a un **volume propre**. Elle coule.
 
-![L'état liquide et ses particules](../../../assets/images/sciences/etats-liquide-particules.jpeg){ loading=lazy }
+![L'état liquide et ses particules](../../../assets/images/sciences/etat-liquide-particules.jpeg){ loading=lazy }
 
 **Exemples :** eau, huile, lait, essence
 
@@ -197,7 +197,7 @@ La matière peut exister sous trois formes différentes appelées **états**. L'
 !!! success "À retenir"
     À l'état **gazeux**, la matière n'a **ni forme propre ni volume propre**. Elle occupe tout l'espace disponible. Les gaz sont souvent invisibles.
 
-![L'état gazeux et ses particules](../../../assets/images/sciences/etats-gaz-particules.jpeg){ loading=lazy }
+![L'état gazeux et ses particules](../../../assets/images/sciences/etat-gazeux-particules.jpeg){ loading=lazy }
 
 **Exemples :** air, vapeur d'eau, CO₂, hélium
 
@@ -249,7 +249,7 @@ flowchart LR
     - **Fusion/Solidification** : **0°C**
     - **Vaporisation/Condensation** : **100°C**
 
-![Thermomètre et changements d'état de l'eau](../../../assets/images/sciences/etats-thermometre-changements.jpeg){ loading=lazy }
+![Thermomètre et changements d'état de l'eau](../../../assets/images/sciences/etats-temperature.jpeg){ loading=lazy }
 
 ### 2.4 Énergie et changements d'état
 
@@ -257,7 +257,7 @@ flowchart LR
     - Pour **fondre** ou **s'évaporer**, il faut **apporter de la chaleur** (énergie)
     - Pour **se solidifier** ou **se condenser**, il faut **retirer de la chaleur**
 
-![Énergie et changements d'état](../../../assets/images/sciences/etats-energie-chaleur.jpeg){ loading=lazy }
+![Énergie et changements d'état](../../../assets/images/sciences/etats-temperature.jpeg){ loading=lazy }
 
 ---
 

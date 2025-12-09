@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 400">
+  <!-- Titre -->
+  <text x="375" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50" text-anchor="middle">Cellule Animale vs Cellule Végétale</text>
+
+  <!-- Cellule animale (gauche) -->
+  <g transform="translate(50, 60)">
+    <text x="125" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#e74c3c" text-anchor="middle">CELLULE ANIMALE</text>
+
+    <!-- Forme irrégulière -->
+    <ellipse cx="125" cy="150" rx="110" ry="100" fill="#fff9c4" stroke="#ff9800" stroke-width="4"/>
+
+    <!-- Noyau -->
+    <ellipse cx="125" cy="145" rx="40" ry="35" fill="#90caf9" stroke="#1976d2" stroke-width="2"/>
+    <circle cx="125" cy="145" r="12" fill="#1565c0"/>
+    <text x="125" y="100" font-family="Arial, sans-serif" font-size="10" fill="#1565c0" text-anchor="middle">Noyau</text>
+
+    <!-- Mitochondries -->
+    <ellipse cx="80" cy="200" rx="18" ry="10" fill="#ef5350" stroke="#c62828" stroke-width="1"/>
+    <ellipse cx="170" cy="100" rx="18" ry="10" fill="#ef5350" stroke="#c62828" stroke-width="1"/>
+
+    <!-- Caractéristiques -->
+    <g transform="translate(0, 270)" font-family="Arial, sans-serif" font-size="11">
+      <circle cx="15" cy="10" r="5" fill="#ff9800"/>
+      <text x="25" y="14" fill="#333">Membrane uniquement</text>
+
+      <circle cx="15" cy="35" r="5" fill="#ccc" stroke="#999"/>
+      <text x="25" y="39" fill="#666">Pas de paroi</text>
+
+      <circle cx="15" cy="60" r="5" fill="#ccc" stroke="#999"/>
+      <text x="25" y="64" fill="#666">Pas de chloroplastes</text>
+
+      <circle cx="15" cy="85" r="5" fill="#ccc" stroke="#999"/>
+      <text x="25" y="89" fill="#666">Petites vacuoles</text>
+    </g>
+  </g>
+
+  <!-- VS au milieu -->
+  <text x="375" y="180" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#9b59b6" text-anchor="middle">VS</text>
+
+  <!-- Points communs -->
+  <g transform="translate(310, 280)">
+    <rect x="0" y="0" width="130" height="80" rx="10" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2"/>
+    <text x="65" y="20" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#7b1fa2" text-anchor="middle">Points communs</text>
+    <text x="65" y="38" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle">• Membrane</text>
+    <text x="65" y="52" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle">• Noyau</text>
+    <text x="65" y="66" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle">• Cytoplasme</text>
+  </g>
+
+  <!-- Cellule végétale (droite) -->
+  <g transform="translate(470, 60)">
+    <text x="125" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#27ae60" text-anchor="middle">CELLULE VÉGÉTALE</text>
+
+    <!-- Paroi rigide (rectangulaire) -->
+    <rect x="15" y="40" width="220" height="200" rx="10" fill="none" stroke="#5d4037" stroke-width="6"/>
+
+    <!-- Membrane -->
+    <rect x="25" y="50" width="200" height="180" rx="8" fill="#c8e6c9" stroke="#43a047" stroke-width="2"/>
+
+    <!-- Grande vacuole -->
+    <ellipse cx="125" cy="150" rx="70" ry="60" fill="#e1f5fe" stroke="#039be5" stroke-width="2"/>
+
+    <!-- Noyau (sur le côté) -->
+    <ellipse cx="60" cy="90" rx="25" ry="20" fill="#90caf9" stroke="#1976d2" stroke-width="2"/>
+    <circle cx="60" cy="90" r="8" fill="#1565c0"/>
+
+    <!-- Chloroplastes -->
+    <ellipse cx="190" cy="80" rx="18" ry="10" fill="#4caf50" stroke="#2e7d32" stroke-width="2"/>
+    <ellipse cx="60" cy="200" rx="18" ry="10" fill="#4caf50" stroke="#2e7d32" stroke-width="2"/>
+    <ellipse cx="190" cy="200" rx="18" ry="10" fill="#4caf50" stroke="#2e7d32" stroke-width="2"/>
+
+    <!-- Caractéristiques -->
+    <g transform="translate(0, 270)" font-family="Arial, sans-serif" font-size="11">
+      <circle cx="15" cy="10" r="5" fill="#5d4037"/>
+      <text x="25" y="14" fill="#333">Paroi + Membrane</text>
+
+      <circle cx="15" cy="35" r="5" fill="#4caf50"/>
+      <text x="25" y="39" fill="#333">Chloroplastes (verts)</text>
+
+      <circle cx="15" cy="60" r="5" fill="#81d4fa"/>
+      <text x="25" y="64" fill="#333">Grande vacuole</text>
+
+      <circle cx="15" cy="85" r="5" fill="#8d6e63"/>
+      <text x="25" y="89" fill="#333">Forme rectangulaire</text>
+    </g>
+  </g>
+</svg>

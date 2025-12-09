@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <marker id="arrowRight" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#3498db"/>
+    </marker>
+    <marker id="arrowLeft" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto">
+      <path d="M9,0 L9,6 L0,3 z" fill="#e74c3c"/>
+    </marker>
+    <marker id="arrowBoth" markerWidth="10" markerHeight="10" refX="5" refY="3" orient="auto">
+      <path d="M0,3 L4,0 L4,6 z M10,3 L6,0 L6,6 z" fill="#9b59b6"/>
+    </marker>
+    <linearGradient id="pcGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#34495e"/>
+      <stop offset="100%" style="stop-color:#2c3e50"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Titre -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50" text-anchor="middle">Les Périphériques : Entrées et Sorties</text>
+
+  <!-- Ordinateur central -->
+  <g transform="translate(325, 140)">
+    <rect x="0" y="0" width="150" height="120" rx="10" fill="url(#pcGrad)" stroke="#1a252f" stroke-width="3"/>
+    <rect x="10" y="10" width="130" height="80" rx="3" fill="#3498db"/>
+    <text x="75" y="55" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">ORDINATEUR</text>
+    <text x="75" y="75" font-family="Arial, sans-serif" font-size="11" fill="#ecf0f1" text-anchor="middle">(traitement)</text>
+    <!-- Pied -->
+    <rect x="55" y="95" width="40" height="20" fill="#2c3e50"/>
+  </g>
+
+  <!-- ENTRÉES (gauche) -->
+  <text x="120" y="80" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#27ae60" text-anchor="middle">ENTRÉE</text>
+  <text x="120" y="98" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">(vers l'ordinateur)</text>
+
+  <!-- Clavier -->
+  <g transform="translate(30, 120)">
+    <rect x="0" y="0" width="100" height="35" rx="5" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+    <g fill="#34495e" font-family="Arial" font-size="8">
+      <rect x="5" y="5" width="8" height="8" rx="1"/><rect x="15" y="5" width="8" height="8" rx="1"/>
+      <rect x="25" y="5" width="8" height="8" rx="1"/><rect x="35" y="5" width="8" height="8" rx="1"/>
+      <rect x="5" y="15" width="8" height="8" rx="1"/><rect x="15" y="15" width="8" height="8" rx="1"/>
+      <rect x="25" y="15" width="8" height="8" rx="1"/><rect x="35" y="15" width="8" height="8" rx="1"/>
+    </g>
+    <text x="50" y="50" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">Clavier</text>
+  </g>
+  <line x1="135" y1="140" x2="320" y2="180" stroke="#27ae60" stroke-width="2" marker-end="url(#arrowRight)"/>
+
+  <!-- Souris -->
+  <g transform="translate(30, 185)">
+    <ellipse cx="40" cy="20" rx="30" ry="20" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+    <ellipse cx="40" cy="12" rx="5" ry="8" fill="#bdc3c7"/>
+    <path d="M40,0 Q60,-15 70,-10" stroke="#95a5a6" stroke-width="2" fill="none"/>
+    <text x="40" y="55" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">Souris</text>
+  </g>
+  <line x1="100" y1="205" x2="320" y2="200" stroke="#27ae60" stroke-width="2" marker-end="url(#arrowRight)"/>
+
+  <!-- Micro -->
+  <g transform="translate(50, 250)">
+    <rect x="15" y="0" width="30" height="40" rx="15" fill="#34495e" stroke="#2c3e50" stroke-width="2"/>
+    <rect x="25" y="40" width="10" height="15" fill="#7f8c8d"/>
+    <ellipse cx="30" cy="58" rx="18" ry="5" fill="#95a5a6"/>
+    <text x="30" y="80" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">Micro</text>
+  </g>
+  <line x1="95" y1="270" x2="320" y2="220" stroke="#27ae60" stroke-width="2" marker-end="url(#arrowRight)"/>
+
+  <!-- Webcam -->
+  <g transform="translate(150, 250)">
+    <circle cx="25" cy="20" r="20" fill="#2c3e50" stroke="#1a252f" stroke-width="2"/>
+    <circle cx="25" cy="20" r="12" fill="#3498db"/>
+    <circle cx="25" cy="20" r="5" fill="#2c3e50"/>
+    <rect x="15" y="38" width="20" height="8" fill="#7f8c8d"/>
+    <text x="25" y="65" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">Webcam</text>
+  </g>
+  <line x1="180" y1="270" x2="320" y2="230" stroke="#27ae60" stroke-width="2" marker-end="url(#arrowRight)"/>
+
+  <!-- SORTIES (droite) -->
+  <text x="680" y="80" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#e74c3c" text-anchor="middle">SORTIE</text>
+  <text x="680" y="98" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">(depuis l'ordinateur)</text>
+
+  <!-- Écran -->
+  <g transform="translate(620, 120)">
+    <rect x="0" y="0" width="100" height="70" rx="5" fill="#2c3e50" stroke="#1a252f" stroke-width="2"/>
+    <rect x="5" y="5" width="90" height="55" fill="#3498db"/>
+    <rect x="40" y="70" width="20" height="10" fill="#34495e"/>
+    <rect x="30" y="80" width="40" height="5" rx="2" fill="#7f8c8d"/>
+    <text x="50" y="105" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">Écran</text>
+  </g>
+  <line x1="480" y1="180" x2="615" y2="155" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowRight)"/>
+
+  <!-- Haut-parleurs -->
+  <g transform="translate(640, 230)">
+    <rect x="0" y="0" width="50" height="60" rx="5" fill="#2c3e50" stroke="#1a252f" stroke-width="2"/>
+    <circle cx="25" cy="40" r="15" fill="#1a252f"/>
+    <circle cx="25" cy="40" r="8" fill="#34495e"/>
+    <circle cx="25" cy="15" r="5" fill="#1a252f"/>
+    <text x="25" y="80" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">Enceintes</text>
+  </g>
+  <line x1="480" y1="200" x2="635" y2="260" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowRight)"/>
+
+  <!-- Imprimante -->
+  <g transform="translate(540, 300)">
+    <rect x="0" y="10" width="80" height="45" rx="5" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+    <rect x="10" y="0" width="60" height="15" fill="#bdc3c7" stroke="#95a5a6"/>
+    <rect x="15" y="45" width="50" height="15" fill="white" stroke="#ddd"/>
+    <text x="40" y="80" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">Imprimante</text>
+  </g>
+  <line x1="480" y1="220" x2="535" y2="330" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowRight)"/>
+
+  <!-- ENTRÉE/SORTIE (bas) -->
+  <text x="400" y="340" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#9b59b6" text-anchor="middle">ENTRÉE/SORTIE (les deux sens)</text>
+
+  <!-- Clé USB -->
+  <g transform="translate(280, 355)">
+    <rect x="0" y="5" width="50" height="20" rx="3" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+    <rect x="50" y="8" width="15" height="14" fill="#95a5a6" stroke="#7f8c8d"/>
+    <text x="32" y="45" font-family="Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">Clé USB</text>
+  </g>
+
+  <!-- Écran tactile -->
+  <g transform="translate(400, 355)">
+    <rect x="0" y="0" width="60" height="40" rx="3" fill="#2c3e50" stroke="#1a252f" stroke-width="2"/>
+    <rect x="3" y="3" width="54" height="30" fill="#9b59b6"/>
+    <circle cx="30" cy="18" r="8" fill="none" stroke="white" stroke-width="1" stroke-dasharray="3,2"/>
+    <text x="30" y="55" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle">Écran tactile</text>
+  </g>
+
+  <!-- Flèches bidirectionnelles -->
+  <line x1="320" y1="310" x2="400" y2="355" stroke="#9b59b6" stroke-width="2" stroke-dasharray="5,3"/>
+  <line x1="480" y1="310" x2="430" y2="355" stroke="#9b59b6" stroke-width="2" stroke-dasharray="5,3"/>
+</svg>

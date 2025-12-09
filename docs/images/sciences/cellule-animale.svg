@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400">
+  <defs>
+    <radialGradient id="cytoGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#fff9c4"/>
+      <stop offset="100%" style="stop-color:#fff176"/>
+    </radialGradient>
+    <radialGradient id="noyauGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#90caf9"/>
+      <stop offset="100%" style="stop-color:#1976d2"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Titre -->
+  <text x="250" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50" text-anchor="middle">Schéma d'une Cellule Animale</text>
+
+  <!-- Membrane plasmique (contour externe) -->
+  <ellipse cx="250" cy="210" rx="180" ry="140" fill="url(#cytoGrad)" stroke="#ff9800" stroke-width="6"/>
+
+  <!-- Cytoplasme (intérieur) - représenté par la couleur de fond -->
+
+  <!-- Mitochondries -->
+  <g transform="translate(120, 150)">
+    <ellipse cx="25" cy="15" rx="25" ry="12" fill="#ef5350" stroke="#c62828" stroke-width="2"/>
+    <path d="M8,15 Q15,5 25,15 Q35,25 42,15" stroke="#c62828" stroke-width="1.5" fill="none"/>
+  </g>
+  <g transform="translate(320, 260)">
+    <ellipse cx="25" cy="15" rx="25" ry="12" fill="#ef5350" stroke="#c62828" stroke-width="2"/>
+    <path d="M8,15 Q15,5 25,15 Q35,25 42,15" stroke="#c62828" stroke-width="1.5" fill="none"/>
+  </g>
+
+  <!-- Noyau -->
+  <ellipse cx="250" cy="200" rx="60" ry="50" fill="url(#noyauGrad)" stroke="#1565c0" stroke-width="3"/>
+
+  <!-- Nucléole (dans le noyau) -->
+  <circle cx="250" cy="200" r="18" fill="#0d47a1"/>
+
+  <!-- Réticulum endoplasmique (RE) -->
+  <g stroke="#9c27b0" stroke-width="2" fill="none">
+    <path d="M160,280 Q180,260 200,280 Q220,300 240,280"/>
+    <path d="M155,295 Q175,275 195,295 Q215,315 235,295"/>
+  </g>
+
+  <!-- Ribosomes (petits points) -->
+  <g fill="#7b1fa2">
+    <circle cx="165" cy="290" r="3"/>
+    <circle cx="185" cy="275" r="3"/>
+    <circle cx="205" cy="290" r="3"/>
+    <circle cx="225" cy="275" r="3"/>
+    <circle cx="300" cy="150" r="3"/>
+    <circle cx="320" cy="160" r="3"/>
+    <circle cx="180" cy="170" r="3"/>
+  </g>
+
+  <!-- Appareil de Golgi -->
+  <g transform="translate(300, 170)">
+    <path d="M0,0 Q30,-10 60,0" stroke="#4caf50" stroke-width="4" fill="none"/>
+    <path d="M5,12 Q35,2 55,12" stroke="#66bb6a" stroke-width="3" fill="none"/>
+    <path d="M10,22 Q35,14 50,22" stroke="#81c784" stroke-width="3" fill="none"/>
+  </g>
+
+  <!-- Centrioles -->
+  <g transform="translate(350, 300)">
+    <rect x="0" y="0" width="8" height="25" fill="#795548" stroke="#5d4037"/>
+    <rect x="12" y="5" width="8" height="25" fill="#795548" stroke="#5d4037"/>
+  </g>
+
+  <!-- Légendes avec lignes -->
+  <!-- Membrane -->
+  <line x1="430" y1="210" x2="390" y2="210" stroke="#ff9800" stroke-width="2"/>
+  <text x="435" y="215" font-family="Arial, sans-serif" font-size="11" fill="#e65100">Membrane</text>
+
+  <!-- Cytoplasme -->
+  <line x1="150" y1="330" x2="150" y2="310" stroke="#fbc02d" stroke-width="2"/>
+  <text x="130" y="350" font-family="Arial, sans-serif" font-size="11" fill="#f57f17">Cytoplasme</text>
+
+  <!-- Noyau -->
+  <line x1="250" y1="135" x2="250" y2="150" stroke="#1976d2" stroke-width="2"/>
+  <text x="250" y="125" font-family="Arial, sans-serif" font-size="11" fill="#1565c0" text-anchor="middle">Noyau (ADN)</text>
+
+  <!-- Nucléole -->
+  <line x1="280" y1="200" x2="310" y2="200" stroke="#0d47a1" stroke-width="2"/>
+  <text x="315" y="205" font-family="Arial, sans-serif" font-size="10" fill="#0d47a1">Nucléole</text>
+
+  <!-- Mitochondrie -->
+  <line x1="145" y1="140" x2="145" y2="120" stroke="#c62828" stroke-width="2"/>
+  <text x="145" y="110" font-family="Arial, sans-serif" font-size="10" fill="#c62828" text-anchor="middle">Mitochondrie</text>
+
+  <!-- RE et Ribosomes -->
+  <line x1="235" y1="305" x2="260" y2="340" stroke="#9c27b0" stroke-width="2"/>
+  <text x="265" y="355" font-family="Arial, sans-serif" font-size="10" fill="#7b1fa2">Réticulum + Ribosomes</text>
+
+  <!-- Golgi -->
+  <line x1="360" y1="180" x2="400" y2="165" stroke="#4caf50" stroke-width="2"/>
+  <text x="405" y="170" font-family="Arial, sans-serif" font-size="10" fill="#388e3c">Appareil de Golgi</text>
+
+  <!-- Centrioles -->
+  <line x1="374" y1="315" x2="400" y2="330" stroke="#795548" stroke-width="2"/>
+  <text x="405" y="335" font-family="Arial, sans-serif" font-size="10" fill="#5d4037">Centrioles</text>
+</svg>

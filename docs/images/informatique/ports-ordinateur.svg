@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="metalGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#c0c0c0"/>
+      <stop offset="50%" style="stop-color:#a0a0a0"/>
+      <stop offset="100%" style="stop-color:#808080"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Titre -->
+  <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50" text-anchor="middle">Reconnaître les Ports de l'Ordinateur</text>
+
+  <!-- Panneau arrière stylisé -->
+  <rect x="50" y="60" width="700" height="380" rx="10" fill="#2c3e50" stroke="#1a252f" stroke-width="3"/>
+  <text x="400" y="90" font-family="Arial, sans-serif" font-size="14" fill="#ecf0f1" text-anchor="middle">PANNEAU ARRIÈRE DE L'ORDINATEUR</text>
+
+  <!-- USB-A -->
+  <g transform="translate(80, 110)">
+    <rect x="0" y="0" width="150" height="100" rx="5" fill="#34495e"/>
+    <text x="75" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#3498db" text-anchor="middle">USB-A (classique)</text>
+    <!-- Port USB-A -->
+    <rect x="45" y="35" width="60" height="25" rx="2" fill="url(#metalGrad)" stroke="#666"/>
+    <rect x="50" y="42" width="50" height="11" fill="#1a252f"/>
+    <rect x="55" y="45" width="40" height="5" fill="#3498db"/>
+    <text x="75" y="80" font-family="Arial, sans-serif" font-size="10" fill="#bdc3c7" text-anchor="middle">Rectangle - Le port qu'on</text>
+    <text x="75" y="92" font-family="Arial, sans-serif" font-size="10" fill="#bdc3c7" text-anchor="middle">met toujours à l'envers !</text>
+  </g>
+
+  <!-- USB-C -->
+  <g transform="translate(250, 110)">
+    <rect x="0" y="0" width="150" height="100" rx="5" fill="#34495e"/>
+    <text x="75" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60" text-anchor="middle">USB-C (moderne)</text>
+    <!-- Port USB-C -->
+    <rect x="50" y="38" width="50" height="20" rx="10" fill="url(#metalGrad)" stroke="#666"/>
+    <rect x="55" y="43" width="40" height="10" rx="5" fill="#1a252f"/>
+    <text x="75" y="80" font-family="Arial, sans-serif" font-size="10" fill="#bdc3c7" text-anchor="middle">Ovale - Réversible</text>
+    <text x="75" y="92" font-family="Arial, sans-serif" font-size="10" fill="#bdc3c7" text-anchor="middle">(comme les téléphones)</text>
+  </g>
+
+  <!-- HDMI -->
+  <g transform="translate(420, 110)">
+    <rect x="0" y="0" width="150" height="100" rx="5" fill="#34495e"/>
+    <text x="75" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c" text-anchor="middle">HDMI</text>
+    <!-- Port HDMI (trapèze) -->
+    <polygon points="45,55 105,55 115,35 35,35" fill="url(#metalGrad)" stroke="#666" stroke-width="1"/>
+    <polygon points="50,50 100,50 108,38 42,38" fill="#1a252f"/>
+    <text x="75" y="80" font-family="Arial, sans-serif" font-size="10" fill="#bdc3c7" text-anchor="middle">Trapèze - Pour la</text>
+    <text x="75" y="92" font-family="Arial, sans-serif" font-size="10" fill="#bdc3c7" text-anchor="middle">vidéo HD et le son</text>
+  </g>
+
+  <!-- DisplayPort -->
+  <g transform="translate(590, 110)">
+    <rect x="0" y="0" width="150" height="100" rx="5" fill="#34495e"/>
+    <text x="75" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f39c12" text-anchor="middle">DisplayPort</text>
+    <!-- Port DisplayPort (trapèze avec coin coupé) -->
+    <polygon points="45,55 105,55 115,35 55,35 45,45" fill="url(#metalGrad)" stroke="#666" stroke-width="1"/>
+    <polygon points="50,50 100,50 108,38 58,38 50,44" fill="#1a252f"/>
+    <text x="75" y="80" font-family="Arial, sans-serif" font-size="10" fill="#bdc3c7" text-anchor="middle">Comme HDMI mais</text>
+    <text x="75" y="92" font-family="Arial, sans-serif" font-size="10" fill="#bdc3c7" text-anchor="middle">avec un coin coupé</text>
+  </g>
+
+  <!-- Ethernet (RJ45) -->
+  <g transform="translate(80, 230)">
+    <rect x="0" y="0" width="150" height="100" rx="5" fill="#34495e"/>
+    <text x="75" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#9b59b6" text-anchor="middle">Ethernet (RJ45)</text>
+    <!-- Port Ethernet -->
+    <rect x="45" y="32" width="60" height="35" rx="2" fill="url(#metalGrad)" stroke="#666"/>
+    <rect x="50" y="37" width="50" height="25" fill="#1a252f"/>
+    <rect x="55" y="57" width="40" height="3" fill="#f1c40f"/>
+    <text x="75" y="85" font-family="Arial, sans-serif" font-size="10" fill="#bdc3c7" text-anchor="middle">Grand rectangle</text>
+    <text x="75" y="97" font-family="Arial, sans-serif" font-size="10" fill="#bdc3c7" text-anchor="middle">Pour Internet filaire</text>
+  </g>
+
+  <!-- Jack Audio -->
+  <g transform="translate(250, 230)">
+    <rect x="0" y="0" width="150" height="100" rx="5" fill="#34495e"/>
+    <text x="75" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1abc9c" text-anchor="middle">Jack Audio</text>
+    <!-- Ports Jack (3 ronds) -->
+    <circle cx="45" cy="50" r="10" fill="url(#metalGrad)" stroke="#666"/>
+    <circle cx="45" cy="50" r="5" fill="#27ae60"/>
+    <circle cx="75" cy="50" r="10" fill="url(#metalGrad)" stroke="#666"/>
+    <circle cx="75" cy="50" r="5" fill="#3498db"/>
+    <circle cx="105" cy="50" r="10" fill="url(#metalGrad)" stroke="#666"/>
+    <circle cx="105" cy="50" r="5" fill="#e91e63"/>
+    <text x="45" y="73" font-family="Arial, sans-serif" font-size="8" fill="#27ae60" text-anchor="middle">OUT</text>
+    <text x="75" y="73" font-family="Arial, sans-serif" font-size="8" fill="#3498db" text-anchor="middle">IN</text>
+    <text x="105" y="73" font-family="Arial, sans-serif" font-size="8" fill="#e91e63" text-anchor="middle">MIC</text>
+    <text x="75" y="90" font-family="Arial, sans-serif" font-size="10" fill="#bdc3c7" text-anchor="middle">Ronds colorés - Audio</text>
+  </g>
+
+  <!-- VGA -->
+  <g transform="translate(420, 230)">
+    <rect x="0" y="0" width="150" height="100" rx="5" fill="#34495e"/>
+    <text x="75" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#95a5a6" text-anchor="middle">VGA (ancien)</text>
+    <!-- Port VGA -->
+    <polygon points="30,55 120,55 130,35 20,35" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+    <!-- Pins -->
+    <g fill="url(#metalGrad)">
+      <circle cx="40" cy="42" r="2"/><circle cx="50" cy="42" r="2"/><circle cx="60" cy="42" r="2"/>
+      <circle cx="70" cy="42" r="2"/><circle cx="80" cy="42" r="2"/><circle cx="90" cy="42" r="2"/>
+      <circle cx="100" cy="42" r="2"/><circle cx="110" cy="42" r="2"/>
+      <circle cx="45" cy="50" r="2"/><circle cx="55" cy="50" r="2"/><circle cx="65" cy="50" r="2"/>
+      <circle cx="75" cy="50" r="2"/><circle cx="85" cy="50" r="2"/><circle cx="95" cy="50" r="2"/>
+      <circle cx="105" cy="50" r="2"/>
+    </g>
+    <text x="75" y="80" font-family="Arial, sans-serif" font-size="10" fill="#bdc3c7" text-anchor="middle">Trapèze bleu à picots</text>
+    <text x="75" y="92" font-family="Arial, sans-serif" font-size="10" fill="#bdc3c7" text-anchor="middle">Vidéo ancienne génération</text>
+  </g>
+
+  <!-- Alimentation -->
+  <g transform="translate(590, 230)">
+    <rect x="0" y="0" width="150" height="100" rx="5" fill="#34495e"/>
+    <text x="75" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e67e22" text-anchor="middle">Alimentation</text>
+    <!-- Prise secteur -->
+    <rect x="40" y="30" width="70" height="40" rx="5" fill="#1a252f" stroke="#666"/>
+    <rect x="50" y="40" width="10" height="5" fill="url(#metalGrad)"/>
+    <rect x="70" y="40" width="10" height="5" fill="url(#metalGrad)"/>
+    <rect x="90" y="40" width="10" height="5" fill="url(#metalGrad)"/>
+    <text x="75" y="85" font-family="Arial, sans-serif" font-size="10" fill="#bdc3c7" text-anchor="middle">Prise électrique</text>
+    <text x="75" y="97" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c" text-anchor="middle">220V - Attention !</text>
+  </g>
+
+  <!-- Légende -->
+  <g transform="translate(100, 350)">
+    <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ecf0f1">Astuce :</text>
+    <text x="0" y="35" font-family="Arial, sans-serif" font-size="11" fill="#bdc3c7">Les ports ont des formes différentes pour éviter de se tromper de branchement !</text>
+    <text x="0" y="55" font-family="Arial, sans-serif" font-size="11" fill="#bdc3c7">USB-C est le plus pratique car il se branche dans les deux sens.</text>
+  </g>
+</svg>

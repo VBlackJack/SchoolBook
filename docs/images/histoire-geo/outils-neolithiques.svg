@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 280">
+  <!-- Titre -->
+  <text x="350" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="middle">Outils Agricoles du Néolithique</text>
+
+  <!-- Faucille -->
+  <g transform="translate(50, 60)">
+    <rect x="0" y="0" width="180" height="200" rx="10" fill="#fff8e1" stroke="#ff9800" stroke-width="2"/>
+    <text x="90" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#e65100" text-anchor="middle">FAUCILLE</text>
+
+    <!-- Dessin faucille -->
+    <g transform="translate(40, 50)">
+      <!-- Manche -->
+      <rect x="40" y="80" width="15" height="50" fill="#8d6e63" stroke="#5d4037" stroke-width="2"/>
+      <!-- Lame courbe -->
+      <path d="M47,80 Q20,60 30,30 Q50,10 80,20 Q90,30 85,45 Q70,35 50,50 Q40,65 47,80" fill="#90a4ae" stroke="#607d8b" stroke-width="2"/>
+      <!-- Dents -->
+      <g stroke="#546e7a" stroke-width="1">
+        <line x1="35" y1="35" x2="40" y2="40"/>
+        <line x1="45" y1="28" x2="50" y2="35"/>
+        <line x1="58" y1="22" x2="60" y2="30"/>
+        <line x1="70" y1="22" x2="70" y2="30"/>
+      </g>
+    </g>
+
+    <text x="90" y="175" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Pour couper</text>
+    <text x="90" y="190" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">les épis de blé</text>
+  </g>
+
+  <!-- Meule -->
+  <g transform="translate(260, 60)">
+    <rect x="0" y="0" width="180" height="200" rx="10" fill="#e8f5e9" stroke="#4caf50" stroke-width="2"/>
+    <text x="90" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2e7d32" text-anchor="middle">MEULE</text>
+
+    <!-- Dessin meule -->
+    <g transform="translate(25, 50)">
+      <!-- Pierre du dessous (meule dormante) -->
+      <ellipse cx="65" cy="90" rx="60" ry="20" fill="#9e9e9e" stroke="#616161" stroke-width="2"/>
+      <rect x="5" y="70" width="120" height="20" fill="#bdbdbd" stroke="#757575" stroke-width="1"/>
+      <ellipse cx="65" cy="70" rx="60" ry="15" fill="#bdbdbd" stroke="#757575" stroke-width="2"/>
+
+      <!-- Grains -->
+      <g fill="#ffc107">
+        <circle cx="50" cy="68" r="3"/>
+        <circle cx="65" cy="72" r="3"/>
+        <circle cx="80" cy="68" r="3"/>
+        <circle cx="55" cy="75" r="2"/>
+        <circle cx="75" cy="75" r="2"/>
+      </g>
+
+      <!-- Pierre du dessus (molette) -->
+      <ellipse cx="65" cy="50" rx="35" ry="12" fill="#78909c" stroke="#546e7a" stroke-width="2"/>
+    </g>
+
+    <text x="90" y="175" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Pour moudre</text>
+    <text x="90" y="190" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">le grain en farine</text>
+  </g>
+
+  <!-- Houe -->
+  <g transform="translate(470, 60)">
+    <rect x="0" y="0" width="180" height="200" rx="10" fill="#e3f2fd" stroke="#2196f3" stroke-width="2"/>
+    <text x="90" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1565c0" text-anchor="middle">HOUE</text>
+
+    <!-- Dessin houe -->
+    <g transform="translate(50, 40)">
+      <!-- Manche long -->
+      <rect x="35" y="10" width="10" height="100" fill="#8d6e63" stroke="#5d4037" stroke-width="2" transform="rotate(-15, 40, 60)"/>
+      <!-- Lame de pierre -->
+      <path d="M25,90 L55,90 L70,120 L10,120 Z" fill="#78909c" stroke="#546e7a" stroke-width="2"/>
+    </g>
+
+    <text x="90" y="175" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Pour creuser</text>
+    <text x="90" y="190" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">et retourner la terre</text>
+  </g>
+</svg>

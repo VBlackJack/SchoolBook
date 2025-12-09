@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 450">
+  <!-- Titre -->
+  <text x="350" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="middle">Paléolithique vs Néolithique</text>
+
+  <!-- Colonne AVANT (Paléolithique) -->
+  <g transform="translate(50, 60)">
+    <rect x="0" y="0" width="280" height="370" rx="10" fill="#efebe9" stroke="#8d6e63" stroke-width="3"/>
+    <text x="140" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#5d4037" text-anchor="middle">AVANT (Paléolithique)</text>
+
+    <!-- Nomades -->
+    <g transform="translate(20, 55)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="24">🏃</text>
+      <text x="40" y="15" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#6d4c41">Nomades</text>
+      <text x="40" y="32" font-family="Arial, sans-serif" font-size="11" fill="#666">(se déplacent)</text>
+    </g>
+
+    <!-- Chasseurs-cueilleurs -->
+    <g transform="translate(20, 110)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="24">🦌</text>
+      <text x="40" y="15" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#6d4c41">Chasseurs-cueilleurs</text>
+      <text x="40" y="32" font-family="Arial, sans-serif" font-size="11" fill="#666">(prennent dans la nature)</text>
+    </g>
+
+    <!-- Campements -->
+    <g transform="translate(20, 165)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="24">⛺</text>
+      <text x="40" y="15" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#6d4c41">Campements temporaires</text>
+      <text x="40" y="32" font-family="Arial, sans-serif" font-size="11" fill="#666">(tentes, huttes)</text>
+    </g>
+
+    <!-- Petits groupes -->
+    <g transform="translate(20, 220)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="24">👥</text>
+      <text x="40" y="15" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#6d4c41">Petits groupes</text>
+      <text x="40" y="32" font-family="Arial, sans-serif" font-size="11" fill="#666">(20-50 personnes)</text>
+    </g>
+
+    <!-- Pierre taillée -->
+    <g transform="translate(20, 275)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="24">🪨</text>
+      <text x="40" y="15" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#6d4c41">Pierre taillée</text>
+      <text x="40" y="32" font-family="Arial, sans-serif" font-size="11" fill="#666">(silex tranchant)</text>
+    </g>
+
+    <!-- Société égalitaire -->
+    <g transform="translate(20, 330)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="24">⚖️</text>
+      <text x="40" y="15" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#6d4c41">Société égalitaire</text>
+      <text x="40" y="32" font-family="Arial, sans-serif" font-size="11" fill="#666">(tous chasseurs)</text>
+    </g>
+  </g>
+
+  <!-- Flèche centrale -->
+  <g transform="translate(340, 200)">
+    <polygon points="0,0 30,30 0,60 10,30" fill="#9b59b6"/>
+    <text x="15" y="100" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#9b59b6" text-anchor="middle">Révolution</text>
+    <text x="15" y="118" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#9b59b6" text-anchor="middle">néolithique</text>
+  </g>
+
+  <!-- Colonne APRÈS (Néolithique) -->
+  <g transform="translate(370, 60)">
+    <rect x="0" y="0" width="280" height="370" rx="10" fill="#e8f5e9" stroke="#66bb6a" stroke-width="3"/>
+    <text x="140" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2e7d32" text-anchor="middle">APRÈS (Néolithique)</text>
+
+    <!-- Sédentaires -->
+    <g transform="translate(20, 55)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="24">🏠</text>
+      <text x="40" y="15" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#388e3c">Sédentaires</text>
+      <text x="40" y="32" font-family="Arial, sans-serif" font-size="11" fill="#666">(restent au même endroit)</text>
+    </g>
+
+    <!-- Agriculteurs-éleveurs -->
+    <g transform="translate(20, 110)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="24">🌾</text>
+      <text x="40" y="15" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#388e3c">Agriculteurs-éleveurs</text>
+      <text x="40" y="32" font-family="Arial, sans-serif" font-size="11" fill="#666">(produisent leur nourriture)</text>
+    </g>
+
+    <!-- Villages permanents -->
+    <g transform="translate(20, 165)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="24">🏘️</text>
+      <text x="40" y="15" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#388e3c">Villages permanents</text>
+      <text x="40" y="32" font-family="Arial, sans-serif" font-size="11" fill="#666">(maisons en dur)</text>
+    </g>
+
+    <!-- Grandes communautés -->
+    <g transform="translate(20, 220)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="24">👥👥👥</text>
+      <text x="80" y="15" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#388e3c">Grandes communautés</text>
+      <text x="80" y="32" font-family="Arial, sans-serif" font-size="11" fill="#666">(100+ personnes)</text>
+    </g>
+
+    <!-- Pierre polie -->
+    <g transform="translate(20, 275)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="24">🪓</text>
+      <text x="40" y="15" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#388e3c">Pierre polie</text>
+      <text x="40" y="32" font-family="Arial, sans-serif" font-size="11" fill="#666">(haches, outils agricoles)</text>
+    </g>
+
+    <!-- Société hiérarchisée -->
+    <g transform="translate(20, 330)">
+      <text x="0" y="15" font-family="Arial, sans-serif" font-size="24">👑</text>
+      <text x="40" y="15" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#388e3c">Société hiérarchisée</text>
+      <text x="40" y="32" font-family="Arial, sans-serif" font-size="11" fill="#666">(chefs, artisans, paysans)</text>
+    </g>
+  </g>
+</svg>
