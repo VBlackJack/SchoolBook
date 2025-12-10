@@ -180,7 +180,7 @@
 !!! warning "Le match ! 🥊"
     | Critère | HDD | SSD |
     |---------|:---:|:---:|
-    | **Vitesse de lecture** | ~150 Mo/s | 500-7000 Mo/s |
+    | **Vitesse de lecture** | ~100 Mo/s | 500-7000 Mo/s |
     | **Démarrage Windows** | 30-60 sec | 10-15 sec |
     | **Bruit** | Oui | Non |
     | **Résistance aux chocs** | Faible | Excellente |

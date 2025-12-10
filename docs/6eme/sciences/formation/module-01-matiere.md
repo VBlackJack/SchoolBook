@@ -64,7 +64,7 @@
     **Piège 1 : Croire que l'air n'est pas de la matière**
 
     - ❌ "L'air n'existe pas, c'est du vide"
-    - ✅ L'air **EST** de la matière : il a une **masse** (1,2 kg par m³) et un **volume**
+    - ✅ L'air **EST** de la matière : il a une **masse** (environ 1,3 kg par m³) et un **volume**
 
     **Preuves :** Le vent peut faire tomber des arbres, un ballon gonflé est plus lourd qu'un ballon dégonflé.
 
@@ -110,7 +110,7 @@
     - Quand il y a du vent → l'air se déplace
     - Quand tu plonges un verre retourné dans l'eau → l'eau ne rentre pas (l'air bloque)
 
-    **L'air a une masse : 1 m³ d'air pèse environ 1,2 kg !**
+    **L'air a une masse : 1 m³ d'air pèse environ 1,3 kg !**
 
 ---
 
@@ -167,7 +167,7 @@ Regarde autour de toi : une table, un verre d'eau, l'air que tu respires... Tout
     Preuves :
     - Quand tu souffles un ballon, quelque chose le gonfle
     - Le vent peut faire tomber des arbres → l'air a une force
-    - 1 mètre cube d'air pèse 1,2 kg !
+    - 1 mètre cube d'air pèse environ 1,3 kg !
 
     L'air est de la matière, juste **invisible** !
 

@@ -115,11 +115,11 @@
     | **Pleine Lune** | Tout le disque |
     | **Dernier quartier** | Moitié gauche |
 
-    **Astuce :** Si elle forme un "D" → elle **D**écroît / Si elle forme un "C" → elle **C**roît (elle ment !)
+    **Astuce (hémisphère Nord) :** Si elle forme un "D" → elle **D**écroît / Si elle forme un "C" → elle **C**roît (elle ment !)
 
 !!! example "Les saisons expliquées"
 
-    **La Terre est penchée de 23° sur son orbite**
+    **La Terre est penchée de 23,5° sur son orbite**
 
     - Été en France → Notre hémisphère penche vers le Soleil
     - Hiver en France → Notre hémisphère penche loin du Soleil
@@ -159,7 +159,7 @@
 
     **Les saisons = la Terre tourne autour du Soleil ET elle est penchée**
 
-    La Terre est inclinée de 23° (comme si tu penchais la tête) :
+    La Terre est inclinée de 23,5° (comme si tu penchais la tête) :
 
     - **Été en France** : notre côté penche vers le Soleil
       - Journées longues, Soleil haut = il fait chaud
@@ -177,7 +177,7 @@
     - **Pleine Lune** : on voit toute la face éclairée
     - **Croissants** : on voit une partie de la face éclairée
 
-    **Astuce pour savoir si la Lune croît ou décroît :**
+    **Astuce pour savoir si la Lune croît ou décroît (valable dans l'hémisphère Nord) :**
     - Si elle forme un "D" → **D**écroît
     - Si elle forme un "C" → **C**roît (elle ment, c'est l'inverse du C !)
 
@@ -270,7 +270,7 @@
 ### 3.1 Satellite de la Terre
 
 !!! success "À retenir"
-    La **Lune** est le satellite naturel de la Terre. Elle tourne autour de la Terre en **27 jours** environ.
+    La **Lune** est le satellite naturel de la Terre. Elle tourne autour de la Terre en **27 jours** environ (révolution). Le cycle complet des phases (de pleine Lune à pleine Lune) dure **29,5 jours** car la Terre se déplace aussi !
 
 ### 3.2 Les phases de la Lune
 

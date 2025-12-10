@@ -256,13 +256,13 @@
 
 !!! question "Réponds"
     a) Une adresse IP est comme une adresse postale pour les ordinateurs.
-    b) Le DNS traduit les adresses IP en noms de domaine.
+    b) Le DNS traduit les noms de domaine en adresses IP.
     c) Un FAI fournit l'accès à Internet.
     d) Le Web et Internet sont la même chose.
 
 ??? success "Correction"
     a) **Vrai**
-    b) **Vrai** (et inversement : noms en IP)
+    b) **Vrai** (le DNS traduit les noms lisibles comme "google.fr" en adresses IP numériques)
     c) **Vrai**
     d) **Faux** - Internet est l'infrastructure, le Web est un service sur Internet
 

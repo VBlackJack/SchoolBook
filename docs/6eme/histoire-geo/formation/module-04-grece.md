@@ -244,7 +244,7 @@ La Grèce antique n'était pas un pays unifié mais un ensemble de **cités-Éta
     | Pas les esclaves | Plus d'esclaves |
     | Pas les étrangers | Les étrangers peuvent devenir citoyens |
 
-    Sur 400 000 habitants d'Athènes, seulement 40 000 étaient citoyens !
+    Sur 300 000 habitants d'Athènes, seulement 40 000 étaient citoyens !
 
 **Évolution politique d'Athènes :**
 

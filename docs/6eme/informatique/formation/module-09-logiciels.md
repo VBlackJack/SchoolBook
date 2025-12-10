@@ -267,12 +267,12 @@
 ### Les alternatives libres
 
 !!! tip "Remplacer les logiciels payants"
-    | Logiciel payant | Alternative libre |
-    |-----------------|-------------------|
-    | Microsoft Office | **LibreOffice** |
-    | Photoshop | **GIMP** |
-    | Premiere Pro | **DaVinci Resolve** (version gratuite) |
-    | Windows | **Linux** (Ubuntu, Mint...) |
+    | Logiciel payant | Alternative libre ou gratuite |
+    |-----------------|-------------------------------|
+    | Microsoft Office | **LibreOffice** (libre) |
+    | Photoshop | **GIMP** (libre) |
+    | Premiere Pro | **Kdenlive** (libre) ou **DaVinci Resolve** (gratuit mais pas libre) |
+    | Windows | **Linux** (Ubuntu, Mint...) (libre) |
 
 ---
 

@@ -632,7 +632,7 @@ a) Trouve le radical de « invisible »
 b) Quel préfixe indique la négation ?
 c) Donne un mot de la même famille que « visible »
 d) Trouve un synonyme de « voir »
-e) Trouve un antonyme de « visible »
+e) Forme un mot contraire de « visible » avec un préfixe négatif
 f) « Voir rouge » est au sens propre ou figuré ?
 g) Que signifie « voir rouge » ?
 
@@ -652,7 +652,7 @@ g) Que signifie « voir rouge » ?
     b) Préfixe : **in-**
     c) vision, visuel, visibilité...
     d) apercevoir, regarder, observer
-    e) invisible
+    e) invisible (formé avec le préfixe négatif **in-**)
     f) Sens figuré
     g) Être très en colère
 

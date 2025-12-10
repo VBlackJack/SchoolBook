@@ -327,7 +327,7 @@
     say             said            dire
     tell            told            raconter
     write           wrote           écrire
-    read            read            lire
+    read            read            lire (attention : se prononce "red" au passé !)
     run             ran             courir
     swim            swam            nager
     sing            sang            chanter

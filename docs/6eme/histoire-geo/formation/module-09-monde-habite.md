@@ -643,7 +643,7 @@ Les populations se concentrent là où il y a :
 
 !!! tip "Anecdotes fascinantes"
     - Si tous les humains se tenaient côte à côte, ils tiendraient dans la ville de **Los Angeles** !
-    - L'**Inde** dépassera la **Chine** comme pays le plus peuplé d'ici 2025
+    - L'**Inde** a dépassé la **Chine** comme pays le plus peuplé en 2023
     - **Tokyo** est la plus grande agglomération du monde avec **38 millions d'habitants**
     - La densité de **Monaco** est de **19 000 hab/km²**, la plus élevée au monde
     - Le **Nigeria** pourrait devenir le 3e pays le plus peuplé en 2050

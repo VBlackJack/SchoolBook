@@ -78,9 +78,11 @@
     | -S, -SH, -CH, -X, -O | + **ES** | watch**ES**, go**ES** |
     | consonne + Y | Y → **IES** | stud**IES**, tr**IES** |
     | voyelle + Y | + **S** | play**S**, stay**S** |
+    | **have** (exception) | → **HAS** | She **has** a dog |
 
     ❌ "She watchs TV" → ✅ "She watch**ES** TV"
     ❌ "He studys" → ✅ "He stud**IES**"
+    ❌ "He haves a car" → ✅ "He **has** a car"
 
     ---
 
