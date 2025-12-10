@@ -757,22 +757,12 @@ b) Combien de roses lui restera-t-il ?
 ??? question "Défi 2 : Remettre les signes"
     Place +, -, × ou ÷ pour que l'égalité soit vraie :
 
-    8 __ 4 __ 2 __ 3 = 11
+    3 __ 5 __ 2 __ 4 = 17
 
     ??? success "Réponse"
-        8 **+** 4 **-** 2 **+** 3 = 11 (ou autres combinaisons)
+        3 **+** 5 **×** 2 **+** 4 = 3 + 10 + 4 = **17** ✓
 
-        ou 8 **÷** 4 **+** 2 **×** 3 = 2 + 6 = 8... non
-
-        8 **+** 4 **÷** 2 **+** 3 = 8 + 2 + 3 = 13... non
-
-        Essayons : 8 **×** 4 **÷** 2 **-** 3 = 32 ÷ 2 - 3 = 16 - 3 = 13... non
-
-        8 **-** 4 **+** 2 **×** 3 = 8 - 4 + 6 = **10**... non
-
-        Autre : 8 **+** 4 **-** 2 **+** 1 = 11... avec 1, pas 3
-
-        Bonne réponse : **pas de solution avec ces 4 nombres**. Défi modifié : 8 + 4 - 2 + 1 = 11
+        N'oublie pas : la multiplication est prioritaire, donc 5 × 2 = 10 se calcule d'abord !
 
 ??? question "Défi 3 : Calcul astucieux"
     Calcule astucieusement : 25 × 17 × 4

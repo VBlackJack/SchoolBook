@@ -47,7 +47,7 @@
 !!! example "Test rapide : cette lettre est-elle symétrique ?"
     ```
     A → OUI (axe vertical │)
-    B → OUI (axe horizontal ─)
+    B → NON (les deux bosses ne sont pas identiques)
     F → NON
     H → OUI (2 axes ! │ et ─)
     O → OUI (plein d'axes !)
@@ -78,7 +78,7 @@ Les deux ailes du papillon sont symétriques par rapport à l'axe central (le co
     - Le visage humain (à peu près !)
     - Un papillon
     - Un sapin de Noël
-    - Les lettres : A, B, C, D, E, H, I, K, M, O, T, U, V, W, X, Y
+    - Les lettres : A, C, D, E, H, I, M, O, T, U, V, W, X, Y
     - Un coeur ♥
 
     ![Lettres symétriques](../../../assets/images/maths/lettres-symetriques.jpeg){ loading=lazy }

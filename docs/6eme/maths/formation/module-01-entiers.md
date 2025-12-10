@@ -119,8 +119,8 @@
 
     Pour arrondir à la centaine, regarde le chiffre des **dizaines** (pas des centaines !)
 
-    - 4 **3**47 arrondi à la centaine → 4 300 (car 4 < 5)
-    - 4 **6**47 arrondi à la centaine → 4 700 (car 6 ≥ 5)
+    - 4 3**4**7 arrondi à la centaine → 4 300 (car 4 < 5)
+    - 4 3**6**7 arrondi à la centaine → 4 400 (car 6 ≥ 5)
 
 ??? abstract "🔄 Autre façon de comprendre : Chiffre vs Nombre"
     **Pense aux lettres et aux mots :**
