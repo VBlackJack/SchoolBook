@@ -54,6 +54,8 @@
 
     **Piège 1 : Confondre homogène et hétérogène**
 
+    ![Mélanges homogène vs hétérogène](../../../assets/images/sciences/melanges-comparaison.jpeg){ width="100%" loading=lazy }
+
     | Tu vois... | Type de mélange |
     |------------|-----------------|
     | Une seule chose (uniforme) | **Homogène** |
@@ -76,6 +78,8 @@
     ---
 
     **Piège 3 : Confondre les techniques de séparation**
+
+    ![Techniques de séparation](../../../assets/images/sciences/techniques-separation.jpeg){ width="100%" loading=lazy }
 
     | Technique | Pour séparer... | Exemple |
     |-----------|-----------------|---------|

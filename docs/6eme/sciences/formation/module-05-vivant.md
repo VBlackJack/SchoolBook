@@ -45,6 +45,8 @@
     - Il faut les nourrir (blé pour les vaches)
     - Les arbres poussent à partir de graines
 
+![Les caractéristiques du vivant](../../../assets/images/sciences/caracteristiques-vivant.jpeg){ width="100%" loading=lazy }
+
 !!! warning "Attention aux pièges !"
 
     **Ce qui SEMBLE vivant mais ne l'est PAS :**

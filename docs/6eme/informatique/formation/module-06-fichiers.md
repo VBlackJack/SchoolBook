@@ -214,6 +214,8 @@
 
 ### L'arborescence
 
+![L'arborescence des fichiers](../../../assets/images/informatique/arborescence-fichiers.jpeg){ width="100%" loading=lazy }
+
 !!! info "Structure en arbre"
     Les dossiers sont organisés en **arborescence** (comme un arbre) :
 

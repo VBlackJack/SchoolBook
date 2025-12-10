@@ -144,6 +144,8 @@ La Grèce antique n'était pas un pays unifié mais un ensemble de **cités-Éta
     - Un **territoire** agricole autour
     - Ses propres **lois**, sa **monnaie**, son **armée**
 
+![Une cité grecque](../../../assets/images/histoire-geo/cite-grecque.jpeg){ width="100%" loading=lazy }
+
 ??? abstract "🔄 Autre façon de comprendre : les cités grecques"
     **Les cités grecques, c'est comme des serveurs Minecraft indépendants !**
 

@@ -181,23 +181,9 @@
     - Si elle forme un "D" → **D**écroît
     - Si elle forme un "C" → **C**roît (elle ment, c'est l'inverse du C !)
 
-```
-    LES 8 PLANÈTES (dans l'ordre)
+![Le système solaire](../../../assets/images/sciences/systeme-solaire.jpeg){ width="100%" loading=lazy }
 
-    ☀️ SOLEIL
-        │
-        ├─ ☿ Mercure     (la plus proche)
-        ├─ ♀ Vénus
-        ├─ 🌍 TERRE      (notre planète !)
-        ├─ ♂ Mars        (la rouge)
-        ├─ ♃ Jupiter     (la plus grosse)
-        ├─ ♄ Saturne     (les anneaux)
-        ├─ ♅ Uranus
-        └─ ♆ Neptune     (la plus lointaine)
-
-    Moyen mnémotechnique :
-    "Me Voici Toute Mignonne, Je Suis Une Nébuleuse"
-```
+*Moyen mnémotechnique : "Me Voici Toute Mignonne, Je Suis Une Nébuleuse"*
 
 ### 1.2 Caractéristiques des planètes
 

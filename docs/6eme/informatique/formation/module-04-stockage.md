@@ -26,6 +26,8 @@
 
 ### Mémoire vs Stockage
 
+![Hiérarchie du stockage](../../../assets/images/informatique/hierarchie-stockage.jpeg){ width="100%" loading=lazy }
+
 !!! warning "Ne pas confondre !"
     | | Mémoire RAM | Stockage (SSD/HDD) |
     |--|-------------|---------------------|

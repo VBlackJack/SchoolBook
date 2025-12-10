@@ -267,29 +267,13 @@
 
 ### 2.3 Dire l'heure (méthode traditionnelle)
 
-```
-    L'HEURE EN ANGLAIS
+![Telling the time - Les horloges](../../../assets/images/anglais/telling-time-clocks.jpeg){ width="100%" loading=lazy }
 
-                    12
-                    │
-            PAST    │    TO
-           (après)  │  (avant)
-                    │
-         ←──────────┼──────────→
-                    │
-           :15      │      :45
-       quarter past │  quarter to
-                    │
-           :30      │
-         half past  │
-                    │
-                    6
+**Exemples :**
 
-    Exemples :
-    8:15  →  quarter past eight    (un quart après 8h)
-    8:30  →  half past eight       (8h et demie)
-    8:45  →  quarter to nine       (un quart avant 9h)
-```
+- 8:15  →  quarter past eight (un quart après 8h)
+- 8:30  →  half past eight (8h et demie)
+- 8:45  →  quarter to nine (un quart avant 9h)
 
 ### 2.4 Tableau récapitulatif
 
@@ -319,21 +303,24 @@
 
 ---
 
-## 3. Les jours de la semaine - Days of the week
+## 3. Les jours et les mois - Days and Months
 
-```
-    DAYS OF THE WEEK
+![Days and Months - Jours et mois](../../../assets/images/anglais/days-months-calendar.jpeg){ width="100%" loading=lazy }
 
-    Monday      →  lundi
-    Tuesday     →  mardi
-    Wednesday   →  mercredi
-    Thursday    →  jeudi
-    Friday      →  vendredi
-    Saturday    →  samedi
-    Sunday      →  dimanche
+### 3.1 Les jours de la semaine - Days of the week
 
-    ⚠️ Toujours avec une MAJUSCULE en anglais !
-```
+| English | Français |
+|---------|----------|
+| **Monday** | lundi |
+| **Tuesday** | mardi |
+| **Wednesday** | mercredi |
+| **Thursday** | jeudi |
+| **Friday** | vendredi |
+| **Saturday** | samedi |
+| **Sunday** | dimanche |
+
+!!! warning "Attention"
+    Toujours avec une **MAJUSCULE** en anglais !
 
 !!! tip "Moyens mnémotechniques"
     - **Monday** = Moon day (jour de la Lune)
@@ -342,26 +329,25 @@
 
 ---
 
-## 4. Les mois de l'année - Months of the year
+### 3.2 Les mois de l'année - Months of the year
 
-```
-    MONTHS OF THE YEAR
+| English | Français |
+|---------|----------|
+| **January** | janvier |
+| **February** | février |
+| **March** | mars |
+| **April** | avril |
+| **May** | mai |
+| **June** | juin |
+| **July** | juillet |
+| **August** | août |
+| **September** | septembre |
+| **October** | octobre |
+| **November** | novembre |
+| **December** | décembre |
 
-    January     →  janvier
-    February    →  février
-    March       →  mars
-    April       →  avril
-    May         →  mai
-    June        →  juin
-    July        →  juillet
-    August      →  août
-    September   →  septembre
-    October     →  octobre
-    November    →  novembre
-    December    →  décembre
-
-    ⚠️ Toujours avec une MAJUSCULE en anglais !
-```
+!!! warning "Attention"
+    Toujours avec une **MAJUSCULE** en anglais !
 
 ---
 

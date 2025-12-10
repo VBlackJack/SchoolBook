@@ -59,6 +59,8 @@
 
     **À l'oral c'est toléré, mais à l'écrit le « ne » est OBLIGATOIRE !**
 
+![Les 4 types de phrases](../../../assets/images/francais/types-phrases.jpeg){ width="100%" loading=lazy }
+
 ??? warning "⚠️ Pièges à éviter : la phrase"
     **Piège 1 : Confondre les 4 types de phrases**
 

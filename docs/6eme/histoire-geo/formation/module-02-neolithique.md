@@ -160,7 +160,7 @@ On parle de « révolution » car ce changement a **transformé totalement** la 
 
 La révolution néolithique est née au **Proche-Orient** (actuel Irak, Syrie, Turquie), dans une région appelée le **Croissant fertile**.
 
-![Le Croissant Fertile](../../../assets/images/histoire-geo/croissant-fertile.png){ width="100%" }
+![Le Croissant Fertile](../../../assets/images/histoire-geo/croissant-fertile.jpeg){ width="100%" loading=lazy }
 
 *Le Croissant fertile : berceau de l'agriculture et des premières civilisations*
 
@@ -321,13 +321,8 @@ La vie sédentaire apporte aussi des difficultés :
 
 La révolution néolithique s'est **diffusée** progressivement depuis le Proche-Orient :
 
-```mermaid
-flowchart TD
-    A["-10 000 : Proche-Orient<br>(Croissant fertile)"] --> B["-7 000 : Grèce, Balkans"]
-    B --> C["-6 000 : Méditerranée<br>(Italie, France du Sud)"]
-    C --> D["-5 000 : Europe centrale,<br>atlantique"]
-    D --> E["-4 000 : Nord de l'Europe,<br>îles britanniques"]
-```
+![Diffusion du Néolithique](../../../assets/images/histoire-geo/diffusion-neolithique.jpeg){ width="100%" loading=lazy }
+
 *Vitesse moyenne : environ 1 km par an !*
 
 ### 6.2 Monuments mégalithiques

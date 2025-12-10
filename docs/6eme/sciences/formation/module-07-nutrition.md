@@ -177,22 +177,9 @@
 
     **Les animaux sont "paresseux" : ils mangent ce que les plantes fabriquent !**
 
-```
-    LA PHOTOSYNTHÈSE
+![La photosynthèse](../../../assets/images/sciences/photosynthese.jpeg){ width="100%" loading=lazy }
 
-         ☀️ Lumière
-            │
-            ▼
-    CO₂  ────►  🌿  ────► O₂
-    (air)      FEUILLE      (rejeté)
-                 │
-                 ▼
-    H₂O  ────► GLUCOSE
-    (racines)   (nourriture)
-
-    BILAN :
-    Eau + CO₂ + Lumière → Glucose + O₂
-```
+**BILAN : Eau + CO₂ + Lumière → Glucose + O₂**
 
 ### 1.2 Les besoins des plantes
 

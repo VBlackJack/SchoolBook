@@ -61,6 +61,8 @@
     - **Mots variables** : ils peuvent changer de forme (genre, nombre, personne)
     - **Mots invariables** : ils ne changent jamais
 
+![Hiérarchie des classes de mots](../../../assets/images/francais/classes-mots-hierarchie.jpeg){ width="100%" loading=lazy }
+
 ### Les mots variables
 
 | Classe | Change en... | Exemple |
