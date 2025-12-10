@@ -670,6 +670,6 @@ c) Durée totale de la recette ?
 
 ## Prochaine étape
 
-[Module 10 - Résolution de problèmes](module-10-problemes.md){ .md-button .md-button--primary }
+[Retour à l'index de la formation](index.md){ .md-button .md-button--primary }
 
 [Retour à l'index](index.md){ .md-button }

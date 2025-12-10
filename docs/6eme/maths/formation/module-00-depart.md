@@ -42,7 +42,7 @@
 
 ### Question A5 (1 pt)
 ??? question "Arrondis 6 847 à la centaine près."
-    Réponse attendue : **6 800** (ou 6 900 si on arrondit au plus proche : 6 900)
+    Réponse attendue : **6 800** (car le chiffre des dizaines est 4 < 5)
 
 ---
 
@@ -222,7 +222,7 @@
 | D - Fractions | /3 | < 2 : 🔴 À reprendre | Module 4 |
 | E - Géométrie | /5 | < 3 : 🔴 À reprendre | Modules 6, 7 |
 | F - Mesures | /3 | < 2 : 🔴 À reprendre | Module 9 |
-| G - Problème | /4 | < 2 : 🔴 À reprendre | Module 10 |
+| G - Problème | /4 | < 2 : 🔴 À reprendre | Tous les modules |
 
 ### Ton parcours personnalisé
 
