@@ -305,7 +305,7 @@
 ### Pourquoi diviser par 2 ?
 
 !!! example "Le triangle = la moitié du rectangle"
-    ![Triangle = moitié du rectangle](../../../../assets/images/maths/aire-triangle.jpeg){ loading=lazy }
+    ![Triangle = moitié du rectangle](../../../../assets/images/maths/aire-triangle-moitie-rectangle.jpeg){ loading=lazy }
 
     Le triangle prend exactement la moitié du rectangle → A = (b × h) ÷ 2
 
