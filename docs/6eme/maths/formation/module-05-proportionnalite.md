@@ -231,6 +231,8 @@
 
 ## Leçon 2 : Le tableau de proportionnalité
 
+![Tableau de proportionnalité](../../../../assets/images/maths/tableau-proportionnalite.jpeg){ loading=lazy }
+
 ### Propriétés du tableau
 
 !!! info "Propriétés fondamentales"
@@ -260,6 +262,8 @@
     8 = 3 + 5, donc on additionne les prix : 6 + 10 = **16 €**
 
 ### La règle de trois (produit en croix)
+
+![Produit en croix](../../../../assets/images/maths/produit-en-croix.jpeg){ loading=lazy }
 
 !!! tip "Méthode du produit en croix"
     Pour trouver une valeur manquante dans un tableau de proportionnalité :
@@ -342,6 +346,8 @@
 ## Leçon 3 : Les pourcentages
 
 ### Qu'est-ce qu'un pourcentage ?
+
+![Pourcentages en cercles](../../../../assets/images/maths/pourcentages-cercles.jpeg){ loading=lazy }
 
 !!! info "Définition"
     Un **pourcentage** est une fraction de dénominateur 100.
@@ -432,6 +438,8 @@
 ## Leçon 4 : Les échelles
 
 ### Qu'est-ce qu'une échelle ?
+
+![Échelle sur un plan](../../../../assets/images/maths/echelle-plan.jpeg){ loading=lazy }
 
 !!! info "Définition"
     Une **échelle** est le rapport entre les dimensions sur un plan/carte

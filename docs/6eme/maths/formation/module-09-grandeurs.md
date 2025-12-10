@@ -104,6 +104,8 @@
 
 ## Leçon 1 : Les longueurs
 
+![Conversion des longueurs](../../../../assets/images/maths/conversion-longueurs.jpeg){ loading=lazy }
+
 ### Les unités de longueur
 
 !!! info "Les unités principales"
@@ -242,6 +244,8 @@
 
 ## Leçon 2 : Les masses
 
+![Conversion des masses](../../../../assets/images/maths/conversion-masses.jpeg){ loading=lazy }
+
 ### Les unités de masse
 
 !!! info "Les unités principales"
@@ -317,6 +321,8 @@
 ---
 
 ## Leçon 3 : Les capacités (volumes liquides)
+
+![Conversion des capacités](../../../../assets/images/maths/conversion-capacites.jpeg){ loading=lazy }
 
 ### Les unités de capacité
 
@@ -395,6 +401,8 @@
 ---
 
 ## Leçon 4 : Les durées
+
+![Conversion des durées](../../../../assets/images/maths/conversion-durees.jpeg){ loading=lazy }
 
 ### Les unités de durée
 
@@ -493,6 +501,8 @@
 ---
 
 ## Leçon 5 : Les aires
+
+![Conversion des aires](../../../../assets/images/maths/conversion-aires.jpeg){ loading=lazy }
 
 ### Les unités d'aire
 

@@ -60,6 +60,8 @@
 
 ### Définition
 
+![Symétrie du papillon](../../../../assets/images/maths/symetrie-papillon.jpeg){ loading=lazy }
+
 !!! info "Symétrie axiale"
     Deux figures sont **symétriques par rapport à un axe** si,
     en pliant la feuille le long de cet axe, les deux figures se superposent.
@@ -92,6 +94,8 @@
     - Les lettres : A, B, C, D, E, H, I, K, M, O, T, U, V, W, X, Y
     - Un coeur ♥
 
+    ![Lettres symétriques](../../../../assets/images/maths/lettres-symetriques.jpeg){ loading=lazy }
+
 ### Figures sans axe de symétrie
 
 !!! warning "Attention"
@@ -103,6 +107,8 @@
 
 ??? abstract "🔄 Autre façon de comprendre : la symétrie"
     **Le test du miroir :**
+
+    ![Test du miroir](../../../../assets/images/maths/test-miroir.jpeg){ loading=lazy }
 
     Place un miroir vertical au milieu de ton dessin.
     Si le reflet complète parfaitement l'image → c'est symétrique !
@@ -185,6 +191,8 @@
 
 ### Le carré : 4 axes
 
+![Symétrie du carré](../../../../assets/images/maths/symetrie-carre.jpeg){ loading=lazy }
+
 !!! example "Les 4 axes du carré"
     ```
         axe 1
@@ -202,6 +210,8 @@
 
 ### Le rectangle : 2 axes
 
+![Symétrie du rectangle](../../../../assets/images/maths/symetrie-rectangle.jpeg){ loading=lazy }
+
 !!! example "Les 2 axes du rectangle"
     ```
           │
@@ -217,6 +227,13 @@
 !!! warning "Piège fréquent"
     Les **diagonales** du rectangle ne sont **PAS** des axes de symétrie !
     (sauf si c'est un carré)
+
+### Le losange : 2 axes
+
+![Symétrie du losange](../../../../assets/images/maths/symetrie-losange.jpeg){ loading=lazy }
+
+!!! example "Les 2 axes du losange"
+    Les deux diagonales du losange sont ses axes de symétrie.
 
 ??? warning "⚠️ Pièges à éviter : symétrie"
     **Piège 1 : Croire que la lettre S est symétrique**
@@ -255,6 +272,8 @@
     - Hexagone régulier : 6 axes
 
 ### Le triangle équilatéral : 3 axes
+
+![Symétrie du triangle équilatéral](../../../../assets/images/maths/symetrie-triangle-equilateral.jpeg){ loading=lazy }
 
 !!! example "Les 3 axes du triangle équilatéral"
     ```
@@ -307,6 +326,8 @@
 ---
 
 ## Leçon 3 : Construire le symétrique d'un point
+
+![Symétrique d'un point](../../../../assets/images/maths/symetrique-point.jpeg){ loading=lazy }
 
 ### Méthode avec la règle et l'équerre
 

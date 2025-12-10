@@ -71,6 +71,8 @@
 
 ### Le tableau de numération étendu
 
+![Tableau de numération décimale](../../../../assets/images/maths/tableau-numeration-decimale.jpeg){ loading=lazy }
+
 | Centaines | Dizaines | Unités | , | Dixièmes | Centièmes | Millièmes |
 |:---------:|:--------:|:------:|:-:|:--------:|:---------:|:---------:|
 | 100 | 10 | 1 | , | 0,1 | 0,01 | 0,001 |
@@ -81,6 +83,8 @@
 Ou : "quarante-sept unités et trois cent cinquante-six millièmes"
 
 ### Les décimaux sur la droite graduée
+
+![Droite graduée décimale](../../../../assets/images/maths/droite-graduee-decimale.jpeg){ loading=lazy }
 
 !!! example "Place 2,7 sur une droite graduée"
     ```
@@ -331,6 +335,8 @@ Ou : "quarante-sept unités et trois cent cinquante-six millièmes"
     - **13,00 = 13**
 
 ### Multiplier par 10, 100, 1000
+
+![Déplacer la virgule](../../../../assets/images/maths/deplacer-virgule.jpeg){ loading=lazy }
 
 !!! tip "Règle magique"
     - × 10 → la virgule se déplace d'**1 rang vers la droite**

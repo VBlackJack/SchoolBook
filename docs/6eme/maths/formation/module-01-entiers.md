@@ -55,6 +55,8 @@
 | C | D | U | C | D | U | C | D | U |
 | Centaines de millions | Dizaines de millions | Millions | Centaines de milliers | Dizaines de milliers | Milliers | Centaines | Dizaines | Unités |
 
+![Tableau de numération](../../../../assets/images/maths/tableau-numeration.jpeg){ loading=lazy }
+
 !!! example "Exemple : Le nombre 45 236 781"
     | C | D | U | C | D | U | C | D | U |
     |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -132,6 +134,8 @@
     ---
 
     **Autre image : les étages d'un immeuble**
+
+    ![Chiffres et nombres : analogie de l'immeuble](../../../../assets/images/maths/chiffres-nombres-immeubles.jpeg){ loading=lazy }
 
     ```
     3 456 = un immeuble de 4 étages
@@ -365,6 +369,8 @@
 ## 📚 Leçon 4 : La droite graduée
 
 ### Placer un nombre sur une droite
+
+![Droite graduée de 0 à 1000](../../../../assets/images/maths/droite-graduee-0-1000.jpeg){ loading=lazy }
 
 !!! info "Méthode"
     1. Regarde la graduation (de combien en combien ?)

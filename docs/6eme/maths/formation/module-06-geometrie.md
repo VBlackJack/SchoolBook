@@ -171,6 +171,8 @@
 
 ## Leçon 2 : Les instruments de géométrie
 
+![Instruments de géométrie](../../../../assets/images/maths/instruments-geometrie.jpeg){ loading=lazy }
+
 ### La règle graduée
 
 !!! tip "Utilisation"
@@ -209,6 +211,8 @@
     ```
 
 ### Le rapporteur
+
+![Rapporteur](../../../../assets/images/maths/rapporteur.jpeg){ loading=lazy }
 
 !!! tip "Utilisation"
     - Mesurer des angles
@@ -307,6 +311,8 @@
     (L'aiguille d'une montre forme des angles aigus quand elle indique 1h, 2h...)
 
 ### Mesurer un angle avec le rapporteur
+
+![Mesurer un angle](../../../../assets/images/maths/mesurer-angle.jpeg){ loading=lazy }
 
 !!! tip "Méthode"
     1. Place le **centre** du rapporteur sur le **sommet** de l'angle

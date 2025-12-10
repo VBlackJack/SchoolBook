@@ -297,6 +297,8 @@
     La **hauteur** est le segment **perpendiculaire** à la base,
     qui va du sommet opposé à la base.
 
+    ![Hauteur du triangle](../../../../assets/images/maths/hauteur-triangle.jpeg){ loading=lazy }
+
 !!! example "Visualisation"
     ![Triangle : base et hauteur](../../../../assets/images/maths/aire-triangle.jpeg){ loading=lazy }
 
@@ -347,6 +349,8 @@
 
 ### Vocabulaire
 
+![Éléments du cercle](../../../../assets/images/maths/cercle-elements-sith.jpeg){ loading=lazy }
+
 !!! info "Cercle vs Disque"
     - **Cercle** = le contour (la ligne)
     - **Disque** = l'intérieur (la surface)
@@ -376,6 +380,8 @@
     P = 2 × π × 5 = 2 × 3,14 × 5 = **31,4 cm**
 
 ### Aire du disque
+
+![Aire du disque](../../../../assets/images/maths/aire-disque.jpeg){ loading=lazy }
 
 !!! tip "Formule"
     $$A = \pi \times rayon^2 = \pi r^2$$
