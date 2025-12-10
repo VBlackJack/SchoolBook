@@ -60,26 +60,13 @@
 
 ### Définition
 
-![Symétrie du papillon](../../../assets/images/maths/symetrie-papillon.jpeg){ loading=lazy }
-
 !!! info "Symétrie axiale"
     Deux figures sont **symétriques par rapport à un axe** si,
     en pliant la feuille le long de cet axe, les deux figures se superposent.
 
-!!! example "Exemple : le papillon"
-    ```
-         axe
-          │
-      ╱╲  │  ╱╲
-     ╱  ╲ │ ╱  ╲
-    ╱    ╲│╱    ╲
-    ╲    ╱│╲    ╱
-     ╲  ╱ │ ╲  ╱
-      ╲╱  │  ╲╱
-          │
+![Symétrie du papillon](../../../assets/images/maths/symetrie-papillon.jpeg){ loading=lazy }
 
-    Les deux ailes sont symétriques par rapport à l'axe central.
-    ```
+Les deux ailes du papillon sont symétriques par rapport à l'axe central (le corps).
 
 ### L'axe de symétrie
 
@@ -128,11 +115,6 @@
     - À la **même distance** de l'axe
     - De l'**autre côté** de l'axe
     - Sur une droite **perpendiculaire** à l'axe
-
-    ```
-    A •─────────┼─────────• A'
-           axe
-    ```
 
     **A et A' sont comme dans un miroir !**
 
@@ -191,38 +173,19 @@
 
 ### Le carré : 4 axes
 
-![Symétrie du carré](../../../assets/images/maths/symetrie-carre.jpeg){ loading=lazy }
-
 !!! example "Les 4 axes du carré"
-    ```
-        axe 1
-          │
-      ────┼────     axe 2
-          │
-          │
+    ![Symétrie du carré](../../../assets/images/maths/symetrie-carre.jpeg){ loading=lazy }
 
-        ╲   ╱
-         ╲ ╱
-          ╳
-         ╱ ╲       axes 3 et 4 (diagonales)
-        ╱   ╲
-    ```
+    - 2 axes passant par les milieux des côtés opposés (médianes)
+    - 2 axes passant par les sommets opposés (diagonales)
 
 ### Le rectangle : 2 axes
 
-![Symétrie du rectangle](../../../assets/images/maths/symetrie-rectangle.jpeg){ loading=lazy }
-
 !!! example "Les 2 axes du rectangle"
-    ```
-          │
-    ┌─────┼─────┐
-    │     │     │
-    ├─────┼─────┤ ← axe horizontal
-    │     │     │
-    └─────┼─────┘
-          │
-          axe vertical
-    ```
+    ![Symétrie du rectangle](../../../assets/images/maths/symetrie-rectangle.jpeg){ loading=lazy }
+
+    - 1 axe vertical passant par les milieux des largeurs
+    - 1 axe horizontal passant par les milieux des longueurs
 
 !!! warning "Piège fréquent"
     Les **diagonales** du rectangle ne sont **PAS** des axes de symétrie !
@@ -230,9 +193,9 @@
 
 ### Le losange : 2 axes
 
-![Symétrie du losange](../../../assets/images/maths/symetrie-losange.jpeg){ loading=lazy }
-
 !!! example "Les 2 axes du losange"
+    ![Symétrie du losange](../../../assets/images/maths/symetrie-losange.jpeg){ loading=lazy }
+
     Les deux diagonales du losange sont ses axes de symétrie.
 
 ??? warning "⚠️ Pièges à éviter : symétrie"
@@ -273,21 +236,10 @@
 
 ### Le triangle équilatéral : 3 axes
 
-![Symétrie du triangle équilatéral](../../../assets/images/maths/symetrie-triangle-equilateral.jpeg){ loading=lazy }
-
 !!! example "Les 3 axes du triangle équilatéral"
-    ```
-           *
-          /│\
-         / │ \
-        /  │  \
-       /   │   \
-      /────┼────\
-     *     │     *
-           │
+    ![Symétrie du triangle équilatéral](../../../assets/images/maths/symetrie-triangle-equilateral.jpeg){ loading=lazy }
 
-    Chaque axe passe par un sommet et le milieu du côté opposé.
-    ```
+    Chaque axe passe par un sommet et le milieu du côté opposé (les 3 médianes).
 
 ---
 
@@ -327,8 +279,6 @@
 
 ## Leçon 3 : Construire le symétrique d'un point
 
-![Symétrique d'un point](../../../assets/images/maths/symetrique-point.jpeg){ loading=lazy }
-
 ### Méthode avec la règle et l'équerre
 
 !!! tip "Étapes de construction"
@@ -338,18 +288,9 @@
     2. Mesure la distance de A à (d)
     3. Reporte cette même distance **de l'autre côté** de (d)
 
-!!! example "Construction"
-    ```
-    Étape 1           Étape 2           Étape 3
-         (d)              (d)               (d)
-          │                │                 │
-          │                │                 │
-          │       A •──────┼───────         A •──────┼───────• A'
-          │                │                 │
-          │                │                 │
+    ![Symétrique d'un point](../../../assets/images/maths/symetrique-point.jpeg){ loading=lazy }
 
-    Distance A à (d) = Distance A' à (d)
-    ```
+    La distance de A à l'axe (d) est égale à la distance de A' à l'axe (d).
 
 ### Méthode avec le compas
 

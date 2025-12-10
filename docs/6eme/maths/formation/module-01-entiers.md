@@ -137,15 +137,6 @@
 
     ![Chiffres et nombres : analogie de l'immeuble](../../../assets/images/maths/chiffres-nombres-immeubles.jpeg){ loading=lazy }
 
-    ```
-    3 456 = un immeuble de 4 étages
-
-    Étage 4 (milliers)  : 3 appartements  → 3 000
-    Étage 3 (centaines) : 4 appartements  →   400
-    Étage 2 (dizaines)  : 5 appartements  →    50
-    Étage 1 (unités)    : 6 appartements  →     6
-    ```
-
     Le **chiffre** des dizaines (5) = combien d'appartements à l'étage 2
     Le **nombre** de dizaines (345) = combien de "paquets de 10" au total
 
@@ -378,13 +369,6 @@
     3. Place le nombre au bon endroit
 
 !!! example "Place 350 sur cette droite"
-    ```
-    |----|----|----|----|----|----|----|----|----|----|
-    0   100  200  300  400  500  600  700  800  900  1000
-
-                        ↓
-                       350
-    ```
     350 est entre 300 et 400, au milieu.
 
 ### Lire un nombre sur une droite
