@@ -53,6 +53,8 @@
 
 ![Addition : regrouper des quantités](../../../assets/images/maths/addition-regrouper.jpeg){ loading=lazy }
 
+![Addition posée avec retenues](../../../assets/images/maths/addition-posee.jpeg){ loading=lazy }
+
 !!! tip "Méthode"
     1. Aligne les chiffres par colonnes (unités sous unités, dizaines sous dizaines...)
     2. Additionne colonne par colonne, de droite à gauche
@@ -76,6 +78,8 @@
 ### La soustraction posée
 
 ![Soustraction : enlever une quantité](../../../assets/images/maths/soustraction-enlever.jpeg){ loading=lazy }
+
+![Soustraction posée avec emprunts](../../../assets/images/maths/soustraction-posee.jpeg){ loading=lazy }
 
 !!! tip "Méthode"
     1. Aligne les chiffres (le plus grand nombre en haut)
@@ -295,6 +299,8 @@
 
 ![Multiplication : répéter une quantité](../../../assets/images/maths/multiplication-repeter.jpeg){ loading=lazy }
 
+![Multiplication posée étape par étape](../../../assets/images/maths/multiplication-posee.jpeg){ loading=lazy }
+
 ### Multiplier par un nombre à 1 chiffre
 
 !!! example "Calcule 347 × 6"
@@ -411,6 +417,8 @@
 ## 📚 Leçon 4 : La division euclidienne
 
 ![Division : partager une quantité](../../../assets/images/maths/division-partager.jpeg){ loading=lazy }
+
+![Division posée étape par étape](../../../assets/images/maths/division-posee.jpeg){ loading=lazy }
 
 ### Vocabulaire
 

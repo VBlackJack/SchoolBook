@@ -71,20 +71,7 @@
     | Demi-droite | [AB) | A————→ | Origine A, infinie d'un côté |
     | Segment | [AB] | A————B | Deux extrémités, longueur finie |
 
-!!! example "Représentation visuelle"
-    ```
-    Point A          •
-                     A
-
-    Droite (AB)      ←——•——•——→
-                        A  B
-
-    Demi-droite [AB) •——•——→
-                     A  B
-
-    Segment [AB]     •——•
-                     A  B
-    ```
+![Points, droites, demi-droites et segments](../../../assets/images/maths/points-droites-segments.jpeg){ loading=lazy }
 
 ### Positions relatives de droites
 
@@ -93,14 +80,7 @@
     - **Parallèles** : elles ne se coupent jamais (même direction)
     - **Perpendiculaires** : elles se coupent en formant un angle droit
 
-!!! example "Représentation"
-    ```
-    Sécantes          Parallèles         Perpendiculaires
-        \  /                               |
-         \/           ————————            _|___
-         /\           ————————             |
-        /  \                               |
-    ```
+![Positions relatives des droites](../../../assets/images/maths/positions-droites.jpeg){ loading=lazy }
 
 ### Notations
 
@@ -297,14 +277,7 @@
     | Angle obtus | Entre 90° et 180° | "Large" |
     | Angle plat | 180° | Demi-tour |
 
-!!! example "Représentation visuelle"
-    ```
-    Aigu (45°)    Droit (90°)    Obtus (120°)    Plat (180°)
-
-       /           |               \
-      /           _|___           __\____        ←————————→
-     ∠            |               ∠
-    ```
+![Types d'angles](../../../assets/images/maths/types-angles.jpeg){ loading=lazy }
 
 !!! tip "Astuce mémo"
     **"Un angle aigu, c'est AIgnu comme une AIguille !"**
@@ -320,17 +293,7 @@
     3. Lis la mesure là où l'autre côté coupe la graduation
 
 !!! example "Exemple"
-    ```
-           90°
-          __|__
-         /  |  \
-       /    |    \
-      60°   |    120°
-     /_____.|.______\
-    0°      S      180°
-
-    Si le côté passe par 60° → l'angle mesure 60°
-    ```
+    Si le côté de l'angle passe par 60° sur le rapporteur → l'angle mesure **60°**
 
 ### Angles particuliers à connaître
 
