@@ -249,15 +249,11 @@ flowchart LR
     - **Fusion/Solidification** : **0°C**
     - **Vaporisation/Condensation** : **100°C**
 
-![Thermomètre et changements d'état de l'eau](../../../assets/images/sciences/etats-temperature.jpeg){ loading=lazy }
-
 ### 2.4 Énergie et changements d'état
 
 !!! success "À retenir"
     - Pour **fondre** ou **s'évaporer**, il faut **apporter de la chaleur** (énergie)
     - Pour **se solidifier** ou **se condenser**, il faut **retirer de la chaleur**
-
-![Énergie et changements d'état](../../../assets/images/sciences/etats-temperature.jpeg){ loading=lazy }
 
 ---
 
