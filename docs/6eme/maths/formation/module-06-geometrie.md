@@ -171,7 +171,7 @@
 
 ## Leçon 2 : Les instruments de géométrie
 
-![Instruments de géométrie](../../../../assets/images/maths/instruments-geometrie.jpeg){ loading=lazy }
+![Instruments de géométrie](../../../assets/images/maths/instruments-geometrie.jpeg){ loading=lazy }
 
 ### La règle graduée
 
@@ -212,7 +212,7 @@
 
 ### Le rapporteur
 
-![Rapporteur](../../../../assets/images/maths/rapporteur.jpeg){ loading=lazy }
+![Rapporteur](../../../assets/images/maths/rapporteur.jpeg){ loading=lazy }
 
 !!! tip "Utilisation"
     - Mesurer des angles
@@ -312,7 +312,7 @@
 
 ### Mesurer un angle avec le rapporteur
 
-![Mesurer un angle](../../../../assets/images/maths/mesurer-angle.jpeg){ loading=lazy }
+![Mesurer un angle](../../../assets/images/maths/mesurer-angle.jpeg){ loading=lazy }
 
 !!! tip "Méthode"
     1. Place le **centre** du rapporteur sur le **sommet** de l'angle

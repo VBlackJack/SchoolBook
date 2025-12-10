@@ -60,7 +60,7 @@
 
 ### Qu'est-ce qu'une fraction ?
 
-![Fractions visuelles](../../../../assets/images/maths/fractions-visuelles.jpeg){ loading=lazy }
+![Fractions visuelles](../../../assets/images/maths/fractions-visuelles.jpeg){ loading=lazy }
 
 !!! info "Définition"
     Une **fraction** représente une partie d'un tout.
@@ -262,7 +262,7 @@
 
 ### Placer une fraction sur une droite
 
-![Droite graduée avec fractions](../../../../assets/images/maths/droite-graduee-fractions.jpeg){ loading=lazy }
+![Droite graduée avec fractions](../../../assets/images/maths/droite-graduee-fractions.jpeg){ loading=lazy }
 
 !!! tip "Méthode"
     1. Regarde le **dénominateur** : il indique en combien de parts diviser chaque unité
@@ -300,7 +300,7 @@
 
 ### Fractions égales
 
-![Fractions équivalentes](../../../../assets/images/maths/fractions-equivalentes.jpeg){ loading=lazy }
+![Fractions équivalentes](../../../assets/images/maths/fractions-equivalentes.jpeg){ loading=lazy }
 
 !!! info "Fractions équivalentes"
     Des fractions peuvent être **égales** même avec des nombres différents.
@@ -367,7 +367,7 @@
 
 ### Fractions de même dénominateur
 
-![Comparer des fractions](../../../../assets/images/maths/comparer-fractions.jpeg){ loading=lazy }
+![Comparer des fractions](../../../assets/images/maths/comparer-fractions.jpeg){ loading=lazy }
 
 !!! tip "Règle simple"
     Si les dénominateurs sont **égaux**, on compare les **numérateurs**.

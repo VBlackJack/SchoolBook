@@ -51,7 +51,7 @@
 
 ### L'addition posée
 
-![Addition : regrouper des quantités](../../../../assets/images/maths/addition-regrouper.jpeg){ loading=lazy }
+![Addition : regrouper des quantités](../../../assets/images/maths/addition-regrouper.jpeg){ loading=lazy }
 
 !!! tip "Méthode"
     1. Aligne les chiffres par colonnes (unités sous unités, dizaines sous dizaines...)
@@ -75,7 +75,7 @@
 
 ### La soustraction posée
 
-![Soustraction : enlever une quantité](../../../../assets/images/maths/soustraction-enlever.jpeg){ loading=lazy }
+![Soustraction : enlever une quantité](../../../assets/images/maths/soustraction-enlever.jpeg){ loading=lazy }
 
 !!! tip "Méthode"
     1. Aligne les chiffres (le plus grand nombre en haut)
@@ -212,7 +212,7 @@
 
 ### Les tables à connaître par cœur
 
-![Table de multiplication](../../../../assets/images/maths/table-multiplication.jpeg){ loading=lazy }
+![Table de multiplication](../../../assets/images/maths/table-multiplication.jpeg){ loading=lazy }
 
 !!! danger "Indispensable !"
     Tu dois connaître les tables de 1 à 10 **par cœur** !
@@ -232,7 +232,7 @@
 
 ### Astuces pour la table de 9
 
-![Astuce table de 9 avec les doigts](../../../../assets/images/maths/astuce-table-9.jpeg){ loading=lazy }
+![Astuce table de 9 avec les doigts](../../../assets/images/maths/astuce-table-9.jpeg){ loading=lazy }
 
 !!! tip "Méthode des doigts"
     Pour 9 × N : baisse le N-ème doigt
@@ -293,7 +293,7 @@
 
 ## 📚 Leçon 3 : La multiplication posée
 
-![Multiplication : répéter une quantité](../../../../assets/images/maths/multiplication-repeter.jpeg){ loading=lazy }
+![Multiplication : répéter une quantité](../../../assets/images/maths/multiplication-repeter.jpeg){ loading=lazy }
 
 ### Multiplier par un nombre à 1 chiffre
 
@@ -410,7 +410,7 @@
 
 ## 📚 Leçon 4 : La division euclidienne
 
-![Division : partager une quantité](../../../../assets/images/maths/division-partager.jpeg){ loading=lazy }
+![Division : partager une quantité](../../../assets/images/maths/division-partager.jpeg){ loading=lazy }
 
 ### Vocabulaire
 
@@ -535,7 +535,7 @@
 
 ## 📚 Leçon 5 : Ordre des opérations
 
-![Priorité des opérations](../../../../assets/images/maths/priorite-operations.jpeg){ loading=lazy }
+![Priorité des opérations](../../../assets/images/maths/priorite-operations.jpeg){ loading=lazy }
 
 ### La règle de priorité
 

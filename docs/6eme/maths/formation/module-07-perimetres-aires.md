@@ -63,7 +63,7 @@
     | **Aire** | Surface à l'intérieur | cm², m², km²... | L'intérieur |
 
 !!! example "Analogie de la piscine"
-    ![Périmètre vs Aire : analogie de la piscine](../../../../assets/images/maths/perimetre-vs-aire.jpeg){ loading=lazy }
+    ![Périmètre vs Aire : analogie de la piscine](../../../assets/images/maths/perimetre-vs-aire.jpeg){ loading=lazy }
 
     Périmètre = le tour de la piscine (pour le ménage du bord)
     Aire = la surface de l'eau (combien de litres d'eau)
@@ -154,7 +154,7 @@
     $$P_{carré} = 4 \times côté = 4c$$
 
 !!! example "Exemple : carré de côté 5 cm"
-    ![Périmètre du carré](../../../../assets/images/maths/perimetre-carre.jpeg){ loading=lazy }
+    ![Périmètre du carré](../../../assets/images/maths/perimetre-carre.jpeg){ loading=lazy }
 
     P = 4 × 5 = **20 cm**
 
@@ -164,7 +164,7 @@
     $$P_{rectangle} = 2 \times (Longueur + largeur) = 2(L + l)$$
 
 !!! example "Exemple : rectangle 8 cm × 3 cm"
-    ![Périmètre du rectangle](../../../../assets/images/maths/perimetre-rectangle.jpeg){ loading=lazy }
+    ![Périmètre du rectangle](../../../assets/images/maths/perimetre-rectangle.jpeg){ loading=lazy }
 
     P = 2 × (8 + 3) = 2 × 11 = **22 cm**
 
@@ -226,7 +226,7 @@
     $$A_{carré} = côté \times côté = c^2$$
 
 !!! example "Exemple : carré de côté 4 cm"
-    ![Aire du carré](../../../../assets/images/maths/aire-carre.jpeg){ loading=lazy }
+    ![Aire du carré](../../../assets/images/maths/aire-carre.jpeg){ loading=lazy }
 
     A = 4 × 4 = **16 cm²** (on compte 16 petits carrés de 1 cm²)
 
@@ -236,7 +236,7 @@
     $$A_{rectangle} = Longueur \times largeur = L \times l$$
 
 !!! example "Exemple : rectangle 6 cm × 3 cm"
-    ![Aire du rectangle](../../../../assets/images/maths/aire-rectangle.jpeg){ loading=lazy }
+    ![Aire du rectangle](../../../assets/images/maths/aire-rectangle.jpeg){ loading=lazy }
 
     A = 6 × 3 = **18 cm²** (on compte 18 petits carrés de 1 cm²)
 
@@ -297,17 +297,17 @@
     La **hauteur** est le segment **perpendiculaire** à la base,
     qui va du sommet opposé à la base.
 
-    ![Hauteur du triangle](../../../../assets/images/maths/hauteur-triangle.jpeg){ loading=lazy }
+    ![Hauteur du triangle](../../../assets/images/maths/hauteur-triangle.jpeg){ loading=lazy }
 
 !!! example "Visualisation"
-    ![Triangle : base et hauteur](../../../../assets/images/maths/aire-triangle.jpeg){ loading=lazy }
+    ![Triangle : base et hauteur](../../../assets/images/maths/aire-triangle.jpeg){ loading=lazy }
 
     A = (base × hauteur) ÷ 2
 
 ### Pourquoi diviser par 2 ?
 
 !!! example "Le triangle = la moitié du rectangle"
-    ![Triangle = moitié du rectangle](../../../../assets/images/maths/aire-triangle-moitie-rectangle.jpeg){ loading=lazy }
+    ![Triangle = moitié du rectangle](../../../assets/images/maths/aire-triangle-moitie-rectangle.jpeg){ loading=lazy }
 
     Le triangle prend exactement la moitié du rectangle → A = (b × h) ÷ 2
 
@@ -349,7 +349,7 @@
 
 ### Vocabulaire
 
-![Éléments du cercle](../../../../assets/images/maths/cercle-elements-sith.jpeg){ loading=lazy }
+![Éléments du cercle](../../../assets/images/maths/cercle-elements-sith.jpeg){ loading=lazy }
 
 !!! info "Cercle vs Disque"
     - **Cercle** = le contour (la ligne)
@@ -381,7 +381,7 @@
 
 ### Aire du disque
 
-![Aire du disque](../../../../assets/images/maths/aire-disque.jpeg){ loading=lazy }
+![Aire du disque](../../../assets/images/maths/aire-disque.jpeg){ loading=lazy }
 
 !!! tip "Formule"
     $$A = \pi \times rayon^2 = \pi r^2$$
