@@ -383,16 +383,7 @@
     | Parallélogramme | Côtés opposés parallèles et égaux |
     | Trapèze | 2 côtés parallèles |
 
-!!! example "Représentation"
-    ```
-    Carré         Rectangle       Losange      Parallélogramme
-
-    ┌───┐         ┌─────┐          ◇            ╱────╲
-    │   │         │     │         ╱ ╲          ╱      ╲
-    │   │         │     │        ◇   ◇        ╱________╲
-    └───┘         └─────┘         ╲ ╱
-                                   ◇
-    ```
+![Hiérarchie des quadrilatères](../../../assets/images/maths/quadrilateres.jpeg){ loading=lazy }
 
 ### Le cercle
 
@@ -405,19 +396,7 @@
     | Corde | Segment reliant 2 points du cercle |
     | Arc | Portion du cercle |
 
-!!! example "Représentation"
-    ```
-           ___________
-          /     |     \
-         /      |      \
-        |   r   |   r   |
-        |-------|-------|  ← diamètre (d = 2r)
-        |       O       |
-         \             /
-          \___________/
-
-    O = centre | r = rayon | d = diamètre
-    ```
+![Éléments du cercle](../../../assets/images/maths/cercle-elements-sith.jpeg){ loading=lazy }
 
 !!! warning "Formule importante"
     **Diamètre = 2 × Rayon**
