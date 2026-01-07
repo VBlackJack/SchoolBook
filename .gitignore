@@ -1,0 +1,23 @@
+# Build output
+site/
+
+# Private - BMad agents and tooling
+.bmad-core/
+scripts/
+
+# Temporary files
+temp/
+nul
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude local settings
+.claude/settings.local.json
