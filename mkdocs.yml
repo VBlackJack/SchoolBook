@@ -1,5 +1,5 @@
 site_name: SchoolBook
-site_description: Le compagnon numérique du Collégien - Maths, Français, Histoire-Géo & Sciences
+site_description: Le compagnon numerique de l'eleve - Maths, Francais, Histoire-Geo & Sciences
 site_author: SchoolBook Team
 site_url: https://vblackjack.github.io/SchoolBook/
 repo_name: VBlackJack/SchoolBook
@@ -67,6 +67,12 @@ markdown_extensions:
 
 nav:
   - 🏠 Accueil: index.md
+  - 🟡 CM1 (Cycle 3):
+    - Vue d'ensemble: cm1/index.md
+    - 📐 Mathematiques:
+      - Nombres & Calculs: cm1/maths/nombres.md
+      - Espace & Geometrie: cm1/maths/geometrie.md
+      - Grandeurs & Mesures: cm1/maths/mesures.md
   - 🟢 6ème (Cycle 3):
     - Vue d'ensemble: 6eme/index.md
     - 📐 Mathématiques:

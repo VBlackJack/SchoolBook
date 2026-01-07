@@ -2,12 +2,13 @@
 
 <div class="hero" markdown>
 
-## Le compagnon numérique du Collégien
+## Le compagnon numerique de l'eleve
 
-**Apprends à ton rythme, réussis à ta façon !**
+**Apprends a ton rythme, reussis a ta facon !**
 
-[:material-rocket-launch: Commencer en 6ème](6eme/index.md){ .md-button .md-button--primary }
-[:material-book-open-variant: Méthodologie](methodologie/organisation.md){ .md-button }
+[:material-star: CM1](cm1/index.md){ .md-button }
+[:material-rocket-launch: 6eme](6eme/index.md){ .md-button .md-button--primary }
+[:material-book-open-variant: Methodologie](methodologie/organisation.md){ .md-button }
 
 </div>
 
@@ -61,7 +62,39 @@
 
 ---
 
-## Les formations 6ème
+## CM1 - Mathematiques
+
+<div class="grid cards" markdown>
+
+-   :material-calculator:{ .lg .middle } **Nombres & Calculs**
+
+    ---
+
+    Grands nombres, 4 operations, fractions et decimaux
+
+    [:octicons-arrow-right-24: Decouvrir](cm1/maths/nombres.md)
+
+-   :material-shape:{ .lg .middle } **Espace & Geometrie**
+
+    ---
+
+    Droites, angles, polygones, cercle et symetrie
+
+    [:octicons-arrow-right-24: Decouvrir](cm1/maths/geometrie.md)
+
+-   :material-ruler:{ .lg .middle } **Grandeurs & Mesures**
+
+    ---
+
+    Longueurs, perimetre, aire, durees et masses
+
+    [:octicons-arrow-right-24: Decouvrir](cm1/maths/mesures.md)
+
+</div>
+
+---
+
+## Les formations 6eme
 
 <div class="grid cards" markdown>
 
