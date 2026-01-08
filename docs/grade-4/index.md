@@ -14,7 +14,7 @@ Bienvenue en **CM1** ! C'est la premiere annee du Cycle 3, le cycle de consolida
 
     Nombres jusqu'aux milliards, operations, fractions, geometrie et mesures.
 
-    [:octicons-arrow-right-24: Voir les cours](maths/nombres.md)
+    [:octicons-arrow-right-24: Voir les cours](maths/numbers.md)
 
 -   :material-book-open-variant: **Francais**
 

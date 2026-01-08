@@ -68,11 +68,24 @@ markdown_extensions:
 nav:
   - 🏠 Accueil: index.md
   - 🟡 CM1 (Cycle 3):
-    - Vue d'ensemble: cm1/index.md
+    - Vue d'ensemble: grade-4/index.md
     - 📐 Mathematiques:
-      - Nombres & Calculs: cm1/maths/nombres.md
-      - Espace & Geometrie: cm1/maths/geometrie.md
-      - Grandeurs & Mesures: cm1/maths/mesures.md
+      - Nombres & Calculs: grade-4/maths/numbers.md
+      - Espace & Geometrie: grade-4/maths/geometry.md
+      - Grandeurs & Mesures: grade-4/maths/measurements.md
+      - 🎓 Formation complète:
+        - Index: grade-4/maths/training/index.md
+        - Module 0 - Positionnement: grade-4/maths/training/module-00-positioning.md
+        - Module 1 - Grands nombres: grade-4/maths/training/module-01-large-numbers.md
+        - Module 2 - Calculs: grade-4/maths/training/module-02-calculations.md
+        - Module 3 - Géométrie base: grade-4/maths/training/module-03-geometry-basics.md
+        - Module 4 - Multiplication: grade-4/maths/training/module-04-multiplication.md
+        - Module 5 - Division: grade-4/maths/training/module-05-division-intro.md
+        - Module 6 - Fractions simples: grade-4/maths/training/module-06-fractions-simple.md
+        - Module 7 - Fractions/Décimaux: grade-4/maths/training/module-07-fractions-decimal.md
+        - Module 8 - Nombres décimaux: grade-4/maths/training/module-08-decimals.md
+        - Module 9 - Solides/Figures: grade-4/maths/training/module-09-solids-figures.md
+        - Module 10 - Mesures: grade-4/maths/training/module-10-measurements.md
   - 🟢 6ème (Cycle 3):
     - Vue d'ensemble: 6eme/index.md
     - 📐 Mathématiques:
