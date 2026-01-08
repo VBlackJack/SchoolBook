@@ -86,6 +86,74 @@ nav:
         - Module 8 - Nombres décimaux: grade-4/maths/training/module-08-decimals.md
         - Module 9 - Solides/Figures: grade-4/maths/training/module-09-solids-figures.md
         - Module 10 - Mesures: grade-4/maths/training/module-10-measurements.md
+    - 📚 Français:
+      - Grammaire: grade-4/french/grammar.md
+      - Conjugaison: grade-4/french/conjugation.md
+      - Orthographe: grade-4/french/spelling.md
+      - Lecture & Littérature: grade-4/french/literature.md
+      - 🎓 Formation complète:
+        - Index: grade-4/french/training/index.md
+        - Module 0 - Positionnement: grade-4/french/training/module-00-positioning.md
+        - Module 1 - Classes de mots: grade-4/french/training/module-01-word-classes.md
+        - Module 2 - Fonctions: grade-4/french/training/module-02-functions.md
+        - Module 3 - Conjugaison 1: grade-4/french/training/module-03-conjugation-1.md
+        - Module 4 - Conjugaison 2: grade-4/french/training/module-04-conjugation-2.md
+        - Module 5 - Orthographe gram.: grade-4/french/training/module-05-grammar-spelling.md
+        - Module 6 - Orthographe lex.: grade-4/french/training/module-06-lexical-spelling.md
+        - Module 7 - Vocabulaire: grade-4/french/training/module-07-vocabulary.md
+        - Module 8 - La phrase: grade-4/french/training/module-08-sentence.md
+        - Module 9 - Lecture: grade-4/french/training/module-09-reading.md
+        - Module 10 - Rédaction: grade-4/french/training/module-10-writing.md
+    - 🌍 Histoire-Géo:
+      - Histoire: grade-4/history-geo/history.md
+      - Géographie: grade-4/history-geo/geography.md
+      - EMC: grade-4/history-geo/civics.md
+      - 🎓 Formation complète:
+        - Index: grade-4/history-geo/training/index.md
+        - Module 0 - Test initial: grade-4/history-geo/training/module-00-positioning.md
+        - Module 1 - Préhistoire: grade-4/history-geo/training/module-01-prehistory.md
+        - Module 2 - Néolithique: grade-4/history-geo/training/module-02-neolithic.md
+        - Module 3 - Les Gaulois: grade-4/history-geo/training/module-03-gauls.md
+        - Module 4 - Gaule romaine: grade-4/history-geo/training/module-04-roman-gaul.md
+        - Module 5 - Moyen Âge: grade-4/history-geo/training/module-05-middle-ages.md
+        - Module 6 - Reliefs & Fleuves: grade-4/history-geo/training/module-06-france-relief.md
+        - Module 7 - Climats & Régions: grade-4/history-geo/training/module-07-france-climate.md
+        - Module 8 - Territoires: grade-4/history-geo/training/module-08-territories.md
+        - Module 9 - Transports: grade-4/history-geo/training/module-09-transport.md
+        - Module 10 - EMC: grade-4/history-geo/training/module-10-civics.md
+    - 🔬 Sciences:
+      - Matière: grade-4/science/matter.md
+      - Le Vivant: grade-4/science/living.md
+      - La Terre: grade-4/science/earth.md
+      - 🎓 Formation complète:
+        - Index: grade-4/science/training/index.md
+        - Module 0 - Test initial: grade-4/science/training/module-00-positioning.md
+        - Module 1 - États matière: grade-4/science/training/module-01-matter-states.md
+        - Module 2 - Changements état: grade-4/science/training/module-02-state-changes.md
+        - Module 3 - Mélanges: grade-4/science/training/module-03-mixtures.md
+        - Module 4 - Cycle de l'eau: grade-4/science/training/module-04-water-cycle.md
+        - Module 5 - Digestion: grade-4/science/training/module-05-digestion.md
+        - Module 6 - Respiration: grade-4/science/training/module-06-respiration.md
+        - Module 7 - Reproduction: grade-4/science/training/module-07-reproduction.md
+        - Module 8 - Volcans/Séismes: grade-4/science/training/module-08-volcanoes.md
+        - Module 9 - Système solaire: grade-4/science/training/module-09-solar-system.md
+        - Module 10 - Technologie: grade-4/science/training/module-10-technology.md
+    - 🇬🇧 Anglais:
+      - Vocabulaire: grade-4/english/vocabulary.md
+      - Grammaire: grade-4/english/grammar.md
+      - 🎓 Formation complète:
+        - Index: grade-4/english/training/index.md
+        - Module 0 - Test initial: grade-4/english/training/module-00-positioning.md
+        - Module 1 - Se présenter: grade-4/english/training/module-01-introduce.md
+        - Module 2 - Nombres/Couleurs: grade-4/english/training/module-02-numbers-colours.md
+        - Module 3 - Famille: grade-4/english/training/module-03-family.md
+        - Module 4 - École: grade-4/english/training/module-04-school.md
+        - Module 5 - Animaux: grade-4/english/training/module-05-animals.md
+        - Module 6 - Verbe BE: grade-4/english/training/module-06-verb-be.md
+        - Module 7 - Verbe HAVE: grade-4/english/training/module-07-verb-have.md
+        - Module 8 - Présent simple: grade-4/english/training/module-08-present-simple.md
+        - Module 9 - Questions: grade-4/english/training/module-09-questions.md
+        - Module 10 - Culture: grade-4/english/training/module-10-culture.md
   - 🟢 6ème (Cycle 3):
     - Vue d'ensemble: 6eme/index.md
     - 📐 Mathématiques:

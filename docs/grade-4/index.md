@@ -22,7 +22,7 @@ Bienvenue en **CM1** ! C'est la premiere annee du Cycle 3, le cycle de consolida
 
     Grammaire, conjugaison, orthographe, vocabulaire et redaction.
 
-    [:octicons-arrow-right-24: Bientot disponible](#)
+    [:octicons-arrow-right-24: Voir les cours](french/grammar.md)
 
 -   :material-earth: **Histoire-Geographie**
 
@@ -30,7 +30,7 @@ Bienvenue en **CM1** ! C'est la premiere annee du Cycle 3, le cycle de consolida
 
     De la Prehistoire au Moyen Age, la France et l'Europe.
 
-    [:octicons-arrow-right-24: Bientot disponible](#)
+    [:octicons-arrow-right-24: Voir les cours](history-geo/history.md)
 
 -   :material-flask: **Sciences**
 
@@ -38,7 +38,15 @@ Bienvenue en **CM1** ! C'est la premiere annee du Cycle 3, le cycle de consolida
 
     Matiere, vivant, environnement et technologie.
 
-    [:octicons-arrow-right-24: Bientot disponible](#)
+    [:octicons-arrow-right-24: Voir les cours](science/matter.md)
+
+-   :material-alphabetical: **Anglais**
+
+    ---
+
+    Vocabulaire, grammaire de base, culture anglophone.
+
+    [:octicons-arrow-right-24: Voir les cours](english/vocabulary.md)
 
 </div>
 
@@ -53,6 +61,7 @@ Bienvenue en **CM1** ! C'est la premiere annee du Cycle 3, le cycle de consolida
 | **Histoire** | Prehistoire, Antiquite, Moyen Age |
 | **Geographie** | La France : reliefs, climat, regions |
 | **Sciences** | Etats de la matiere, digestion, volcans, electricite |
+| **Anglais** | Se presenter, vocabulaire, verbes BE/HAVE, present simple |
 
 ---
 
