@@ -6,7 +6,7 @@
 
 **Apprends a ton rythme, reussis a ta facon !**
 
-[:material-star: CM1](cm1/index.md){ .md-button }
+[:material-star: CM1](grade-4/index.md){ .md-button }
 [:material-rocket-launch: 6eme](6eme/index.md){ .md-button .md-button--primary }
 [:material-book-open-variant: Methodologie](methodologie/organisation.md){ .md-button }
 
@@ -72,7 +72,7 @@
 
     Grands nombres, 4 operations, fractions et decimaux
 
-    [:octicons-arrow-right-24: Decouvrir](cm1/maths/nombres.md)
+    [:octicons-arrow-right-24: Decouvrir](grade-4/maths/numbers.md)
 
 -   :material-shape:{ .lg .middle } **Espace & Geometrie**
 
@@ -80,7 +80,7 @@
 
     Droites, angles, polygones, cercle et symetrie
 
-    [:octicons-arrow-right-24: Decouvrir](cm1/maths/geometrie.md)
+    [:octicons-arrow-right-24: Decouvrir](grade-4/maths/geometry.md)
 
 -   :material-ruler:{ .lg .middle } **Grandeurs & Mesures**
 
@@ -88,7 +88,7 @@
 
     Longueurs, perimetre, aire, durees et masses
 
-    [:octicons-arrow-right-24: Decouvrir](cm1/maths/mesures.md)
+    [:octicons-arrow-right-24: Decouvrir](grade-4/maths/measurements.md)
 
 </div>
 
