@@ -1,180 +1,149 @@
-# Geographie
+# Geographie CM1
 
-!!! info "Objectifs du chapitre"
-    A la fin de ce chapitre, tu sauras :
+!!! info "Programme officiel"
+    Le programme de geographie CM1 s'articule autour de **3 themes** :
 
-    - Localiser la France en Europe et dans le monde
-    - Connaitre les reliefs, fleuves et climats de France
-    - Identifier les regions et les grandes villes
-    - Comprendre l'organisation du territoire
+    1. **Decouvrir le(s) lieu(x) ou j'habite**
+    2. **Se loger, travailler, se cultiver, avoir des loisirs en France**
+    3. **Consommer en France**
 
----
-
-## La France dans le monde
-
-### Localisation
-
-La France est situee en **Europe de l'Ouest**.
-
-!!! note "Chiffres cles"
-    - **Superficie** : 643 801 km² (metropole + outre-mer)
-    - **Population** : environ 68 millions d'habitants
-    - **Capitale** : Paris
-    - **Pays voisins** : Belgique, Luxembourg, Allemagne, Suisse, Italie, Espagne
-
-### La France d'outre-mer
-
-La France possede des territoires dans le monde entier :
-
-| Territoire | Localisation |
-|------------|--------------|
-| Guadeloupe, Martinique | Caraibes |
-| Guyane | Amerique du Sud |
-| Reunion, Mayotte | Ocean Indien |
-| Nouvelle-Caledonie, Polynesie | Ocean Pacifique |
+    La notion centrale est **HABITER** : vivre dans un lieu, s'y deplacer, le partager.
 
 ---
 
-## Les reliefs de France
+## Theme 1 : Decouvrir ou j'habite
 
-### Les montagnes
+### Les differentes echelles
 
-| Massif | Caracteristiques |
-|--------|------------------|
-| **Alpes** | Plus hautes montagnes, Mont Blanc (4 809 m) |
-| **Pyrenees** | Frontiere avec l'Espagne |
-| **Massif central** | Centre de la France, volcans eteints |
-| **Jura** | Frontiere avec la Suisse |
-| **Vosges** | Nord-est, montagnes arrondies |
+| Echelle | Description |
+|---------|-------------|
+| **Quartier** | Partie d'une ville avec ses rues et commerces |
+| **Commune** | Village ou ville dirige par un maire |
+| **Departement** | Regroupe plusieurs communes (101 en France) |
+| **Region** | Regroupe plusieurs departements (13 en metropole) |
 
-### Les plaines et bassins
+### L'organisation administrative
 
-| Zone | Localisation |
-|------|--------------|
-| **Bassin parisien** | Centre-nord, autour de Paris |
-| **Bassin aquitain** | Sud-ouest |
-| **Plaine d'Alsace** | Est, le long du Rhin |
+```mermaid
+flowchart TB
+    A[Ma maison] --> B[Mon quartier]
+    B --> C[Ma commune]
+    C --> D[Mon departement]
+    D --> E[Ma region]
+    E --> F[La France]
+```
 
----
+### Les 13 regions metropolitaines
 
-## Les fleuves de France
-
-Les **5 grands fleuves** francais :
-
-| Fleuve | Longueur | Se jette dans |
-|--------|----------|---------------|
-| **Loire** | 1 012 km | Ocean Atlantique |
-| **Seine** | 776 km | Manche |
-| **Garonne** | 647 km | Ocean Atlantique |
-| **Rhone** | 812 km | Mer Mediterranee |
-| **Rhin** | 1 233 km | Mer du Nord |
-
-!!! tip "Astuce pour retenir"
-    Les fleuves se jettent dans la **mer** ou l'**ocean**.
-    Les rivieres se jettent dans un **fleuve** ou une autre riviere.
-
----
-
-## Les climats de France
-
-La France a **4 types de climats** :
-
-| Climat | Zone | Caracteristiques |
-|--------|------|------------------|
-| **Oceanique** | Ouest | Doux et humide, pluies toute l'annee |
-| **Continental** | Est | Hivers froids, etes chauds |
-| **Mediterraneen** | Sud-est | Chaud et sec, mistral |
-| **Montagnard** | Montagnes | Froid, neige en hiver |
+| Region | Chef-lieu |
+|--------|-----------|
+| Ile-de-France | Paris |
+| Hauts-de-France | Lille |
+| Grand Est | Strasbourg |
+| Normandie | Rouen |
+| Bretagne | Rennes |
+| Pays de la Loire | Nantes |
+| Centre-Val de Loire | Orleans |
+| Bourgogne-Franche-Comte | Dijon |
+| Nouvelle-Aquitaine | Bordeaux |
+| Occitanie | Toulouse |
+| Auvergne-Rhone-Alpes | Lyon |
+| Provence-Alpes-Cote d'Azur | Marseille |
+| Corse | Ajaccio |
 
 ---
 
-## Les regions de France
+## Theme 2 : Se loger, travailler, avoir des loisirs
 
-Depuis 2016, la France metropolitaine compte **13 regions** :
+### Espaces urbains et ruraux
 
-!!! note "Les 13 regions"
-    1. Ile-de-France (Paris)
-    2. Hauts-de-France
-    3. Grand Est
-    4. Normandie
-    5. Bretagne
-    6. Pays de la Loire
-    7. Centre-Val de Loire
-    8. Bourgogne-Franche-Comte
-    9. Nouvelle-Aquitaine
-    10. Occitanie
-    11. Auvergne-Rhone-Alpes
-    12. Provence-Alpes-Cote d'Azur
-    13. Corse
+| Critere | Espace urbain (ville) | Espace rural (campagne) |
+|---------|----------------------|-------------------------|
+| **Population** | Forte densite | Faible densite |
+| **Logements** | Immeubles | Maisons |
+| **Transports** | Bus, metro | Voiture |
+| **Services** | Nombreux et proches | Eloignes |
+
+### La zone periurbaine
+
+!!! note "Definition"
+    La **zone periurbaine** est situee entre la ville et la campagne :
+    - Pavillons et lotissements
+    - Centres commerciaux
+    - Habitants qui travaillent en ville
+
+### Les lieux de travail
+
+| Lieu | Type de travail |
+|------|-----------------|
+| Bureau | Administration, services |
+| Usine | Industrie |
+| Magasin | Commerce |
+| Ecole | Education |
+| Hopital | Sante |
+
+### Les lieux de loisirs
+
+- **Sport** : stade, gymnase, piscine
+- **Culture** : cinema, theatre, musee, bibliotheque
+- **Detente** : parc, jardin public
 
 ---
 
-## Les grandes villes
+## Theme 3 : Consommer en France
 
-| Ville | Population | Caracteristiques |
-|-------|------------|------------------|
-| **Paris** | 2,1 millions | Capitale, Ile-de-France |
-| **Marseille** | 870 000 | Port mediterraneen |
-| **Lyon** | 520 000 | Carrefour, gastronomie |
-| **Toulouse** | 490 000 | Aeronautique, sud-ouest |
-| **Nice** | 340 000 | Tourisme, Cote d'Azur |
+### L'eau
 
----
+| Etape | Description |
+|-------|-------------|
+| Captage | L'eau est prelevee dans une nappe ou riviere |
+| Traitement | L'eau est purifiee |
+| Distribution | L'eau arrive au robinet |
 
-## L'organisation du territoire
+!!! warning "A savoir"
+    Un Francais consomme en moyenne **150 litres d'eau par jour** !
 
-### Ville et campagne
+### L'energie
 
-| Zone | Caracteristiques |
-|------|------------------|
-| **Urbaine** (ville) | Forte densite, immeubles, commerces, transports |
-| **Rurale** (campagne) | Faible densite, agriculture, nature |
-| **Periurbaine** | Entre ville et campagne, pavillons, voiture |
+| Type | Exemples | Renouvelable ? |
+|------|----------|----------------|
+| **Fossile** | Petrole, gaz, charbon | Non |
+| **Nucleaire** | Centrales nucleaires | Non |
+| **Renouvelable** | Solaire, eolien, hydraulique | Oui |
 
-### Les transports
+!!! note "En France"
+    L'electricite est produite a **70% par le nucleaire** et **20% par le renouvelable**.
 
-!!! note "Les moyens de transport"
-    - **Route** : autoroutes, nationales (voitures, camions)
-    - **Rail** : TGV, trains regionaux
-    - **Air** : aeroports (Paris-CDG, Orly...)
-    - **Mer/Fleuves** : ports (Marseille, Le Havre)
+### L'alimentation
+
+| Circuit | Description | Exemple |
+|---------|-------------|---------|
+| **Court** | Peu d'intermediaires, local | Marche, ferme |
+| **Long** | Beaucoup d'intermediaires | Supermarche |
+
+### Consommer responsable
+
+!!! tip "Gestes eco-responsables"
+    - **Eau** : fermer le robinet, douche rapide
+    - **Energie** : eteindre la lumiere, LED
+    - **Alimentation** : produits locaux et de saison
+    - **Dechets** : trier, recycler
 
 ---
 
 ## Exercices
 
-### Exercice 1 : Reliefs
-
-!!! question "Associe le relief a sa caracteristique"
-    1. Mont Blanc
-    2. Pyrenees
-    3. Massif central
+!!! question "Q1. Combien y a-t-il de regions en France metropolitaine ?"
 
 ??? success "Correction"
-    1. Mont Blanc → **Plus haut sommet des Alpes (4 809 m)**
-    2. Pyrenees → **Frontiere avec l'Espagne**
-    3. Massif central → **Volcans eteints**
+    **13 regions**
 
-### Exercice 2 : Fleuves
-
-!!! question "Dans quelle mer/ocean se jettent ces fleuves ?"
-    1. Loire
-    2. Seine
-    3. Rhone
+!!! question "Q2. Qu'est-ce qu'une zone periurbaine ?"
 
 ??? success "Correction"
-    1. Loire → **Ocean Atlantique**
-    2. Seine → **Manche**
-    3. Rhone → **Mer Mediterranee**
+    Une zone entre la ville et la campagne, avec des pavillons et des centres commerciaux.
 
-### Exercice 3 : Climats
-
-!!! question "Quel climat pour ces regions ?"
-    1. Bretagne
-    2. Alsace
-    3. Provence
+!!! question "Q3. Cite 2 energies renouvelables"
 
 ??? success "Correction"
-    1. Bretagne → **Oceanique** (doux et humide)
-    2. Alsace → **Continental** (hivers froids, etes chauds)
-    3. Provence → **Mediterraneen** (chaud et sec)
+    Solaire, eolienne, hydraulique (2 parmi ces reponses)
